@@ -5,11 +5,11 @@ When I'm not doing school or working on a project, I enjoy flying drones and mak
 #### 👷 The latest repos i've pushed to
 
 - [`high-seas`](https://github.com/hackclub/high-seas) - _"🏴‍☠️ It's better to be a pirate than join the navy!"_ **(today)**
+- [`cachet`](https://github.com/taciturnaxolotl/cachet) - _"a cache for slack profile pictures and emojis"_ **(today)**
 - [`dots`](https://github.com/taciturnaxolotl/dots) - _"Kieran's opinionated (and probably slightly dumb) nix config"_ **(today)**
-- [`cachet`](https://github.com/taciturnaxolotl/cachet) - _"a cache for slack profile pictures and emojis"_ **(4 days ago)**
 - [`.github`](https://github.com/taciturnaxolotl/.github) - _"github config files"_ **(1 week ago)**
-- [`carriage`](https://github.com/taciturnaxolotl/carriage) - _"@taciturnaxolotl's repo template"_ **(1 week ago)**
 - [`hackatime-scripts`](https://github.com/taciturnaxolotl/hackatime-scripts) - _"various migration and utility scripts that keep hackatime afloat"_ **(1 week ago)**
+- [`carriage`](https://github.com/taciturnaxolotl/carriage) - _"@taciturnaxolotl's repo template"_ **(1 week ago)**
 - [`extensions`](https://github.com/zed-industries/extensions) - _"Extensions for the Zed editor"_ **(1 week ago)**
 - [`thorn`](https://github.com/taciturnaxolotl/thorn) - _"macos special characters on linux"_ **(1 week ago)**
 
@@ -34,11 +34,11 @@ When I'm not doing school or working on a project, I enjoy flying drones and mak
 
 ```text
 💾 Languages:
-TypeScript     6h 21m 3s    ██████████████░░░░░░░░░░░  54.53%
-Nix            1h 14m 13s   ███░░░░░░░░░░░░░░░░░░░░░░  10.62%
-Markdown       58m 46s      ███░░░░░░░░░░░░░░░░░░░░░░  8.41%
-typescript     43m 19s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.20%
-JavaScript     31m 7s       ██░░░░░░░░░░░░░░░░░░░░░░░  4.45%
+TypeScript     5h 54m 49s   █████████████░░░░░░░░░░░░  51.67%
+Nix            1h 14m 13s   ███░░░░░░░░░░░░░░░░░░░░░░  10.81%
+Markdown       56m 45s      ███░░░░░░░░░░░░░░░░░░░░░░  8.26%
+typescript     40m 32s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.90%
+JavaScript     31m 30s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.59%
 ```
 
 #### 📮 Want to Contact me?
