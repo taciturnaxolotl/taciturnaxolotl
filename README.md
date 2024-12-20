@@ -4,9 +4,9 @@ When I'm not doing school or working on a project, I enjoy flying drones and mak
 
 #### 👷 The latest repos i've pushed to
 
-- [`dots`](https://github.com/taciturnaxolotl/dots) - _"Kieran's opinionated (and probably slightly dumb) nix config"_ **(today)**
-- [`high-seas`](https://github.com/hackclub/high-seas) - _"🏴‍☠️ It's better to be a pirate than join the navy!"_ **(today)**
-- [`cachet`](https://github.com/taciturnaxolotl/cachet) - _"a cache for slack profile pictures and emojis"_ **(3 days ago)**
+- [`dots`](https://github.com/taciturnaxolotl/dots) - _"Kieran's opinionated (and probably slightly dumb) nix config"_ **(1 day ago)**
+- [`high-seas`](https://github.com/hackclub/high-seas) - _"🏴‍☠️ It's better to be a pirate than join the navy!"_ **(1 day ago)**
+- [`cachet`](https://github.com/taciturnaxolotl/cachet) - _"a cache for slack profile pictures and emojis"_ **(4 days ago)**
 - [`carriage`](https://github.com/taciturnaxolotl/carriage) - _"@taciturnaxolotl's repo template"_ **(1 week ago)**
 - [`.github`](https://github.com/taciturnaxolotl/.github) - _"github config files"_ **(1 week ago)**
 - [`hackatime-scripts`](https://github.com/taciturnaxolotl/hackatime-scripts) - _"various migration and utility scripts that keep hackatime afloat"_ **(1 week ago)**
@@ -34,11 +34,11 @@ When I'm not doing school or working on a project, I enjoy flying drones and mak
 
 ```text
 💾 Languages:
-TypeScript     6h 21m 3s    █████████████░░░░░░░░░░░░  51.04%
-Markdown       1h 36m 46s   ████░░░░░░░░░░░░░░░░░░░░░  12.96%
-Nix            1h 14m 13s   ███░░░░░░░░░░░░░░░░░░░░░░  9.94%
-typescript     43m 19s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.80%
-JavaScript     31m 7s       ██░░░░░░░░░░░░░░░░░░░░░░░  4.17%
+TypeScript     6h 21m 3s    ██████████████░░░░░░░░░░░  53.19%
+Nix            1h 14m 13s   ███░░░░░░░░░░░░░░░░░░░░░░  10.36%
+Markdown       1h 6m 34s    ███░░░░░░░░░░░░░░░░░░░░░░  9.29%
+typescript     43m 19s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.05%
+JavaScript     31m 7s       ██░░░░░░░░░░░░░░░░░░░░░░░  4.34%
 ```
 
 #### 📮 Want to Contact me?
