@@ -5,12 +5,12 @@ When I'm not doing school or working on a project, I enjoy flying drones and mak
 #### 👷 The latest repos i've pushed to
 
 - [`high-seas`](https://github.com/hackclub/high-seas) - _"🏴‍☠️ It's better to be a pirate than join the navy!"_ **(today)**
-- [`cachet`](https://github.com/taciturnaxolotl/cachet) - _"a cache for slack profile pictures and emojis"_ **(today)**
 - [`miako`](https://github.com/taciturnaxolotl/miako) - _"a magical adventure awaits you"_ **(today)**
+- [`cachet`](https://github.com/taciturnaxolotl/cachet) - _"a cache for slack profile pictures and emojis"_ **(today)**
 - [`dots`](https://github.com/taciturnaxolotl/dots) - _"Kieran's opinionated (and probably slightly dumb) nix config"_ **(1 day ago)**
-- [`hackatime-scripts`](https://github.com/taciturnaxolotl/hackatime-scripts) - _"various migration and utility scripts that keep hackatime afloat"_ **(1 week ago)**
-- [`carriage`](https://github.com/taciturnaxolotl/carriage) - _"@taciturnaxolotl's repo template"_ **(1 week ago)**
 - [`.github`](https://github.com/taciturnaxolotl/.github) - _"github config files"_ **(1 week ago)**
+- [`carriage`](https://github.com/taciturnaxolotl/carriage) - _"@taciturnaxolotl's repo template"_ **(1 week ago)**
+- [`hackatime-scripts`](https://github.com/taciturnaxolotl/hackatime-scripts) - _"various migration and utility scripts that keep hackatime afloat"_ **(1 week ago)**
 - [`extensions`](https://github.com/zed-industries/extensions) - _"Extensions for the Zed editor"_ **(1 week ago)**
 
 #### ⌨️ My latest projects
@@ -34,11 +34,11 @@ When I'm not doing school or working on a project, I enjoy flying drones and mak
 
 ```text
 💾 Languages:
-TypeScript     3h 26m 0s    █████████░░░░░░░░░░░░░░░░  33.65%
-Nix            1h 14m 13s   ████░░░░░░░░░░░░░░░░░░░░░  12.12%
-Go             1h 9m 35s    ███░░░░░░░░░░░░░░░░░░░░░░  11.37%
-Markdown       57m 11s      ███░░░░░░░░░░░░░░░░░░░░░░  9.34%
-JavaScript     31m 30s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.15%
+TypeScript     3h 23m 59s   █████████░░░░░░░░░░░░░░░░  34.99%
+Nix            1h 14m 13s   ████░░░░░░░░░░░░░░░░░░░░░  12.73%
+Go             1h 9m 35s    ███░░░░░░░░░░░░░░░░░░░░░░  11.94%
+Markdown       57m 11s      ███░░░░░░░░░░░░░░░░░░░░░░  9.81%
+JSON           22m 57s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.94%
 ```
 
 #### 📮 Want to Contact me?
