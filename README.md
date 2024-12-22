@@ -4,10 +4,10 @@ When I'm not doing school or working on a project, I enjoy flying drones and mak
 
 #### 👷 The latest repos i've pushed to
 
+- [`dots`](https://github.com/taciturnaxolotl/dots) - _"Kieran's opinionated (and probably slightly dumb) nix config"_ **(today)**
 - [`miako`](https://github.com/taciturnaxolotl/miako) - _"a magical adventure awaits you"_ **(today)**
 - [`high-seas`](https://github.com/hackclub/high-seas) - _"🏴‍☠️ It's better to be a pirate than join the navy!"_ **(1 day ago)**
 - [`cachet`](https://github.com/taciturnaxolotl/cachet) - _"a cache for slack profile pictures and emojis"_ **(1 day ago)**
-- [`dots`](https://github.com/taciturnaxolotl/dots) - _"Kieran's opinionated (and probably slightly dumb) nix config"_ **(2 days ago)**
 - [`carriage`](https://github.com/taciturnaxolotl/carriage) - _"@taciturnaxolotl's repo template"_ **(1 week ago)**
 - [`.github`](https://github.com/taciturnaxolotl/.github) - _"github config files"_ **(1 week ago)**
 - [`hackatime-scripts`](https://github.com/taciturnaxolotl/hackatime-scripts) - _"various migration and utility scripts that keep hackatime afloat"_ **(1 week ago)**
@@ -34,11 +34,11 @@ When I'm not doing school or working on a project, I enjoy flying drones and mak
 
 ```text
 💾 Languages:
-Lua            3h 22m 51s   ████████░░░░░░░░░░░░░░░░░  31.77%
-TypeScript     2h 10m 10s   ██████░░░░░░░░░░░░░░░░░░░  20.39%
-Nix            1h 14m 13s   ███░░░░░░░░░░░░░░░░░░░░░░  11.62%
-Go             1h 9m 34s    ███░░░░░░░░░░░░░░░░░░░░░░  10.90%
-Markdown       20m 3s       █░░░░░░░░░░░░░░░░░░░░░░░░  3.14%
+Lua            4h 9m 43s    ██████████░░░░░░░░░░░░░░░  37.00%
+TypeScript     2h 1m 55s    █████░░░░░░░░░░░░░░░░░░░░  18.06%
+Nix            1h 14m 13s   ███░░░░░░░░░░░░░░░░░░░░░░  11.00%
+Go             1h 9m 34s    ███░░░░░░░░░░░░░░░░░░░░░░  10.31%
+YAML           18m 5s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.68%
 ```
 
 #### 📮 Want to Contact me?
