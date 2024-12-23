@@ -4,10 +4,10 @@ When I'm not doing school or working on a project, I enjoy flying drones and mak
 
 #### 👷 The latest repos i've pushed to
 
-- [`dots`](https://github.com/taciturnaxolotl/dots) - _"Kieran's opinionated (and probably slightly dumb) nix config"_ **(today)**
-- [`miako`](https://github.com/taciturnaxolotl/miako) - _"a magical adventure awaits you"_ **(today)**
-- [`high-seas`](https://github.com/hackclub/high-seas) - _"🏴‍☠️ It's better to be a pirate than join the navy!"_ **(1 day ago)**
-- [`cachet`](https://github.com/taciturnaxolotl/cachet) - _"a cache for slack profile pictures and emojis"_ **(1 day ago)**
+- [`dots`](https://github.com/taciturnaxolotl/dots) - _"Kieran's opinionated (and probably slightly dumb) nix config"_ **(1 day ago)**
+- [`miako`](https://github.com/taciturnaxolotl/miako) - _"a magical adventure awaits you"_ **(1 day ago)**
+- [`high-seas`](https://github.com/hackclub/high-seas) - _"🏴‍☠️ It's better to be a pirate than join the navy!"_ **(2 days ago)**
+- [`cachet`](https://github.com/taciturnaxolotl/cachet) - _"a cache for slack profile pictures and emojis"_ **(2 days ago)**
 - [`.github`](https://github.com/taciturnaxolotl/.github) - _"github config files"_ **(1 week ago)**
 - [`hackatime-scripts`](https://github.com/taciturnaxolotl/hackatime-scripts) - _"various migration and utility scripts that keep hackatime afloat"_ **(1 week ago)**
 - [`carriage`](https://github.com/taciturnaxolotl/carriage) - _"@taciturnaxolotl's repo template"_ **(1 week ago)**
@@ -34,11 +34,11 @@ When I'm not doing school or working on a project, I enjoy flying drones and mak
 
 ```text
 💾 Languages:
-Lua            5h 16m 54s   ████████████░░░░░░░░░░░░░  44.98%
-TypeScript     1h 39m 1s    ████░░░░░░░░░░░░░░░░░░░░░  14.05%
-Nix            1h 14m 13s   ███░░░░░░░░░░░░░░░░░░░░░░  10.53%
-Go             1h 4m 11s    ███░░░░░░░░░░░░░░░░░░░░░░  9.11%
-YAML           18m 5s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.57%
+Lua            5h 19m 17s   ████████████░░░░░░░░░░░░░  45.16%
+TypeScript     1h 39m 1s    ████░░░░░░░░░░░░░░░░░░░░░  14.01%
+Nix            1h 14m 13s   ███░░░░░░░░░░░░░░░░░░░░░░  10.50%
+Go             1h 4m 11s    ███░░░░░░░░░░░░░░░░░░░░░░  9.08%
+YAML           18m 5s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.56%
 ```
 
 #### 📮 Want to Contact me?
