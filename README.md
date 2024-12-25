@@ -4,14 +4,14 @@ When I'm not doing school or working on a project, I enjoy flying drones and mak
 
 #### 👷 The latest repos i've pushed to
 
-- [`cachet`](https://github.com/taciturnaxolotl/cachet) - _"a cache for slack profile pictures and emojis"_ **(1 day ago)**
-- [`miako`](https://github.com/taciturnaxolotl/miako) - _"a magical adventure awaits you"_ **(2 days ago)**
-- [`dots`](https://github.com/taciturnaxolotl/dots) - _"Kieran's opinionated (and probably slightly dumb) nix config"_ **(2 days ago)**
-- [`high-seas`](https://github.com/hackclub/high-seas) - _"🏴‍☠️ It's better to be a pirate than join the navy!"_ **(3 days ago)**
+- [`cachet`](https://github.com/taciturnaxolotl/cachet) - _"a cache for slack profile pictures and emojis"_ **(2 days ago)**
+- [`miako`](https://github.com/taciturnaxolotl/miako) - _"a magical adventure awaits you"_ **(3 days ago)**
+- [`dots`](https://github.com/taciturnaxolotl/dots) - _"Kieran's opinionated (and probably slightly dumb) nix config"_ **(3 days ago)**
+- [`high-seas`](https://github.com/hackclub/high-seas) - _"🏴‍☠️ It's better to be a pirate than join the navy!"_ **(4 days ago)**
 - [`.github`](https://github.com/taciturnaxolotl/.github) - _"github config files"_ **(1 week ago)**
 - [`hackatime-scripts`](https://github.com/taciturnaxolotl/hackatime-scripts) - _"various migration and utility scripts that keep hackatime afloat"_ **(1 week ago)**
 - [`carriage`](https://github.com/taciturnaxolotl/carriage) - _"@taciturnaxolotl's repo template"_ **(1 week ago)**
-- [`extensions`](https://github.com/zed-industries/extensions) - _"Extensions for the Zed editor"_ **(1 week ago)**
+- [`extensions`](https://github.com/zed-industries/extensions) - _"Extensions for the Zed editor"_ **(2 weeks ago)**
 
 #### ⌨️ My latest projects
 
@@ -22,7 +22,7 @@ When I'm not doing school or working on a project, I enjoy flying drones and mak
 
 #### 🍿 my latest videos hot off the yt rss feed
 
-- [`I got bored #3dprinting`](https://www.youtube.com/watch?v=59f5n1NeItE) **(1 week ago)**
+- [`I got bored #3dprinting`](https://www.youtube.com/watch?v=59f5n1NeItE) **(2 weeks ago)**
 
 - [`A Matrix that couldn't play`](https://www.youtube.com/watch?v=NodwjZF7uZw) **(2 months ago)**
 
@@ -34,11 +34,11 @@ When I'm not doing school or working on a project, I enjoy flying drones and mak
 
 ```text
 💾 Languages:
-Lua            5h 14m 44s   ████████████░░░░░░░░░░░░░  46.74%
-Nix            1h 14m 13s   ███░░░░░░░░░░░░░░░░░░░░░░  11.02%
-Go             1h 11m 47s   ███░░░░░░░░░░░░░░░░░░░░░░  10.66%
-TypeScript     55m 43s      ███░░░░░░░░░░░░░░░░░░░░░░  8.27%
-go             18m 59s      █░░░░░░░░░░░░░░░░░░░░░░░░  2.82%
+Lua            5h 14m 44s   ████████████░░░░░░░░░░░░░  47.45%
+Nix            1h 14m 13s   ███░░░░░░░░░░░░░░░░░░░░░░  11.19%
+Go             1h 11m 47s   ███░░░░░░░░░░░░░░░░░░░░░░  10.82%
+TypeScript     50m 34s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.62%
+go             18m 59s      █░░░░░░░░░░░░░░░░░░░░░░░░  2.86%
 ```
 
 #### 📮 Want to Contact me?
