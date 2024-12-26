@@ -4,14 +4,14 @@ When I'm not doing school or working on a project, I enjoy flying drones and mak
 
 #### 👷 The latest repos i've pushed to
 
-- [`zera`](https://github.com/taciturnaxolotl/zera) - _"my new site v4?"_ **(today)**
-- [`cachet`](https://github.com/taciturnaxolotl/cachet) - _"a cache for slack profile pictures and emojis"_ **(2 days ago)**
-- [`miako`](https://github.com/taciturnaxolotl/miako) - _"a magical adventure awaits you"_ **(3 days ago)**
-- [`dots`](https://github.com/taciturnaxolotl/dots) - _"Kieran's opinionated (and probably slightly dumb) nix config"_ **(3 days ago)**
-- [`high-seas`](https://github.com/hackclub/high-seas) - _"🏴‍☠️ It's better to be a pirate than join the navy!"_ **(4 days ago)**
-- [`.github`](https://github.com/taciturnaxolotl/.github) - _"github config files"_ **(1 week ago)**
-- [`hackatime-scripts`](https://github.com/taciturnaxolotl/hackatime-scripts) - _"various migration and utility scripts that keep hackatime afloat"_ **(1 week ago)**
-- [`carriage`](https://github.com/taciturnaxolotl/carriage) - _"@taciturnaxolotl's repo template"_ **(1 week ago)**
+- [`zera`](https://github.com/taciturnaxolotl/zera) - _"my new site v4?"_ **(1 day ago)**
+- [`cachet`](https://github.com/taciturnaxolotl/cachet) - _"a cache for slack profile pictures and emojis"_ **(3 days ago)**
+- [`miako`](https://github.com/taciturnaxolotl/miako) - _"a magical adventure awaits you"_ **(4 days ago)**
+- [`dots`](https://github.com/taciturnaxolotl/dots) - _"Kieran's opinionated (and probably slightly dumb) nix config"_ **(4 days ago)**
+- [`high-seas`](https://github.com/hackclub/high-seas) - _"🏴‍☠️ It's better to be a pirate than join the navy!"_ **(5 days ago)**
+- [`.github`](https://github.com/taciturnaxolotl/.github) - _"github config files"_ **(2 weeks ago)**
+- [`hackatime-scripts`](https://github.com/taciturnaxolotl/hackatime-scripts) - _"various migration and utility scripts that keep hackatime afloat"_ **(2 weeks ago)**
+- [`carriage`](https://github.com/taciturnaxolotl/carriage) - _"@taciturnaxolotl's repo template"_ **(2 weeks ago)**
 
 #### ⌨️ My latest projects
 
@@ -34,11 +34,11 @@ When I'm not doing school or working on a project, I enjoy flying drones and mak
 
 ```text
 💾 Languages:
-Lua            5h 14m 44s   █████████████░░░░░░░░░░░░  48.08%
-Nix            1h 14m 13s   ███░░░░░░░░░░░░░░░░░░░░░░  11.34%
-Go             1h 8m 55s    ███░░░░░░░░░░░░░░░░░░░░░░  10.53%
-TypeScript     50m 34s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.73%
-go             18m 54s      █░░░░░░░░░░░░░░░░░░░░░░░░  2.89%
+Lua            5h 14m 44s   █████████████░░░░░░░░░░░░  49.09%
+Go             1h 8m 55s    ███░░░░░░░░░░░░░░░░░░░░░░  10.75%
+Nix            1h 7m 38s    ███░░░░░░░░░░░░░░░░░░░░░░  10.55%
+TypeScript     50m 34s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.89%
+go             18m 54s      █░░░░░░░░░░░░░░░░░░░░░░░░  2.95%
 ```
 
 #### 📮 Want to Contact me?
