@@ -4,14 +4,14 @@ When I'm not doing school or working on a project, I enjoy flying drones and mak
 
 #### 👷 The latest repos i've pushed to
 
+- [`dots`](https://github.com/taciturnaxolotl/dots) - _"Kieran's opinionated (and probably slightly dumb) nix config"_ **(1 day ago)**
+- [`roblox-chcker`](https://github.com/taciturnaxolotl/roblox-chcker) - _"A tui username checker and whatever other tools i add"_ **(1 day ago)**
 - [`zera`](https://github.com/taciturnaxolotl/zera) - _"my new site v4?"_ **(2 days ago)**
 - [`cachet`](https://github.com/taciturnaxolotl/cachet) - _"a cache for slack profile pictures and emojis"_ **(4 days ago)**
 - [`miako`](https://github.com/taciturnaxolotl/miako) - _"a magical adventure awaits you"_ **(5 days ago)**
-- [`dots`](https://github.com/taciturnaxolotl/dots) - _"Kieran's opinionated (and probably slightly dumb) nix config"_ **(5 days ago)**
 - [`high-seas`](https://github.com/hackclub/high-seas) - _"🏴‍☠️ It's better to be a pirate than join the navy!"_ **(6 days ago)**
-- [`.github`](https://github.com/taciturnaxolotl/.github) - _"github config files"_ **(2 weeks ago)**
-- [`hackatime-scripts`](https://github.com/taciturnaxolotl/hackatime-scripts) - _"various migration and utility scripts that keep hackatime afloat"_ **(2 weeks ago)**
 - [`carriage`](https://github.com/taciturnaxolotl/carriage) - _"@taciturnaxolotl's repo template"_ **(2 weeks ago)**
+- [`hackatime-scripts`](https://github.com/taciturnaxolotl/hackatime-scripts) - _"various migration and utility scripts that keep hackatime afloat"_ **(2 weeks ago)**
 
 #### ⌨️ My latest projects
 
@@ -34,11 +34,11 @@ When I'm not doing school or working on a project, I enjoy flying drones and mak
 
 ```text
 💾 Languages:
-Lua            5h 14m 44s   ███████████████░░░░░░░░░░  57.29%
-Go             1h 8m 55s    ████░░░░░░░░░░░░░░░░░░░░░  12.55%
-TypeScript     50m 34s      ███░░░░░░░░░░░░░░░░░░░░░░  9.20%
-go             18m 54s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.44%
-Markdown       17m 11s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.13%
+Lua            5h 14m 44s   ███████████████░░░░░░░░░░  57.03%
+Go             1h 8m 55s    ████░░░░░░░░░░░░░░░░░░░░░  12.49%
+TypeScript     50m 34s      ███░░░░░░░░░░░░░░░░░░░░░░  9.16%
+go             18m 54s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.42%
+Markdown       17m 11s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.11%
 ```
 
 #### 📮 Want to Contact me?
