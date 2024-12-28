@@ -11,7 +11,7 @@ When I'm not doing school or working on a project, I enjoy flying drones and mak
 - [`cachet`](https://github.com/taciturnaxolotl/cachet) - _"a cache for slack profile pictures and emojis"_ **(5 days ago)**
 - [`miako`](https://github.com/taciturnaxolotl/miako) - _"a magical adventure awaits you"_ **(6 days ago)**
 - [`high-seas`](https://github.com/hackclub/high-seas) - _"🏴‍☠️ It's better to be a pirate than join the navy!"_ **(1 week ago)**
-- [`.github`](https://github.com/taciturnaxolotl/.github) - _"github config files"_ **(2 weeks ago)**
+- [`hackatime-scripts`](https://github.com/taciturnaxolotl/hackatime-scripts) - _"various migration and utility scripts that keep hackatime afloat"_ **(2 weeks ago)**
 
 #### ⌨️ My latest projects
 
@@ -34,11 +34,11 @@ When I'm not doing school or working on a project, I enjoy flying drones and mak
 
 ```text
 💾 Languages:
-Lua            4h 56m 22s   █████████████░░░░░░░░░░░░  50.00%
-TypeScript     2h 14m 36s   ██████░░░░░░░░░░░░░░░░░░░  22.71%
-Nix            28m 44s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.85%
-HTML           20m 42s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.49%
-Markdown       19m 52s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.35%
+Lua            4h 53m 25s   ████████████░░░░░░░░░░░░░  46.67%
+TypeScript     2h 42m 59s   ███████░░░░░░░░░░░░░░░░░░  25.92%
+Nix            28m 44s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.57%
+Markdown       23m 59s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.81%
+HTML           20m 42s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.29%
 ```
 
 #### 📮 Want to Contact me?
