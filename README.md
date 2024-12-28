@@ -4,6 +4,7 @@ When I'm not doing school or working on a project, I enjoy flying drones and mak
 
 #### 👷 The latest repos i've pushed to
 
+- [`bundom`](https://github.com/taciturnaxolotl/bundom) - _""_ **(today)**
 - [`dots`](https://github.com/taciturnaxolotl/dots) - _"Kieran's opinionated (and probably slightly dumb) nix config"_ **(1 day ago)**
 - [`roblox-chcker`](https://github.com/taciturnaxolotl/roblox-chcker) - _"A tui username checker and whatever other tools i add"_ **(2 days ago)**
 - [`zera`](https://github.com/taciturnaxolotl/zera) - _"my new site v4?"_ **(3 days ago)**
@@ -11,14 +12,13 @@ When I'm not doing school or working on a project, I enjoy flying drones and mak
 - [`miako`](https://github.com/taciturnaxolotl/miako) - _"a magical adventure awaits you"_ **(6 days ago)**
 - [`high-seas`](https://github.com/hackclub/high-seas) - _"🏴‍☠️ It's better to be a pirate than join the navy!"_ **(1 week ago)**
 - [`carriage`](https://github.com/taciturnaxolotl/carriage) - _"@taciturnaxolotl's repo template"_ **(2 weeks ago)**
-- [`hackatime-scripts`](https://github.com/taciturnaxolotl/hackatime-scripts) - _"various migration and utility scripts that keep hackatime afloat"_ **(2 weeks ago)**
 
 #### ⌨️ My latest projects
 
+- [`bundom`](https://github.com/taciturnaxolotl/bundom) - _""_
 - [`miako`](https://github.com/taciturnaxolotl/miako) - _"a magical adventure awaits you"_
 - [`cachet`](https://github.com/taciturnaxolotl/cachet) - _"a cache for slack profile pictures and emojis"_
 - [`carriage`](https://github.com/taciturnaxolotl/carriage) - _"@taciturnaxolotl's repo template"_
-- [`thorn`](https://github.com/taciturnaxolotl/thorn) - _"macos special characters on linux"_
 
 #### 🍿 my latest videos hot off the yt rss feed
 
@@ -34,11 +34,11 @@ When I'm not doing school or working on a project, I enjoy flying drones and mak
 
 ```text
 💾 Languages:
-Lua            5h 14m 44s   ████████████████░░░░░░░░░  60.06%
-TypeScript     40m 47s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.78%
-Nix            29m 14s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.58%
-Go             27m 58s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.34%
-Markdown       27m 32s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.25%
+Lua            5h 14m 44s   ███████████████░░░░░░░░░░  57.62%
+TypeScript     1h 3m 14s    ███░░░░░░░░░░░░░░░░░░░░░░  11.58%
+Nix            28m 44s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.26%
+Markdown       27m 32s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.04%
+Go             25m 40s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.70%
 ```
 
 #### 📮 Want to Contact me?
