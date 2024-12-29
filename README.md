@@ -4,7 +4,7 @@ When I'm not doing school or working on a project, I enjoy flying drones and mak
 
 #### 👷 The latest repos i've pushed to
 
-- [`bundom`](https://github.com/taciturnaxolotl/bundom) - _"the pixel swarm shall conquer"_ **(1 day ago)**
+- [`bundom`](https://github.com/taciturnaxolotl/bundom) - _"the pixel swarm shall conquer"_ **(today)**
 - [`dots`](https://github.com/taciturnaxolotl/dots) - _"Kieran's opinionated (and probably slightly dumb) nix config"_ **(2 days ago)**
 - [`roblox-chcker`](https://github.com/taciturnaxolotl/roblox-chcker) - _"A tui username checker and whatever other tools i add"_ **(3 days ago)**
 - [`zera`](https://github.com/taciturnaxolotl/zera) - _"my new site v4?"_ **(4 days ago)**
@@ -34,11 +34,11 @@ When I'm not doing school or working on a project, I enjoy flying drones and mak
 
 ```text
 💾 Languages:
-TypeScript     3h 27m 8s   ███████████░░░░░░░░░░░░░░  41.39%
-Lua            1h 8m 9s    ████░░░░░░░░░░░░░░░░░░░░░  13.62%
-Markdown       29m 47s     ██░░░░░░░░░░░░░░░░░░░░░░░  5.95%
-Python         29m 35s     ██░░░░░░░░░░░░░░░░░░░░░░░  5.91%
-HTML           29m 34s     ██░░░░░░░░░░░░░░░░░░░░░░░  5.91%
+TypeScript     3h 29m 36s   ███████████░░░░░░░░░░░░░░  43.25%
+Lua            41m 54s      ███░░░░░░░░░░░░░░░░░░░░░░  8.65%
+HTML           36m 2s       ██░░░░░░░░░░░░░░░░░░░░░░░  7.44%
+Markdown       29m 47s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.15%
+Python         29m 35s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.10%
 ```
 
 #### 📮 Want to Contact me?
