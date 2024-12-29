@@ -22,11 +22,11 @@ When I'm not doing school or working on a project, I enjoy flying drones and mak
 
 #### 🍿 my latest videos hot off the yt rss feed
 
+- [`I am pixel destroyer of matrices #swarm`](https://www.youtube.com/watch?v=bh3vvy5NyKg) **(today)**
+
 - [`I got bored #3dprinting`](https://www.youtube.com/watch?v=59f5n1NeItE) **(2 weeks ago)**
 
 - [`A Matrix that couldn't play`](https://www.youtube.com/watch?v=NodwjZF7uZw) **(2 months ago)**
-
-- [`Hackatime how to!`](https://www.youtube.com/watch?v=eKoD9yyr1To) **(3 months ago)**
 
 
 
@@ -34,11 +34,11 @@ When I'm not doing school or working on a project, I enjoy flying drones and mak
 
 ```text
 💾 Languages:
-TypeScript     3h 29m 36s   ███████████░░░░░░░░░░░░░░  43.25%
-Lua            41m 54s      ███░░░░░░░░░░░░░░░░░░░░░░  8.65%
-HTML           36m 2s       ██░░░░░░░░░░░░░░░░░░░░░░░  7.44%
-Markdown       29m 47s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.15%
-Python         29m 35s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.10%
+TypeScript     3h 38m 18s   ████████████░░░░░░░░░░░░░  47.89%
+HTML           40m 37s      ███░░░░░░░░░░░░░░░░░░░░░░  8.91%
+Markdown       29m 47s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.53%
+Python         29m 35s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.49%
+Nix            27m 14s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.97%
 ```
 
 #### 📮 Want to Contact me?
