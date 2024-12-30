@@ -4,11 +4,11 @@ When I'm not doing school or working on a project, I enjoy flying drones and mak
 
 #### 👷 The latest repos i've pushed to
 
-- [`bundom`](https://github.com/taciturnaxolotl/bundom) - _"the pixel swarm shall conquer"_ **(today)**
-- [`dots`](https://github.com/taciturnaxolotl/dots) - _"Kieran's opinionated (and probably slightly dumb) nix config"_ **(2 days ago)**
-- [`roblox-chcker`](https://github.com/taciturnaxolotl/roblox-chcker) - _"A tui username checker and whatever other tools i add"_ **(3 days ago)**
-- [`zera`](https://github.com/taciturnaxolotl/zera) - _"my new site v4?"_ **(4 days ago)**
-- [`cachet`](https://github.com/taciturnaxolotl/cachet) - _"a cache for slack profile pictures and emojis"_ **(6 days ago)**
+- [`bundom`](https://github.com/taciturnaxolotl/bundom) - _"the pixel swarm shall conquer"_ **(1 day ago)**
+- [`dots`](https://github.com/taciturnaxolotl/dots) - _"Kieran's opinionated (and probably slightly dumb) nix config"_ **(3 days ago)**
+- [`roblox-chcker`](https://github.com/taciturnaxolotl/roblox-chcker) - _"A tui username checker and whatever other tools i add"_ **(4 days ago)**
+- [`zera`](https://github.com/taciturnaxolotl/zera) - _"my new site v4?"_ **(5 days ago)**
+- [`cachet`](https://github.com/taciturnaxolotl/cachet) - _"a cache for slack profile pictures and emojis"_ **(1 week ago)**
 - [`miako`](https://github.com/taciturnaxolotl/miako) - _"a magical adventure awaits you"_ **(1 week ago)**
 - [`high-seas`](https://github.com/hackclub/high-seas) - _"🏴‍☠️ It's better to be a pirate than join the navy!"_ **(1 week ago)**
 - [`carriage`](https://github.com/taciturnaxolotl/carriage) - _"@taciturnaxolotl's repo template"_ **(2 weeks ago)**
@@ -22,7 +22,7 @@ When I'm not doing school or working on a project, I enjoy flying drones and mak
 
 #### 🍿 my latest videos hot off the yt rss feed
 
-- [`I am pixel destroyer of matrices #swarm`](https://www.youtube.com/watch?v=bh3vvy5NyKg) **(today)**
+- [`I am pixel destroyer of matrices #swarm`](https://www.youtube.com/watch?v=bh3vvy5NyKg) **(1 day ago)**
 
 - [`I got bored #3dprinting`](https://www.youtube.com/watch?v=59f5n1NeItE) **(2 weeks ago)**
 
@@ -34,11 +34,11 @@ When I'm not doing school or working on a project, I enjoy flying drones and mak
 
 ```text
 💾 Languages:
-TypeScript     3h 39m 19s   ████████████░░░░░░░░░░░░░  47.44%
-HTML           46m 2s       ███░░░░░░░░░░░░░░░░░░░░░░  9.96%
-Markdown       29m 47s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.44%
-Python         29m 35s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.40%
-Nix            27m 14s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.89%
+TypeScript     3h 39m 20s   ████████████░░░░░░░░░░░░░  47.88%
+HTML           46m 2s       ███░░░░░░░░░░░░░░░░░░░░░░  10.05%
+Markdown       29m 47s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.50%
+Python         29m 35s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.46%
+Nix            27m 14s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.95%
 ```
 
 #### 📮 Want to Contact me?
