@@ -4,8 +4,8 @@ When I'm not doing school or working on a project, I enjoy flying drones and mak
 
 #### 👷 The latest repos i've pushed to
 
+- [`dots`](https://github.com/taciturnaxolotl/dots) - _"Kieran's opinionated (and probably slightly dumb) nix config"_ **(today)**
 - [`bundom`](https://github.com/taciturnaxolotl/bundom) - _"the pixel swarm shall conquer"_ **(1 day ago)**
-- [`dots`](https://github.com/taciturnaxolotl/dots) - _"Kieran's opinionated (and probably slightly dumb) nix config"_ **(3 days ago)**
 - [`roblox-chcker`](https://github.com/taciturnaxolotl/roblox-chcker) - _"A tui username checker and whatever other tools i add"_ **(4 days ago)**
 - [`zera`](https://github.com/taciturnaxolotl/zera) - _"my new site v4?"_ **(5 days ago)**
 - [`cachet`](https://github.com/taciturnaxolotl/cachet) - _"a cache for slack profile pictures and emojis"_ **(1 week ago)**
@@ -34,11 +34,11 @@ When I'm not doing school or working on a project, I enjoy flying drones and mak
 
 ```text
 💾 Languages:
-TypeScript     3h 44m 31s   ████████████░░░░░░░░░░░░░  45.14%
-HTML           1h 15m 43s   ████░░░░░░░░░░░░░░░░░░░░░  15.22%
-Markdown       29m 47s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.99%
-Python         29m 35s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.95%
-Nix            27m 14s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.48%
+TypeScript     3h 44m 31s   ███████████░░░░░░░░░░░░░░  42.61%
+HTML           1h 15m 43s   ████░░░░░░░░░░░░░░░░░░░░░  14.37%
+Aseprite       34m 0s       ██░░░░░░░░░░░░░░░░░░░░░░░  6.45%
+Markdown       29m 47s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.65%
+Python         29m 35s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.61%
 ```
 
 #### 📮 Want to Contact me?
