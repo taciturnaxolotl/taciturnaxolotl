@@ -5,20 +5,20 @@ When I'm not doing school or working on a project, I enjoy flying drones and mak
 #### 👷 The latest repos i've pushed to
 
 - [`bundom`](https://github.com/taciturnaxolotl/bundom) - _"the pixel swarm shall conquer"_ **(today)**
+- [`dappeled`](https://github.com/taciturnaxolotl/dappeled) - _"not sucky apple music emigrator"_ **(today)**
 - [`pirates-of-aseprite`](https://github.com/Spectralo/pirates-of-aseprite) - _"Draw a cute pirate ship for shiny doubloons !!!"_ **(3 days ago)**
-- [`miako`](https://github.com/taciturnaxolotl/miako) - _"a magical adventure awaits you"_ **(3 days ago)**
 - [`dots`](https://github.com/taciturnaxolotl/dots) - _"Kieran's opinionated (and probably slightly dumb) nix config"_ **(3 days ago)**
+- [`miako`](https://github.com/taciturnaxolotl/miako) - _"a magical adventure awaits you"_ **(3 days ago)**
 - [`roblox-chcker`](https://github.com/taciturnaxolotl/roblox-chcker) - _"A tui username checker and whatever other tools i add"_ **(1 week ago)**
 - [`zera`](https://github.com/taciturnaxolotl/zera) - _"my new site v4?"_ **(1 week ago)**
 - [`cachet`](https://github.com/taciturnaxolotl/cachet) - _"a cache for slack profile pictures and emojis"_ **(1 week ago)**
-- [`high-seas`](https://github.com/hackclub/high-seas) - _"🏴‍☠️ It's better to be a pirate than join the navy!"_ **(1 week ago)**
 
 #### ⌨️ My latest projects
 
+- [`dappeled`](https://github.com/taciturnaxolotl/dappeled) - _"not sucky apple music emigrator"_
 - [`bundom`](https://github.com/taciturnaxolotl/bundom) - _"the pixel swarm shall conquer"_
 - [`miako`](https://github.com/taciturnaxolotl/miako) - _"a magical adventure awaits you"_
 - [`cachet`](https://github.com/taciturnaxolotl/cachet) - _"a cache for slack profile pictures and emojis"_
-- [`carriage`](https://github.com/taciturnaxolotl/carriage) - _"@taciturnaxolotl's repo template"_
 
 #### 🍿 my latest videos hot off the yt rss feed
 
@@ -34,11 +34,11 @@ When I'm not doing school or working on a project, I enjoy flying drones and mak
 
 ```text
 💾 Languages:
-TypeScript     3h 8m 0s    ██████████░░░░░░░░░░░░░░░  39.73%
-HTML           1h 6m 40s   ████░░░░░░░░░░░░░░░░░░░░░  14.09%
-Aseprite       34m 0s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.19%
-Markdown       33m 3s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.98%
-Python         29m 35s     ██░░░░░░░░░░░░░░░░░░░░░░░  6.25%
+TypeScript     3h 8m 0s    ██████████░░░░░░░░░░░░░░░  38.56%
+HTML           1h 6m 40s   ████░░░░░░░░░░░░░░░░░░░░░  13.68%
+Markdown       44m 57s     ███░░░░░░░░░░░░░░░░░░░░░░  9.22%
+Aseprite       36m 0s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.38%
+Python         29m 35s     ██░░░░░░░░░░░░░░░░░░░░░░░  6.07%
 ```
 
 #### 📮 Want to Contact me?
