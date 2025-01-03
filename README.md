@@ -7,8 +7,8 @@ When I'm not doing school or working on a project, I enjoy flying drones and mak
 - [`dappeled`](https://github.com/taciturnaxolotl/dappeled) - _"not sucky apple music emigrator"_ **(today)**
 - [`bundom`](https://github.com/taciturnaxolotl/bundom) - _"the pixel swarm shall conquer"_ **(1 day ago)**
 - [`miako`](https://github.com/taciturnaxolotl/miako) - _"a magical adventure awaits you"_ **(4 days ago)**
-- [`dots`](https://github.com/taciturnaxolotl/dots) - _"Kieran's opinionated (and probably slightly dumb) nix config"_ **(4 days ago)**
 - [`pirates-of-aseprite`](https://github.com/Spectralo/pirates-of-aseprite) - _"Draw a cute pirate ship for shiny doubloons !!!"_ **(4 days ago)**
+- [`dots`](https://github.com/taciturnaxolotl/dots) - _"Kieran's opinionated (and probably slightly dumb) nix config"_ **(4 days ago)**
 - [`roblox-chcker`](https://github.com/taciturnaxolotl/roblox-chcker) - _"A tui username checker and whatever other tools i add"_ **(1 week ago)**
 - [`zera`](https://github.com/taciturnaxolotl/zera) - _"my new site v4?"_ **(1 week ago)**
 - [`cachet`](https://github.com/taciturnaxolotl/cachet) - _"a cache for slack profile pictures and emojis"_ **(1 week ago)**
@@ -34,11 +34,11 @@ When I'm not doing school or working on a project, I enjoy flying drones and mak
 
 ```text
 💾 Languages:
-TypeScript   4h 39m 28s   ███████████░░░░░░░░░░░░░░  41.71%
-Astro        1h 12m 54s   ███░░░░░░░░░░░░░░░░░░░░░░  10.88%
-HTML         1h 6m 24s    ███░░░░░░░░░░░░░░░░░░░░░░  9.91%
-Markdown     36m 3s       ██░░░░░░░░░░░░░░░░░░░░░░░  5.38%
-Aseprite     36m 0s       ██░░░░░░░░░░░░░░░░░░░░░░░  5.37%
+TypeScript   4h 39m 28s   ███████████░░░░░░░░░░░░░░  40.37%
+Astro        1h 32m 46s   ████░░░░░░░░░░░░░░░░░░░░░  13.40%
+HTML         1h 6m 24s    ███░░░░░░░░░░░░░░░░░░░░░░  9.59%
+Markdown     36m 3s       ██░░░░░░░░░░░░░░░░░░░░░░░  5.21%
+Aseprite     36m 0s       ██░░░░░░░░░░░░░░░░░░░░░░░  5.20%
 ```
 
 #### 📮 Want to Contact me?
