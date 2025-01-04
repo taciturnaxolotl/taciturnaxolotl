@@ -4,11 +4,11 @@ When I'm not doing school or working on a project, I enjoy flying drones and mak
 
 #### 👷 The latest repos i've pushed to
 
-- [`dappeled`](https://github.com/taciturnaxolotl/dappeled) - _"not sucky apple music emigrator"_ **(1 day ago)**
+- [`dappeled`](https://github.com/taciturnaxolotl/dappeled) - _"not sucky apple music emigrator"_ **(today)**
 - [`bundom`](https://github.com/taciturnaxolotl/bundom) - _"the pixel swarm shall conquer"_ **(2 days ago)**
-- [`dots`](https://github.com/taciturnaxolotl/dots) - _"Kieran's opinionated (and probably slightly dumb) nix config"_ **(5 days ago)**
 - [`miako`](https://github.com/taciturnaxolotl/miako) - _"a magical adventure awaits you"_ **(5 days ago)**
 - [`pirates-of-aseprite`](https://github.com/Spectralo/pirates-of-aseprite) - _"Draw a cute pirate ship for shiny doubloons !!!"_ **(5 days ago)**
+- [`dots`](https://github.com/taciturnaxolotl/dots) - _"Kieran's opinionated (and probably slightly dumb) nix config"_ **(5 days ago)**
 - [`roblox-chcker`](https://github.com/taciturnaxolotl/roblox-chcker) - _"A tui username checker and whatever other tools i add"_ **(1 week ago)**
 - [`zera`](https://github.com/taciturnaxolotl/zera) - _"my new site v4?"_ **(1 week ago)**
 - [`cachet`](https://github.com/taciturnaxolotl/cachet) - _"a cache for slack profile pictures and emojis"_ **(1 week ago)**
@@ -34,11 +34,11 @@ When I'm not doing school or working on a project, I enjoy flying drones and mak
 
 ```text
 💾 Languages:
-TypeScript   2h 13m 1s    ███████░░░░░░░░░░░░░░░░░░  27.15%
-Astro        1h 40m 53s   ██████░░░░░░░░░░░░░░░░░░░  20.59%
-HTML         56m 48s      ███░░░░░░░░░░░░░░░░░░░░░░  11.59%
-Aseprite     36m 0s       ██░░░░░░░░░░░░░░░░░░░░░░░  7.35%
-Python       29m 35s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.04%
+TypeScript   1h 56m 50s   ███████░░░░░░░░░░░░░░░░░░  25.45%
+Astro        1h 39m 9s    ██████░░░░░░░░░░░░░░░░░░░  21.60%
+HTML         49m 59s      ███░░░░░░░░░░░░░░░░░░░░░░  10.89%
+Aseprite     36m 0s       ██░░░░░░░░░░░░░░░░░░░░░░░  7.84%
+Python       29m 35s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.44%
 ```
 
 #### 📮 Want to Contact me?
