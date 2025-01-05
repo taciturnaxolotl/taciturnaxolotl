@@ -6,8 +6,8 @@ When I'm not doing school or working on a project, I enjoy flying drones and mak
 
 - [`dappeled`](https://github.com/taciturnaxolotl/dappeled) - _"not sucky apple music emigrator"_ **(1 day ago)**
 - [`bundom`](https://github.com/taciturnaxolotl/bundom) - _"the pixel swarm shall conquer"_ **(3 days ago)**
-- [`miako`](https://github.com/taciturnaxolotl/miako) - _"a magical adventure awaits you"_ **(6 days ago)**
 - [`pirates-of-aseprite`](https://github.com/Spectralo/pirates-of-aseprite) - _"Draw a cute pirate ship for shiny doubloons !!!"_ **(6 days ago)**
+- [`miako`](https://github.com/taciturnaxolotl/miako) - _"a magical adventure awaits you"_ **(6 days ago)**
 - [`dots`](https://github.com/taciturnaxolotl/dots) - _"Kieran's opinionated (and probably slightly dumb) nix config"_ **(6 days ago)**
 - [`roblox-chcker`](https://github.com/taciturnaxolotl/roblox-chcker) - _"A tui username checker and whatever other tools i add"_ **(1 week ago)**
 - [`zera`](https://github.com/taciturnaxolotl/zera) - _"my new site v4?"_ **(1 week ago)**
