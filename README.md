@@ -4,18 +4,18 @@ When I'm not doing school or working on a project, I enjoy flying drones and mak
 
 #### 👷 The latest repos i've pushed to
 
-- [`dappeled`](https://github.com/taciturnaxolotl/dappeled) - _"not sucky apple music emigrator"_ **(2 days ago)**
+- [`dappeled`](https://github.com/taciturnaxolotl/dappeled) - _"The Spotify to Apple Music converter that doesn't cost your firstborn child 🍏"_ **(today)**
 - [`bundom`](https://github.com/taciturnaxolotl/bundom) - _"the pixel swarm shall conquer"_ **(4 days ago)**
-- [`pirates-of-aseprite`](https://github.com/Spectralo/pirates-of-aseprite) - _"Draw a cute pirate ship for shiny doubloons !!!"_ **(1 week ago)**
 - [`miako`](https://github.com/taciturnaxolotl/miako) - _"a magical adventure awaits you"_ **(1 week ago)**
 - [`dots`](https://github.com/taciturnaxolotl/dots) - _"Kieran's opinionated (and probably slightly dumb) nix config"_ **(1 week ago)**
+- [`pirates-of-aseprite`](https://github.com/Spectralo/pirates-of-aseprite) - _"Draw a cute pirate ship for shiny doubloons !!!"_ **(1 week ago)**
 - [`roblox-chcker`](https://github.com/taciturnaxolotl/roblox-chcker) - _"A tui username checker and whatever other tools i add"_ **(1 week ago)**
 - [`zera`](https://github.com/taciturnaxolotl/zera) - _"my new site v4?"_ **(1 week ago)**
 - [`cachet`](https://github.com/taciturnaxolotl/cachet) - _"a cache for slack profile pictures and emojis"_ **(2 weeks ago)**
 
 #### ⌨️ My latest projects
 
-- [`dappeled`](https://github.com/taciturnaxolotl/dappeled) - _"not sucky apple music emigrator"_
+- [`dappeled`](https://github.com/taciturnaxolotl/dappeled) - _"The Spotify to Apple Music converter that doesn't cost your firstborn child 🍏"_
 - [`bundom`](https://github.com/taciturnaxolotl/bundom) - _"the pixel swarm shall conquer"_
 - [`miako`](https://github.com/taciturnaxolotl/miako) - _"a magical adventure awaits you"_
 - [`cachet`](https://github.com/taciturnaxolotl/cachet) - _"a cache for slack profile pictures and emojis"_
@@ -34,11 +34,11 @@ When I'm not doing school or working on a project, I enjoy flying drones and mak
 
 ```text
 💾 Languages:
-Astro        1h 38m 53s   █████████░░░░░░░░░░░░░░░░  32.55%
-TypeScript   1h 27m 53s   ████████░░░░░░░░░░░░░░░░░  28.93%
-CSS          26m 3s       ███░░░░░░░░░░░░░░░░░░░░░░  8.57%
-XML          22m 30s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.41%
-Markdown     18m 37s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.13%
+Astro        1h 52m 42s   █████████░░░░░░░░░░░░░░░░  33.66%
+TypeScript   1h 27m 53s   ███████░░░░░░░░░░░░░░░░░░  26.25%
+CSS          34m 27s      ███░░░░░░░░░░░░░░░░░░░░░░  10.29%
+XML          22m 30s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.72%
+Markdown     18m 37s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.56%
 ```
 
 #### 📮 Want to Contact me?
