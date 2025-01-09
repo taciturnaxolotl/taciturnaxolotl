@@ -4,14 +4,14 @@ When I'm not doing school or working on a project, I enjoy flying drones and mak
 
 #### 👷 The latest repos i've pushed to
 
+- [`hackatime-scripts`](https://github.com/taciturnaxolotl/hackatime-scripts) - _"various migration and utility scripts that keep hackatime afloat"_ **(today)**
+- [`cachet`](https://github.com/taciturnaxolotl/cachet) - _"a cache for slack profile pictures and emojis"_ **(today)**
 - [`dots`](https://github.com/taciturnaxolotl/dots) - _"Kieran's opinionated (and probably slightly dumb) nix config"_ **(2 days ago)**
 - [`dappeled`](https://github.com/taciturnaxolotl/dappeled) - _"The Spotify to Apple Music converter that doesn't cost your firstborn child 🍏"_ **(3 days ago)**
 - [`bundom`](https://github.com/taciturnaxolotl/bundom) - _"the pixel swarm shall conquer"_ **(1 week ago)**
+- [`pirates-of-aseprite`](https://github.com/Spectralo/pirates-of-aseprite) - _"Draw a cute pirate ship for shiny doubloons !!!"_ **(1 week ago)**
 - [`miako`](https://github.com/taciturnaxolotl/miako) - _"a magical adventure awaits you"_ **(1 week ago)**
 - [`roblox-chcker`](https://github.com/taciturnaxolotl/roblox-chcker) - _"A tui username checker and whatever other tools i add"_ **(2 weeks ago)**
-- [`zera`](https://github.com/taciturnaxolotl/zera) - _"my new site v4?"_ **(2 weeks ago)**
-- [`cachet`](https://github.com/taciturnaxolotl/cachet) - _"a cache for slack profile pictures and emojis"_ **(2 weeks ago)**
-- [`high-seas`](https://github.com/hackclub/high-seas) - _"🏴‍☠️ It's better to be a pirate than join the navy!"_ **(2 weeks ago)**
 
 #### ⌨️ My latest projects
 
@@ -34,11 +34,11 @@ When I'm not doing school or working on a project, I enjoy flying drones and mak
 
 ```text
 💾 Languages:
-Astro        1h 59m 36s   █████████░░░░░░░░░░░░░░░░  33.20%
-TypeScript   1h 53m 6s    ████████░░░░░░░░░░░░░░░░░  31.39%
-CSS          35m 41s      ███░░░░░░░░░░░░░░░░░░░░░░  9.90%
-XML          22m 30s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.25%
-Markdown     16m 26s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.56%
+Astro          1h 59m 36s   █████████░░░░░░░░░░░░░░░░  32.51%
+TypeScript     1h 58m 23s   █████████░░░░░░░░░░░░░░░░  32.18%
+CSS            35m 41s      ███░░░░░░░░░░░░░░░░░░░░░░  9.70%
+XML            22m 30s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.12%
+Markdown       16m 26s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.47%
 ```
 
 #### 📮 Want to Contact me?
