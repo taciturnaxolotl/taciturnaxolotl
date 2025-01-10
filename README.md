@@ -4,10 +4,10 @@ When I'm not doing school or working on a project, I enjoy flying drones and mak
 
 #### 👷 The latest repos i've pushed to
 
-- [`hackatime-scripts`](https://github.com/taciturnaxolotl/hackatime-scripts) - _"various migration and utility scripts that keep hackatime afloat"_ **(today)**
-- [`dots`](https://github.com/taciturnaxolotl/dots) - _"Kieran's opinionated (and probably slightly dumb) nix config"_ **(today)**
-- [`cachet`](https://github.com/taciturnaxolotl/cachet) - _"a cache for slack profile pictures and emojis"_ **(today)**
-- [`dappeled`](https://github.com/taciturnaxolotl/dappeled) - _"The Spotify to Apple Music converter that doesn't cost your firstborn child 🍏"_ **(3 days ago)**
+- [`hackatime-scripts`](https://github.com/taciturnaxolotl/hackatime-scripts) - _"various migration and utility scripts that keep hackatime afloat"_ **(1 day ago)**
+- [`dots`](https://github.com/taciturnaxolotl/dots) - _"Kieran's opinionated (and probably slightly dumb) nix config"_ **(1 day ago)**
+- [`cachet`](https://github.com/taciturnaxolotl/cachet) - _"a cache for slack profile pictures and emojis"_ **(1 day ago)**
+- [`dappeled`](https://github.com/taciturnaxolotl/dappeled) - _"The Spotify to Apple Music converter that doesn't cost your firstborn child 🍏"_ **(4 days ago)**
 - [`bundom`](https://github.com/taciturnaxolotl/bundom) - _"the pixel swarm shall conquer"_ **(1 week ago)**
 - [`pirates-of-aseprite`](https://github.com/Spectralo/pirates-of-aseprite) - _"Draw a cute pirate ship for shiny doubloons !!!"_ **(1 week ago)**
 - [`miako`](https://github.com/taciturnaxolotl/miako) - _"a magical adventure awaits you"_ **(1 week ago)**
@@ -24,7 +24,7 @@ When I'm not doing school or working on a project, I enjoy flying drones and mak
 
 - [`I am pixel destroyer of matrices #swarm`](https://www.youtube.com/watch?v=bh3vvy5NyKg) **(1 week ago)**
 
-- [`I got bored #3dprinting`](https://www.youtube.com/watch?v=59f5n1NeItE) **(4 weeks ago)**
+- [`I got bored #3dprinting`](https://www.youtube.com/watch?v=59f5n1NeItE) **(1 month ago)**
 
 - [`A Matrix that couldn't play`](https://www.youtube.com/watch?v=NodwjZF7uZw) **(2 months ago)**
 
@@ -34,11 +34,11 @@ When I'm not doing school or working on a project, I enjoy flying drones and mak
 
 ```text
 💾 Languages:
-Astro          1h 59m 36s   █████████░░░░░░░░░░░░░░░░  34.02%
-TypeScript     1h 58m 23s   █████████░░░░░░░░░░░░░░░░  33.67%
-CSS            35m 41s      ███░░░░░░░░░░░░░░░░░░░░░░  10.15%
-XML            22m 30s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.40%
-typescript     13m 20s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.79%
+Astro          1h 59m 51s   ███████████░░░░░░░░░░░░░░  43.25%
+TypeScript     1h 2m 24s    ██████░░░░░░░░░░░░░░░░░░░  22.52%
+CSS            29m 34s      ███░░░░░░░░░░░░░░░░░░░░░░  10.67%
+XML            21m 50s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.88%
+typescript     11m 57s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.31%
 ```
 
 #### 📮 Want to Contact me?
