@@ -7,8 +7,8 @@ When I'm not doing school or working on a project, I enjoy flying drones and mak
 - [`.github`](https://github.com/df1317/.github) - _""_ **(1 day ago)**
 - [`isbns`](https://github.com/taciturnaxolotl/isbns) - _"how do ISBNs work really?"_ **(1 week ago)**
 - [`cachet`](https://github.com/taciturnaxolotl/cachet) - _"a cache for slack profile pictures and emojis"_ **(1 week ago)**
-- [`dots`](https://github.com/taciturnaxolotl/dots) - _"Kieran's opinionated (and probably slightly dumb) nix config"_ **(1 week ago)**
 - [`hackatime-scripts`](https://github.com/taciturnaxolotl/hackatime-scripts) - _"various migration and utility scripts that keep hackatime afloat"_ **(1 week ago)**
+- [`dots`](https://github.com/taciturnaxolotl/dots) - _"Kieran's opinionated (and probably slightly dumb) nix config"_ **(1 week ago)**
 - [`dappeled`](https://github.com/taciturnaxolotl/dappeled) - _"The Spotify to Apple Music converter that doesn't cost your firstborn child 🍏"_ **(1 week ago)**
 - [`bundom`](https://github.com/taciturnaxolotl/bundom) - _"the pixel swarm shall conquer"_ **(2 weeks ago)**
 - [`miako`](https://github.com/taciturnaxolotl/miako) - _"a magical adventure awaits you"_ **(2 weeks ago)**
@@ -34,11 +34,11 @@ When I'm not doing school or working on a project, I enjoy flying drones and mak
 
 ```text
 💾 Languages:
-Markdown     44m 31s   █████████░░░░░░░░░░░░░░░░  35.45%
-nix          21m 17s   █████░░░░░░░░░░░░░░░░░░░░  16.95%
-Nushell      19m 57s   ████░░░░░░░░░░░░░░░░░░░░░  15.89%
-Nix          12m 24s   ███░░░░░░░░░░░░░░░░░░░░░░  9.88%
-TypeScript   4m 51s    █░░░░░░░░░░░░░░░░░░░░░░░░  3.86%
+Markdown       44m 31s   ████████░░░░░░░░░░░░░░░░░  29.80%
+Nushell        32m 35s   ██████░░░░░░░░░░░░░░░░░░░  21.81%
+nix            22m 38s   ████░░░░░░░░░░░░░░░░░░░░░  15.15%
+Nix            13m 17s   ███░░░░░░░░░░░░░░░░░░░░░░  8.89%
+JSON           12m 31s   ███░░░░░░░░░░░░░░░░░░░░░░  8.38%
 ```
 
 #### 📮 Want to Contact me?
