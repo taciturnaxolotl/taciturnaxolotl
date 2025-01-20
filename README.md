@@ -4,6 +4,7 @@ When I'm not doing school or working on a project, I enjoy flying drones and mak
 
 #### 👷 The latest repos i've pushed to
 
+- [`crushDB`](https://github.com/taciturnaxolotl/crushDB) - _"Rainbow tables babyyyyyy!"_ **(today)**
 - [`high-seas`](https://github.com/hackclub/high-seas) - _"🏴‍☠️ It's better to be a pirate than join the navy!"_ **(1 day ago)**
 - [`.github`](https://github.com/df1317/.github) - _""_ **(2 days ago)**
 - [`isbns`](https://github.com/taciturnaxolotl/isbns) - _"how do ISBNs work really?"_ **(1 week ago)**
@@ -11,7 +12,6 @@ When I'm not doing school or working on a project, I enjoy flying drones and mak
 - [`dots`](https://github.com/taciturnaxolotl/dots) - _"Kieran's opinionated (and probably slightly dumb) nix config"_ **(1 week ago)**
 - [`cachet`](https://github.com/taciturnaxolotl/cachet) - _"a cache for slack profile pictures and emojis"_ **(1 week ago)**
 - [`dappeled`](https://github.com/taciturnaxolotl/dappeled) - _"The Spotify to Apple Music converter that doesn't cost your firstborn child 🍏"_ **(2 weeks ago)**
-- [`bundom`](https://github.com/taciturnaxolotl/bundom) - _"the pixel swarm shall conquer"_ **(2 weeks ago)**
 
 #### ⌨️ My latest projects
 
@@ -34,11 +34,11 @@ When I'm not doing school or working on a project, I enjoy flying drones and mak
 
 ```text
 💾 Languages:
-Markdown       44m 31s   ███████░░░░░░░░░░░░░░░░░░  26.16%
-Nushell        34m 35s   ██████░░░░░░░░░░░░░░░░░░░  20.32%
-nix            26m 38s   ████░░░░░░░░░░░░░░░░░░░░░  15.65%
-Nix            21m 4s    ████░░░░░░░░░░░░░░░░░░░░░  12.38%
-JSON           16m 44s   ███░░░░░░░░░░░░░░░░░░░░░░  9.83%
+Markdown       39m 12s   ███████░░░░░░░░░░░░░░░░░░  25.27%
+Nushell        34m 35s   ██████░░░░░░░░░░░░░░░░░░░  22.30%
+nix            25m 24s   █████░░░░░░░░░░░░░░░░░░░░  16.37%
+Nix            16m 39s   ███░░░░░░░░░░░░░░░░░░░░░░  10.73%
+JSON           14m 42s   ███░░░░░░░░░░░░░░░░░░░░░░  9.48%
 ```
 
 #### 📮 Want to Contact me?
