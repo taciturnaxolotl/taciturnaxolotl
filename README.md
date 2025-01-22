@@ -4,14 +4,14 @@ When I'm not doing school or working on a project, I enjoy flying drones and mak
 
 #### 👷 The latest repos i've pushed to
 
-- [`crushDB`](https://github.com/taciturnaxolotl/crushDB) - _"Rainbow tables babyyyyyy!"_ **(2 days ago)**
+- [`pirateship-api`](https://github.com/taciturnaxolotl/pirateship-api) - _"the pirateship api - typed"_ **(today)**
+- [`cachet`](https://github.com/taciturnaxolotl/cachet) - _"a cache for slack profile pictures and emojis"_ **(today)**
 - [`dots`](https://github.com/taciturnaxolotl/dots) - _"Kieran's opinionated (and probably slightly dumb) nix config"_ **(2 days ago)**
+- [`crushDB`](https://github.com/taciturnaxolotl/crushDB) - _"Rainbow tables babyyyyyy!"_ **(2 days ago)**
 - [`high-seas`](https://github.com/hackclub/high-seas) - _"🏴‍☠️ It's better to be a pirate than join the navy!"_ **(3 days ago)**
 - [`.github`](https://github.com/df1317/.github) - _""_ **(4 days ago)**
 - [`isbns`](https://github.com/taciturnaxolotl/isbns) - _"how do ISBNs work really?"_ **(1 week ago)**
-- [`cachet`](https://github.com/taciturnaxolotl/cachet) - _"a cache for slack profile pictures and emojis"_ **(1 week ago)**
 - [`hackatime-scripts`](https://github.com/taciturnaxolotl/hackatime-scripts) - _"various migration and utility scripts that keep hackatime afloat"_ **(1 week ago)**
-- [`dappeled`](https://github.com/taciturnaxolotl/dappeled) - _"The Spotify to Apple Music converter that doesn't cost your firstborn child 🍏"_ **(2 weeks ago)**
 
 #### ⌨️ My latest projects
 
@@ -34,11 +34,11 @@ When I'm not doing school or working on a project, I enjoy flying drones and mak
 
 ```text
 💾 Languages:
-Nushell        34m 35s   ██████░░░░░░░░░░░░░░░░░░░  21.85%
-nix            26m 34s   █████░░░░░░░░░░░░░░░░░░░░  16.78%
-JSON           23m 55s   ████░░░░░░░░░░░░░░░░░░░░░  15.11%
-Markdown       14m 19s   ███░░░░░░░░░░░░░░░░░░░░░░  9.04%
-Nix            8m 13s    ██░░░░░░░░░░░░░░░░░░░░░░░  5.19%
+Nushell        34m 35s   ██████░░░░░░░░░░░░░░░░░░░  21.27%
+nix            26m 34s   █████░░░░░░░░░░░░░░░░░░░░  16.34%
+JSON           24m 2s    ████░░░░░░░░░░░░░░░░░░░░░  14.78%
+Markdown       14m 19s   ███░░░░░░░░░░░░░░░░░░░░░░  8.80%
+Nix            8m 13s    ██░░░░░░░░░░░░░░░░░░░░░░░  5.05%
 ```
 
 #### 📮 Want to Contact me?
