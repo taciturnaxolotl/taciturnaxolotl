@@ -4,10 +4,10 @@ When I'm not doing school or working on a project, I enjoy flying drones and mak
 
 #### 👷 The latest repos i've pushed to
 
-- [`crushDB`](https://github.com/taciturnaxolotl/crushDB) - _"Rainbow tables babyyyyyy!"_ **(1 day ago)**
-- [`dots`](https://github.com/taciturnaxolotl/dots) - _"Kieran's opinionated (and probably slightly dumb) nix config"_ **(1 day ago)**
-- [`high-seas`](https://github.com/hackclub/high-seas) - _"🏴‍☠️ It's better to be a pirate than join the navy!"_ **(2 days ago)**
-- [`.github`](https://github.com/df1317/.github) - _""_ **(3 days ago)**
+- [`crushDB`](https://github.com/taciturnaxolotl/crushDB) - _"Rainbow tables babyyyyyy!"_ **(2 days ago)**
+- [`dots`](https://github.com/taciturnaxolotl/dots) - _"Kieran's opinionated (and probably slightly dumb) nix config"_ **(2 days ago)**
+- [`high-seas`](https://github.com/hackclub/high-seas) - _"🏴‍☠️ It's better to be a pirate than join the navy!"_ **(3 days ago)**
+- [`.github`](https://github.com/df1317/.github) - _""_ **(4 days ago)**
 - [`isbns`](https://github.com/taciturnaxolotl/isbns) - _"how do ISBNs work really?"_ **(1 week ago)**
 - [`cachet`](https://github.com/taciturnaxolotl/cachet) - _"a cache for slack profile pictures and emojis"_ **(1 week ago)**
 - [`hackatime-scripts`](https://github.com/taciturnaxolotl/hackatime-scripts) - _"various migration and utility scripts that keep hackatime afloat"_ **(1 week ago)**
@@ -34,11 +34,11 @@ When I'm not doing school or working on a project, I enjoy flying drones and mak
 
 ```text
 💾 Languages:
-Nushell        34m 35s   ███████░░░░░░░░░░░░░░░░░░  27.18%
-nix            26m 34s   ██████░░░░░░░░░░░░░░░░░░░  20.88%
-JSON           14m 13s   ███░░░░░░░░░░░░░░░░░░░░░░  11.18%
-Markdown       13m 35s   ███░░░░░░░░░░░░░░░░░░░░░░  10.68%
-Nix            8m 14s    ██░░░░░░░░░░░░░░░░░░░░░░░  6.47%
+Nushell        34m 35s   ███████░░░░░░░░░░░░░░░░░░  26.35%
+nix            26m 34s   ██████░░░░░░░░░░░░░░░░░░░  20.24%
+JSON           16m 13s   ████░░░░░░░░░░░░░░░░░░░░░  12.36%
+Markdown       13m 35s   ███░░░░░░░░░░░░░░░░░░░░░░  10.35%
+Nix            8m 14s    ██░░░░░░░░░░░░░░░░░░░░░░░  6.27%
 ```
 
 #### 📮 Want to Contact me?
