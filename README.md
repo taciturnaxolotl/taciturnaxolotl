@@ -7,8 +7,8 @@ When I'm not doing school or working on a project, I enjoy flying drones and mak
 - [`carriage`](https://github.com/taciturnaxolotl/carriage) - _"@taciturnaxolotl's repo template"_ **(today)**
 - [`channelping`](https://github.com/taciturnaxolotl/channelping) - _"easily create a ping group for the channel"_ **(today)**
 - [`dots`](https://github.com/taciturnaxolotl/dots) - _"Kieran's opinionated (and probably slightly dumb) nix config"_ **(today)**
-- [`pirateship-api`](https://github.com/taciturnaxolotl/pirateship-api) - _"the pirateship api - typed"_ **(2 days ago)**
 - [`cachet`](https://github.com/taciturnaxolotl/cachet) - _"a cache for slack profile pictures and emojis"_ **(2 days ago)**
+- [`pirateship-api`](https://github.com/taciturnaxolotl/pirateship-api) - _"the pirateship api - typed"_ **(2 days ago)**
 - [`crushDB`](https://github.com/taciturnaxolotl/crushDB) - _"Rainbow tables babyyyyyy!"_ **(4 days ago)**
 - [`high-seas`](https://github.com/hackclub/high-seas) - _"🏴‍☠️ It's better to be a pirate than join the navy!"_ **(5 days ago)**
 - [`.github`](https://github.com/df1317/.github) - _"configs"_ **(6 days ago)**
@@ -34,11 +34,11 @@ When I'm not doing school or working on a project, I enjoy flying drones and mak
 
 ```text
 💾 Languages:
-Nushell        34m 35s   ██████░░░░░░░░░░░░░░░░░░░  23.80%
-nix            26m 34s   █████░░░░░░░░░░░░░░░░░░░░  18.28%
-JSON           21m 49s   ████░░░░░░░░░░░░░░░░░░░░░  15.01%
-Markdown       14m 19s   ███░░░░░░░░░░░░░░░░░░░░░░  9.85%
-Nix            8m 13s    ██░░░░░░░░░░░░░░░░░░░░░░░  5.65%
+Nushell        34m 35s   ██████░░░░░░░░░░░░░░░░░░░  20.30%
+nix            26m 34s   ████░░░░░░░░░░░░░░░░░░░░░  15.60%
+JSON           24m 7s    ████░░░░░░░░░░░░░░░░░░░░░  14.16%
+Markdown       16m 19s   ███░░░░░░░░░░░░░░░░░░░░░░  9.58%
+TypeScript     15m 11s   ███░░░░░░░░░░░░░░░░░░░░░░  8.91%
 ```
 
 #### 📮 Want to Contact me?
