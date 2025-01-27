@@ -4,13 +4,13 @@ When I'm not doing school or working on a project, I enjoy flying drones and mak
 
 #### 👷 The latest repos i've pushed to
 
-- [`carriage`](https://github.com/taciturnaxolotl/carriage) - _"@taciturnaxolotl's repo template"_ **(3 days ago)**
+- [`dots`](https://github.com/taciturnaxolotl/dots) - _"Kieran's opinionated (and probably slightly dumb) nix config"_ **(today)**
 - [`channelping`](https://github.com/taciturnaxolotl/channelping) - _"easily create a ping group for the channel"_ **(3 days ago)**
-- [`dots`](https://github.com/taciturnaxolotl/dots) - _"Kieran's opinionated (and probably slightly dumb) nix config"_ **(3 days ago)**
+- [`carriage`](https://github.com/taciturnaxolotl/carriage) - _"@taciturnaxolotl's repo template"_ **(3 days ago)**
 - [`juice`](https://github.com/hackclub/juice) - _"🧃 2 month game jam followed by popup cafe in Shanghai, China"_ **(3 days ago)**
 - [`juiceGame`](https://github.com/felixgao-0/juiceGame) - _"name is a bit of a wip lol :pf:"_ **(3 days ago)**
-- [`cachet`](https://github.com/taciturnaxolotl/cachet) - _"a cache for slack profile pictures and emojis"_ **(5 days ago)**
 - [`pirateship-api`](https://github.com/taciturnaxolotl/pirateship-api) - _"the pirateship api - typed"_ **(5 days ago)**
+- [`cachet`](https://github.com/taciturnaxolotl/cachet) - _"a cache for slack profile pictures and emojis"_ **(5 days ago)**
 - [`crushDB`](https://github.com/taciturnaxolotl/crushDB) - _"Rainbow tables babyyyyyy!"_ **(1 week ago)**
 
 #### ⌨️ My latest projects
@@ -34,11 +34,11 @@ When I'm not doing school or working on a project, I enjoy flying drones and mak
 
 ```text
 💾 Languages:
-Python         26m 48s   ██████░░░░░░░░░░░░░░░░░░░  23.84%
-Markdown       16m 6s    ████░░░░░░░░░░░░░░░░░░░░░  14.32%
-TypeScript     15m 11s   ████░░░░░░░░░░░░░░░░░░░░░  13.51%
-JSON           12m 7s    ███░░░░░░░░░░░░░░░░░░░░░░  10.78%
-Java           7m 17s    ██░░░░░░░░░░░░░░░░░░░░░░░  6.48%
+Python         26m 48s   ███████░░░░░░░░░░░░░░░░░░  24.28%
+Markdown       16m 6s    ████░░░░░░░░░░░░░░░░░░░░░  14.59%
+TypeScript     15m 11s   ████░░░░░░░░░░░░░░░░░░░░░  13.76%
+JSON           12m 7s    ███░░░░░░░░░░░░░░░░░░░░░░  10.98%
+Java           7m 17s    ██░░░░░░░░░░░░░░░░░░░░░░░  6.60%
 ```
 
 #### 📮 Want to Contact me?
