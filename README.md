@@ -4,13 +4,13 @@ When I'm not doing school or working on a project, I enjoy flying drones and mak
 
 #### 👷 The latest repos i've pushed to
 
-- [`dots`](https://github.com/taciturnaxolotl/dots) - _"Kieran's opinionated (and probably slightly dumb) nix config"_ **(today)**
-- [`channelping`](https://github.com/taciturnaxolotl/channelping) - _"easily create a ping group for the channel"_ **(3 days ago)**
-- [`carriage`](https://github.com/taciturnaxolotl/carriage) - _"@taciturnaxolotl's repo template"_ **(3 days ago)**
-- [`juice`](https://github.com/hackclub/juice) - _"🧃 2 month game jam followed by popup cafe in Shanghai, China"_ **(3 days ago)**
-- [`juiceGame`](https://github.com/felixgao-0/juiceGame) - _"name is a bit of a wip lol :pf:"_ **(3 days ago)**
-- [`pirateship-api`](https://github.com/taciturnaxolotl/pirateship-api) - _"the pirateship api - typed"_ **(5 days ago)**
-- [`cachet`](https://github.com/taciturnaxolotl/cachet) - _"a cache for slack profile pictures and emojis"_ **(5 days ago)**
+- [`dots`](https://github.com/taciturnaxolotl/dots) - _"Kieran's opinionated (and probably slightly dumb) nix config"_ **(1 day ago)**
+- [`carriage`](https://github.com/taciturnaxolotl/carriage) - _"@taciturnaxolotl's repo template"_ **(4 days ago)**
+- [`juice`](https://github.com/hackclub/juice) - _"🧃 2 month game jam followed by popup cafe in Shanghai, China"_ **(4 days ago)**
+- [`juiceGame`](https://github.com/felixgao-0/juiceGame) - _"name is a bit of a wip lol :pf:"_ **(4 days ago)**
+- [`channelping`](https://github.com/taciturnaxolotl/channelping) - _"easily create a ping group for the channel"_ **(4 days ago)**
+- [`pirateship-api`](https://github.com/taciturnaxolotl/pirateship-api) - _"the pirateship api - typed"_ **(6 days ago)**
+- [`cachet`](https://github.com/taciturnaxolotl/cachet) - _"a cache for slack profile pictures and emojis"_ **(6 days ago)**
 - [`crushDB`](https://github.com/taciturnaxolotl/crushDB) - _"Rainbow tables babyyyyyy!"_ **(1 week ago)**
 
 #### ⌨️ My latest projects
@@ -22,7 +22,7 @@ When I'm not doing school or working on a project, I enjoy flying drones and mak
 
 #### 🍿 my latest videos hot off the yt rss feed
 
-- [`I am pixel destroyer of matrices #swarm`](https://www.youtube.com/watch?v=bh3vvy5NyKg) **(4 weeks ago)**
+- [`I am pixel destroyer of matrices #swarm`](https://www.youtube.com/watch?v=bh3vvy5NyKg) **(1 month ago)**
 
 - [`I got bored #3dprinting`](https://www.youtube.com/watch?v=59f5n1NeItE) **(1 month ago)**
 
