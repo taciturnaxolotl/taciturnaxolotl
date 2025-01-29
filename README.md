@@ -4,13 +4,13 @@ When I'm not doing school or working on a project, I enjoy flying drones and mak
 
 #### 👷 The latest repos i've pushed to
 
-- [`dots`](https://github.com/taciturnaxolotl/dots) - _"Kieran's opinionated (and probably slightly dumb) nix config"_ **(1 day ago)**
-- [`carriage`](https://github.com/taciturnaxolotl/carriage) - _"@taciturnaxolotl's repo template"_ **(4 days ago)**
-- [`juice`](https://github.com/hackclub/juice) - _"🧃 2 month game jam followed by popup cafe in Shanghai, China"_ **(4 days ago)**
-- [`juiceGame`](https://github.com/felixgao-0/juiceGame) - _"name is a bit of a wip lol :pf:"_ **(4 days ago)**
-- [`channelping`](https://github.com/taciturnaxolotl/channelping) - _"easily create a ping group for the channel"_ **(4 days ago)**
-- [`pirateship-api`](https://github.com/taciturnaxolotl/pirateship-api) - _"the pirateship api - typed"_ **(6 days ago)**
-- [`cachet`](https://github.com/taciturnaxolotl/cachet) - _"a cache for slack profile pictures and emojis"_ **(6 days ago)**
+- [`dots`](https://github.com/taciturnaxolotl/dots) - _"Kieran's opinionated (and probably slightly dumb) nix config"_ **(2 days ago)**
+- [`carriage`](https://github.com/taciturnaxolotl/carriage) - _"@taciturnaxolotl's repo template"_ **(5 days ago)**
+- [`juice`](https://github.com/hackclub/juice) - _"🧃 2 month game jam followed by popup cafe in Shanghai, China"_ **(5 days ago)**
+- [`juiceGame`](https://github.com/felixgao-0/juiceGame) - _"name is a bit of a wip lol :pf:"_ **(5 days ago)**
+- [`channelping`](https://github.com/taciturnaxolotl/channelping) - _"easily create a ping group for the channel"_ **(5 days ago)**
+- [`pirateship-api`](https://github.com/taciturnaxolotl/pirateship-api) - _"the pirateship api - typed"_ **(1 week ago)**
+- [`cachet`](https://github.com/taciturnaxolotl/cachet) - _"a cache for slack profile pictures and emojis"_ **(1 week ago)**
 - [`crushDB`](https://github.com/taciturnaxolotl/crushDB) - _"Rainbow tables babyyyyyy!"_ **(1 week ago)**
 
 #### ⌨️ My latest projects
@@ -34,11 +34,11 @@ When I'm not doing school or working on a project, I enjoy flying drones and mak
 
 ```text
 💾 Languages:
-Python         26m 48s   ██████░░░░░░░░░░░░░░░░░░░  23.27%
-TypeScript     15m 11s   ████░░░░░░░░░░░░░░░░░░░░░  13.18%
-Markdown       14m 6s    ████░░░░░░░░░░░░░░░░░░░░░  12.24%
-JSON           12m 7s    ███░░░░░░░░░░░░░░░░░░░░░░  10.52%
-Java           7m 17s    ██░░░░░░░░░░░░░░░░░░░░░░░  6.32%
+Python         26m 48s   ███████░░░░░░░░░░░░░░░░░░  24.92%
+TypeScript     15m 11s   ████░░░░░░░░░░░░░░░░░░░░░  14.12%
+Markdown       14m 6s    ████░░░░░░░░░░░░░░░░░░░░░  13.11%
+JSON           9m 52s    ███░░░░░░░░░░░░░░░░░░░░░░  9.18%
+Java           5m 17s    ██░░░░░░░░░░░░░░░░░░░░░░░  4.91%
 ```
 
 #### 📮 Want to Contact me?
