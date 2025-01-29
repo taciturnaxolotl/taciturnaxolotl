@@ -4,14 +4,14 @@ When I'm not doing school or working on a project, I enjoy flying drones and mak
 
 #### 👷 The latest repos i've pushed to
 
+- [`dappeled`](https://github.com/taciturnaxolotl/dappeled) - _"The Spotify to Apple Music converter that doesn't cost your firstborn child 🍏"_ **(today)**
 - [`dots`](https://github.com/taciturnaxolotl/dots) - _"Kieran's opinionated (and probably slightly dumb) nix config"_ **(today)**
-- [`juice`](https://github.com/hackclub/juice) - _"🧃 2 month game jam followed by popup cafe in Shanghai, China"_ **(5 days ago)**
+- [`juiceGame`](https://github.com/felixgao-0/juiceGame) - _"name is a bit of a wip lol :pf:"_ **(5 days ago)**
 - [`channelping`](https://github.com/taciturnaxolotl/channelping) - _"easily create a ping group for the channel"_ **(5 days ago)**
 - [`carriage`](https://github.com/taciturnaxolotl/carriage) - _"@taciturnaxolotl's repo template"_ **(5 days ago)**
-- [`juiceGame`](https://github.com/felixgao-0/juiceGame) - _"name is a bit of a wip lol :pf:"_ **(5 days ago)**
+- [`juice`](https://github.com/hackclub/juice) - _"🧃 2 month game jam followed by popup cafe in Shanghai, China"_ **(5 days ago)**
 - [`pirateship-api`](https://github.com/taciturnaxolotl/pirateship-api) - _"the pirateship api - typed"_ **(1 week ago)**
 - [`cachet`](https://github.com/taciturnaxolotl/cachet) - _"a cache for slack profile pictures and emojis"_ **(1 week ago)**
-- [`crushDB`](https://github.com/taciturnaxolotl/crushDB) - _"Rainbow tables babyyyyyy!"_ **(1 week ago)**
 
 #### ⌨️ My latest projects
 
@@ -34,11 +34,11 @@ When I'm not doing school or working on a project, I enjoy flying drones and mak
 
 ```text
 💾 Languages:
-Python         26m 48s   █████████░░░░░░░░░░░░░░░░  32.98%
-TypeScript     15m 11s   █████░░░░░░░░░░░░░░░░░░░░  18.69%
-Markdown       13m 22s   █████░░░░░░░░░░░░░░░░░░░░  16.45%
-Aseprite       5m 2s     ██░░░░░░░░░░░░░░░░░░░░░░░  6.19%
-markdown       4m 23s    ██░░░░░░░░░░░░░░░░░░░░░░░  5.39%
+Python       26m 48s   █████████░░░░░░░░░░░░░░░░  33.91%
+TypeScript   13m 53s   █████░░░░░░░░░░░░░░░░░░░░  17.57%
+Markdown     13m 22s   █████░░░░░░░░░░░░░░░░░░░░  16.91%
+Aseprite     5m 2s     ██░░░░░░░░░░░░░░░░░░░░░░░  6.37%
+markdown     4m 23s    ██░░░░░░░░░░░░░░░░░░░░░░░  5.55%
 ```
 
 #### 📮 Want to Contact me?
