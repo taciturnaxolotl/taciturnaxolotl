@@ -12,8 +12,8 @@ When I'm not doing school or working on a project, I enjoy flying drones and mak
 - [`{{.Name}}`]({{.URL}}) - _"{{.Description}}"_
 {{- end}}
 
-#### ✒️ my latest blog posts
-{{range rss "https://www.youtube.com/feeds/videos.xml?channel_id=UCqUR4LXv4SviSy3_lUyE7hw" 3}}
+#### 🗒️ the latest posts from my blog
+{{range rss "https://dunkirk.sh/rss.xml" 3}}
 - [`{{.Title}}`]({{.URL}}) **({{humanize .PublishedAt}})**
 {{end}}
 
