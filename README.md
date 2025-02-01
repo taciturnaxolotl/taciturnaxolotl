@@ -8,10 +8,10 @@ When I'm not doing school or working on a project, I enjoy flying drones and mak
 - [`dots`](https://github.com/taciturnaxolotl/dots) - _"Kieran's opinionated (and probably slightly dumb) nix config"_ **(1 day ago)**
 - [`zera`](https://github.com/taciturnaxolotl/zera) - _"my new site v4?"_ **(1 day ago)**
 - [`dappeled`](https://github.com/taciturnaxolotl/dappeled) - _"The Spotify to Apple Music converter that doesn't cost your firstborn child 🍏"_ **(3 days ago)**
-- [`juiceGame`](https://github.com/felixgao-0/juiceGame) - _"name is a bit of a wip lol :pf:"_ **(1 week ago)**
 - [`channelping`](https://github.com/taciturnaxolotl/channelping) - _"easily create a ping group for the channel"_ **(1 week ago)**
-- [`juice`](https://github.com/hackclub/juice) - _"🧃 2 month game jam followed by popup cafe in Shanghai, China"_ **(1 week ago)**
 - [`carriage`](https://github.com/taciturnaxolotl/carriage) - _"@taciturnaxolotl's repo template"_ **(1 week ago)**
+- [`juiceGame`](https://github.com/felixgao-0/juiceGame) - _"name is a bit of a wip lol :pf:"_ **(1 week ago)**
+- [`juice`](https://github.com/hackclub/juice) - _"🧃 2 month game jam followed by popup cafe in Shanghai, China"_ **(1 week ago)**
 
 #### ⌨️ My latest projects
 
@@ -34,11 +34,11 @@ When I'm not doing school or working on a project, I enjoy flying drones and mak
 
 ```text
 💾 Languages:
-Python         1h 19m 14s   █████████████░░░░░░░░░░░░  51.05%
-Nix            25m 18s      █████░░░░░░░░░░░░░░░░░░░░  16.30%
-Markdown       13m 58s      ███░░░░░░░░░░░░░░░░░░░░░░  9.00%
-Java           9m 26s       ██░░░░░░░░░░░░░░░░░░░░░░░  6.08%
-java           5m 48s       █░░░░░░░░░░░░░░░░░░░░░░░░  3.74%
+Python         2h 5m 35s   ████████████████░░░░░░░░░  60.37%
+Nix            25m 18s     ████░░░░░░░░░░░░░░░░░░░░░  12.16%
+Markdown       13m 58s     ██░░░░░░░░░░░░░░░░░░░░░░░  6.71%
+Java           9m 26s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.53%
+python         7m 16s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.49%
 ```
 
 #### 📮 Want to Contact me?
