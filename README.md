@@ -20,13 +20,13 @@ When I'm not doing school or working on a project, I enjoy flying drones and mak
 - [`bundom`](https://github.com/taciturnaxolotl/bundom) - _"the pixel swarm shall conquer"_
 - [`miako`](https://github.com/taciturnaxolotl/miako) - _"a magical adventure awaits you"_
 
-#### ✒️ my latest blog posts
+#### 🗒️ the latest posts from my blog
 
-- [`I am pixel destroyer of matrices #swarm`](https://www.youtube.com/watch?v=bh3vvy5NyKg) **(1 month ago)**
+- [`My life story in tech so far ig 🤷`](https://dunkirk.sh/blog/my-life-story-with-tech/) **(1 day ago)**
 
-- [`I got bored #3dprinting`](https://www.youtube.com/watch?v=59f5n1NeItE) **(1 month ago)**
+- [`Hilton Tomfoolery`](https://dunkirk.sh/blog/hilton-tomfoolery/) **(3 months ago)**
 
-- [`A Matrix that couldn't play`](https://www.youtube.com/watch?v=NodwjZF7uZw) **(3 months ago)**
+- [`Test Post`](https://dunkirk.sh/blog/test-post/) **(3 months ago)**
 
 
 
@@ -34,11 +34,11 @@ When I'm not doing school or working on a project, I enjoy flying drones and mak
 
 ```text
 💾 Languages:
-Python         26m 48s   ███████░░░░░░░░░░░░░░░░░░  27.44%
-Nix            25m 18s   ███████░░░░░░░░░░░░░░░░░░  25.91%
-Markdown       10m 58s   ███░░░░░░░░░░░░░░░░░░░░░░  11.23%
-Java           8m 38s    ███░░░░░░░░░░░░░░░░░░░░░░  8.84%
-java           5m 54s    ██░░░░░░░░░░░░░░░░░░░░░░░  6.04%
+Python         26m 48s   ████████░░░░░░░░░░░░░░░░░  28.85%
+Nix            25m 18s   ███████░░░░░░░░░░░░░░░░░░  27.24%
+Java           8m 38s    ███░░░░░░░░░░░░░░░░░░░░░░  9.29%
+Markdown       8m 12s    ███░░░░░░░░░░░░░░░░░░░░░░  8.83%
+java           5m 54s    ██░░░░░░░░░░░░░░░░░░░░░░░  6.35%
 ```
 
 #### 📮 Want to Contact me?
