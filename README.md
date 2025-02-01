@@ -5,13 +5,13 @@ When I'm not doing school or working on a project, I enjoy flying drones and mak
 #### 👷 The latest repos i've pushed to
 
 - [`neon`](https://github.com/taciturnaxolotl/neon) - _"The bulbs glow a distinctive amber. It's like nostalgia but for something you never had. "_ **(today)**
-- [`dots`](https://github.com/taciturnaxolotl/dots) - _"Kieran's opinionated (and probably slightly dumb) nix config"_ **(1 day ago)**
+- [`2025-reefscape`](https://github.com/df1317/2025-reefscape) - _"it's not a water game but it will do"_ **(today)**
 - [`zera`](https://github.com/taciturnaxolotl/zera) - _"my new site v4?"_ **(1 day ago)**
+- [`dots`](https://github.com/taciturnaxolotl/dots) - _"Kieran's opinionated (and probably slightly dumb) nix config"_ **(1 day ago)**
 - [`dappeled`](https://github.com/taciturnaxolotl/dappeled) - _"The Spotify to Apple Music converter that doesn't cost your firstborn child 🍏"_ **(3 days ago)**
-- [`channelping`](https://github.com/taciturnaxolotl/channelping) - _"easily create a ping group for the channel"_ **(1 week ago)**
 - [`carriage`](https://github.com/taciturnaxolotl/carriage) - _"@taciturnaxolotl's repo template"_ **(1 week ago)**
+- [`channelping`](https://github.com/taciturnaxolotl/channelping) - _"easily create a ping group for the channel"_ **(1 week ago)**
 - [`juiceGame`](https://github.com/felixgao-0/juiceGame) - _"name is a bit of a wip lol :pf:"_ **(1 week ago)**
-- [`juice`](https://github.com/hackclub/juice) - _"🧃 2 month game jam followed by popup cafe in Shanghai, China"_ **(1 week ago)**
 
 #### ⌨️ My latest projects
 
@@ -34,11 +34,11 @@ When I'm not doing school or working on a project, I enjoy flying drones and mak
 
 ```text
 💾 Languages:
-Python         3h 21m 20s   █████████████████░░░░░░░░  65.47%
-Nix            25m 18s      ███░░░░░░░░░░░░░░░░░░░░░░  8.23%
-Markdown       22m 37s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.35%
-python         10m 23s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.38%
-Java           9m 26s       █░░░░░░░░░░░░░░░░░░░░░░░░  3.07%
+Python         3h 21m 20s   ████████████████░░░░░░░░░  63.97%
+Nix            25m 18s      ███░░░░░░░░░░░░░░░░░░░░░░  8.04%
+Markdown       22m 37s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.19%
+Java           11m 30s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.65%
+python         10m 25s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.31%
 ```
 
 #### 📮 Want to Contact me?
