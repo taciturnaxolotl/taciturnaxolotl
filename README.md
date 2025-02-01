@@ -4,21 +4,21 @@ When I'm not doing school or working on a project, I enjoy flying drones and mak
 
 #### 👷 The latest repos i've pushed to
 
+- [`neon`](https://github.com/taciturnaxolotl/neon) - _"The bulbs glow a distinctive amber. It's like nostalgia but for something you never had. "_ **(today)**
 - [`zera`](https://github.com/taciturnaxolotl/zera) - _"my new site v4?"_ **(1 day ago)**
 - [`dots`](https://github.com/taciturnaxolotl/dots) - _"Kieran's opinionated (and probably slightly dumb) nix config"_ **(1 day ago)**
 - [`dappeled`](https://github.com/taciturnaxolotl/dappeled) - _"The Spotify to Apple Music converter that doesn't cost your firstborn child 🍏"_ **(3 days ago)**
-- [`channelping`](https://github.com/taciturnaxolotl/channelping) - _"easily create a ping group for the channel"_ **(1 week ago)**
 - [`juiceGame`](https://github.com/felixgao-0/juiceGame) - _"name is a bit of a wip lol :pf:"_ **(1 week ago)**
+- [`channelping`](https://github.com/taciturnaxolotl/channelping) - _"easily create a ping group for the channel"_ **(1 week ago)**
 - [`carriage`](https://github.com/taciturnaxolotl/carriage) - _"@taciturnaxolotl's repo template"_ **(1 week ago)**
-- [`cachet`](https://github.com/taciturnaxolotl/cachet) - _"a cache for slack profile pictures and emojis"_ **(1 week ago)**
-- [`pirateship-api`](https://github.com/taciturnaxolotl/pirateship-api) - _"the pirateship api - typed"_ **(1 week ago)**
+- [`juice`](https://github.com/hackclub/juice) - _"🧃 2 month game jam followed by popup cafe in Shanghai, China"_ **(1 week ago)**
 
 #### ⌨️ My latest projects
 
+- [`neon`](https://github.com/taciturnaxolotl/neon) - _"The bulbs glow a distinctive amber. It's like nostalgia but for something you never had. "_
 - [`isbns`](https://github.com/taciturnaxolotl/isbns) - _"how do ISBNs work really?"_
 - [`dappeled`](https://github.com/taciturnaxolotl/dappeled) - _"The Spotify to Apple Music converter that doesn't cost your firstborn child 🍏"_
 - [`bundom`](https://github.com/taciturnaxolotl/bundom) - _"the pixel swarm shall conquer"_
-- [`miako`](https://github.com/taciturnaxolotl/miako) - _"a magical adventure awaits you"_
 
 #### 🗒️ the latest posts from my [blog](https://dunkirk.sh)
 
@@ -34,11 +34,11 @@ When I'm not doing school or working on a project, I enjoy flying drones and mak
 
 ```text
 💾 Languages:
-Python         26m 48s   ████████░░░░░░░░░░░░░░░░░  31.96%
-Nix            25m 18s   ████████░░░░░░░░░░░░░░░░░  30.17%
-Java           9m 26s    ███░░░░░░░░░░░░░░░░░░░░░░  11.25%
-java           5m 48s    ██░░░░░░░░░░░░░░░░░░░░░░░  6.92%
-Aseprite       5m 2s     ██░░░░░░░░░░░░░░░░░░░░░░░  6.00%
+Python         28m 51s   ████████░░░░░░░░░░░░░░░░░  28.61%
+Nix            25m 18s   ███████░░░░░░░░░░░░░░░░░░  25.09%
+Markdown       10m 35s   ███░░░░░░░░░░░░░░░░░░░░░░  10.50%
+Java           9m 26s    ███░░░░░░░░░░░░░░░░░░░░░░  9.36%
+java           5m 48s    ██░░░░░░░░░░░░░░░░░░░░░░░  5.75%
 ```
 
 #### 📮 Want to Contact me?
