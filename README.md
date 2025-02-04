@@ -4,20 +4,20 @@ When I'm not doing school or working on a project, I enjoy flying drones and mak
 
 #### 👷 The latest repos i've pushed to
 
+- [`2025-reefscape`](https://github.com/df1317/2025-reefscape) - _"it's not a water game but it will do"_ **(today)**
 - [`zera`](https://github.com/taciturnaxolotl/zera) - _"my new site v4?"_ **(1 day ago)**
 - [`dots`](https://github.com/taciturnaxolotl/dots) - _"Kieran's opinionated (and probably slightly dumb) nix config"_ **(1 day ago)**
-- [`2025-reefscape`](https://github.com/df1317/2025-reefscape) - _"it's not a water game but it will do"_ **(3 days ago)**
-- [`charming-slack`](https://github.com/taciturnaxolotl/charming-slack) - _"A cool slack over ssh project with a pretty bubbletea tui"_ **(3 days ago)**
 - [`neon`](https://github.com/taciturnaxolotl/neon) - _"The bulbs glow a distinctive amber. It's like nostalgia but for something you never had. "_ **(3 days ago)**
-- [`dappeled`](https://github.com/taciturnaxolotl/dappeled) - _"The Spotify to Apple Music converter that doesn't cost your firstborn child 🍏"_ **(6 days ago)**
-- [`channelping`](https://github.com/taciturnaxolotl/channelping) - _"easily create a ping group for the channel"_ **(1 week ago)**
+- [`charming-slack`](https://github.com/taciturnaxolotl/charming-slack) - _"A cool slack over ssh project with a pretty bubbletea tui"_ **(3 days ago)**
+- [`dappled`](https://github.com/taciturnaxolotl/dappled) - _"The Spotify to Apple Music converter that doesn't cost your firstborn child 🍏"_ **(6 days ago)**
 - [`carriage`](https://github.com/taciturnaxolotl/carriage) - _"@taciturnaxolotl's repo template"_ **(1 week ago)**
+- [`channelping`](https://github.com/taciturnaxolotl/channelping) - _"easily create a ping group for the channel"_ **(1 week ago)**
 
 #### ⌨️ My latest projects
 
 - [`neon`](https://github.com/taciturnaxolotl/neon) - _"The bulbs glow a distinctive amber. It's like nostalgia but for something you never had. "_
 - [`isbns`](https://github.com/taciturnaxolotl/isbns) - _"how do ISBNs work really?"_
-- [`dappeled`](https://github.com/taciturnaxolotl/dappeled) - _"The Spotify to Apple Music converter that doesn't cost your firstborn child 🍏"_
+- [`dappled`](https://github.com/taciturnaxolotl/dappled) - _"The Spotify to Apple Music converter that doesn't cost your firstborn child 🍏"_
 - [`bundom`](https://github.com/taciturnaxolotl/bundom) - _"the pixel swarm shall conquer"_
 
 #### 🗒️ the latest posts from my [blog](https://dunkirk.sh)
@@ -34,11 +34,11 @@ When I'm not doing school or working on a project, I enjoy flying drones and mak
 
 ```text
 💾 Languages:
-Python         2h 54m 32s   ████████████░░░░░░░░░░░░░  46.27%
-Java           1h 0m 25s    █████░░░░░░░░░░░░░░░░░░░░  16.02%
-Markdown       28m 42s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.61%
-Nix            25m 18s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.71%
-java           15m 32s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.12%
+Python         2h 54m 32s   ████████████░░░░░░░░░░░░░  46.00%
+Java           1h 0m 25s    ████░░░░░░░░░░░░░░░░░░░░░  15.92%
+Markdown       28m 42s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.56%
+Nix            25m 18s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.67%
+java           15m 32s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.09%
 ```
 
 #### 📮 Want to Contact me?
