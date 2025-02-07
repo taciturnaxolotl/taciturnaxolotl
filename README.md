@@ -4,27 +4,27 @@ When I'm not doing school or working on a project, I enjoy flying drones and mak
 
 #### 👷 The latest repos i've pushed to
 
-- [`zera`](https://github.com/taciturnaxolotl/zera) - _"my new site v4?"_ **(2 days ago)**
-- [`2025-reefscape`](https://github.com/df1317/2025-reefscape) - _"it's not a water game but it will do"_ **(2 days ago)**
-- [`dots`](https://github.com/taciturnaxolotl/dots) - _"Kieran's opinionated (and probably slightly dumb) nix config"_ **(2 days ago)**
-- [`dappled`](https://github.com/taciturnaxolotl/dappled) - _"The Spotify to Apple Music converter that doesn't cost your firstborn child 🍏"_ **(3 days ago)**
-- [`neon`](https://github.com/taciturnaxolotl/neon) - _"The bulbs glow a distinctive amber. It's like nostalgia but for something you never had. "_ **(5 days ago)**
-- [`charming-slack`](https://github.com/taciturnaxolotl/charming-slack) - _"A cool slack over ssh project with a pretty bubbletea tui"_ **(5 days ago)**
-- [`juice`](https://github.com/hackclub/juice) - _"🧃 2 month game jam followed by popup cafe in Shanghai, China"_ **(1 week ago)**
-- [`channelping`](https://github.com/taciturnaxolotl/channelping) - _"easily create a ping group for the channel"_ **(1 week ago)**
+- [`zera`](https://github.com/taciturnaxolotl/zera) - _"my new site v4?"_ **(3 days ago)**
+- [`2025-reefscape`](https://github.com/df1317/2025-reefscape) - _"it's not a water game but it will do"_ **(3 days ago)**
+- [`dots`](https://github.com/taciturnaxolotl/dots) - _"Kieran's opinionated (and probably slightly dumb) nix config"_ **(3 days ago)**
+- [`dappled`](https://github.com/taciturnaxolotl/dappled) - _"The Spotify to Apple Music converter that doesn't cost your firstborn child 🍏"_ **(4 days ago)**
+- [`neon`](https://github.com/taciturnaxolotl/neon) - _"The bulbs glow a distinctive amber. It's like nostalgia but for something you never had. "_ **(6 days ago)**
+- [`charming-slack`](https://github.com/taciturnaxolotl/charming-slack) - _"A cool slack over ssh project with a pretty bubbletea tui"_ **(6 days ago)**
+- [`channelping`](https://github.com/taciturnaxolotl/channelping) - _"easily create a ping group for the channel"_ **(2 weeks ago)**
+- [`carriage`](https://github.com/taciturnaxolotl/carriage) - _"@taciturnaxolotl's repo template"_ **(2 weeks ago)**
 
 #### ⌨️ My latest projects
 
+- [`echelon`](https://github.com/taciturnaxolotl/echelon) - _""_
 - [`neon`](https://github.com/taciturnaxolotl/neon) - _"The bulbs glow a distinctive amber. It's like nostalgia but for something you never had. "_
 - [`isbns`](https://github.com/taciturnaxolotl/isbns) - _"how do ISBNs work really?"_
 - [`dappled`](https://github.com/taciturnaxolotl/dappled) - _"The Spotify to Apple Music converter that doesn't cost your firstborn child 🍏"_
-- [`bundom`](https://github.com/taciturnaxolotl/bundom) - _"the pixel swarm shall conquer"_
 
 #### 🗒️ the latest posts from my [blog](https://dunkirk.sh)
 
-- [`Fixing a degraded zpool on proxmox`](https://dunkirk.sh/blog/degraded-zpool-proxmox/) **(3 days ago)**
+- [`Fixing a degraded zpool on proxmox`](https://dunkirk.sh/blog/degraded-zpool-proxmox/) **(4 days ago)**
 
-- [`My life story in tech so far ig 🤷`](https://dunkirk.sh/blog/my-life-story-with-tech/) **(6 days ago)**
+- [`My life story in tech so far ig 🤷`](https://dunkirk.sh/blog/my-life-story-with-tech/) **(1 week ago)**
 
 - [`Hilton Tomfoolery`](https://dunkirk.sh/blog/hilton-tomfoolery/) **(3 months ago)**
 
@@ -34,11 +34,11 @@ When I'm not doing school or working on a project, I enjoy flying drones and mak
 
 ```text
 💾 Languages:
-Python         2h 54m 32s   ███████████░░░░░░░░░░░░░░  43.99%
-Java           48m 51s      ████░░░░░░░░░░░░░░░░░░░░░  12.31%
-Markdown       32m 16s      ███░░░░░░░░░░░░░░░░░░░░░░  8.13%
-java           21m 42s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.47%
-Nix            19m 13s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.84%
+Python         2h 56m 5s   ███████████░░░░░░░░░░░░░░  42.33%
+Java           40m 13s     ███░░░░░░░░░░░░░░░░░░░░░░  9.67%
+Markdown       32m 16s     ██░░░░░░░░░░░░░░░░░░░░░░░  7.76%
+TypeScript     25m 57s     ██░░░░░░░░░░░░░░░░░░░░░░░  6.24%
+Nix            19m 13s     ██░░░░░░░░░░░░░░░░░░░░░░░  4.62%
 ```
 
 #### 📮 Want to Contact me?
