@@ -4,13 +4,13 @@ When I'm not doing school or working on a project, I enjoy flying drones and mak
 
 #### 👷 The latest repos i've pushed to
 
-- [`dappled`](https://github.com/taciturnaxolotl/dappled) - _"The Spotify to Apple Music converter that doesn't cost your firstborn child 🍏"_ **(3 days ago)**
-- [`echelon`](https://github.com/taciturnaxolotl/echelon) - _""_ **(4 days ago)**
-- [`dots`](https://github.com/taciturnaxolotl/dots) - _"Kieran's opinionated (and probably slightly dumb) nix config"_ **(6 days ago)**
-- [`2025-reefscape`](https://github.com/df1317/2025-reefscape) - _"it's not a water game but it will do"_ **(6 days ago)**
-- [`zera`](https://github.com/taciturnaxolotl/zera) - _"my new site v4?"_ **(6 days ago)**
-- [`charming-slack`](https://github.com/taciturnaxolotl/charming-slack) - _"A cool slack over ssh project with a pretty bubbletea tui"_ **(1 week ago)**
+- [`dappled`](https://github.com/taciturnaxolotl/dappled) - _"The Spotify to Apple Music converter that doesn't cost your firstborn child 🍏"_ **(4 days ago)**
+- [`echelon`](https://github.com/taciturnaxolotl/echelon) - _""_ **(5 days ago)**
+- [`dots`](https://github.com/taciturnaxolotl/dots) - _"Kieran's opinionated (and probably slightly dumb) nix config"_ **(1 week ago)**
+- [`zera`](https://github.com/taciturnaxolotl/zera) - _"my new site v4?"_ **(1 week ago)**
+- [`2025-reefscape`](https://github.com/df1317/2025-reefscape) - _"it's not a water game but it will do"_ **(1 week ago)**
 - [`neon`](https://github.com/taciturnaxolotl/neon) - _"The bulbs glow a distinctive amber. It's like nostalgia but for something you never had. "_ **(1 week ago)**
+- [`charming-slack`](https://github.com/taciturnaxolotl/charming-slack) - _"A cool slack over ssh project with a pretty bubbletea tui"_ **(1 week ago)**
 - [`channelping`](https://github.com/taciturnaxolotl/channelping) - _"easily create a ping group for the channel"_ **(2 weeks ago)**
 
 #### ⌨️ My latest projects
@@ -34,11 +34,11 @@ When I'm not doing school or working on a project, I enjoy flying drones and mak
 
 ```text
 💾 Languages:
-Nix          19m 13s   █████░░░░░░░░░░░░░░░░░░░░  17.10%
-TypeScript   18m 41s   █████░░░░░░░░░░░░░░░░░░░░  16.62%
-Astro        12m 58s   ███░░░░░░░░░░░░░░░░░░░░░░  11.54%
-HTML         8m 43s    ██░░░░░░░░░░░░░░░░░░░░░░░  7.76%
-java         6m 10s    ██░░░░░░░░░░░░░░░░░░░░░░░  5.49%
+Nix          19m 13s   █████░░░░░░░░░░░░░░░░░░░░  16.35%
+TypeScript   18m 41s   ████░░░░░░░░░░░░░░░░░░░░░  15.90%
+Astro        12m 58s   ███░░░░░░░░░░░░░░░░░░░░░░  11.03%
+java         11m 9s    ███░░░░░░░░░░░░░░░░░░░░░░  9.49%
+HTML         8m 43s    ██░░░░░░░░░░░░░░░░░░░░░░░  7.42%
 ```
 
 #### 📮 Want to Contact me?
