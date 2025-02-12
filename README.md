@@ -4,18 +4,18 @@ When I'm not doing school or working on a project, I enjoy flying drones and mak
 
 #### 👷 The latest repos i've pushed to
 
+- [`echelon`](https://github.com/taciturnaxolotl/echelon) - _"fancy slack and bluesky data vis"_ **(today)**
 - [`dappled`](https://github.com/taciturnaxolotl/dappled) - _"The Spotify to Apple Music converter that doesn't cost your firstborn child 🍏"_ **(5 days ago)**
-- [`echelon`](https://github.com/taciturnaxolotl/echelon) - _""_ **(6 days ago)**
+- [`2025-reefscape`](https://github.com/df1317/2025-reefscape) - _"it's not a water game but it will do"_ **(1 week ago)**
 - [`dots`](https://github.com/taciturnaxolotl/dots) - _"Kieran's opinionated (and probably slightly dumb) nix config"_ **(1 week ago)**
 - [`zera`](https://github.com/taciturnaxolotl/zera) - _"my new site v4?"_ **(1 week ago)**
-- [`2025-reefscape`](https://github.com/df1317/2025-reefscape) - _"it's not a water game but it will do"_ **(1 week ago)**
 - [`neon`](https://github.com/taciturnaxolotl/neon) - _"The bulbs glow a distinctive amber. It's like nostalgia but for something you never had. "_ **(1 week ago)**
 - [`charming-slack`](https://github.com/taciturnaxolotl/charming-slack) - _"A cool slack over ssh project with a pretty bubbletea tui"_ **(1 week ago)**
-- [`channelping`](https://github.com/taciturnaxolotl/channelping) - _"easily create a ping group for the channel"_ **(2 weeks ago)**
+- [`juiceGame`](https://github.com/felixgao-0/juiceGame) - _"name is a bit of a wip lol :pf:"_ **(2 weeks ago)**
 
 #### ⌨️ My latest projects
 
-- [`echelon`](https://github.com/taciturnaxolotl/echelon) - _""_
+- [`echelon`](https://github.com/taciturnaxolotl/echelon) - _"fancy slack and bluesky data vis"_
 - [`neon`](https://github.com/taciturnaxolotl/neon) - _"The bulbs glow a distinctive amber. It's like nostalgia but for something you never had. "_
 - [`isbns`](https://github.com/taciturnaxolotl/isbns) - _"how do ISBNs work really?"_
 - [`dappled`](https://github.com/taciturnaxolotl/dappled) - _"The Spotify to Apple Music converter that doesn't cost your firstborn child 🍏"_
@@ -34,11 +34,11 @@ When I'm not doing school or working on a project, I enjoy flying drones and mak
 
 ```text
 💾 Languages:
-Java         1h 17m 25s   ██████████░░░░░░░░░░░░░░░  39.48%
-TypeScript   32m 37s      █████░░░░░░░░░░░░░░░░░░░░  16.63%
-Astro        13m 40s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.97%
-java         12m 24s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.32%
-CSS          8m 5s        ██░░░░░░░░░░░░░░░░░░░░░░░  4.12%
+Java         1h 17m 25s   ████████░░░░░░░░░░░░░░░░░  31.02%
+TypeScript   46m 7s       █████░░░░░░░░░░░░░░░░░░░░  18.48%
+Astro        44m 18s      █████░░░░░░░░░░░░░░░░░░░░  17.75%
+java         12m 24s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.97%
+Markdown     10m 57s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.39%
 ```
 
 #### 📮 Want to Contact me?
