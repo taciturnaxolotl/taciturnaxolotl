@@ -4,7 +4,7 @@ When I'm not doing school or working on a project, I enjoy flying drones and mak
 
 #### 👷 The latest repos i've pushed to
 
-- [`echelon`](https://github.com/taciturnaxolotl/echelon) - _"fancy slack and bluesky data vis"_ **(today)**
+- [`echelon`](https://github.com/taciturnaxolotl/echelon) - _"why is there a volley ball on my head? honestly i'm asking the same question"_ **(today)**
 - [`dappled`](https://github.com/taciturnaxolotl/dappled) - _"The Spotify to Apple Music converter that doesn't cost your firstborn child 🍏"_ **(5 days ago)**
 - [`2025-reefscape`](https://github.com/df1317/2025-reefscape) - _"it's not a water game but it will do"_ **(1 week ago)**
 - [`dots`](https://github.com/taciturnaxolotl/dots) - _"Kieran's opinionated (and probably slightly dumb) nix config"_ **(1 week ago)**
@@ -15,7 +15,7 @@ When I'm not doing school or working on a project, I enjoy flying drones and mak
 
 #### ⌨️ My latest projects
 
-- [`echelon`](https://github.com/taciturnaxolotl/echelon) - _"fancy slack and bluesky data vis"_
+- [`echelon`](https://github.com/taciturnaxolotl/echelon) - _"why is there a volley ball on my head? honestly i'm asking the same question"_
 - [`neon`](https://github.com/taciturnaxolotl/neon) - _"The bulbs glow a distinctive amber. It's like nostalgia but for something you never had. "_
 - [`isbns`](https://github.com/taciturnaxolotl/isbns) - _"how do ISBNs work really?"_
 - [`dappled`](https://github.com/taciturnaxolotl/dappled) - _"The Spotify to Apple Music converter that doesn't cost your firstborn child 🍏"_
