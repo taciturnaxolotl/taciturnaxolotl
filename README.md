@@ -4,8 +4,8 @@ When I'm not doing school or working on a project, I enjoy flying drones and mak
 
 #### 👷 The latest repos i've pushed to
 
-- [`dappled`](https://github.com/taciturnaxolotl/dappled) - _"The Spotify to Apple Music converter that doesn't cost your firstborn child 🍏"_ **(4 days ago)**
-- [`echelon`](https://github.com/taciturnaxolotl/echelon) - _""_ **(5 days ago)**
+- [`dappled`](https://github.com/taciturnaxolotl/dappled) - _"The Spotify to Apple Music converter that doesn't cost your firstborn child 🍏"_ **(5 days ago)**
+- [`echelon`](https://github.com/taciturnaxolotl/echelon) - _""_ **(6 days ago)**
 - [`dots`](https://github.com/taciturnaxolotl/dots) - _"Kieran's opinionated (and probably slightly dumb) nix config"_ **(1 week ago)**
 - [`zera`](https://github.com/taciturnaxolotl/zera) - _"my new site v4?"_ **(1 week ago)**
 - [`2025-reefscape`](https://github.com/df1317/2025-reefscape) - _"it's not a water game but it will do"_ **(1 week ago)**
@@ -34,11 +34,11 @@ When I'm not doing school or working on a project, I enjoy flying drones and mak
 
 ```text
 💾 Languages:
-TypeScript   13m 48s   ███████░░░░░░░░░░░░░░░░░░  25.24%
-java         13m 9s    ███████░░░░░░░░░░░░░░░░░░  24.05%
-HTML         6m 1s     ███░░░░░░░░░░░░░░░░░░░░░░  11.01%
-Java         4m 12s    ██░░░░░░░░░░░░░░░░░░░░░░░  7.68%
-JSON         3m 42s    ██░░░░░░░░░░░░░░░░░░░░░░░  6.77%
+Java         35m 55s   ███████████░░░░░░░░░░░░░░  40.58%
+java         15m 13s   █████░░░░░░░░░░░░░░░░░░░░  17.19%
+TypeScript   13m 48s   ████░░░░░░░░░░░░░░░░░░░░░  15.59%
+HTML         6m 1s     ██░░░░░░░░░░░░░░░░░░░░░░░  6.80%
+JSON         3m 42s    ██░░░░░░░░░░░░░░░░░░░░░░░  4.18%
 ```
 
 #### 📮 Want to Contact me?
