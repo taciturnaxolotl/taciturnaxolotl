@@ -23,6 +23,8 @@ When I'm not doing school or working on a project, I enjoy flying drones and mak
 ```text
 💾 Languages:
 {{ wakatimeData.Languages | wakatimeCategoryBar 5 }}
+
+Total: {{ wakatimeData.HumanReadableTotal }}
 ```
 
 #### 📮 Want to Contact me?
