@@ -4,7 +4,7 @@ When I'm not doing school or working on a project, I enjoy flying drones and mak
 
 #### 👷 The latest repos i've pushed to
 
-- [`2024-crescendo`](https://github.com/df1317/2024-crescendo) - _""_ **(today)**
+- [`2024-crescendo`](https://github.com/df1317/2024-crescendo) - _"no sorry; the orange dust isn't from cheetos :("_ **(today)**
 - [`echelon`](https://github.com/taciturnaxolotl/echelon) - _"why is there a volley ball on my head? honestly i'm asking the same question"_ **(2 days ago)**
 - [`dots`](https://github.com/taciturnaxolotl/dots) - _"Kieran's opinionated (and probably slightly dumb) nix config"_ **(2 days ago)**
 - [`dappled`](https://github.com/taciturnaxolotl/dappled) - _"The Spotify to Apple Music converter that doesn't cost your firstborn child 🍏"_ **(1 week ago)**
@@ -15,10 +15,10 @@ When I'm not doing school or working on a project, I enjoy flying drones and mak
 
 #### ⌨️ My latest projects
 
+- [`quant`](https://github.com/taciturnaxolotl/quant) - _""_
 - [`echelon`](https://github.com/taciturnaxolotl/echelon) - _"why is there a volley ball on my head? honestly i'm asking the same question"_
 - [`neon`](https://github.com/taciturnaxolotl/neon) - _"The bulbs glow a distinctive amber. It's like nostalgia but for something you never had. "_
 - [`isbns`](https://github.com/taciturnaxolotl/isbns) - _"how do ISBNs work really?"_
-- [`dappled`](https://github.com/taciturnaxolotl/dappled) - _"The Spotify to Apple Music converter that doesn't cost your firstborn child 🍏"_
 
 #### 🗒️ the latest posts from my [blog](https://dunkirk.sh)
 
@@ -34,11 +34,11 @@ When I'm not doing school or working on a project, I enjoy flying drones and mak
 
 ```text
 💾 Languages:
-Java         1h 39m 31s   ███████████░░░░░░░░░░░░░░  40.71%
-Astro        44m 19s      █████░░░░░░░░░░░░░░░░░░░░  18.13%
-TypeScript   34m 24s      ████░░░░░░░░░░░░░░░░░░░░░  14.07%
-java         16m 25s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.72%
-Markdown     10m 57s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.48%
+Java         2h 2m 58s   ████████████░░░░░░░░░░░░░  45.14%
+Astro        44m 19s     █████░░░░░░░░░░░░░░░░░░░░  16.27%
+TypeScript   34m 24s     ████░░░░░░░░░░░░░░░░░░░░░  12.63%
+java         16m 38s     ██░░░░░░░░░░░░░░░░░░░░░░░  6.11%
+Markdown     14m 23s     ██░░░░░░░░░░░░░░░░░░░░░░░  5.28%
 ```
 
 #### 📮 Want to Contact me?
