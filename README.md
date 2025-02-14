@@ -4,18 +4,18 @@ When I'm not doing school or working on a project, I enjoy flying drones and mak
 
 #### 👷 The latest repos i've pushed to
 
+- [`.github`](https://github.com/thepurplebubble/.github) - _""_ **(today)**
+- [`quant`](https://github.com/taciturnaxolotl/quant) - _"a calculator pad? surely thats crazy"_ **(today)**
 - [`2024-crescendo`](https://github.com/df1317/2024-crescendo) - _"no sorry; the orange dust isn't from cheetos :("_ **(today)**
-- [`echelon`](https://github.com/taciturnaxolotl/echelon) - _"why is there a volley ball on my head? honestly i'm asking the same question"_ **(2 days ago)**
 - [`dots`](https://github.com/taciturnaxolotl/dots) - _"Kieran's opinionated (and probably slightly dumb) nix config"_ **(2 days ago)**
+- [`echelon`](https://github.com/taciturnaxolotl/echelon) - _"why is there a volley ball on my head? honestly i'm asking the same question"_ **(2 days ago)**
 - [`dappled`](https://github.com/taciturnaxolotl/dappled) - _"The Spotify to Apple Music converter that doesn't cost your firstborn child 🍏"_ **(1 week ago)**
 - [`2025-reefscape`](https://github.com/df1317/2025-reefscape) - _"it's not a water game but it will do"_ **(1 week ago)**
 - [`zera`](https://github.com/taciturnaxolotl/zera) - _"my new site v4?"_ **(1 week ago)**
-- [`neon`](https://github.com/taciturnaxolotl/neon) - _"The bulbs glow a distinctive amber. It's like nostalgia but for something you never had. "_ **(1 week ago)**
-- [`charming-slack`](https://github.com/taciturnaxolotl/charming-slack) - _"A cool slack over ssh project with a pretty bubbletea tui"_ **(1 week ago)**
 
 #### ⌨️ My latest projects
 
-- [`quant`](https://github.com/taciturnaxolotl/quant) - _""_
+- [`quant`](https://github.com/taciturnaxolotl/quant) - _"a calculator pad? surely thats crazy"_
 - [`echelon`](https://github.com/taciturnaxolotl/echelon) - _"why is there a volley ball on my head? honestly i'm asking the same question"_
 - [`neon`](https://github.com/taciturnaxolotl/neon) - _"The bulbs glow a distinctive amber. It's like nostalgia but for something you never had. "_
 - [`isbns`](https://github.com/taciturnaxolotl/isbns) - _"how do ISBNs work really?"_
@@ -34,11 +34,11 @@ When I'm not doing school or working on a project, I enjoy flying drones and mak
 
 ```text
 💾 Languages:
-Java         2h 2m 58s   ████████████░░░░░░░░░░░░░  45.14%
-Astro        44m 19s     █████░░░░░░░░░░░░░░░░░░░░  16.27%
-TypeScript   34m 24s     ████░░░░░░░░░░░░░░░░░░░░░  12.63%
-java         16m 38s     ██░░░░░░░░░░░░░░░░░░░░░░░  6.11%
-Markdown     14m 23s     ██░░░░░░░░░░░░░░░░░░░░░░░  5.28%
+Java         2h 2m 58s   ████████████░░░░░░░░░░░░░  44.37%
+Astro        44m 19s     ████░░░░░░░░░░░░░░░░░░░░░  15.99%
+TypeScript   34m 24s     ████░░░░░░░░░░░░░░░░░░░░░  12.41%
+Markdown     19m 6s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.89%
+java         16m 38s     ██░░░░░░░░░░░░░░░░░░░░░░░  6.00%
 ```
 
 #### 📮 Want to Contact me?
