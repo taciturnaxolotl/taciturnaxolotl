@@ -4,9 +4,9 @@ When I'm not doing school or working on a project, I enjoy flying drones and mak
 
 #### 👷 The latest repos i've pushed to
 
-- [`.github`](https://github.com/thepurplebubble/.github) - _""_ **(today)**
-- [`quant`](https://github.com/taciturnaxolotl/quant) - _"a calculator pad? surely thats crazy"_ **(today)**
 - [`2024-crescendo`](https://github.com/df1317/2024-crescendo) - _"no sorry; the orange dust isn't from cheetos :("_ **(today)**
+- [`quant`](https://github.com/taciturnaxolotl/quant) - _"a calculator pad? surely thats crazy"_ **(today)**
+- [`.github`](https://github.com/thepurplebubble/.github) - _""_ **(today)**
 - [`dots`](https://github.com/taciturnaxolotl/dots) - _"Kieran's opinionated (and probably slightly dumb) nix config"_ **(2 days ago)**
 - [`echelon`](https://github.com/taciturnaxolotl/echelon) - _"why is there a volley ball on my head? honestly i'm asking the same question"_ **(2 days ago)**
 - [`dappled`](https://github.com/taciturnaxolotl/dappled) - _"The Spotify to Apple Music converter that doesn't cost your firstborn child 🍏"_ **(1 week ago)**
@@ -34,11 +34,11 @@ When I'm not doing school or working on a project, I enjoy flying drones and mak
 
 ```text
 💾 Languages:
-Java         2h 2m 58s   ████████████░░░░░░░░░░░░░  44.05%
-Astro        44m 19s     ████░░░░░░░░░░░░░░░░░░░░░  15.88%
-TypeScript   34m 24s     ████░░░░░░░░░░░░░░░░░░░░░  12.32%
-Markdown     21m 6s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.56%
-java         16m 38s     ██░░░░░░░░░░░░░░░░░░░░░░░  5.96%
+Java         2h 2m 58s   ███████████░░░░░░░░░░░░░░  42.43%
+Astro        44m 19s     ████░░░░░░░░░░░░░░░░░░░░░  15.29%
+TypeScript   34m 24s     ███░░░░░░░░░░░░░░░░░░░░░░  11.87%
+Markdown     30m 57s     ███░░░░░░░░░░░░░░░░░░░░░░  10.68%
+java         16m 38s     ██░░░░░░░░░░░░░░░░░░░░░░░  5.74%
 ```
 
 #### 📮 Want to Contact me?
