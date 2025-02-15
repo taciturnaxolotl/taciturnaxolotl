@@ -4,11 +4,11 @@ When I'm not doing school or working on a project, I enjoy flying drones and mak
 
 #### 👷 The latest repos i've pushed to
 
+- [`dots`](https://github.com/taciturnaxolotl/dots) - _"Kieran's opinionated (and probably slightly dumb) nix config"_ **(today)**
+- [`2025-reefscape`](https://github.com/df1317/2025-reefscape) - _"it's not a water game but it will do"_ **(today)**
 - [`quant`](https://github.com/taciturnaxolotl/quant) - _"a calculator pad? surely thats crazy"_ **(today)**
 - [`.github`](https://github.com/thepurplebubble/.github) - _""_ **(1 day ago)**
 - [`2024-crescendo`](https://github.com/df1317/2024-crescendo) - _"no sorry; the orange dust isn't from cheetos :("_ **(1 day ago)**
-- [`2025-reefscape`](https://github.com/df1317/2025-reefscape) - _"it's not a water game but it will do"_ **(2 days ago)**
-- [`dots`](https://github.com/taciturnaxolotl/dots) - _"Kieran's opinionated (and probably slightly dumb) nix config"_ **(3 days ago)**
 - [`echelon`](https://github.com/taciturnaxolotl/echelon) - _"why is there a volley ball on my head? honestly i'm asking the same question"_ **(3 days ago)**
 - [`dappled`](https://github.com/taciturnaxolotl/dappled) - _"The Spotify to Apple Music converter that doesn't cost your firstborn child 🍏"_ **(1 week ago)**
 - [`zera`](https://github.com/taciturnaxolotl/zera) - _"my new site v4?"_ **(1 week ago)**
@@ -34,13 +34,13 @@ When I'm not doing school or working on a project, I enjoy flying drones and mak
 
 ```text
 💾 Languages:
-Java           2h 20m 18s   ████████░░░░░░░░░░░░░░░░░  31.03%
-TypeScript     1h 28m 15s   █████░░░░░░░░░░░░░░░░░░░░  19.52%
-Markdown       49m 48s      ███░░░░░░░░░░░░░░░░░░░░░░  11.01%
-Astro          42m 19s      ███░░░░░░░░░░░░░░░░░░░░░░  9.36%
-Python         22m 41s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.02%
+Java           2h 23m 11s   ████████░░░░░░░░░░░░░░░░░  31.12%
+TypeScript     1h 28m 15s   █████░░░░░░░░░░░░░░░░░░░░  19.18%
+Markdown       49m 48s      ███░░░░░░░░░░░░░░░░░░░░░░  10.82%
+Astro          42m 19s      ███░░░░░░░░░░░░░░░░░░░░░░  9.20%
+Python         22m 41s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.93%
 
-Total: 7 hrs 32 mins
+Total: 7 hrs 40 mins
 ```
 
 #### 📮 Want to Contact me?
