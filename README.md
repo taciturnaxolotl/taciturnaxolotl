@@ -4,14 +4,14 @@ When I'm not doing school or working on a project, I enjoy flying drones and mak
 
 #### 👷 The latest repos i've pushed to
 
-- [`dots`](https://github.com/taciturnaxolotl/dots) - _"Kieran's opinionated (and probably slightly dumb) nix config"_ **(today)**
-- [`quant`](https://github.com/taciturnaxolotl/quant) - _"a calculator pad? surely thats crazy"_ **(today)**
-- [`2025-reefscape`](https://github.com/df1317/2025-reefscape) - _"it's not a water game but it will do"_ **(today)**
-- [`2024-crescendo`](https://github.com/df1317/2024-crescendo) - _"no sorry; the orange dust isn't from cheetos :("_ **(1 day ago)**
-- [`.github`](https://github.com/thepurplebubble/.github) - _""_ **(1 day ago)**
-- [`echelon`](https://github.com/taciturnaxolotl/echelon) - _"why is there a volley ball on my head? honestly i'm asking the same question"_ **(3 days ago)**
+- [`2025-reefscape`](https://github.com/df1317/2025-reefscape) - _"it's not a water game but it will do"_ **(1 day ago)**
+- [`zera`](https://github.com/taciturnaxolotl/zera) - _"my new site v4?"_ **(1 day ago)**
+- [`quant`](https://github.com/taciturnaxolotl/quant) - _"a calculator pad? surely thats crazy"_ **(1 day ago)**
+- [`dots`](https://github.com/taciturnaxolotl/dots) - _"Kieran's opinionated (and probably slightly dumb) nix config"_ **(1 day ago)**
+- [`.github`](https://github.com/thepurplebubble/.github) - _""_ **(2 days ago)**
+- [`2024-crescendo`](https://github.com/df1317/2024-crescendo) - _"no sorry; the orange dust isn't from cheetos :("_ **(2 days ago)**
+- [`echelon`](https://github.com/taciturnaxolotl/echelon) - _"why is there a volley ball on my head? honestly i'm asking the same question"_ **(4 days ago)**
 - [`dappled`](https://github.com/taciturnaxolotl/dappled) - _"The Spotify to Apple Music converter that doesn't cost your firstborn child 🍏"_ **(1 week ago)**
-- [`zera`](https://github.com/taciturnaxolotl/zera) - _"my new site v4?"_ **(1 week ago)**
 
 #### ⌨️ My latest projects
 
@@ -22,11 +22,11 @@ When I'm not doing school or working on a project, I enjoy flying drones and mak
 
 #### 🗒️ the latest posts from my [blog](https://dunkirk.sh)
 
+- [`Removing exif data from images via a pre-commit hook`](https://dunkirk.sh/blog/remove-exif-git-hook/) **(1 day ago)**
+
 - [`Fixing a degraded zpool on proxmox`](https://dunkirk.sh/blog/degraded-zpool-proxmox/) **(1 week ago)**
 
 - [`My life story in tech so far ig 🤷`](https://dunkirk.sh/blog/my-life-story-with-tech/) **(2 weeks ago)**
-
-- [`Hilton Tomfoolery`](https://dunkirk.sh/blog/hilton-tomfoolery/) **(4 months ago)**
 
 
 
@@ -34,13 +34,13 @@ When I'm not doing school or working on a project, I enjoy flying drones and mak
 
 ```text
 💾 Languages:
-Java           2h 39m 50s   █████████░░░░░░░░░░░░░░░░  33.52%
-TypeScript     1h 28m 15s   █████░░░░░░░░░░░░░░░░░░░░  18.51%
-Markdown       49m 48s      ███░░░░░░░░░░░░░░░░░░░░░░  10.44%
-Astro          42m 19s      ███░░░░░░░░░░░░░░░░░░░░░░  8.87%
-Python         22m 41s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.76%
+Java           2h 42m 37s   █████████░░░░░░░░░░░░░░░░  33.72%
+TypeScript     1h 28m 16s   █████░░░░░░░░░░░░░░░░░░░░  18.30%
+Markdown       49m 48s      ███░░░░░░░░░░░░░░░░░░░░░░  10.33%
+Astro          42m 19s      ███░░░░░░░░░░░░░░░░░░░░░░  8.77%
+Python         22m 41s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.70%
 
-Total: 7 hrs 57 mins
+Total: 8 hrs 2 mins
 ```
 
 #### 📮 Want to Contact me?
