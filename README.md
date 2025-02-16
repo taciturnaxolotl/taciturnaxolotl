@@ -9,8 +9,8 @@ When I'm not doing school or working on a project, I enjoy flying drones and mak
 - [`2025-reefscape`](https://github.com/df1317/2025-reefscape) - _"it's not a water game but it will do"_ **(1 day ago)**
 - [`zera`](https://github.com/taciturnaxolotl/zera) - _"my new site v4?"_ **(1 day ago)**
 - [`quant`](https://github.com/taciturnaxolotl/quant) - _"a calculator pad? surely thats crazy"_ **(1 day ago)**
-- [`.github`](https://github.com/thepurplebubble/.github) - _""_ **(2 days ago)**
 - [`2024-crescendo`](https://github.com/df1317/2024-crescendo) - _"no sorry; the orange dust isn't from cheetos :("_ **(2 days ago)**
+- [`.github`](https://github.com/thepurplebubble/.github) - _""_ **(2 days ago)**
 - [`dappled`](https://github.com/taciturnaxolotl/dappled) - _"The Spotify to Apple Music converter that doesn't cost your firstborn child 🍏"_ **(1 week ago)**
 
 #### ⌨️ My latest projects
@@ -34,13 +34,13 @@ When I'm not doing school or working on a project, I enjoy flying drones and mak
 
 ```text
 💾 Languages:
-Java           2h 42m 37s   ███████░░░░░░░░░░░░░░░░░░  27.78%
-TypeScript     1h 53m 24s   █████░░░░░░░░░░░░░░░░░░░░  19.37%
-Astro          1h 30m 18s   ████░░░░░░░░░░░░░░░░░░░░░  15.43%
-Markdown       49m 48s      ███░░░░░░░░░░░░░░░░░░░░░░  8.51%
-Bash           26m 17s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.49%
+Java           2h 42m 37s   ███████░░░░░░░░░░░░░░░░░░  25.81%
+TypeScript     2h 6m 41s    ██████░░░░░░░░░░░░░░░░░░░  20.11%
+Astro          1h 56m 10s   █████░░░░░░░░░░░░░░░░░░░░  18.44%
+Markdown       53m 50s      ███░░░░░░░░░░░░░░░░░░░░░░  8.54%
+Bash           26m 49s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.26%
 
-Total: 9 hrs 45 mins
+Total: 10 hrs 30 mins
 ```
 
 #### 📮 Want to Contact me?
