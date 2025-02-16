@@ -22,7 +22,7 @@ When I'm not doing school or working on a project, I enjoy flying drones and mak
 
 #### 🗒️ the latest posts from my [blog](https://dunkirk.sh)
 
-- [`Removing exif data from images via a pre-commit hook`](https://dunkirk.sh/blog/remove-exif-git-hook/) **(1 day ago)**
+- [`Cleaning exif data with git pre-commit`](https://dunkirk.sh/blog/remove-exif-git-hook/) **(1 day ago)**
 
 - [`Fixing a degraded zpool on proxmox`](https://dunkirk.sh/blog/degraded-zpool-proxmox/) **(1 week ago)**
 
@@ -34,13 +34,13 @@ When I'm not doing school or working on a project, I enjoy flying drones and mak
 
 ```text
 💾 Languages:
-Java           2h 42m 37s   █████████░░░░░░░░░░░░░░░░  33.72%
-TypeScript     1h 28m 16s   █████░░░░░░░░░░░░░░░░░░░░  18.30%
-Markdown       49m 48s      ███░░░░░░░░░░░░░░░░░░░░░░  10.33%
-Astro          42m 19s      ███░░░░░░░░░░░░░░░░░░░░░░  8.77%
-Python         22m 41s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.70%
+Java           2h 42m 37s   ████████░░░░░░░░░░░░░░░░░  31.67%
+TypeScript     1h 34m 0s    █████░░░░░░░░░░░░░░░░░░░░  18.31%
+Markdown       49m 48s      ███░░░░░░░░░░░░░░░░░░░░░░  9.70%
+Astro          42m 19s      ███░░░░░░░░░░░░░░░░░░░░░░  8.24%
+Bash           26m 17s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.12%
 
-Total: 8 hrs 2 mins
+Total: 8 hrs 34 mins
 ```
 
 #### 📮 Want to Contact me?
