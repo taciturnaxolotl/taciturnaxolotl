@@ -5,11 +5,11 @@ When I'm not doing school or working on a project, I enjoy flying drones and mak
 #### 👷 The latest repos i've pushed to
 
 - [`dots`](https://github.com/taciturnaxolotl/dots) - _"Kieran's opinionated (and probably slightly dumb) nix config"_ **(today)**
+- [`zera`](https://github.com/taciturnaxolotl/zera) - _"my new site v4?"_ **(today)**
 - [`juiceGame`](https://github.com/felixgao-0/juiceGame) - _"name is a bit of a wip lol :pf:"_ **(2 days ago)**
 - [`quant`](https://github.com/taciturnaxolotl/quant) - _"a calculator pad? surely thats crazy"_ **(2 days ago)**
 - [`echelon`](https://github.com/taciturnaxolotl/echelon) - _"why is there a volley ball on my head? honestly i'm asking the same question"_ **(2 days ago)**
 - [`2025-reefscape`](https://github.com/df1317/2025-reefscape) - _"it's not a water game but it will do"_ **(3 days ago)**
-- [`zera`](https://github.com/taciturnaxolotl/zera) - _"my new site v4?"_ **(3 days ago)**
 - [`hackpad`](https://github.com/hackclub/hackpad) - _"A macropad (mini-keyboard) You Ship, We Ship (YSWS) by Hack Club. Solely maintained by @qcoral"_ **(3 days ago)**
 - [`.github`](https://github.com/thepurplebubble/.github) - _""_ **(4 days ago)**
 
@@ -34,13 +34,13 @@ When I'm not doing school or working on a project, I enjoy flying drones and mak
 
 ```text
 💾 Languages:
-Java           3h 38m 30s   ████████░░░░░░░░░░░░░░░░░  31.52%
-TypeScript     2h 6m 41s    █████░░░░░░░░░░░░░░░░░░░░  18.27%
-Astro          1h 59m 27s   █████░░░░░░░░░░░░░░░░░░░░  17.23%
-Markdown       57m 14s      ███░░░░░░░░░░░░░░░░░░░░░░  8.26%
-Bash           26m 49s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.87%
+Java           3h 52m 5s    ████████░░░░░░░░░░░░░░░░░  31.67%
+TypeScript     2h 6m 41s    █████░░░░░░░░░░░░░░░░░░░░  17.29%
+Astro          1h 59m 27s   █████░░░░░░░░░░░░░░░░░░░░  16.30%
+Markdown       1h 8m 19s    ███░░░░░░░░░░░░░░░░░░░░░░  9.32%
+Bash           26m 49s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.66%
 
-Total: 11 hrs 33 mins
+Total: 12 hrs 13 mins
 ```
 
 #### 📮 Want to Contact me?
