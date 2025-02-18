@@ -4,7 +4,7 @@ When I'm not doing school or working on a project, I enjoy flying drones and mak
 
 #### 👷 The latest repos i've pushed to
 
-- [`dots`](https://github.com/taciturnaxolotl/dots) - _"Kieran's opinionated (and probably slightly dumb) nix config"_ **(1 day ago)**
+- [`dots`](https://github.com/taciturnaxolotl/dots) - _"Kieran's opinionated (and probably slightly dumb) nix config"_ **(today)**
 - [`juiceGame`](https://github.com/felixgao-0/juiceGame) - _"name is a bit of a wip lol :pf:"_ **(2 days ago)**
 - [`quant`](https://github.com/taciturnaxolotl/quant) - _"a calculator pad? surely thats crazy"_ **(2 days ago)**
 - [`echelon`](https://github.com/taciturnaxolotl/echelon) - _"why is there a volley ball on my head? honestly i'm asking the same question"_ **(2 days ago)**
