@@ -4,14 +4,14 @@ When I'm not doing school or working on a project, I enjoy flying drones and mak
 
 #### 👷 The latest repos i've pushed to
 
-- [`dots`](https://github.com/taciturnaxolotl/dots) - _"Kieran's opinionated (and probably slightly dumb) nix config"_ **(2 days ago)**
-- [`zera`](https://github.com/taciturnaxolotl/zera) - _"my new site v4?"_ **(2 days ago)**
-- [`2025-reefscape`](https://github.com/df1317/2025-reefscape) - _"it's not a water game but it will do"_ **(2 days ago)**
-- [`juiceGame`](https://github.com/felixgao-0/juiceGame) - _"name is a bit of a wip lol :pf:"_ **(4 days ago)**
-- [`quant`](https://github.com/taciturnaxolotl/quant) - _"a calculator pad? surely thats crazy"_ **(4 days ago)**
-- [`echelon`](https://github.com/taciturnaxolotl/echelon) - _"why is there a volley ball on my head? honestly i'm asking the same question"_ **(4 days ago)**
-- [`hackpad`](https://github.com/hackclub/hackpad) - _"A macropad (mini-keyboard) You Ship, We Ship (YSWS) by Hack Club. Solely maintained by @qcoral"_ **(5 days ago)**
-- [`.github`](https://github.com/thepurplebubble/.github) - _""_ **(6 days ago)**
+- [`dots`](https://github.com/taciturnaxolotl/dots) - _"Kieran's opinionated (and probably slightly dumb) nix config"_ **(1 day ago)**
+- [`2025-reefscape`](https://github.com/df1317/2025-reefscape) - _"it's not a water game but it will do"_ **(1 day ago)**
+- [`zera`](https://github.com/taciturnaxolotl/zera) - _"my new site v4?"_ **(3 days ago)**
+- [`juiceGame`](https://github.com/felixgao-0/juiceGame) - _"name is a bit of a wip lol :pf:"_ **(5 days ago)**
+- [`quant`](https://github.com/taciturnaxolotl/quant) - _"a calculator pad? surely thats crazy"_ **(5 days ago)**
+- [`echelon`](https://github.com/taciturnaxolotl/echelon) - _"why is there a volley ball on my head? honestly i'm asking the same question"_ **(5 days ago)**
+- [`hackpad`](https://github.com/hackclub/hackpad) - _"A macropad (mini-keyboard) You Ship, We Ship (YSWS) by Hack Club. Solely maintained by @qcoral"_ **(6 days ago)**
+- [`.github`](https://github.com/thepurplebubble/.github) - _""_ **(1 week ago)**
 
 #### ⌨️ My latest projects
 
@@ -22,11 +22,11 @@ When I'm not doing school or working on a project, I enjoy flying drones and mak
 
 #### 🗒️ the latest posts from my [blog](https://dunkirk.sh)
 
-- [`Cleaning exif data with git pre-commit`](https://dunkirk.sh/blog/remove-exif-git-hook/) **(5 days ago)**
+- [`Cleaning exif data with git pre-commit`](https://dunkirk.sh/blog/remove-exif-git-hook/) **(6 days ago)**
 
 - [`Fixing a degraded zpool on proxmox`](https://dunkirk.sh/blog/degraded-zpool-proxmox/) **(2 weeks ago)**
 
-- [`My life story in tech so far ig 🤷`](https://dunkirk.sh/blog/my-life-story-with-tech/) **(2 weeks ago)**
+- [`My life story in tech so far ig 🤷`](https://dunkirk.sh/blog/my-life-story-with-tech/) **(3 weeks ago)**
 
 
 
@@ -34,13 +34,13 @@ When I'm not doing school or working on a project, I enjoy flying drones and mak
 
 ```text
 💾 Languages:
-Java           2h 57m 59s   ████████░░░░░░░░░░░░░░░░░  29.02%
-TypeScript     1h 32m 17s   ████░░░░░░░░░░░░░░░░░░░░░  15.05%
-Astro          1h 17m 8s    ████░░░░░░░░░░░░░░░░░░░░░  12.58%
-Markdown       1h 10m 56s   ███░░░░░░░░░░░░░░░░░░░░░░  11.57%
-HTML           54m 12s      ███░░░░░░░░░░░░░░░░░░░░░░  8.84%
+Java           2h 52m 11s   ███████░░░░░░░░░░░░░░░░░░  27.02%
+TypeScript     1h 32m 17s   ████░░░░░░░░░░░░░░░░░░░░░  14.48%
+Markdown       1h 31m 11s   ████░░░░░░░░░░░░░░░░░░░░░  14.31%
+Astro          1h 17m 8s    ████░░░░░░░░░░░░░░░░░░░░░  12.11%
+HTML           54m 12s      ███░░░░░░░░░░░░░░░░░░░░░░  8.51%
 
-Total: 10 hrs 13 mins
+Total: 10 hrs 37 mins
 ```
 
 #### 📮 Want to Contact me?
