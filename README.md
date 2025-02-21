@@ -4,11 +4,11 @@ When I'm not doing school or working on a project, I enjoy flying drones and mak
 
 #### 👷 The latest repos i've pushed to
 
+- [`2025-reefscape`](https://github.com/df1317/2025-reefscape) - _"it's not a water game but it will do"_ **(today)**
 - [`dots`](https://github.com/taciturnaxolotl/dots) - _"Kieran's opinionated (and probably slightly dumb) nix config"_ **(1 day ago)**
-- [`2025-reefscape`](https://github.com/df1317/2025-reefscape) - _"it's not a water game but it will do"_ **(1 day ago)**
 - [`zera`](https://github.com/taciturnaxolotl/zera) - _"my new site v4?"_ **(3 days ago)**
-- [`juiceGame`](https://github.com/felixgao-0/juiceGame) - _"name is a bit of a wip lol :pf:"_ **(5 days ago)**
 - [`quant`](https://github.com/taciturnaxolotl/quant) - _"a calculator pad? surely thats crazy"_ **(5 days ago)**
+- [`juiceGame`](https://github.com/felixgao-0/juiceGame) - _"name is a bit of a wip lol :pf:"_ **(5 days ago)**
 - [`echelon`](https://github.com/taciturnaxolotl/echelon) - _"why is there a volley ball on my head? honestly i'm asking the same question"_ **(5 days ago)**
 - [`hackpad`](https://github.com/hackclub/hackpad) - _"A macropad (mini-keyboard) You Ship, We Ship (YSWS) by Hack Club. Solely maintained by @qcoral"_ **(6 days ago)**
 - [`.github`](https://github.com/thepurplebubble/.github) - _""_ **(1 week ago)**
@@ -34,13 +34,13 @@ When I'm not doing school or working on a project, I enjoy flying drones and mak
 
 ```text
 💾 Languages:
-Java           2h 52m 11s   ███████░░░░░░░░░░░░░░░░░░  27.02%
-TypeScript     1h 32m 17s   ████░░░░░░░░░░░░░░░░░░░░░  14.48%
-Markdown       1h 31m 11s   ████░░░░░░░░░░░░░░░░░░░░░  14.31%
-Astro          1h 17m 8s    ████░░░░░░░░░░░░░░░░░░░░░  12.11%
-HTML           54m 12s      ███░░░░░░░░░░░░░░░░░░░░░░  8.51%
+Java           2h 41m 27s   ███████░░░░░░░░░░░░░░░░░░  25.26%
+Markdown       1h 43m 51s   █████░░░░░░░░░░░░░░░░░░░░  16.25%
+TypeScript     1h 32m 17s   ████░░░░░░░░░░░░░░░░░░░░░  14.44%
+Astro          1h 17m 8s    ████░░░░░░░░░░░░░░░░░░░░░  12.07%
+HTML           54m 12s      ███░░░░░░░░░░░░░░░░░░░░░░  8.48%
 
-Total: 10 hrs 37 mins
+Total: 10 hrs 39 mins
 ```
 
 #### 📮 Want to Contact me?
