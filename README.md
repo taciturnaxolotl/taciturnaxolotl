@@ -4,13 +4,13 @@ When I'm not doing school or working on a project, I enjoy flying drones and mak
 
 #### 👷 The latest repos i've pushed to
 
-- [`2025-reefscape`](https://github.com/df1317/2025-reefscape) - _"it's not a water game but it will do"_ **(today)**
-- [`dots`](https://github.com/taciturnaxolotl/dots) - _"Kieran's opinionated (and probably slightly dumb) nix config"_ **(1 day ago)**
-- [`zera`](https://github.com/taciturnaxolotl/zera) - _"my new site v4?"_ **(1 day ago)**
-- [`quant`](https://github.com/taciturnaxolotl/quant) - _"a calculator pad? surely thats crazy"_ **(5 days ago)**
-- [`juiceGame`](https://github.com/felixgao-0/juiceGame) - _"name is a bit of a wip lol :pf:"_ **(5 days ago)**
-- [`echelon`](https://github.com/taciturnaxolotl/echelon) - _"why is there a volley ball on my head? honestly i'm asking the same question"_ **(5 days ago)**
-- [`hackpad`](https://github.com/hackclub/hackpad) - _"A macropad (mini-keyboard) You Ship, We Ship (YSWS) by Hack Club. Solely maintained by @qcoral"_ **(6 days ago)**
+- [`2025-reefscape`](https://github.com/df1317/2025-reefscape) - _"it's not a water game but it will do"_ **(1 day ago)**
+- [`dots`](https://github.com/taciturnaxolotl/dots) - _"Kieran's opinionated (and probably slightly dumb) nix config"_ **(2 days ago)**
+- [`zera`](https://github.com/taciturnaxolotl/zera) - _"my new site v4?"_ **(2 days ago)**
+- [`quant`](https://github.com/taciturnaxolotl/quant) - _"a calculator pad? surely thats crazy"_ **(6 days ago)**
+- [`juiceGame`](https://github.com/felixgao-0/juiceGame) - _"name is a bit of a wip lol :pf:"_ **(6 days ago)**
+- [`echelon`](https://github.com/taciturnaxolotl/echelon) - _"why is there a volley ball on my head? honestly i'm asking the same question"_ **(6 days ago)**
+- [`hackpad`](https://github.com/hackclub/hackpad) - _"A macropad (mini-keyboard) You Ship, We Ship (YSWS) by Hack Club. Solely maintained by @qcoral"_ **(1 week ago)**
 - [`.github`](https://github.com/thepurplebubble/.github) - _""_ **(1 week ago)**
 
 #### ⌨️ My latest projects
@@ -22,7 +22,7 @@ When I'm not doing school or working on a project, I enjoy flying drones and mak
 
 #### 🗒️ the latest posts from my [blog](https://dunkirk.sh)
 
-- [`Cleaning exif data with git pre-commit`](https://dunkirk.sh/blog/remove-exif-git-hook/) **(6 days ago)**
+- [`Cleaning exif data with git pre-commit`](https://dunkirk.sh/blog/remove-exif-git-hook/) **(1 week ago)**
 
 - [`Fixing a degraded zpool on proxmox`](https://dunkirk.sh/blog/degraded-zpool-proxmox/) **(2 weeks ago)**
 
