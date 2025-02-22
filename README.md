@@ -4,7 +4,7 @@ When I'm not doing school or working on a project, I enjoy flying drones and mak
 
 #### 👷 The latest repos i've pushed to
 
-- [`2025-reefscape`](https://github.com/df1317/2025-reefscape) - _"it's not a water game but it will do"_ **(1 day ago)**
+- [`2025-reefscape`](https://github.com/df1317/2025-reefscape) - _"it's not a water game but it will do"_ **(today)**
 - [`dots`](https://github.com/taciturnaxolotl/dots) - _"Kieran's opinionated (and probably slightly dumb) nix config"_ **(2 days ago)**
 - [`zera`](https://github.com/taciturnaxolotl/zera) - _"my new site v4?"_ **(2 days ago)**
 - [`quant`](https://github.com/taciturnaxolotl/quant) - _"a calculator pad? surely thats crazy"_ **(6 days ago)**
@@ -34,13 +34,13 @@ When I'm not doing school or working on a project, I enjoy flying drones and mak
 
 ```text
 💾 Languages:
-Java           2h 26m 27s   ████████░░░░░░░░░░░░░░░░░  29.61%
-HTML           1h 23m 43s   █████░░░░░░░░░░░░░░░░░░░░  16.92%
-Astro          1h 17m 8s    ████░░░░░░░░░░░░░░░░░░░░░  15.59%
-Markdown       1h 5m 0s     ████░░░░░░░░░░░░░░░░░░░░░  13.14%
-TypeScript     38m 26s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.77%
+Java           2h 25m 37s   ████████░░░░░░░░░░░░░░░░░  29.55%
+HTML           1h 24m 34s   █████░░░░░░░░░░░░░░░░░░░░  17.16%
+Astro          1h 17m 8s    ████░░░░░░░░░░░░░░░░░░░░░  15.65%
+Markdown       1h 5m 0s     ████░░░░░░░░░░░░░░░░░░░░░  13.19%
+TypeScript     38m 26s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.80%
 
-Total: 8 hrs 15 mins
+Total: 8 hrs 13 mins
 ```
 
 #### 📮 Want to Contact me?
