@@ -4,6 +4,7 @@ When I'm not doing school or working on a project, I enjoy flying drones and mak
 
 #### 👷 The latest repos i've pushed to
 
+- [`hackatime-bot`](https://github.com/taciturnaxolotl/hackatime-bot) - _""_ **(today)**
 - [`2025-reefscape`](https://github.com/df1317/2025-reefscape) - _"it's not a water game but it will do"_ **(2 days ago)**
 - [`dots`](https://github.com/taciturnaxolotl/dots) - _"Kieran's opinionated (and probably slightly dumb) nix config"_ **(4 days ago)**
 - [`zera`](https://github.com/taciturnaxolotl/zera) - _"my new site v4?"_ **(4 days ago)**
@@ -11,14 +12,13 @@ When I'm not doing school or working on a project, I enjoy flying drones and mak
 - [`juiceGame`](https://github.com/felixgao-0/juiceGame) - _"name is a bit of a wip lol :pf:"_ **(1 week ago)**
 - [`echelon`](https://github.com/taciturnaxolotl/echelon) - _"why is there a volley ball on my head? honestly i'm asking the same question"_ **(1 week ago)**
 - [`hackpad`](https://github.com/hackclub/hackpad) - _"A macropad (mini-keyboard) You Ship, We Ship (YSWS) by Hack Club. Solely maintained by @qcoral"_ **(1 week ago)**
-- [`.github`](https://github.com/thepurplebubble/.github) - _""_ **(1 week ago)**
 
 #### ⌨️ My latest projects
 
+- [`hackatime-bot`](https://github.com/taciturnaxolotl/hackatime-bot) - _""_
 - [`quant`](https://github.com/taciturnaxolotl/quant) - _"a calculator pad? surely thats crazy"_
 - [`echelon`](https://github.com/taciturnaxolotl/echelon) - _"why is there a volley ball on my head? honestly i'm asking the same question"_
 - [`neon`](https://github.com/taciturnaxolotl/neon) - _"The bulbs glow a distinctive amber. It's like nostalgia but for something you never had. "_
-- [`isbns`](https://github.com/taciturnaxolotl/isbns) - _"how do ISBNs work really?"_
 
 #### 🗒️ the latest posts from my [blog](https://dunkirk.sh)
 
@@ -34,13 +34,13 @@ When I'm not doing school or working on a project, I enjoy flying drones and mak
 
 ```text
 💾 Languages:
-Java           2h 6m 44s    ███████████░░░░░░░░░░░░░░  40.10%
-HTML           1h 17m 25s   ███████░░░░░░░░░░░░░░░░░░  24.50%
-Markdown       57m 34s      █████░░░░░░░░░░░░░░░░░░░░  18.21%
-java           9m 14s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.92%
-Nix            7m 19s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.32%
+Java           2h 6m 44s    ███████████░░░░░░░░░░░░░░  40.35%
+HTML           1h 17m 25s   ███████░░░░░░░░░░░░░░░░░░  24.65%
+Markdown       57m 34s      █████░░░░░░░░░░░░░░░░░░░░  18.33%
+java           9m 14s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.94%
+Nix            7m 19s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.33%
 
-Total: 5 hrs 16 mins
+Total: 5 hrs 14 mins
 ```
 
 #### 📮 Want to Contact me?
