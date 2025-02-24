@@ -4,18 +4,18 @@ When I'm not doing school or working on a project, I enjoy flying drones and mak
 
 #### 👷 The latest repos i've pushed to
 
-- [`hackatime-bot`](https://github.com/taciturnaxolotl/hackatime-bot) - _"providing password reset services circa 2025"_ **(today)**
+- [`hackatime-bot`](https://github.com/taciturnaxolotl/hackatime-bot) - _"providing password reset services for a long while: circa 2025"_ **(today)**
 - [`2025-reefscape`](https://github.com/df1317/2025-reefscape) - _"it's not a water game but it will do"_ **(2 days ago)**
-- [`zera`](https://github.com/taciturnaxolotl/zera) - _"my new site v4?"_ **(4 days ago)**
 - [`dots`](https://github.com/taciturnaxolotl/dots) - _"Kieran's opinionated (and probably slightly dumb) nix config"_ **(4 days ago)**
-- [`quant`](https://github.com/taciturnaxolotl/quant) - _"a calculator pad? surely thats crazy"_ **(1 week ago)**
+- [`zera`](https://github.com/taciturnaxolotl/zera) - _"my new site v4?"_ **(4 days ago)**
 - [`echelon`](https://github.com/taciturnaxolotl/echelon) - _"why is there a volley ball on my head? honestly i'm asking the same question"_ **(1 week ago)**
 - [`juiceGame`](https://github.com/felixgao-0/juiceGame) - _"name is a bit of a wip lol :pf:"_ **(1 week ago)**
+- [`quant`](https://github.com/taciturnaxolotl/quant) - _"a calculator pad? surely thats crazy"_ **(1 week ago)**
 - [`hackpad`](https://github.com/hackclub/hackpad) - _"A macropad (mini-keyboard) You Ship, We Ship (YSWS) by Hack Club. Solely maintained by @qcoral"_ **(1 week ago)**
 
 #### ⌨️ My latest projects
 
-- [`hackatime-bot`](https://github.com/taciturnaxolotl/hackatime-bot) - _"providing password reset services circa 2025"_
+- [`hackatime-bot`](https://github.com/taciturnaxolotl/hackatime-bot) - _"providing password reset services for a long while: circa 2025"_
 - [`quant`](https://github.com/taciturnaxolotl/quant) - _"a calculator pad? surely thats crazy"_
 - [`echelon`](https://github.com/taciturnaxolotl/echelon) - _"why is there a volley ball on my head? honestly i'm asking the same question"_
 - [`neon`](https://github.com/taciturnaxolotl/neon) - _"The bulbs glow a distinctive amber. It's like nostalgia but for something you never had. "_
@@ -34,13 +34,13 @@ When I'm not doing school or working on a project, I enjoy flying drones and mak
 
 ```text
 💾 Languages:
-Java           2h 6m 44s    █████████░░░░░░░░░░░░░░░░  34.23%
-HTML           1h 19m 25s   ██████░░░░░░░░░░░░░░░░░░░  21.45%
-Markdown       1h 5m 55s    █████░░░░░░░░░░░░░░░░░░░░  17.80%
-TypeScript     31m 56s      ███░░░░░░░░░░░░░░░░░░░░░░  8.62%
-java           9m 14s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.49%
+Java           2h 6m 44s    ████████░░░░░░░░░░░░░░░░░  30.40%
+HTML           1h 19m 25s   █████░░░░░░░░░░░░░░░░░░░░  19.05%
+TypeScript     1h 7m 21s    █████░░░░░░░░░░░░░░░░░░░░  16.16%
+Markdown       1h 5m 55s    ████░░░░░░░░░░░░░░░░░░░░░  15.81%
+java           9m 14s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.22%
 
-Total: 6 hrs 10 mins
+Total: 6 hrs 57 mins
 ```
 
 #### 📮 Want to Contact me?
