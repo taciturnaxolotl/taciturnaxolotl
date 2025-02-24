@@ -9,8 +9,8 @@ When I'm not doing school or working on a project, I enjoy flying drones and mak
 - [`dots`](https://github.com/taciturnaxolotl/dots) - _"Kieran's opinionated (and probably slightly dumb) nix config"_ **(4 days ago)**
 - [`zera`](https://github.com/taciturnaxolotl/zera) - _"my new site v4?"_ **(4 days ago)**
 - [`echelon`](https://github.com/taciturnaxolotl/echelon) - _"why is there a volley ball on my head? honestly i'm asking the same question"_ **(1 week ago)**
-- [`quant`](https://github.com/taciturnaxolotl/quant) - _"a calculator pad? surely thats crazy"_ **(1 week ago)**
 - [`juiceGame`](https://github.com/felixgao-0/juiceGame) - _"name is a bit of a wip lol :pf:"_ **(1 week ago)**
+- [`quant`](https://github.com/taciturnaxolotl/quant) - _"a calculator pad? surely thats crazy"_ **(1 week ago)**
 - [`hackpad`](https://github.com/hackclub/hackpad) - _"A macropad (mini-keyboard) You Ship, We Ship (YSWS) by Hack Club. Solely maintained by @qcoral"_ **(1 week ago)**
 
 #### ⌨️ My latest projects
@@ -34,13 +34,13 @@ When I'm not doing school or working on a project, I enjoy flying drones and mak
 
 ```text
 💾 Languages:
-TypeScript     3h 32m 3s    █████████░░░░░░░░░░░░░░░░  33.70%
-Java           2h 6m 44s    ██████░░░░░░░░░░░░░░░░░░░  20.14%
-Markdown       1h 19m 53s   ████░░░░░░░░░░░░░░░░░░░░░  12.70%
-HTML           1h 19m 25s   ████░░░░░░░░░░░░░░░░░░░░░  12.62%
-Go             28m 57s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.60%
+TypeScript     3h 32m 25s   █████████░░░░░░░░░░░░░░░░  34.07%
+Java           1h 55m 39s   █████░░░░░░░░░░░░░░░░░░░░  18.55%
+Markdown       1h 29m 3s    ████░░░░░░░░░░░░░░░░░░░░░  14.28%
+HTML           1h 19m 25s   ████░░░░░░░░░░░░░░░░░░░░░  12.74%
+Go             28m 57s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.64%
 
-Total: 10 hrs 29 mins
+Total: 10 hrs 24 mins
 ```
 
 #### 📮 Want to Contact me?
