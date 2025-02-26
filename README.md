@@ -4,14 +4,14 @@ When I'm not doing school or working on a project, I enjoy flying drones and mak
 
 #### 👷 The latest repos i've pushed to
 
+- [`hackatime-scripts`](https://github.com/taciturnaxolotl/hackatime-scripts) - _"various migration and utility scripts that keep hackatime afloat"_ **(today)**
 - [`hackatime-bot`](https://github.com/taciturnaxolotl/hackatime-bot) - _"providing password reset services for a long while: circa 2025"_ **(today)**
 - [`channelping`](https://github.com/taciturnaxolotl/channelping) - _"easily create a ping group for the channel"_ **(1 day ago)**
 - [`2025-reefscape`](https://github.com/df1317/2025-reefscape) - _"it's not a water game but it will do"_ **(4 days ago)**
 - [`dots`](https://github.com/taciturnaxolotl/dots) - _"Kieran's opinionated (and probably slightly dumb) nix config"_ **(6 days ago)**
 - [`zera`](https://github.com/taciturnaxolotl/zera) - _"my new site v4?"_ **(6 days ago)**
-- [`juiceGame`](https://github.com/felixgao-0/juiceGame) - _"name is a bit of a wip lol :pf:"_ **(1 week ago)**
 - [`echelon`](https://github.com/taciturnaxolotl/echelon) - _"why is there a volley ball on my head? honestly i'm asking the same question"_ **(1 week ago)**
-- [`quant`](https://github.com/taciturnaxolotl/quant) - _"a calculator pad? surely thats crazy"_ **(1 week ago)**
+- [`juiceGame`](https://github.com/felixgao-0/juiceGame) - _"name is a bit of a wip lol :pf:"_ **(1 week ago)**
 
 #### ⌨️ My latest projects
 
@@ -34,13 +34,13 @@ When I'm not doing school or working on a project, I enjoy flying drones and mak
 
 ```text
 💾 Languages:
-TypeScript     4h 44m 16s   ███████████░░░░░░░░░░░░░░  43.68%
-Java           1h 31m 20s   ████░░░░░░░░░░░░░░░░░░░░░  14.03%
-Markdown       1h 4m 24s    ███░░░░░░░░░░░░░░░░░░░░░░  9.90%
-HTML           33m 42s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.18%
-Go             28m 57s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.45%
+TypeScript     4h 50m 8s    ███████████░░░░░░░░░░░░░░  43.92%
+Java           1h 31m 20s   ████░░░░░░░░░░░░░░░░░░░░░  13.83%
+Markdown       1h 4m 24s    ███░░░░░░░░░░░░░░░░░░░░░░  9.75%
+HTML           33m 42s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.10%
+Go             28m 57s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.38%
 
-Total: 10 hrs 51 mins
+Total: 11 hrs 1 mins
 ```
 
 #### 📮 Want to Contact me?
