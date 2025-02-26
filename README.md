@@ -4,10 +4,10 @@ When I'm not doing school or working on a project, I enjoy flying drones and mak
 
 #### 👷 The latest repos i've pushed to
 
-- [`hackatime-bot`](https://github.com/taciturnaxolotl/hackatime-bot) - _"providing password reset services for a long while: circa 2025"_ **(1 day ago)**
-- [`2025-reefscape`](https://github.com/df1317/2025-reefscape) - _"it's not a water game but it will do"_ **(3 days ago)**
-- [`dots`](https://github.com/taciturnaxolotl/dots) - _"Kieran's opinionated (and probably slightly dumb) nix config"_ **(5 days ago)**
-- [`zera`](https://github.com/taciturnaxolotl/zera) - _"my new site v4?"_ **(5 days ago)**
+- [`hackatime-bot`](https://github.com/taciturnaxolotl/hackatime-bot) - _"providing password reset services for a long while: circa 2025"_ **(2 days ago)**
+- [`2025-reefscape`](https://github.com/df1317/2025-reefscape) - _"it's not a water game but it will do"_ **(4 days ago)**
+- [`dots`](https://github.com/taciturnaxolotl/dots) - _"Kieran's opinionated (and probably slightly dumb) nix config"_ **(6 days ago)**
+- [`zera`](https://github.com/taciturnaxolotl/zera) - _"my new site v4?"_ **(6 days ago)**
 - [`juiceGame`](https://github.com/felixgao-0/juiceGame) - _"name is a bit of a wip lol :pf:"_ **(1 week ago)**
 - [`quant`](https://github.com/taciturnaxolotl/quant) - _"a calculator pad? surely thats crazy"_ **(1 week ago)**
 - [`echelon`](https://github.com/taciturnaxolotl/echelon) - _"why is there a volley ball on my head? honestly i'm asking the same question"_ **(1 week ago)**
@@ -34,13 +34,13 @@ When I'm not doing school or working on a project, I enjoy flying drones and mak
 
 ```text
 💾 Languages:
-TypeScript     3h 32m 25s   ███████████░░░░░░░░░░░░░░  41.34%
-Markdown       1h 6m 24s    ████░░░░░░░░░░░░░░░░░░░░░  12.92%
-Java           53m 27s      ███░░░░░░░░░░░░░░░░░░░░░░  10.40%
-HTML           29m 13s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.69%
-Go             28m 57s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.63%
+TypeScript     3h 32m 25s   ███████████░░░░░░░░░░░░░░  40.51%
+Markdown       1h 4m 24s    ████░░░░░░░░░░░░░░░░░░░░░  12.28%
+Java           1h 2m 56s    ███░░░░░░░░░░░░░░░░░░░░░░  12.00%
+HTML           29m 13s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.57%
+Go             28m 57s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.52%
 
-Total: 8 hrs 34 mins
+Total: 8 hrs 44 mins
 ```
 
 #### 📮 Want to Contact me?
