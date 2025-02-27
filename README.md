@@ -4,12 +4,12 @@ When I'm not doing school or working on a project, I enjoy flying drones and mak
 
 #### 👷 The latest repos i've pushed to
 
-- [`hackatime-scripts`](https://github.com/taciturnaxolotl/hackatime-scripts) - _"various migration and utility scripts that keep hackatime afloat"_ **(today)**
-- [`hackatime-bot`](https://github.com/taciturnaxolotl/hackatime-bot) - _"providing password reset services for a long while: circa 2025"_ **(today)**
-- [`channelping`](https://github.com/taciturnaxolotl/channelping) - _"easily create a ping group for the channel"_ **(1 day ago)**
-- [`2025-reefscape`](https://github.com/df1317/2025-reefscape) - _"it's not a water game but it will do"_ **(4 days ago)**
-- [`dots`](https://github.com/taciturnaxolotl/dots) - _"Kieran's opinionated (and probably slightly dumb) nix config"_ **(6 days ago)**
-- [`zera`](https://github.com/taciturnaxolotl/zera) - _"my new site v4?"_ **(6 days ago)**
+- [`hackatime-scripts`](https://github.com/taciturnaxolotl/hackatime-scripts) - _"various migration and utility scripts that keep hackatime afloat"_ **(1 day ago)**
+- [`hackatime-bot`](https://github.com/taciturnaxolotl/hackatime-bot) - _"providing password reset services for a long while: circa 2025"_ **(1 day ago)**
+- [`channelping`](https://github.com/taciturnaxolotl/channelping) - _"easily create a ping group for the channel"_ **(2 days ago)**
+- [`2025-reefscape`](https://github.com/df1317/2025-reefscape) - _"it's not a water game but it will do"_ **(5 days ago)**
+- [`dots`](https://github.com/taciturnaxolotl/dots) - _"Kieran's opinionated (and probably slightly dumb) nix config"_ **(1 week ago)**
+- [`zera`](https://github.com/taciturnaxolotl/zera) - _"my new site v4?"_ **(1 week ago)**
 - [`echelon`](https://github.com/taciturnaxolotl/echelon) - _"why is there a volley ball on my head? honestly i'm asking the same question"_ **(1 week ago)**
 - [`juiceGame`](https://github.com/felixgao-0/juiceGame) - _"name is a bit of a wip lol :pf:"_ **(1 week ago)**
 
@@ -34,13 +34,13 @@ When I'm not doing school or working on a project, I enjoy flying drones and mak
 
 ```text
 💾 Languages:
-TypeScript     4h 52m 51s   █████████░░░░░░░░░░░░░░░░  35.82%
-HTML           3h 5m 57s    ██████░░░░░░░░░░░░░░░░░░░  22.75%
-Java           1h 31m 20s   ███░░░░░░░░░░░░░░░░░░░░░░  11.17%
-Markdown       1h 4m 24s    ██░░░░░░░░░░░░░░░░░░░░░░░  7.88%
-Go             28m 57s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.54%
+TypeScript     4h 52m 51s   █████████░░░░░░░░░░░░░░░░  33.76%
+HTML           3h 55m 59s   ███████░░░░░░░░░░░░░░░░░░  27.20%
+Java           1h 31m 20s   ███░░░░░░░░░░░░░░░░░░░░░░  10.53%
+Markdown       1h 4m 24s    ██░░░░░░░░░░░░░░░░░░░░░░░  7.42%
+Go             28m 57s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.34%
 
-Total: 13 hrs 38 mins
+Total: 14 hrs 28 mins
 ```
 
 #### 📮 Want to Contact me?
