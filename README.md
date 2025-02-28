@@ -4,14 +4,14 @@ When I'm not doing school or working on a project, I enjoy flying drones and mak
 
 #### 👷 The latest repos i've pushed to
 
-- [`zera`](https://github.com/taciturnaxolotl/zera) - _"my new site v4?"_ **(1 day ago)**
+- [`zera`](https://github.com/taciturnaxolotl/zera) - _"my new site v4?"_ **(today)**
 - [`hackatime-bot`](https://github.com/taciturnaxolotl/hackatime-bot) - _"providing password reset services for a long while: circa 2025"_ **(2 days ago)**
 - [`hackatime-scripts`](https://github.com/taciturnaxolotl/hackatime-scripts) - _"various migration and utility scripts that keep hackatime afloat"_ **(2 days ago)**
 - [`channelping`](https://github.com/taciturnaxolotl/channelping) - _"easily create a ping group for the channel"_ **(3 days ago)**
 - [`2025-reefscape`](https://github.com/df1317/2025-reefscape) - _"it's not a water game but it will do"_ **(6 days ago)**
 - [`dots`](https://github.com/taciturnaxolotl/dots) - _"Kieran's opinionated (and probably slightly dumb) nix config"_ **(1 week ago)**
+- [`quant`](https://github.com/taciturnaxolotl/quant) - _"a calculator pad? surely thats crazy"_ **(1 week ago)**
 - [`echelon`](https://github.com/taciturnaxolotl/echelon) - _"why is there a volley ball on my head? honestly i'm asking the same question"_ **(1 week ago)**
-- [`juiceGame`](https://github.com/felixgao-0/juiceGame) - _"name is a bit of a wip lol :pf:"_ **(1 week ago)**
 
 #### ⌨️ My latest projects
 
@@ -34,13 +34,13 @@ When I'm not doing school or working on a project, I enjoy flying drones and mak
 
 ```text
 💾 Languages:
-TypeScript     5h 24m 50s   █████████░░░░░░░░░░░░░░░░  32.70%
-HTML           5h 17m 51s   ████████░░░░░░░░░░░░░░░░░  31.99%
-Java           1h 45m 11s   ███░░░░░░░░░░░░░░░░░░░░░░  10.59%
-Markdown       1h 17m 23s   ██░░░░░░░░░░░░░░░░░░░░░░░  7.79%
-Go             28m 57s      █░░░░░░░░░░░░░░░░░░░░░░░░  2.91%
+TypeScript     5h 24m 50s   █████████░░░░░░░░░░░░░░░░  32.43%
+HTML           5h 23m 48s   █████████░░░░░░░░░░░░░░░░  32.32%
+Java           1h 45m 11s   ███░░░░░░░░░░░░░░░░░░░░░░  10.50%
+Markdown       1h 17m 48s   ██░░░░░░░░░░░░░░░░░░░░░░░  7.77%
+Go             28m 57s      █░░░░░░░░░░░░░░░░░░░░░░░░  2.89%
 
-Total: 16 hrs 34 mins
+Total: 16 hrs 42 mins
 ```
 
 #### 📮 Want to Contact me?
