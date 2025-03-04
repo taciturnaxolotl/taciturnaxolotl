@@ -5,9 +5,9 @@ When I'm not doing school or working on a project, I enjoy flying drones and mak
 #### 👷 The latest repos i've pushed to
 
 - [`dots`](https://github.com/taciturnaxolotl/dots) - _"Kieran's opinionated (and probably slightly dumb) nix config"_ **(today)**
+- [`zera`](https://github.com/taciturnaxolotl/zera) - _"my new site v4?"_ **(today)**
 - [`channelping`](https://github.com/taciturnaxolotl/channelping) - _"easily create a ping group for the channel"_ **(1 day ago)**
 - [`carriage`](https://github.com/taciturnaxolotl/carriage) - _"@taciturnaxolotl's repo template"_ **(2 days ago)**
-- [`zera`](https://github.com/taciturnaxolotl/zera) - _"my new site v4?"_ **(2 days ago)**
 - [`2025-reefscape`](https://github.com/df1317/2025-reefscape) - _"it's not a water game but it will do"_ **(3 days ago)**
 - [`hackatime-scripts`](https://github.com/taciturnaxolotl/hackatime-scripts) - _"various migration and utility scripts that keep hackatime afloat"_ **(6 days ago)**
 - [`hackatime-bot`](https://github.com/taciturnaxolotl/hackatime-bot) - _"providing password reset services for a long while: circa 2025"_ **(6 days ago)**
@@ -34,13 +34,13 @@ When I'm not doing school or working on a project, I enjoy flying drones and mak
 
 ```text
 💾 Languages:
-TypeScript     5h 48m 44s   ███████░░░░░░░░░░░░░░░░░░  26.46%
-HTML           5h 38m 55s   ███████░░░░░░░░░░░░░░░░░░  25.71%
-Java           3h 21m 39s   ████░░░░░░░░░░░░░░░░░░░░░  15.30%
-Markdown       2h 25m 45s   ███░░░░░░░░░░░░░░░░░░░░░░  11.06%
-CSS            1h 4m 51s    ██░░░░░░░░░░░░░░░░░░░░░░░  4.92%
+TypeScript     5h 48m 44s   ███████░░░░░░░░░░░░░░░░░░  26.42%
+HTML           5h 38m 55s   ███████░░░░░░░░░░░░░░░░░░  25.67%
+Java           3h 21m 39s   ████░░░░░░░░░░░░░░░░░░░░░  15.28%
+Markdown       2h 25m 45s   ███░░░░░░░░░░░░░░░░░░░░░░  11.04%
+CSS            1h 4m 51s    ██░░░░░░░░░░░░░░░░░░░░░░░  4.91%
 
-Total: 21 hrs 58 mins
+Total: 22 hrs 0 mins
 ```
 
 #### 📮 Want to Contact me?
