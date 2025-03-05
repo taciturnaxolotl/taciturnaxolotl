@@ -4,14 +4,14 @@ When I'm not doing school or working on a project, I enjoy flying drones and mak
 
 #### 👷 The latest repos i've pushed to
 
-- [`dots`](https://github.com/taciturnaxolotl/dots) - _"Kieran's opinionated (and probably slightly dumb) nix config"_ **(1 day ago)**
+- [`2025-reefscape`](https://github.com/df1317/2025-reefscape) - _"it's not a water game but it will do"_ **(today)**
 - [`zera`](https://github.com/taciturnaxolotl/zera) - _"my new site v4?"_ **(1 day ago)**
+- [`dots`](https://github.com/taciturnaxolotl/dots) - _"Kieran's opinionated (and probably slightly dumb) nix config"_ **(1 day ago)**
 - [`channelping`](https://github.com/taciturnaxolotl/channelping) - _"easily create a ping group for the channel"_ **(2 days ago)**
 - [`carriage`](https://github.com/taciturnaxolotl/carriage) - _"@taciturnaxolotl's repo template"_ **(3 days ago)**
-- [`2025-reefscape`](https://github.com/df1317/2025-reefscape) - _"it's not a water game but it will do"_ **(4 days ago)**
 - [`hackatime-scripts`](https://github.com/taciturnaxolotl/hackatime-scripts) - _"various migration and utility scripts that keep hackatime afloat"_ **(1 week ago)**
 - [`hackatime-bot`](https://github.com/taciturnaxolotl/hackatime-bot) - _"providing password reset services for a long while: circa 2025"_ **(1 week ago)**
-- [`echelon`](https://github.com/taciturnaxolotl/echelon) - _"why is there a volley ball on my head? honestly i'm asking the same question"_ **(2 weeks ago)**
+- [`quant`](https://github.com/taciturnaxolotl/quant) - _"a calculator pad? surely thats crazy"_ **(2 weeks ago)**
 
 #### ⌨️ My latest projects
 
@@ -34,13 +34,13 @@ When I'm not doing school or working on a project, I enjoy flying drones and mak
 
 ```text
 💾 Languages:
-TypeScript     5h 48m 44s   ███████░░░░░░░░░░░░░░░░░░  27.04%
-HTML           5h 43m 12s   ███████░░░░░░░░░░░░░░░░░░  26.61%
-Java           3h 30m 41s   █████░░░░░░░░░░░░░░░░░░░░  16.34%
-Markdown       2h 25m 45s   ███░░░░░░░░░░░░░░░░░░░░░░  11.30%
-CSS            1h 4m 51s    ██░░░░░░░░░░░░░░░░░░░░░░░  5.03%
+HTML           5h 43m 12s   ███████░░░░░░░░░░░░░░░░░░  26.56%
+TypeScript     5h 43m 5s    ███████░░░░░░░░░░░░░░░░░░  26.55%
+Java           3h 41m 50s   █████░░░░░░░░░░░░░░░░░░░░  17.17%
+Markdown       2h 25m 44s   ███░░░░░░░░░░░░░░░░░░░░░░  11.28%
+CSS            1h 4m 51s    ██░░░░░░░░░░░░░░░░░░░░░░░  5.02%
 
-Total: 21 hrs 30 mins
+Total: 21 hrs 32 mins
 ```
 
 #### 📮 Want to Contact me?
