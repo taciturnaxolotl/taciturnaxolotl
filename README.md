@@ -5,13 +5,13 @@ When I'm not doing school or working on a project, I enjoy flying drones and mak
 #### 👷 The latest repos i've pushed to
 
 - [`2025-reefscape`](https://github.com/df1317/2025-reefscape) - _"it's not a water game but it will do"_ **(today)**
+- [`quant`](https://github.com/taciturnaxolotl/quant) - _"a calculator pad? surely thats crazy"_ **(today)**
 - [`zera`](https://github.com/taciturnaxolotl/zera) - _"my new site v4?"_ **(1 day ago)**
 - [`dots`](https://github.com/taciturnaxolotl/dots) - _"Kieran's opinionated (and probably slightly dumb) nix config"_ **(1 day ago)**
 - [`channelping`](https://github.com/taciturnaxolotl/channelping) - _"easily create a ping group for the channel"_ **(2 days ago)**
 - [`carriage`](https://github.com/taciturnaxolotl/carriage) - _"@taciturnaxolotl's repo template"_ **(3 days ago)**
 - [`hackatime-scripts`](https://github.com/taciturnaxolotl/hackatime-scripts) - _"various migration and utility scripts that keep hackatime afloat"_ **(1 week ago)**
 - [`hackatime-bot`](https://github.com/taciturnaxolotl/hackatime-bot) - _"providing password reset services for a long while: circa 2025"_ **(1 week ago)**
-- [`quant`](https://github.com/taciturnaxolotl/quant) - _"a calculator pad? surely thats crazy"_ **(2 weeks ago)**
 
 #### ⌨️ My latest projects
 
@@ -34,20 +34,20 @@ When I'm not doing school or working on a project, I enjoy flying drones and mak
 
 ```text
 💾 Languages:
-HTML             5h 38m 43s   ███████░░░░░░░░░░░░░░░░░░  26.60%
-TypeScript       4h 40m 47s   ██████░░░░░░░░░░░░░░░░░░░  22.05%
-Java             3h 41m 50s   █████░░░░░░░░░░░░░░░░░░░░  17.42%
-Markdown         2h 28m 15s   ███░░░░░░░░░░░░░░░░░░░░░░  11.64%
-CSS              1h 4m 51s    ██░░░░░░░░░░░░░░░░░░░░░░░  5.09%
+HTML             5h 38m 43s   ███████░░░░░░░░░░░░░░░░░░  26.73%
+TypeScript       4h 36m 53s   ██████░░░░░░░░░░░░░░░░░░░  21.85%
+Java             3h 41m 50s   █████░░░░░░░░░░░░░░░░░░░░  17.51%
+Markdown         2h 28m 15s   ███░░░░░░░░░░░░░░░░░░░░░░  11.70%
+CSS              1h 4m 51s    ██░░░░░░░░░░░░░░░░░░░░░░░  5.12%
 
 💼 Projects:
-unduck           7h 33m 35s   █████████░░░░░░░░░░░░░░░░  35.62%
-2025-reefscape   3h 53m 7s    █████░░░░░░░░░░░░░░░░░░░░  18.30%
-unknown          3h 45m 28s   █████░░░░░░░░░░░░░░░░░░░░  17.70%
-zera             2h 54m 57s   ████░░░░░░░░░░░░░░░░░░░░░  13.74%
-nixos            49m 29s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.89%
+unduck           7h 33m 35s   █████████░░░░░░░░░░░░░░░░  35.79%
+2025-reefscape   3h 53m 7s    █████░░░░░░░░░░░░░░░░░░░░  18.39%
+unknown          3h 45m 28s   █████░░░░░░░░░░░░░░░░░░░░  17.79%
+zera             2h 54m 57s   ████░░░░░░░░░░░░░░░░░░░░░  13.80%
+nixos            49m 29s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.90%
 
-Total: 21 hrs 14 mins
+Total: 21 hrs 7 mins
 ```
 
 #### 📮 Want to Contact me?
