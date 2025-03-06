@@ -4,12 +4,12 @@ When I'm not doing school or working on a project, I enjoy flying drones and mak
 
 #### 👷 The latest repos i've pushed to
 
-- [`2025-reefscape`](https://github.com/df1317/2025-reefscape) - _"it's not a water game but it will do"_ **(today)**
-- [`quant`](https://github.com/taciturnaxolotl/quant) - _"a calculator pad? surely thats crazy"_ **(today)**
-- [`zera`](https://github.com/taciturnaxolotl/zera) - _"my new site v4?"_ **(1 day ago)**
-- [`dots`](https://github.com/taciturnaxolotl/dots) - _"Kieran's opinionated (and probably slightly dumb) nix config"_ **(1 day ago)**
-- [`channelping`](https://github.com/taciturnaxolotl/channelping) - _"easily create a ping group for the channel"_ **(2 days ago)**
-- [`carriage`](https://github.com/taciturnaxolotl/carriage) - _"@taciturnaxolotl's repo template"_ **(3 days ago)**
+- [`2025-reefscape`](https://github.com/df1317/2025-reefscape) - _"it's not a water game but it will do"_ **(1 day ago)**
+- [`quant`](https://github.com/taciturnaxolotl/quant) - _"a calculator pad? surely thats crazy"_ **(1 day ago)**
+- [`zera`](https://github.com/taciturnaxolotl/zera) - _"my new site v4?"_ **(2 days ago)**
+- [`dots`](https://github.com/taciturnaxolotl/dots) - _"Kieran's opinionated (and probably slightly dumb) nix config"_ **(2 days ago)**
+- [`channelping`](https://github.com/taciturnaxolotl/channelping) - _"easily create a ping group for the channel"_ **(3 days ago)**
+- [`carriage`](https://github.com/taciturnaxolotl/carriage) - _"@taciturnaxolotl's repo template"_ **(4 days ago)**
 - [`hackatime-scripts`](https://github.com/taciturnaxolotl/hackatime-scripts) - _"various migration and utility scripts that keep hackatime afloat"_ **(1 week ago)**
 - [`hackatime-bot`](https://github.com/taciturnaxolotl/hackatime-bot) - _"providing password reset services for a long while: circa 2025"_ **(1 week ago)**
 
@@ -34,20 +34,20 @@ When I'm not doing school or working on a project, I enjoy flying drones and mak
 
 ```text
 💾 Languages:
-TypeScript       4h 28m 18s   ███████░░░░░░░░░░░░░░░░░░  24.43%
-Java             3h 41m 50s   ██████░░░░░░░░░░░░░░░░░░░  20.20%
-HTML             3h 4m 9s     █████░░░░░░░░░░░░░░░░░░░░  16.77%
-Markdown         2h 28m 15s   ████░░░░░░░░░░░░░░░░░░░░░  13.50%
-CSS              1h 4m 51s    ██░░░░░░░░░░░░░░░░░░░░░░░  5.91%
+TypeScript       4h 28m 18s   ███████░░░░░░░░░░░░░░░░░░  25.62%
+Java             3h 41m 50s   ██████░░░░░░░░░░░░░░░░░░░  21.18%
+Markdown         2h 28m 15s   ████░░░░░░░░░░░░░░░░░░░░░  14.15%
+HTML             2h 13m 26s   ████░░░░░░░░░░░░░░░░░░░░░  12.74%
+CSS              1h 4m 51s    ██░░░░░░░░░░░░░░░░░░░░░░░  6.19%
 
 💼 Projects:
-unduck           7h 33m 35s   ███████████░░░░░░░░░░░░░░  41.30%
-2025-reefscape   3h 52m 59s   ██████░░░░░░░░░░░░░░░░░░░  21.21%
-zera             2h 54m 57s   ████░░░░░░░░░░░░░░░░░░░░░  15.93%
-unknown          1h 8m 54s    ██░░░░░░░░░░░░░░░░░░░░░░░  6.27%
-nixos            49m 29s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.51%
+unduck           7h 33m 35s   ███████████░░░░░░░░░░░░░░  43.30%
+2025-reefscape   3h 52m 59s   ██████░░░░░░░░░░░░░░░░░░░  22.24%
+zera             2h 54m 57s   █████░░░░░░░░░░░░░░░░░░░░  16.70%
+nixos            49m 29s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.72%
+readme-revamp    42m 40s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.07%
 
-Total: 18 hrs 18 mins
+Total: 17 hrs 28 mins
 ```
 
 #### 📮 Want to Contact me?
