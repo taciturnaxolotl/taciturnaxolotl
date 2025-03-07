@@ -4,14 +4,14 @@ When I'm not doing school or working on a project, I enjoy flying drones and mak
 
 #### 👷 The latest repos i've pushed to
 
-- [`dots`](https://github.com/taciturnaxolotl/dots) - _"Kieran's opinionated (and probably slightly dumb) nix config"_ **(1 day ago)**
+- [`scrapyard`](https://github.com/hackclub/scrapyard) - _""_ **(today)**
 - [`cachet`](https://github.com/taciturnaxolotl/cachet) - _"a cache for slack profile pictures and emojis"_ **(1 day ago)**
+- [`dots`](https://github.com/taciturnaxolotl/dots) - _"Kieran's opinionated (and probably slightly dumb) nix config"_ **(1 day ago)**
 - [`quant`](https://github.com/taciturnaxolotl/quant) - _"a calculator pad? surely thats crazy"_ **(2 days ago)**
 - [`2025-reefscape`](https://github.com/df1317/2025-reefscape) - _"it's not a water game but it will do"_ **(2 days ago)**
 - [`zera`](https://github.com/taciturnaxolotl/zera) - _"my new site v4?"_ **(3 days ago)**
 - [`channelping`](https://github.com/taciturnaxolotl/channelping) - _"easily create a ping group for the channel"_ **(4 days ago)**
 - [`carriage`](https://github.com/taciturnaxolotl/carriage) - _"@taciturnaxolotl's repo template"_ **(5 days ago)**
-- [`hackatime-scripts`](https://github.com/taciturnaxolotl/hackatime-scripts) - _"various migration and utility scripts that keep hackatime afloat"_ **(1 week ago)**
 
 #### ⌨️ My latest projects
 
@@ -34,20 +34,20 @@ When I'm not doing school or working on a project, I enjoy flying drones and mak
 
 ```text
 💾 Languages:
-Java             5h 15m 34s   ████████░░░░░░░░░░░░░░░░░  30.04%
-TypeScript       4h 11m 34s   ██████░░░░░░░░░░░░░░░░░░░  23.95%
-Markdown         1h 48m 27s   ███░░░░░░░░░░░░░░░░░░░░░░  10.32%
-CSS              1h 9m 35s    ██░░░░░░░░░░░░░░░░░░░░░░░  6.62%
-JavaScript       1h 2m 34s    ██░░░░░░░░░░░░░░░░░░░░░░░  5.96%
+Java             5h 15m 34s   ████████░░░░░░░░░░░░░░░░░  29.05%
+TypeScript       4h 29m 31s   ███████░░░░░░░░░░░░░░░░░░  24.81%
+Markdown         1h 51m 38s   ███░░░░░░░░░░░░░░░░░░░░░░  10.28%
+CSS              1h 21m 57s   ██░░░░░░░░░░░░░░░░░░░░░░░  7.54%
+JavaScript       1h 2m 34s    ██░░░░░░░░░░░░░░░░░░░░░░░  5.76%
 
 💼 Projects:
-unduck           7h 35m 22s   ███████████░░░░░░░░░░░░░░  43.34%
-2025-reefscape   5h 44m 1s    █████████░░░░░░░░░░░░░░░░  32.74%
-scrapyard        1h 6m 0s     ██░░░░░░░░░░░░░░░░░░░░░░░  6.28%
-nixos            49m 29s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.71%
-readme-revamp    42m 40s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.06%
+unduck           7h 35m 22s   ███████████░░░░░░░░░░░░░░  41.91%
+2025-reefscape   5h 44m 1s    ████████░░░░░░░░░░░░░░░░░  31.66%
+scrapyard        1h 6m 0s     ██░░░░░░░░░░░░░░░░░░░░░░░  6.07%
+unduckified      53m 42s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.94%
+nixos            49m 29s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.55%
 
-Total: 17 hrs 31 mins
+Total: 18 hrs 7 mins
 ```
 
 #### 📮 Want to Contact me?
