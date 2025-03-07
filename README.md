@@ -4,13 +4,13 @@ When I'm not doing school or working on a project, I enjoy flying drones and mak
 
 #### 👷 The latest repos i've pushed to
 
-- [`dots`](https://github.com/taciturnaxolotl/dots) - _"Kieran's opinionated (and probably slightly dumb) nix config"_ **(today)**
-- [`cachet`](https://github.com/taciturnaxolotl/cachet) - _"a cache for slack profile pictures and emojis"_ **(today)**
-- [`quant`](https://github.com/taciturnaxolotl/quant) - _"a calculator pad? surely thats crazy"_ **(1 day ago)**
-- [`2025-reefscape`](https://github.com/df1317/2025-reefscape) - _"it's not a water game but it will do"_ **(1 day ago)**
-- [`zera`](https://github.com/taciturnaxolotl/zera) - _"my new site v4?"_ **(2 days ago)**
-- [`channelping`](https://github.com/taciturnaxolotl/channelping) - _"easily create a ping group for the channel"_ **(3 days ago)**
-- [`carriage`](https://github.com/taciturnaxolotl/carriage) - _"@taciturnaxolotl's repo template"_ **(4 days ago)**
+- [`dots`](https://github.com/taciturnaxolotl/dots) - _"Kieran's opinionated (and probably slightly dumb) nix config"_ **(1 day ago)**
+- [`cachet`](https://github.com/taciturnaxolotl/cachet) - _"a cache for slack profile pictures and emojis"_ **(1 day ago)**
+- [`quant`](https://github.com/taciturnaxolotl/quant) - _"a calculator pad? surely thats crazy"_ **(2 days ago)**
+- [`2025-reefscape`](https://github.com/df1317/2025-reefscape) - _"it's not a water game but it will do"_ **(2 days ago)**
+- [`zera`](https://github.com/taciturnaxolotl/zera) - _"my new site v4?"_ **(3 days ago)**
+- [`channelping`](https://github.com/taciturnaxolotl/channelping) - _"easily create a ping group for the channel"_ **(4 days ago)**
+- [`carriage`](https://github.com/taciturnaxolotl/carriage) - _"@taciturnaxolotl's repo template"_ **(5 days ago)**
 - [`hackatime-scripts`](https://github.com/taciturnaxolotl/hackatime-scripts) - _"various migration and utility scripts that keep hackatime afloat"_ **(1 week ago)**
 
 #### ⌨️ My latest projects
@@ -34,20 +34,20 @@ When I'm not doing school or working on a project, I enjoy flying drones and mak
 
 ```text
 💾 Languages:
-Java             5h 1m 13s    ████████░░░░░░░░░░░░░░░░░  31.32%
-TypeScript       3h 59m 31s   ███████░░░░░░░░░░░░░░░░░░  24.91%
-Markdown         1h 51m 21s   ███░░░░░░░░░░░░░░░░░░░░░░  11.58%
-CSS              1h 2m 50s    ██░░░░░░░░░░░░░░░░░░░░░░░  6.53%
-HTML             32m 0s       █░░░░░░░░░░░░░░░░░░░░░░░░  3.33%
+Java             4h 27m 51s   ████████░░░░░░░░░░░░░░░░░  28.70%
+TypeScript       4h 2m 39s    ███████░░░░░░░░░░░░░░░░░░  26.00%
+Markdown         1h 51m 26s   ███░░░░░░░░░░░░░░░░░░░░░░  11.94%
+CSS              1h 2m 50s    ██░░░░░░░░░░░░░░░░░░░░░░░  6.73%
+HTML             32m 0s       █░░░░░░░░░░░░░░░░░░░░░░░░  3.43%
 
 💼 Projects:
-unduck           7h 33m 35s   ████████████░░░░░░░░░░░░░  47.15%
-2025-reefscape   5h 30m 29s   █████████░░░░░░░░░░░░░░░░  34.36%
-nixos            49m 29s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.14%
-readme-revamp    42m 52s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.46%
-channelping      41m 16s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.29%
+unduck           7h 33m 35s   █████████████░░░░░░░░░░░░  48.59%
+2025-reefscape   4h 56m 50s   ████████░░░░░░░░░░░░░░░░░  31.80%
+nixos            49m 29s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.30%
+readme-revamp    42m 52s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.59%
+channelping      41m 16s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.42%
 
-Total: 16 hrs 2 mins
+Total: 15 hrs 33 mins
 ```
 
 #### 📮 Want to Contact me?
