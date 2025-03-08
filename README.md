@@ -5,10 +5,10 @@ When I'm not doing school or working on a project, I enjoy flying drones and mak
 #### 👷 The latest repos i've pushed to
 
 - [`scrapyard`](https://github.com/hackclub/scrapyard) - _""_ **(1 day ago)**
-- [`cachet`](https://github.com/taciturnaxolotl/cachet) - _"a cache for slack profile pictures and emojis"_ **(2 days ago)**
 - [`dots`](https://github.com/taciturnaxolotl/dots) - _"Kieran's opinionated (and probably slightly dumb) nix config"_ **(2 days ago)**
-- [`quant`](https://github.com/taciturnaxolotl/quant) - _"a calculator pad? surely thats crazy"_ **(3 days ago)**
+- [`cachet`](https://github.com/taciturnaxolotl/cachet) - _"a cache for slack profile pictures and emojis"_ **(2 days ago)**
 - [`2025-reefscape`](https://github.com/df1317/2025-reefscape) - _"it's not a water game but it will do"_ **(3 days ago)**
+- [`quant`](https://github.com/taciturnaxolotl/quant) - _"a calculator pad? surely thats crazy"_ **(3 days ago)**
 - [`zera`](https://github.com/taciturnaxolotl/zera) - _"my new site v4?"_ **(4 days ago)**
 - [`channelping`](https://github.com/taciturnaxolotl/channelping) - _"easily create a ping group for the channel"_ **(5 days ago)**
 - [`carriage`](https://github.com/taciturnaxolotl/carriage) - _"@taciturnaxolotl's repo template"_ **(6 days ago)**
@@ -34,20 +34,20 @@ When I'm not doing school or working on a project, I enjoy flying drones and mak
 
 ```text
 💾 Languages:
-Java             5h 15m 34s   ███████░░░░░░░░░░░░░░░░░░  27.52%
-TypeScript       4h 29m 31s   ██████░░░░░░░░░░░░░░░░░░░  23.50%
-JavaScript       2h 5m 0s     ███░░░░░░░░░░░░░░░░░░░░░░  10.90%
-Markdown         1h 51m 42s   ███░░░░░░░░░░░░░░░░░░░░░░  9.74%
-CSS              1h 21m 4s    ██░░░░░░░░░░░░░░░░░░░░░░░  7.07%
+Java             5h 13m 20s   ███████░░░░░░░░░░░░░░░░░░  27.14%
+TypeScript       4h 29m 31s   ██████░░░░░░░░░░░░░░░░░░░  23.34%
+JavaScript       2h 15m 11s   ███░░░░░░░░░░░░░░░░░░░░░░  11.71%
+Markdown         1h 51m 42s   ███░░░░░░░░░░░░░░░░░░░░░░  9.67%
+CSS              1h 21m 4s    ██░░░░░░░░░░░░░░░░░░░░░░░  7.02%
 
 💼 Projects:
-unduck           7h 35m 22s   ██████████░░░░░░░░░░░░░░░  39.70%
-2025-reefscape   5h 44m 1s    ████████░░░░░░░░░░░░░░░░░  30.00%
-scrapyard        2h 9m 10s    ███░░░░░░░░░░░░░░░░░░░░░░  11.26%
-unduckified      53m 42s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.68%
-nixos            49m 29s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.31%
+unduck           7h 35m 22s   ██████████░░░░░░░░░░░░░░░  39.43%
+2025-reefscape   5h 41m 47s   ████████░░░░░░░░░░░░░░░░░  29.60%
+scrapyard        2h 19m 21s   ████░░░░░░░░░░░░░░░░░░░░░  12.07%
+unduckified      53m 42s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.65%
+nixos            49m 29s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.28%
 
-Total: 19 hrs 7 mins
+Total: 19 hrs 15 mins
 ```
 
 #### 📮 Want to Contact me?
