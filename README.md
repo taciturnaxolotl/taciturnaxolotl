@@ -4,10 +4,10 @@ When I'm not doing school or working on a project, I enjoy flying drones and mak
 
 #### 👷 The latest repos i've pushed to
 
+- [`dots`](https://github.com/taciturnaxolotl/dots) - _"Kieran's opinionated (and probably slightly dumb) nix config"_ **(today)**
 - [`carriage`](https://github.com/taciturnaxolotl/carriage) - _"@taciturnaxolotl's repo template"_ **(1 day ago)**
 - [`thyme`](https://github.com/taciturnaxolotl/thyme) - _"**my** keyboard 🫶"_ **(1 day ago)**
 - [`2025-reefscape`](https://github.com/df1317/2025-reefscape) - _"it's not a water game but it will do"_ **(2 days ago)**
-- [`dots`](https://github.com/taciturnaxolotl/dots) - _"Kieran's opinionated (and probably slightly dumb) nix config"_ **(2 days ago)**
 - [`scrapyard`](https://github.com/hackclub/scrapyard) - _""_ **(3 days ago)**
 - [`cachet`](https://github.com/taciturnaxolotl/cachet) - _"a cache for slack profile pictures and emojis"_ **(4 days ago)**
 - [`quant`](https://github.com/taciturnaxolotl/quant) - _"a calculator pad? surely thats crazy"_ **(5 days ago)**
@@ -34,20 +34,20 @@ When I'm not doing school or working on a project, I enjoy flying drones and mak
 
 ```text
 💾 Languages:
-Java             7h 53m 48s   ████████████░░░░░░░░░░░░░  47.20%
-JavaScript       2h 5m 0s     ████░░░░░░░░░░░░░░░░░░░░░  12.45%
-TypeScript       1h 2m 25s    ██░░░░░░░░░░░░░░░░░░░░░░░  6.22%
-Markdown         59m 34s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.93%
-Go               44m 7s       ██░░░░░░░░░░░░░░░░░░░░░░░  4.39%
+Java             7h 53m 48s   ████████████░░░░░░░░░░░░░  46.16%
+JavaScript       2h 5m 0s     ████░░░░░░░░░░░░░░░░░░░░░  12.18%
+TypeScript       1h 2m 25s    ██░░░░░░░░░░░░░░░░░░░░░░░  6.08%
+Markdown         59m 34s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.80%
+Nix              47m 47s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.66%
 
 💼 Projects:
-2025-reefscape   9h 0m 51s    ██████████████░░░░░░░░░░░  53.87%
-unduckified      2h 16m 59s   ████░░░░░░░░░░░░░░░░░░░░░  13.64%
-scrapyard        2h 9m 10s    ████░░░░░░░░░░░░░░░░░░░░░  12.86%
-nixos            49m 29s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.93%
-readme-revamp    42m 40s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.25%
+2025-reefscape   9h 0m 51s    ██████████████░░░░░░░░░░░  52.68%
+unduckified      2h 16m 59s   ████░░░░░░░░░░░░░░░░░░░░░  13.34%
+scrapyard        2h 9m 10s    ████░░░░░░░░░░░░░░░░░░░░░  12.58%
+nixos            1h 9m 37s    ██░░░░░░░░░░░░░░░░░░░░░░░  6.78%
+readme-revamp    42m 40s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.16%
 
-Total: 16 hrs 44 mins
+Total: 17 hrs 7 mins
 ```
 
 #### 📮 Want to Contact me?
