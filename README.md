@@ -4,13 +4,13 @@ When I'm not doing school or working on a project, I enjoy flying drones and mak
 
 #### 👷 The latest repos i've pushed to
 
-- [`dots`](https://github.com/taciturnaxolotl/dots) - _"Kieran's opinionated (and probably slightly dumb) nix config"_ **(today)**
-- [`2025-reefscape`](https://github.com/df1317/2025-reefscape) - _"it's not a water game but it will do"_ **(today)**
-- [`carriage`](https://github.com/taciturnaxolotl/carriage) - _"@taciturnaxolotl's repo template"_ **(2 days ago)**
-- [`thyme`](https://github.com/taciturnaxolotl/thyme) - _"**my** keyboard 🫶"_ **(2 days ago)**
-- [`scrapyard`](https://github.com/hackclub/scrapyard) - _""_ **(4 days ago)**
-- [`cachet`](https://github.com/taciturnaxolotl/cachet) - _"a cache for slack profile pictures and emojis"_ **(5 days ago)**
-- [`quant`](https://github.com/taciturnaxolotl/quant) - _"a calculator pad? surely thats crazy"_ **(6 days ago)**
+- [`dots`](https://github.com/taciturnaxolotl/dots) - _"Kieran's opinionated (and probably slightly dumb) nix config"_ **(1 day ago)**
+- [`2025-reefscape`](https://github.com/df1317/2025-reefscape) - _"it's not a water game but it will do"_ **(1 day ago)**
+- [`carriage`](https://github.com/taciturnaxolotl/carriage) - _"@taciturnaxolotl's repo template"_ **(3 days ago)**
+- [`thyme`](https://github.com/taciturnaxolotl/thyme) - _"**my** keyboard 🫶"_ **(3 days ago)**
+- [`scrapyard`](https://github.com/hackclub/scrapyard) - _""_ **(5 days ago)**
+- [`cachet`](https://github.com/taciturnaxolotl/cachet) - _"a cache for slack profile pictures and emojis"_ **(6 days ago)**
+- [`quant`](https://github.com/taciturnaxolotl/quant) - _"a calculator pad? surely thats crazy"_ **(1 week ago)**
 - [`zera`](https://github.com/taciturnaxolotl/zera) - _"my new site v4?"_ **(1 week ago)**
 
 #### ⌨️ My latest projects
@@ -22,7 +22,7 @@ When I'm not doing school or working on a project, I enjoy flying drones and mak
 
 #### 🗒️ the latest posts from my [blog](https://dunkirk.sh)
 
-- [`Determining the properties of a spherical mirror with ray diagrams`](https://dunkirk.sh/blog/spherical-ray-diagrams/) **(1 week ago)**
+- [`Determining the properties of a spherical mirror with ray diagrams`](https://dunkirk.sh/blog/spherical-ray-diagrams/) **(2 weeks ago)**
 
 - [`Cleaning exif data with git pre-commit`](https://dunkirk.sh/blog/remove-exif-git-hook/) **(3 weeks ago)**
 
@@ -34,20 +34,20 @@ When I'm not doing school or working on a project, I enjoy flying drones and mak
 
 ```text
 💾 Languages:
-Java             6h 40m 46s   ███████████░░░░░░░░░░░░░░  43.47%
-JavaScript       2h 5m 0s     ████░░░░░░░░░░░░░░░░░░░░░  13.56%
-TypeScript       1h 4m 17s    ██░░░░░░░░░░░░░░░░░░░░░░░  6.97%
-Markdown         57m 1s       ██░░░░░░░░░░░░░░░░░░░░░░░  6.18%
-java             46m 16s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.02%
+Java             6h 35m 41s   ███████████░░░░░░░░░░░░░░  42.70%
+JavaScript       2h 5m 0s     ████░░░░░░░░░░░░░░░░░░░░░  13.49%
+TypeScript       1h 4m 17s    ██░░░░░░░░░░░░░░░░░░░░░░░  6.94%
+Markdown         1h 0m 19s    ██░░░░░░░░░░░░░░░░░░░░░░░  6.51%
+java             51m 48s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.59%
 
 💼 Projects:
-2025-reefscape   7h 45m 27s   █████████████░░░░░░░░░░░░  50.47%
-unduckified      2h 22m 58s   ████░░░░░░░░░░░░░░░░░░░░░  15.50%
-scrapyard        2h 9m 10s    ████░░░░░░░░░░░░░░░░░░░░░  14.01%
-readme-revamp    42m 52s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.65%
-nixos            34m 44s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.77%
+2025-reefscape   7h 50m 0s    █████████████░░░░░░░░░░░░  50.71%
+unduckified      2h 22m 58s   ████░░░░░░░░░░░░░░░░░░░░░  15.43%
+scrapyard        2h 9m 10s    ████░░░░░░░░░░░░░░░░░░░░░  13.94%
+readme-revamp    42m 52s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.63%
+nixos            34m 44s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.75%
 
-Total: 15 hrs 22 mins
+Total: 15 hrs 27 mins
 ```
 
 #### 📮 Want to Contact me?
