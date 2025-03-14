@@ -5,13 +5,13 @@ When I'm not doing school or working on a project, I enjoy flying drones and mak
 #### 👷 The latest repos i've pushed to
 
 - [`dots`](https://github.com/taciturnaxolotl/dots) - _"Kieran's opinionated (and probably slightly dumb) nix config"_ **(today)**
+- [`zera`](https://github.com/taciturnaxolotl/zera) - _"my new site v4?"_ **(today)**
 - [`2025-reefscape`](https://github.com/df1317/2025-reefscape) - _"it's not a water game but it will do"_ **(3 days ago)**
 - [`carriage`](https://github.com/taciturnaxolotl/carriage) - _"@taciturnaxolotl's repo template"_ **(5 days ago)**
 - [`thyme`](https://github.com/taciturnaxolotl/thyme) - _"**my** keyboard 🫶"_ **(5 days ago)**
 - [`scrapyard`](https://github.com/hackclub/scrapyard) - _""_ **(1 week ago)**
 - [`cachet`](https://github.com/taciturnaxolotl/cachet) - _"a cache for slack profile pictures and emojis"_ **(1 week ago)**
 - [`quant`](https://github.com/taciturnaxolotl/quant) - _"a calculator pad? surely thats crazy"_ **(1 week ago)**
-- [`zera`](https://github.com/taciturnaxolotl/zera) - _"my new site v4?"_ **(1 week ago)**
 
 #### ⌨️ My latest projects
 
@@ -22,11 +22,11 @@ When I'm not doing school or working on a project, I enjoy flying drones and mak
 
 #### 🗒️ the latest posts from my [blog](https://dunkirk.sh)
 
+- [`All my animation projects`](https://dunkirk.sh/blog/my-animations/) **(today)**
+
 - [`Determining the properties of a spherical mirror with ray diagrams`](https://dunkirk.sh/blog/spherical-ray-diagrams/) **(2 weeks ago)**
 
 - [`Cleaning exif data with git pre-commit`](https://dunkirk.sh/blog/remove-exif-git-hook/) **(3 weeks ago)**
-
-- [`Fixing a degraded zpool on proxmox`](https://dunkirk.sh/blog/degraded-zpool-proxmox/) **(1 month ago)**
 
 
 
@@ -34,20 +34,20 @@ When I'm not doing school or working on a project, I enjoy flying drones and mak
 
 ```text
 💾 Languages:
-Java             5h 39m 56s   ████████████░░░░░░░░░░░░░  46.15%
-Markdown         1h 38m 39s   ████░░░░░░░░░░░░░░░░░░░░░  13.39%
-java             47m 52s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.50%
-Bash             40m 55s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.56%
-JavaScript       39m 24s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.35%
+Java             5h 39m 56s   ████████████░░░░░░░░░░░░░  46.86%
+Markdown         1h 46m 8s    ████░░░░░░░░░░░░░░░░░░░░░  14.63%
+java             47m 52s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.60%
+Bash             40m 55s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.64%
+Nix              38m 15s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.27%
 
 💼 Projects:
-2025-reefscape   6h 56m 53s   ███████████████░░░░░░░░░░  56.59%
-unduckified      1h 29m 16s   ████░░░░░░░░░░░░░░░░░░░░░  12.12%
-zera             59m 35s      ███░░░░░░░░░░░░░░░░░░░░░░  8.09%
-scrapyard        39m 24s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.35%
-nixos            36m 58s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.02%
+2025-reefscape   6h 56m 53s   ███████████████░░░░░░░░░░  57.46%
+unduckified      1h 29m 16s   ████░░░░░░░░░░░░░░░░░░░░░  12.30%
+zera             1h 12m 14s   ███░░░░░░░░░░░░░░░░░░░░░░  9.96%
+nixos            36m 58s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.10%
+tangled-core     34m 20s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.73%
 
-Total: 12 hrs 17 mins
+Total: 12 hrs 6 mins
 ```
 
 #### 📮 Want to Contact me?
