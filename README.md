@@ -4,10 +4,10 @@ When I'm not doing school or working on a project, I enjoy flying drones and mak
 
 #### 👷 The latest repos i've pushed to
 
-- [`dots`](https://github.com/taciturnaxolotl/dots) - _"Kieran's opinionated (and probably slightly dumb) nix config"_ **(today)**
 - [`myrus`](https://github.com/taciturnaxolotl/myrus) - _"scrapyard robot"_ **(today)**
+- [`dots`](https://github.com/taciturnaxolotl/dots) - _"Kieran's opinionated (and probably slightly dumb) nix config"_ **(today)**
 - [`zera`](https://github.com/taciturnaxolotl/zera) - _"my new site v4?"_ **(1 day ago)**
-- [`2025-reefscape`](https://github.com/df1317/2025-reefscape) - _"it's not a water game but it will do"_ **(4 days ago)**
+- [`2025-reefscape`](https://github.com/df1317/2025-reefscape) - _"it's not a water game but it will do"_ **(1 day ago)**
 - [`carriage`](https://github.com/taciturnaxolotl/carriage) - _"@taciturnaxolotl's repo template"_ **(6 days ago)**
 - [`thyme`](https://github.com/taciturnaxolotl/thyme) - _"**my** keyboard 🫶"_ **(6 days ago)**
 - [`scrapyard`](https://github.com/hackclub/scrapyard) - _""_ **(1 week ago)**
@@ -34,20 +34,20 @@ When I'm not doing school or working on a project, I enjoy flying drones and mak
 
 ```text
 💾 Languages:
-Java             3h 30m 10s   ██████████░░░░░░░░░░░░░░░  36.62%
-Markdown         1h 39m 56s   █████░░░░░░░░░░░░░░░░░░░░  17.41%
-Bash             40m 55s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.13%
-Nix              38m 15s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.66%
-java             37m 47s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.58%
+Java             2h 54m 32s   ████████░░░░░░░░░░░░░░░░░  31.60%
+Markdown         1h 39m 56s   █████░░░░░░░░░░░░░░░░░░░░  18.10%
+Bash             40m 55s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.41%
+Nix              38m 15s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.93%
+java             37m 47s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.84%
 
 💼 Projects:
-2025-reefscape   4h 9m 13s    ███████████░░░░░░░░░░░░░░  43.42%
-unduckified      1h 29m 16s   ████░░░░░░░░░░░░░░░░░░░░░  15.55%
-zera             1h 13m 35s   ████░░░░░░░░░░░░░░░░░░░░░  12.82%
-nixos            36m 58s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.44%
-tangled-core     34m 20s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.98%
+2025-reefscape   3h 33m 35s   ██████████░░░░░░░░░░░░░░░  38.67%
+unduckified      1h 29m 16s   █████░░░░░░░░░░░░░░░░░░░░  16.16%
+zera             1h 13m 35s   ████░░░░░░░░░░░░░░░░░░░░░  13.32%
+nixos            36m 58s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.69%
+tangled-core     34m 20s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.22%
 
-Total: 9 hrs 34 mins
+Total: 9 hrs 12 mins
 ```
 
 #### 📮 Want to Contact me?
