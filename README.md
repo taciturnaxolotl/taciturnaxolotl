@@ -5,8 +5,8 @@ When I'm not doing school or working on a project, I enjoy flying drones and mak
 #### 👷 The latest repos i've pushed to
 
 - [`nomen`](https://github.com/aramshiva/nomen) - _"✍️ An web viewer of every name"_ **(today)**
+- [`dots`](https://github.com/taciturnaxolotl/dots) - _"Kieran's opinionated (and probably slightly dumb) nix config"_ **(today)**
 - [`2025-reefscape`](https://github.com/df1317/2025-reefscape) - _"it's not a water game but it will do"_ **(today)**
-- [`dots`](https://github.com/taciturnaxolotl/dots) - _"Kieran's opinionated (and probably slightly dumb) nix config"_ **(1 day ago)**
 - [`myrus`](https://github.com/taciturnaxolotl/myrus) - _"a scrappy gimbal that insults you in shakespearean english"_ **(2 days ago)**
 - [`zera`](https://github.com/taciturnaxolotl/zera) - _"my new site v4?"_ **(4 days ago)**
 - [`carriage`](https://github.com/taciturnaxolotl/carriage) - _"@taciturnaxolotl's repo template"_ **(1 week ago)**
@@ -34,20 +34,20 @@ When I'm not doing school or working on a project, I enjoy flying drones and mak
 
 ```text
 💾 Languages:
-Java             3h 20m 2s    █████████░░░░░░░░░░░░░░░░  35.20%
-Markdown         2h 4m 35s    ██████░░░░░░░░░░░░░░░░░░░  21.92%
-TypeScript       1h 5m 31s    ███░░░░░░░░░░░░░░░░░░░░░░  11.53%
-Python           23m 21s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.11%
-Nix              22m 36s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.98%
+Java             3h 22m 2s    █████████░░░░░░░░░░░░░░░░  35.16%
+Markdown         2h 4m 35s    ██████░░░░░░░░░░░░░░░░░░░  21.68%
+TypeScript       1h 5m 31s    ███░░░░░░░░░░░░░░░░░░░░░░  11.40%
+Nix              26m 55s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.68%
+Python           23m 21s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.06%
 
 💼 Projects:
-2025-reefscape   3h 46m 18s   ██████████░░░░░░░░░░░░░░░  39.81%
-myrus            2h 42m 55s   ████████░░░░░░░░░░░░░░░░░  28.66%
-zera             1h 11m 45s   ████░░░░░░░░░░░░░░░░░░░░░  12.62%
-unduckified      34m 2s       ██░░░░░░░░░░░░░░░░░░░░░░░  5.99%
-unknown          25m 31s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.49%
+2025-reefscape   3h 48m 18s   ██████████░░░░░░░░░░░░░░░  39.72%
+myrus            2h 42m 55s   ████████░░░░░░░░░░░░░░░░░  28.35%
+zera             1h 11m 45s   ████░░░░░░░░░░░░░░░░░░░░░  12.48%
+unduckified      34m 2s       ██░░░░░░░░░░░░░░░░░░░░░░░  5.92%
+unknown          25m 31s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.44%
 
-Total: 9 hrs 28 mins
+Total: 9 hrs 35 mins
 ```
 
 #### 📮 Want to Contact me?
