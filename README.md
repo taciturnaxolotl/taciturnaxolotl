@@ -4,13 +4,13 @@ When I'm not doing school or working on a project, I enjoy flying drones and mak
 
 #### 👷 The latest repos i've pushed to
 
+- [`dots`](https://github.com/taciturnaxolotl/dots) - _"Kieran's opinionated (and probably slightly dumb) nix config"_ **(today)**
+- [`2025-reefscape`](https://github.com/df1317/2025-reefscape) - _"it's not a water game but it will do"_ **(today)**
 - [`nomen`](https://github.com/aramshiva/nomen) - _"✍️ An web viewer of every name"_ **(1 day ago)**
-- [`dots`](https://github.com/taciturnaxolotl/dots) - _"Kieran's opinionated (and probably slightly dumb) nix config"_ **(1 day ago)**
-- [`2025-reefscape`](https://github.com/df1317/2025-reefscape) - _"it's not a water game but it will do"_ **(1 day ago)**
 - [`myrus`](https://github.com/taciturnaxolotl/myrus) - _"a scrappy gimbal that insults you in shakespearean english"_ **(3 days ago)**
 - [`zera`](https://github.com/taciturnaxolotl/zera) - _"my new site v4?"_ **(5 days ago)**
-- [`carriage`](https://github.com/taciturnaxolotl/carriage) - _"@taciturnaxolotl's repo template"_ **(1 week ago)**
 - [`thyme`](https://github.com/taciturnaxolotl/thyme) - _"**my** keyboard 🫶"_ **(1 week ago)**
+- [`carriage`](https://github.com/taciturnaxolotl/carriage) - _"@taciturnaxolotl's repo template"_ **(1 week ago)**
 - [`scrapyard`](https://github.com/hackclub/scrapyard) - _""_ **(1 week ago)**
 
 #### ⌨️ My latest projects
@@ -34,20 +34,20 @@ When I'm not doing school or working on a project, I enjoy flying drones and mak
 
 ```text
 💾 Languages:
-Java             2h 11m 14s   ███████░░░░░░░░░░░░░░░░░░  26.70%
-Markdown         2h 1m 17s    ███████░░░░░░░░░░░░░░░░░░  24.67%
-TypeScript       59m 44s      ████░░░░░░░░░░░░░░░░░░░░░  12.15%
-Nix              26m 55s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.48%
-Python           23m 21s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.75%
+Java             2h 9m 14s    ███████░░░░░░░░░░░░░░░░░░  26.40%
+Markdown         2h 1m 17s    ███████░░░░░░░░░░░░░░░░░░  24.77%
+TypeScript       59m 44s      ████░░░░░░░░░░░░░░░░░░░░░  12.20%
+Nix              26m 55s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.50%
+Python           23m 21s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.77%
 
 💼 Projects:
-myrus            2h 42m 55s   █████████░░░░░░░░░░░░░░░░  33.13%
-2025-reefscape   2h 38m 5s    █████████░░░░░░░░░░░░░░░░  32.15%
-zera             1h 11m 45s   ████░░░░░░░░░░░░░░░░░░░░░  14.59%
-unduckified      34m 2s       ██░░░░░░░░░░░░░░░░░░░░░░░  6.92%
-frc-nix          19m 59s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.06%
+myrus            2h 42m 55s   █████████░░░░░░░░░░░░░░░░  33.27%
+2025-reefscape   2h 36m 6s    ████████░░░░░░░░░░░░░░░░░  31.88%
+zera             1h 11m 45s   ████░░░░░░░░░░░░░░░░░░░░░  14.65%
+unduckified      34m 2s       ██░░░░░░░░░░░░░░░░░░░░░░░  6.95%
+frc-nix          19m 59s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.08%
 
-Total: 8 hrs 12 mins
+Total: 8 hrs 10 mins
 ```
 
 #### 📮 Want to Contact me?
