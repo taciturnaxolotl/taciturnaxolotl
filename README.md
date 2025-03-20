@@ -5,8 +5,8 @@ When I'm not doing school or working on a project, I enjoy flying drones and mak
 #### 👷 The latest repos i've pushed to
 
 - [`zera`](https://github.com/taciturnaxolotl/zera) - _"my new site v4?"_ **(1 day ago)**
-- [`dots`](https://github.com/taciturnaxolotl/dots) - _"Kieran's opinionated (and probably slightly dumb) nix config"_ **(1 day ago)**
 - [`2025-reefscape`](https://github.com/df1317/2025-reefscape) - _"it's not a water game but it will do"_ **(1 day ago)**
+- [`dots`](https://github.com/taciturnaxolotl/dots) - _"Kieran's opinionated (and probably slightly dumb) nix config"_ **(1 day ago)**
 - [`nomen`](https://github.com/aramshiva/nomen) - _"✍️ An web viewer of every name"_ **(2 days ago)**
 - [`myrus`](https://github.com/taciturnaxolotl/myrus) - _"a scrappy gimbal that insults you in shakespearean english"_ **(4 days ago)**
 - [`thyme`](https://github.com/taciturnaxolotl/thyme) - _"**my** keyboard 🫶"_ **(1 week ago)**
