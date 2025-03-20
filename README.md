@@ -4,11 +4,11 @@ When I'm not doing school or working on a project, I enjoy flying drones and mak
 
 #### 👷 The latest repos i've pushed to
 
-- [`zera`](https://github.com/taciturnaxolotl/zera) - _"my new site v4?"_ **(today)**
-- [`dots`](https://github.com/taciturnaxolotl/dots) - _"Kieran's opinionated (and probably slightly dumb) nix config"_ **(today)**
-- [`2025-reefscape`](https://github.com/df1317/2025-reefscape) - _"it's not a water game but it will do"_ **(today)**
-- [`nomen`](https://github.com/aramshiva/nomen) - _"✍️ An web viewer of every name"_ **(1 day ago)**
-- [`myrus`](https://github.com/taciturnaxolotl/myrus) - _"a scrappy gimbal that insults you in shakespearean english"_ **(3 days ago)**
+- [`zera`](https://github.com/taciturnaxolotl/zera) - _"my new site v4?"_ **(1 day ago)**
+- [`dots`](https://github.com/taciturnaxolotl/dots) - _"Kieran's opinionated (and probably slightly dumb) nix config"_ **(1 day ago)**
+- [`2025-reefscape`](https://github.com/df1317/2025-reefscape) - _"it's not a water game but it will do"_ **(1 day ago)**
+- [`nomen`](https://github.com/aramshiva/nomen) - _"✍️ An web viewer of every name"_ **(2 days ago)**
+- [`myrus`](https://github.com/taciturnaxolotl/myrus) - _"a scrappy gimbal that insults you in shakespearean english"_ **(4 days ago)**
 - [`thyme`](https://github.com/taciturnaxolotl/thyme) - _"**my** keyboard 🫶"_ **(1 week ago)**
 - [`carriage`](https://github.com/taciturnaxolotl/carriage) - _"@taciturnaxolotl's repo template"_ **(1 week ago)**
 - [`scrapyard`](https://github.com/hackclub/scrapyard) - _""_ **(1 week ago)**
@@ -22,9 +22,9 @@ When I'm not doing school or working on a project, I enjoy flying drones and mak
 
 #### 🗒️ the latest posts from my [blog](https://dunkirk.sh)
 
-- [`Adding a copy code button`](https://dunkirk.sh/blog/adding-a-copy-button/) **(5 days ago)**
+- [`Adding a copy code button`](https://dunkirk.sh/blog/adding-a-copy-button/) **(6 days ago)**
 
-- [`All my animation projects`](https://dunkirk.sh/blog/my-animations/) **(5 days ago)**
+- [`All my animation projects`](https://dunkirk.sh/blog/my-animations/) **(6 days ago)**
 
 - [`Determining the properties of a spherical mirror with ray diagrams`](https://dunkirk.sh/blog/spherical-ray-diagrams/) **(3 weeks ago)**
 
