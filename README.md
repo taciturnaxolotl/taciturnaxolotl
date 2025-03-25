@@ -4,6 +4,7 @@ When I'm not doing school or working on a project, I enjoy flying drones and mak
 
 #### 👷 The latest repos i've pushed to
 
+- [`bunplayground`](https://github.com/taciturnaxolotl/bunplayground) - _""_ **(today)**
 - [`dots`](https://github.com/taciturnaxolotl/dots) - _"Kieran's opinionated (and probably slightly dumb) nix config"_ **(today)**
 - [`thyme`](https://github.com/taciturnaxolotl/thyme) - _"**my** keyboard 🫶"_ **(1 day ago)**
 - [`zera`](https://github.com/taciturnaxolotl/zera) - _"my new site v4?"_ **(5 days ago)**
@@ -11,14 +12,13 @@ When I'm not doing school or working on a project, I enjoy flying drones and mak
 - [`names`](https://github.com/aramshiva/names) - _"✍️ An web viewer of every name"_ **(1 week ago)**
 - [`myrus`](https://github.com/taciturnaxolotl/myrus) - _"a scrappy gimbal that insults you in shakespearean english"_ **(1 week ago)**
 - [`carriage`](https://github.com/taciturnaxolotl/carriage) - _"@taciturnaxolotl's repo template"_ **(2 weeks ago)**
-- [`scrapyard`](https://github.com/hackclub/scrapyard) - _""_ **(2 weeks ago)**
 
 #### ⌨️ My latest projects
 
+- [`bunplayground`](https://github.com/taciturnaxolotl/bunplayground) - _""_
 - [`myrus`](https://github.com/taciturnaxolotl/myrus) - _"a scrappy gimbal that insults you in shakespearean english"_
 - [`thyme`](https://github.com/taciturnaxolotl/thyme) - _"**my** keyboard 🫶"_
 - [`hackatime-bot`](https://github.com/taciturnaxolotl/hackatime-bot) - _"providing password reset services for a long while: circa 2025"_
-- [`quant`](https://github.com/taciturnaxolotl/quant) - _"a calculator pad? surely thats crazy"_
 
 #### 🗒️ the latest posts from my [blog](https://dunkirk.sh)
 
@@ -34,20 +34,20 @@ When I'm not doing school or working on a project, I enjoy flying drones and mak
 
 ```text
 💾 Languages:
-SCSS             2h 34m 51s   ███████████░░░░░░░░░░░░░░  42.94%
-Markdown         52m 35s      ████░░░░░░░░░░░░░░░░░░░░░  14.58%
-JavaScript       27m 22s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.59%
-Java             27m 11s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.54%
-JSON             26m 16s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.28%
+SCSS             2h 34m 51s   ██████████░░░░░░░░░░░░░░░  39.59%
+Markdown         53m 12s      ████░░░░░░░░░░░░░░░░░░░░░  13.60%
+JSON             28m 11s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.20%
+JavaScript       27m 22s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.00%
+Java             27m 11s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.95%
 
 💼 Projects:
-zera             4h 37m 0s    ████████████████████░░░░░  76.78%
-2025-reefscape   40m 17s      ███░░░░░░░░░░░░░░░░░░░░░░  11.17%
-unknown          26m 45s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.42%
-duckquill        8m 16s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.29%
-frc-nix          6m 27s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.79%
+zera             4h 37m 0s    ██████████████████░░░░░░░  70.78%
+2025-reefscape   40m 17s      ███░░░░░░░░░░░░░░░░░░░░░░  10.29%
+bunplayground    30m 3s       ██░░░░░░░░░░░░░░░░░░░░░░░  7.68%
+unknown          26m 45s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.84%
+duckquill        8m 16s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.11%
 
-Total: 6 hrs 1 mins
+Total: 6 hrs 31 mins
 ```
 
 #### 📮 Want to Contact me?
