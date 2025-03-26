@@ -1,8 +1,8 @@
-### ✌️ Hi! I'm a 16 year old homeschooler and coder!
+### ✌️ Hi! I'm a 16-year-old homeschooled programmer/wannabe hardware guy!
 
-When I'm not doing school or working on a project, I enjoy flying drones and making videos on my YouTube channel, [**_`A Wanderer's Archives`_**](https://youtube.com/@wanderer.archives).
+When not doing school or working on a project, I enjoy flying drones and making videos on my YouTube channel, [**_`A Wanderer's Archives`_**](https://youtube.com/@wanderer.archives).
 
-#### 👷 The latest repos i've pushed to
+#### 👷 The latest repos I've pushed to
 {{range recentContributions 8}}
 - [`{{.Repo.Name}}`]({{.Repo.URL}}) - _"{{.Repo.Description}}"_ **({{humanize .OccurredAt}})**
 {{- end}}
