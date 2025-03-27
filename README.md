@@ -4,11 +4,11 @@ When not doing school or working on a project, I enjoy flying drones and making 
 
 #### 👷 The latest repos I've pushed to
 
-- [`2025-reefscape`](https://github.com/df1317/2025-reefscape) - _"it's not a water game but it will do"_ **(today)**
-- [`dots`](https://github.com/taciturnaxolotl/dots) - _"Kieran's opinionated (and probably slightly dumb) nix config"_ **(today)**
-- [`bunplayground`](https://github.com/taciturnaxolotl/bunplayground) - _"random bun scripts that dont fit anywhere else"_ **(1 day ago)**
-- [`thyme`](https://github.com/taciturnaxolotl/thyme) - _"my custom split keyboard 🫶"_ **(2 days ago)**
-- [`zera`](https://github.com/taciturnaxolotl/zera) - _"my new site v4?"_ **(6 days ago)**
+- [`2025-reefscape`](https://github.com/df1317/2025-reefscape) - _"it's not a water game but it will do"_ **(1 day ago)**
+- [`dots`](https://github.com/taciturnaxolotl/dots) - _"Kieran's opinionated (and probably slightly dumb) nix config"_ **(1 day ago)**
+- [`bunplayground`](https://github.com/taciturnaxolotl/bunplayground) - _"random bun scripts that dont fit anywhere else"_ **(2 days ago)**
+- [`thyme`](https://github.com/taciturnaxolotl/thyme) - _"my custom split keyboard 🫶"_ **(3 days ago)**
+- [`zera`](https://github.com/taciturnaxolotl/zera) - _"my new site v4?"_ **(1 week ago)**
 - [`names`](https://github.com/aramshiva/names) - _"✍️ An web viewer of every name"_ **(1 week ago)**
 - [`myrus`](https://github.com/taciturnaxolotl/myrus) - _"a scrappy gimbal that insults you in shakespearean english"_ **(1 week ago)**
 - [`carriage`](https://github.com/taciturnaxolotl/carriage) - _"@taciturnaxolotl's repo template"_ **(2 weeks ago)**
@@ -35,15 +35,15 @@ When not doing school or working on a project, I enjoy flying drones and making 
 ```text
 💾 Languages:
 SCSS             1h 46m 27s   █████████░░░░░░░░░░░░░░░░  34.83%
-Java             59m 42s      █████░░░░░░░░░░░░░░░░░░░░  19.54%
-Markdown         35m 39s      ███░░░░░░░░░░░░░░░░░░░░░░  11.67%
+Java             59m 43s      █████░░░░░░░░░░░░░░░░░░░░  19.54%
+Markdown         35m 39s      ███░░░░░░░░░░░░░░░░░░░░░░  11.66%
 TypeScript       29m 42s      ███░░░░░░░░░░░░░░░░░░░░░░  9.72%
 JavaScript       15m 52s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.19%
 
 💼 Projects:
-zera             3h 4m 5s     ████████████████░░░░░░░░░  60.22%
-2025-reefscape   1h 18m 54s   ███████░░░░░░░░░░░░░░░░░░  25.81%
-bunplayground    37m 37s      ████░░░░░░░░░░░░░░░░░░░░░  12.31%
+zera             3h 4m 5s     ████████████████░░░░░░░░░  60.21%
+2025-reefscape   1h 18m 55s   ███████░░░░░░░░░░░░░░░░░░  25.81%
+bunplayground    37m 37s      ████░░░░░░░░░░░░░░░░░░░░░  12.30%
 thyme            2m 32s       █░░░░░░░░░░░░░░░░░░░░░░░░  0.83%
 duckquill        2m 29s       █░░░░░░░░░░░░░░░░░░░░░░░░  0.81%
 
