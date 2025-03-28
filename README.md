@@ -4,10 +4,10 @@ When not doing school or working on a project, I enjoy flying drones and making 
 
 #### 👷 The latest repos I've pushed to
 
-- [`dots`](https://github.com/taciturnaxolotl/dots) - _"Kieran's opinionated (and probably slightly dumb) nix config"_ **(today)**
-- [`2025-reefscape`](https://github.com/df1317/2025-reefscape) - _"it's not a water game but it will do"_ **(1 day ago)**
-- [`bunplayground`](https://github.com/taciturnaxolotl/bunplayground) - _"random bun scripts that dont fit anywhere else"_ **(2 days ago)**
-- [`thyme`](https://github.com/taciturnaxolotl/thyme) - _"my custom split keyboard 🫶"_ **(3 days ago)**
+- [`thyme`](https://github.com/taciturnaxolotl/thyme) - _"my custom split keyboard 🫶"_ **(1 day ago)**
+- [`dots`](https://github.com/taciturnaxolotl/dots) - _"Kieran's opinionated (and probably slightly dumb) nix config"_ **(1 day ago)**
+- [`2025-reefscape`](https://github.com/df1317/2025-reefscape) - _"it's not a water game but it will do"_ **(2 days ago)**
+- [`bunplayground`](https://github.com/taciturnaxolotl/bunplayground) - _"random bun scripts that dont fit anywhere else"_ **(3 days ago)**
 - [`zera`](https://github.com/taciturnaxolotl/zera) - _"my new site v4?"_ **(1 week ago)**
 - [`names`](https://github.com/aramshiva/names) - _"✍️ An web viewer of every name"_ **(1 week ago)**
 - [`myrus`](https://github.com/taciturnaxolotl/myrus) - _"a scrappy gimbal that insults you in shakespearean english"_ **(1 week ago)**
@@ -22,11 +22,11 @@ When not doing school or working on a project, I enjoy flying drones and making 
 
 #### 🗒️ the latest posts from my [blog](https://dunkirk.sh)
 
-- [`Adding a copy code button`](https://dunkirk.sh/blog/adding-a-copy-button/) **(1 week ago)**
+- [`Adding a copy code button`](https://dunkirk.sh/blog/adding-a-copy-button/) **(2 weeks ago)**
 
-- [`All my animation projects`](https://dunkirk.sh/blog/my-animations/) **(1 week ago)**
+- [`All my animation projects`](https://dunkirk.sh/blog/my-animations/) **(2 weeks ago)**
 
-- [`Determining the properties of a spherical mirror with ray diagrams`](https://dunkirk.sh/blog/spherical-ray-diagrams/) **(4 weeks ago)**
+- [`Determining the properties of a spherical mirror with ray diagrams`](https://dunkirk.sh/blog/spherical-ray-diagrams/) **(1 month ago)**
 
 
 
@@ -34,20 +34,20 @@ When not doing school or working on a project, I enjoy flying drones and making 
 
 ```text
 💾 Languages:
-Java             57m 43s      ████████████░░░░░░░░░░░░░  44.18%
-TypeScript       29m 42s      ██████░░░░░░░░░░░░░░░░░░░  22.73%
-java             7m 5s        ██░░░░░░░░░░░░░░░░░░░░░░░  5.42%
-SCSS             6m 49s       ██░░░░░░░░░░░░░░░░░░░░░░░  5.22%
-Markdown         6m 26s       ██░░░░░░░░░░░░░░░░░░░░░░░  4.92%
+Java             53m 35s     ███████████░░░░░░░░░░░░░░  42.11%
+TypeScript       29m 42s     ██████░░░░░░░░░░░░░░░░░░░  23.34%
+java             7m 5s       ██░░░░░░░░░░░░░░░░░░░░░░░  5.57%
+SCSS             6m 49s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.36%
+Markdown         6m 27s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.07%
 
 💼 Projects:
-2025-reefscape   1h 11m 40s   ██████████████░░░░░░░░░░░  54.83%
-bunplayground    37m 37s      ████████░░░░░░░░░░░░░░░░░  28.78%
-zera             14m 31s      ███░░░░░░░░░░░░░░░░░░░░░░  11.11%
-nixos            4m 21s       █░░░░░░░░░░░░░░░░░░░░░░░░  3.33%
-thyme            2m 32s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.94%
+2025-reefscape   1h 8m 11s   ██████████████░░░░░░░░░░░  53.55%
+bunplayground    37m 37s     ████████░░░░░░░░░░░░░░░░░  29.54%
+zera             14m 36s     ███░░░░░░░░░░░░░░░░░░░░░░  11.47%
+nixos            4m 22s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.43%
+thyme            2m 32s      █░░░░░░░░░░░░░░░░░░░░░░░░  1.99%
 
-Total: 2 hrs 11 mins
+Total: 2 hrs 7 mins
 ```
 
 #### 📮 Want to Contact me?
