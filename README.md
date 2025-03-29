@@ -4,9 +4,9 @@ When not doing school or working on a project, I enjoy flying drones and making 
 
 #### 👷 The latest repos I've pushed to
 
+- [`dots`](https://github.com/taciturnaxolotl/dots) - _"Kieran's opinionated (and probably slightly dumb) nix config"_ **(today)**
 - [`zera`](https://github.com/taciturnaxolotl/zera) - _"my new site v4?"_ **(today)**
 - [`thyme`](https://github.com/taciturnaxolotl/thyme) - _"my custom split keyboard 🫶"_ **(2 days ago)**
-- [`dots`](https://github.com/taciturnaxolotl/dots) - _"Kieran's opinionated (and probably slightly dumb) nix config"_ **(2 days ago)**
 - [`2025-reefscape`](https://github.com/df1317/2025-reefscape) - _"it's not a water game but it will do"_ **(3 days ago)**
 - [`bunplayground`](https://github.com/taciturnaxolotl/bunplayground) - _"random bun scripts that dont fit anywhere else"_ **(4 days ago)**
 - [`names`](https://github.com/aramshiva/names) - _"✍️ An web viewer of every name"_ **(1 week ago)**
@@ -34,20 +34,20 @@ When not doing school or working on a project, I enjoy flying drones and making 
 
 ```text
 💾 Languages:
-Java             58m 4s       ███████░░░░░░░░░░░░░░░░░░  27.73%
-SCSS             38m 14s      █████░░░░░░░░░░░░░░░░░░░░  18.26%
-TypeScript       29m 42s      ████░░░░░░░░░░░░░░░░░░░░░  14.18%
-CSS              16m 27s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.86%
-JavaScript       11m 57s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.71%
+Java             58m 4s       ███████░░░░░░░░░░░░░░░░░░  26.42%
+SCSS             38m 14s      █████░░░░░░░░░░░░░░░░░░░░  17.40%
+TypeScript       29m 42s      ████░░░░░░░░░░░░░░░░░░░░░  13.51%
+CSS              23m 6s       ███░░░░░░░░░░░░░░░░░░░░░░  10.51%
+JavaScript       11m 57s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.44%
 
 💼 Projects:
-zera             1h 32m 44s   ████████████░░░░░░░░░░░░░  44.25%
-2025-reefscape   1h 12m 1s    █████████░░░░░░░░░░░░░░░░  34.36%
-bunplayground    37m 37s      █████░░░░░░░░░░░░░░░░░░░░  17.95%
-nixos            4m 22s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.08%
-thyme            2m 32s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.21%
+zera             1h 40m 57s   ████████████░░░░░░░░░░░░░  45.90%
+2025-reefscape   1h 12m 1s    █████████░░░░░░░░░░░░░░░░  32.74%
+bunplayground    37m 37s      █████░░░░░░░░░░░░░░░░░░░░  17.10%
+nixos            6m 31s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.96%
+thyme            2m 32s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.15%
 
-Total: 3 hrs 30 mins
+Total: 3 hrs 40 mins
 ```
 
 #### 📮 Want to Contact me?
