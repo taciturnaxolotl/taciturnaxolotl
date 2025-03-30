@@ -9,7 +9,7 @@ When not doing school or working on a project, I enjoy flying drones and making 
 - [`zera`](https://github.com/taciturnaxolotl/zera) - _"my new site v4?"_ **(1 day ago)**
 - [`2025-reefscape`](https://github.com/df1317/2025-reefscape) - _"it's not a water game but it will do"_ **(4 days ago)**
 - [`bunplayground`](https://github.com/taciturnaxolotl/bunplayground) - _"random bun scripts that dont fit anywhere else"_ **(5 days ago)**
-- [`names`](https://github.com/aramshiva/names) - _"✍️ An web viewer of every name"_ **(1 week ago)**
+- [`nomen`](https://github.com/aramshiva/nomen) - _"✍️ An web viewer of every name"_ **(1 week ago)**
 - [`myrus`](https://github.com/taciturnaxolotl/myrus) - _"a scrappy gimbal that insults you in shakespearean english"_ **(2 weeks ago)**
 - [`carriage`](https://github.com/taciturnaxolotl/carriage) - _"@taciturnaxolotl's repo template"_ **(3 weeks ago)**
 
