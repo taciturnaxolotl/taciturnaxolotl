@@ -4,8 +4,8 @@ When not doing school or working on a project, I enjoy flying drones and making 
 
 #### 👷 The latest repos I've pushed to
 
-- [`dots`](https://github.com/taciturnaxolotl/dots) - _"Kieran's opinionated (and probably slightly dumb) nix config"_ **(1 day ago)**
 - [`thyme`](https://github.com/taciturnaxolotl/thyme) - _"my custom split keyboard 🫶"_ **(1 day ago)**
+- [`dots`](https://github.com/taciturnaxolotl/dots) - _"Kieran's opinionated (and probably slightly dumb) nix config"_ **(1 day ago)**
 - [`zera`](https://github.com/taciturnaxolotl/zera) - _"my new site v4?"_ **(3 days ago)**
 - [`2025-reefscape`](https://github.com/df1317/2025-reefscape) - _"it's not a water game but it will do"_ **(6 days ago)**
 - [`bunplayground`](https://github.com/taciturnaxolotl/bunplayground) - _"random bun scripts that dont fit anywhere else"_ **(1 week ago)**
@@ -34,20 +34,20 @@ When not doing school or working on a project, I enjoy flying drones and making 
 
 ```text
 💾 Languages:
-TypeScript       1h 19m 18s   ██████░░░░░░░░░░░░░░░░░░░  22.07%
-Markdown         1h 18m 30s   ██████░░░░░░░░░░░░░░░░░░░  21.85%
-Java             58m 4s       █████░░░░░░░░░░░░░░░░░░░░  16.16%
-SCSS             29m 31s      ███░░░░░░░░░░░░░░░░░░░░░░  8.22%
-CSS              23m 35s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.56%
+Markdown         1h 40m 48s   ███████░░░░░░░░░░░░░░░░░░  26.59%
+TypeScript       1h 19m 18s   ██████░░░░░░░░░░░░░░░░░░░  20.92%
+Java             58m 4s       ████░░░░░░░░░░░░░░░░░░░░░  15.32%
+SCSS             29m 31s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.79%
+CSS              23m 35s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.22%
 
 💼 Projects:
-zera             1h 29m 40s   ███████░░░░░░░░░░░░░░░░░░  24.95%
-thyme            1h 18m 48s   ██████░░░░░░░░░░░░░░░░░░░  21.92%
-2025-reefscape   1h 12m 1s    ██████░░░░░░░░░░░░░░░░░░░  20.04%
-mcp-servers      53m 25s      ████░░░░░░░░░░░░░░░░░░░░░  14.86%
-bunplayground    37m 37s      ███░░░░░░░░░░░░░░░░░░░░░░  10.47%
+thyme            1h 38m 34s   ███████░░░░░░░░░░░░░░░░░░  25.99%
+zera             1h 29m 40s   ██████░░░░░░░░░░░░░░░░░░░  23.65%
+2025-reefscape   1h 12m 1s    █████░░░░░░░░░░░░░░░░░░░░  18.99%
+mcp-servers      53m 25s      ████░░░░░░░░░░░░░░░░░░░░░  14.09%
+bunplayground    37m 37s      ███░░░░░░░░░░░░░░░░░░░░░░  9.92%
 
-Total: 5 hrs 59 mins
+Total: 6 hrs 19 mins
 ```
 
 #### 📮 Want to Contact me?
