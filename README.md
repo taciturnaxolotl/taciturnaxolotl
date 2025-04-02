@@ -5,8 +5,8 @@ When not doing school or working on a project, I enjoy flying drones and making 
 #### 👷 The latest repos I've pushed to
 
 - [`takes`](https://github.com/taciturnaxolotl/takes) - _"a system of takes and uploads"_ **(today)**
-- [`thyme`](https://github.com/taciturnaxolotl/thyme) - _"my custom split keyboard 🫶"_ **(2 days ago)**
 - [`dots`](https://github.com/taciturnaxolotl/dots) - _"Kieran's opinionated (and probably slightly dumb) nix config"_ **(2 days ago)**
+- [`thyme`](https://github.com/taciturnaxolotl/thyme) - _"my custom split keyboard 🫶"_ **(2 days ago)**
 - [`zera`](https://github.com/taciturnaxolotl/zera) - _"my new site v4?"_ **(4 days ago)**
 - [`2025-reefscape`](https://github.com/df1317/2025-reefscape) - _"it's not a water game but it will do"_ **(1 week ago)**
 - [`bunplayground`](https://github.com/taciturnaxolotl/bunplayground) - _"random bun scripts that dont fit anywhere else"_ **(1 week ago)**
@@ -34,20 +34,20 @@ When not doing school or working on a project, I enjoy flying drones and making 
 
 ```text
 💾 Languages:
-TypeScript    7h 15m 55s   ██████████████░░░░░░░░░░░  55.27%
-Markdown      1h 54m 22s   ████░░░░░░░░░░░░░░░░░░░░░  14.50%
-CSS           31m 25s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.98%
-SCSS          29m 31s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.74%
-Bash          25m 3s       █░░░░░░░░░░░░░░░░░░░░░░░░  3.18%
+TypeScript           7h 18m 56s   ██████████████░░░░░░░░░░░  54.27%
+Markdown             1h 54m 22s   ████░░░░░░░░░░░░░░░░░░░░░  14.14%
+CSS                  44m 17s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.47%
+SCSS                 29m 31s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.65%
+Bash                 25m 3s       █░░░░░░░░░░░░░░░░░░░░░░░░  3.10%
 
 💼 Projects:
-takes         8h 10m 52s   ████████████████░░░░░░░░░  62.23%
-thyme         1h 39m 16s   ████░░░░░░░░░░░░░░░░░░░░░  12.59%
-zera          1h 29m 40s   ███░░░░░░░░░░░░░░░░░░░░░░  11.37%
-mcp-servers   53m 25s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.77%
-nixos         13m 11s      █░░░░░░░░░░░░░░░░░░░░░░░░  1.67%
+takes                8h 13m 54s   ████████████████░░░░░░░░░  61.05%
+thyme                1h 39m 16s   ████░░░░░░░░░░░░░░░░░░░░░  12.27%
+zera                 1h 29m 40s   ███░░░░░░░░░░░░░░░░░░░░░░  11.08%
+mcp-servers          53m 25s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.60%
+panorama-countdown   30m 0s       █░░░░░░░░░░░░░░░░░░░░░░░░  3.71%
 
-Total: 13 hrs 9 mins
+Total: 13 hrs 29 mins
 ```
 
 #### 📮 Want to Contact me?
