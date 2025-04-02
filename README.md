@@ -5,8 +5,8 @@ When not doing school or working on a project, I enjoy flying drones and making 
 #### 👷 The latest repos I've pushed to
 
 - [`takes`](https://github.com/taciturnaxolotl/takes) - _"a system of takes and uploads"_ **(1 day ago)**
-- [`dots`](https://github.com/taciturnaxolotl/dots) - _"Kieran's opinionated (and probably slightly dumb) nix config"_ **(2 days ago)**
 - [`thyme`](https://github.com/taciturnaxolotl/thyme) - _"my custom split keyboard 🫶"_ **(2 days ago)**
+- [`dots`](https://github.com/taciturnaxolotl/dots) - _"Kieran's opinionated (and probably slightly dumb) nix config"_ **(2 days ago)**
 - [`zera`](https://github.com/taciturnaxolotl/zera) - _"my new site v4?"_ **(4 days ago)**
 - [`2025-reefscape`](https://github.com/df1317/2025-reefscape) - _"it's not a water game but it will do"_ **(1 week ago)**
 - [`bunplayground`](https://github.com/taciturnaxolotl/bunplayground) - _"random bun scripts that dont fit anywhere else"_ **(1 week ago)**
@@ -34,20 +34,20 @@ When not doing school or working on a project, I enjoy flying drones and making 
 
 ```text
 💾 Languages:
-Markdown         1h 57m 42s   ████████░░░░░░░░░░░░░░░░░  31.19%
-TypeScript       57m 4s       ████░░░░░░░░░░░░░░░░░░░░░  15.12%
-Java             53m 5s       ████░░░░░░░░░░░░░░░░░░░░░  14.07%
-SCSS             29m 31s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.82%
-CSS              23m 35s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.25%
+Markdown         1h 57m 42s   ████████░░░░░░░░░░░░░░░░░  30.55%
+TypeScript       1h 32m 14s   ██████░░░░░░░░░░░░░░░░░░░  23.94%
+SCSS             29m 31s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.66%
+CSS              23m 35s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.12%
+JavaScript       12m 11s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.16%
 
 💼 Projects:
-thyme            1h 41m 27s   ███████░░░░░░░░░░░░░░░░░░  26.88%
-zera             1h 29m 40s   ██████░░░░░░░░░░░░░░░░░░░  23.76%
-2025-reefscape   1h 0m 58s    █████░░░░░░░░░░░░░░░░░░░░  16.15%
-mcp-servers      53m 25s      ████░░░░░░░░░░░░░░░░░░░░░  14.15%
-takes            43m 3s       ███░░░░░░░░░░░░░░░░░░░░░░  11.41%
+thyme            1h 41m 27s   ███████░░░░░░░░░░░░░░░░░░  26.32%
+takes            1h 32m 8s    ██████░░░░░░░░░░░░░░░░░░░  23.91%
+zera             1h 29m 40s   ██████░░░░░░░░░░░░░░░░░░░  23.27%
+mcp-servers      53m 25s      ████░░░░░░░░░░░░░░░░░░░░░  13.86%
+2025-reefscape   18m 43s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.86%
 
-Total: 6 hrs 17 mins
+Total: 6 hrs 25 mins
 ```
 
 #### 📮 Want to Contact me?
