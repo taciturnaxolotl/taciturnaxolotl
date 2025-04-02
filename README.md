@@ -4,21 +4,21 @@ When not doing school or working on a project, I enjoy flying drones and making 
 
 #### 👷 The latest repos I've pushed to
 
-- [`thyme`](https://github.com/taciturnaxolotl/thyme) - _"my custom split keyboard 🫶"_ **(1 day ago)**
-- [`dots`](https://github.com/taciturnaxolotl/dots) - _"Kieran's opinionated (and probably slightly dumb) nix config"_ **(1 day ago)**
-- [`zera`](https://github.com/taciturnaxolotl/zera) - _"my new site v4?"_ **(3 days ago)**
-- [`2025-reefscape`](https://github.com/df1317/2025-reefscape) - _"it's not a water game but it will do"_ **(6 days ago)**
+- [`takes`](https://github.com/taciturnaxolotl/takes) - _"a system of takes and uploads"_ **(1 day ago)**
+- [`dots`](https://github.com/taciturnaxolotl/dots) - _"Kieran's opinionated (and probably slightly dumb) nix config"_ **(2 days ago)**
+- [`thyme`](https://github.com/taciturnaxolotl/thyme) - _"my custom split keyboard 🫶"_ **(2 days ago)**
+- [`zera`](https://github.com/taciturnaxolotl/zera) - _"my new site v4?"_ **(4 days ago)**
+- [`2025-reefscape`](https://github.com/df1317/2025-reefscape) - _"it's not a water game but it will do"_ **(1 week ago)**
 - [`bunplayground`](https://github.com/taciturnaxolotl/bunplayground) - _"random bun scripts that dont fit anywhere else"_ **(1 week ago)**
 - [`nomen`](https://github.com/aramshiva/nomen) - _"✍️ An web viewer of every name"_ **(2 weeks ago)**
 - [`myrus`](https://github.com/taciturnaxolotl/myrus) - _"a scrappy gimbal that insults you in shakespearean english"_ **(2 weeks ago)**
-- [`carriage`](https://github.com/taciturnaxolotl/carriage) - _"@taciturnaxolotl's repo template"_ **(3 weeks ago)**
 
 #### ⌨️ My latest projects
 
+- [`takes`](https://github.com/taciturnaxolotl/takes) - _"a system of takes and uploads"_
 - [`sudo-proxy`](https://github.com/taciturnaxolotl/sudo-proxy) - _""_
 - [`bunplayground`](https://github.com/taciturnaxolotl/bunplayground) - _"random bun scripts that dont fit anywhere else"_
 - [`myrus`](https://github.com/taciturnaxolotl/myrus) - _"a scrappy gimbal that insults you in shakespearean english"_
-- [`thyme`](https://github.com/taciturnaxolotl/thyme) - _"my custom split keyboard 🫶"_
 
 #### 🗒️ the latest posts from my [blog](https://dunkirk.sh)
 
@@ -34,20 +34,20 @@ When not doing school or working on a project, I enjoy flying drones and making 
 
 ```text
 💾 Languages:
-Markdown         1h 40m 11s   ████████░░░░░░░░░░░░░░░░░  29.74%
-Java             57m 33s      █████░░░░░░░░░░░░░░░░░░░░  17.08%
-TypeScript       49m 36s      ████░░░░░░░░░░░░░░░░░░░░░  14.72%
-SCSS             29m 31s      ███░░░░░░░░░░░░░░░░░░░░░░  8.76%
-CSS              23m 35s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.00%
+Markdown         1h 57m 42s   ████████░░░░░░░░░░░░░░░░░  31.19%
+TypeScript       57m 4s       ████░░░░░░░░░░░░░░░░░░░░░  15.12%
+Java             53m 5s       ████░░░░░░░░░░░░░░░░░░░░░  14.07%
+SCSS             29m 31s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.82%
+CSS              23m 35s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.25%
 
 💼 Projects:
-thyme            1h 38m 34s   ████████░░░░░░░░░░░░░░░░░  29.25%
-zera             1h 29m 40s   ███████░░░░░░░░░░░░░░░░░░  26.61%
-2025-reefscape   1h 7m 26s    ██████░░░░░░░░░░░░░░░░░░░  20.01%
-mcp-servers      53m 25s      ████░░░░░░░░░░░░░░░░░░░░░  15.85%
-nixos            13m 11s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.91%
+thyme            1h 41m 27s   ███████░░░░░░░░░░░░░░░░░░  26.88%
+zera             1h 29m 40s   ██████░░░░░░░░░░░░░░░░░░░  23.76%
+2025-reefscape   1h 0m 58s    █████░░░░░░░░░░░░░░░░░░░░  16.15%
+mcp-servers      53m 25s      ████░░░░░░░░░░░░░░░░░░░░░  14.15%
+takes            43m 3s       ███░░░░░░░░░░░░░░░░░░░░░░  11.41%
 
-Total: 5 hrs 37 mins
+Total: 6 hrs 17 mins
 ```
 
 #### 📮 Want to Contact me?
