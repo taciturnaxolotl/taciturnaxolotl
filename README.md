@@ -4,11 +4,11 @@ When not doing school or working on a project, I enjoy flying drones and making 
 
 #### 👷 The latest repos I've pushed to
 
+- [`dots`](https://github.com/taciturnaxolotl/dots) - _"Kieran's opinionated (and probably slightly dumb) nix config"_ **(today)**
 - [`dns`](https://github.com/hackclub/dns) - _"🕹 Manage Hack Club's DNS through a GitHub repository"_ **(1 day ago)**
-- [`thyme-module`](https://github.com/taciturnaxolotl/thyme-module) - _""_ **(1 day ago)**
-- [`dots`](https://github.com/taciturnaxolotl/dots) - _"Kieran's opinionated (and probably slightly dumb) nix config"_ **(1 day ago)**
 - [`thyme`](https://github.com/taciturnaxolotl/thyme) - _"my custom split keyboard 🫶"_ **(1 day ago)**
 - [`takes`](https://github.com/taciturnaxolotl/takes) - _"a system of takes and uploads"_ **(1 day ago)**
+- [`thyme-module`](https://github.com/taciturnaxolotl/thyme-module) - _""_ **(1 day ago)**
 - [`zera`](https://github.com/taciturnaxolotl/zera) - _"my new site v4?"_ **(1 week ago)**
 - [`2025-reefscape`](https://github.com/df1317/2025-reefscape) - _"it's not a water game but it will do"_ **(1 week ago)**
 - [`bunplayground`](https://github.com/taciturnaxolotl/bunplayground) - _"random bun scripts that dont fit anywhere else"_ **(1 week ago)**
@@ -34,20 +34,20 @@ When not doing school or working on a project, I enjoy flying drones and making 
 
 ```text
 💾 Languages:
-TypeScript           12h 42m 33s   ████████████████░░░░░░░░░  62.57%
-Markdown             2h 6m 6s      ███░░░░░░░░░░░░░░░░░░░░░░  10.35%
-YAML                 38m 59s       █░░░░░░░░░░░░░░░░░░░░░░░░  3.20%
-yaml                 35m 38s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.92%
-typescript           35m 25s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.91%
+TypeScript           12h 42m 33s   ████████████████░░░░░░░░░  63.38%
+Markdown             2h 6m 6s      ███░░░░░░░░░░░░░░░░░░░░░░  10.48%
+YAML                 38m 59s       █░░░░░░░░░░░░░░░░░░░░░░░░  3.24%
+yaml                 35m 38s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.96%
+typescript           35m 25s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.94%
 
 💼 Projects:
-takes                14h 9m 32s    ██████████████████░░░░░░░  69.71%
-thyme                2h 56m 3s     ████░░░░░░░░░░░░░░░░░░░░░  14.45%
-mcp-servers          53m 25s       ██░░░░░░░░░░░░░░░░░░░░░░░  4.38%
-panorama-countdown   49m 35s       ██░░░░░░░░░░░░░░░░░░░░░░░  4.07%
-zera                 26m 42s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.19%
+takes                14h 9m 32s    ██████████████████░░░░░░░  70.60%
+thyme                2h 56m 3s     ████░░░░░░░░░░░░░░░░░░░░░  14.63%
+mcp-servers          53m 25s       ██░░░░░░░░░░░░░░░░░░░░░░░  4.44%
+panorama-countdown   49m 35s       ██░░░░░░░░░░░░░░░░░░░░░░░  4.12%
+thyme-module         26m 32s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.21%
 
-Total: 20 hrs 19 mins
+Total: 20 hrs 3 mins
 ```
 
 #### 📮 Want to Contact me?
