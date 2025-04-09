@@ -4,13 +4,13 @@ When not doing school or working on a project, I enjoy flying drones and making 
 
 #### 👷 The latest repos I've pushed to
 
-- [`dots`](https://github.com/taciturnaxolotl/dots) - _"Kieran's opinionated (and probably slightly dumb) nix config"_ **(3 days ago)**
-- [`takes`](https://github.com/taciturnaxolotl/takes) - _"a system of takes and uploads"_ **(4 days ago)**
-- [`thyme-module`](https://github.com/taciturnaxolotl/thyme-module) - _""_ **(4 days ago)**
-- [`dns`](https://github.com/hackclub/dns) - _"🕹 Manage Hack Club's DNS through a GitHub repository"_ **(4 days ago)**
-- [`thyme`](https://github.com/taciturnaxolotl/thyme) - _"my custom split keyboard 🫶"_ **(4 days ago)**
+- [`dots`](https://github.com/taciturnaxolotl/dots) - _"Kieran's opinionated (and probably slightly dumb) nix config"_ **(4 days ago)**
+- [`takes`](https://github.com/taciturnaxolotl/takes) - _"a system of takes and uploads"_ **(5 days ago)**
+- [`thyme-module`](https://github.com/taciturnaxolotl/thyme-module) - _""_ **(5 days ago)**
+- [`dns`](https://github.com/hackclub/dns) - _"🕹 Manage Hack Club's DNS through a GitHub repository"_ **(5 days ago)**
+- [`thyme`](https://github.com/taciturnaxolotl/thyme) - _"my custom split keyboard 🫶"_ **(5 days ago)**
 - [`zera`](https://github.com/taciturnaxolotl/zera) - _"my new site v4?"_ **(1 week ago)**
-- [`2025-reefscape`](https://github.com/df1317/2025-reefscape) - _"it's not a water game but it will do"_ **(1 week ago)**
+- [`2025-reefscape`](https://github.com/df1317/2025-reefscape) - _"it's not a water game but it will do"_ **(2 weeks ago)**
 - [`bunplayground`](https://github.com/taciturnaxolotl/bunplayground) - _"random bun scripts that dont fit anywhere else"_ **(2 weeks ago)**
 
 #### ⌨️ My latest projects
@@ -34,20 +34,20 @@ When not doing school or working on a project, I enjoy flying drones and making 
 
 ```text
 💾 Languages:
-TypeScript           11h 59m 9s   ███████████████░░░░░░░░░░  59.14%
-Astro                1h 59m 33s   ███░░░░░░░░░░░░░░░░░░░░░░  9.83%
-HTML                 50m 35s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.16%
-YAML                 38m 59s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.21%
-Markdown             36m 21s      █░░░░░░░░░░░░░░░░░░░░░░░░  2.99%
+TypeScript           11h 51m 35s   ████████████████░░░░░░░░░  60.84%
+Astro                1h 59m 33s    ███░░░░░░░░░░░░░░░░░░░░░░  10.22%
+HTML                 50m 35s       ██░░░░░░░░░░░░░░░░░░░░░░░  4.32%
+yaml                 35m 13s       █░░░░░░░░░░░░░░░░░░░░░░░░  3.01%
+CSS                  33m 36s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.87%
 
 💼 Projects:
-takes                14h 9m 32s   ██████████████████░░░░░░░  69.86%
-panorama             2h 7m 43s    ███░░░░░░░░░░░░░░░░░░░░░░  10.50%
-thyme                1h 16m 47s   ██░░░░░░░░░░░░░░░░░░░░░░░  6.31%
-panorama-countdown   1h 11m 55s   ██░░░░░░░░░░░░░░░░░░░░░░░  5.91%
-Panorama-Website     37m 4s       █░░░░░░░░░░░░░░░░░░░░░░░░  3.05%
+takes                13h 25m 11s   ██████████████████░░░░░░░  68.84%
+panorama             2h 7m 43s     ███░░░░░░░░░░░░░░░░░░░░░░  10.92%
+thyme                1h 16m 47s    ██░░░░░░░░░░░░░░░░░░░░░░░  6.56%
+panorama-countdown   1h 11m 55s    ██░░░░░░░░░░░░░░░░░░░░░░░  6.15%
+Panorama-Website     37m 4s        █░░░░░░░░░░░░░░░░░░░░░░░░  3.17%
 
-Total: 20 hrs 16 mins
+Total: 19 hrs 30 mins
 ```
 
 #### 📮 Want to Contact me?
