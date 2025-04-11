@@ -5,17 +5,17 @@ When not doing school or working on a project, I enjoy flying drones and making 
 #### 👷 The latest repos I've pushed to
 
 - [`zera`](https://github.com/taciturnaxolotl/zera) - _"my new site v4?"_ **(today)**
+- [`inkpress`](https://github.com/taciturnaxolotl/inkpress) - _" an eink camera running on an rpi zero 2 w "_ **(today)**
 - [`dots`](https://github.com/taciturnaxolotl/dots) - _"Kieran's opinionated (and probably slightly dumb) nix config"_ **(1 day ago)**
+- [`thorn`](https://github.com/taciturnaxolotl/thorn) - _"macos special characters on linux"_ **(1 day ago)**
 - [`smokie`](https://github.com/taciturnaxolotl/smokie) - _"a system of takes and uploads"_ **(1 day ago)**
 - [`thyme`](https://github.com/taciturnaxolotl/thyme) - _"my custom split keyboard 🫶"_ **(1 day ago)**
-- [`thorn`](https://github.com/taciturnaxolotl/thorn) - _"macos special characters on linux"_ **(1 day ago)**
-- [`thyme-module`](https://github.com/taciturnaxolotl/thyme-module) - _"the zmk module for thyme"_ **(1 week ago)**
 - [`dns`](https://github.com/hackclub/dns) - _"🕹 Manage Hack Club's DNS through a GitHub repository"_ **(1 week ago)**
-- [`2025-reefscape`](https://github.com/df1317/2025-reefscape) - _"it's not a water game but it will do"_ **(2 weeks ago)**
+- [`thyme-module`](https://github.com/taciturnaxolotl/thyme-module) - _"the zmk module for thyme"_ **(1 week ago)**
 
 #### ⌨️ My latest projects
 
-- [`inkpress`](https://github.com/taciturnaxolotl/inkpress) - _""_
+- [`inkpress`](https://github.com/taciturnaxolotl/inkpress) - _" an eink camera running on an rpi zero 2 w "_
 - [`thyme-module`](https://github.com/taciturnaxolotl/thyme-module) - _"the zmk module for thyme"_
 - [`smokie`](https://github.com/taciturnaxolotl/smokie) - _"a system of takes and uploads"_
 - [`sudo-proxy`](https://github.com/taciturnaxolotl/sudo-proxy) - _"a proxy"_
@@ -34,20 +34,20 @@ When not doing school or working on a project, I enjoy flying drones and making 
 
 ```text
 💾 Languages:
-Astro                1h 59m 33s   ███████████████░░░░░░░░░░  57.24%
-HTML                 29m 14s      ████░░░░░░░░░░░░░░░░░░░░░  14.00%
-CSS                  12m 54s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.18%
-XML                  11m 14s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.38%
-TypeScript           6m 12s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.97%
+Astro                1h 59m 33s   ██████████████░░░░░░░░░░░  55.13%
+HTML                 29m 14s      ████░░░░░░░░░░░░░░░░░░░░░  13.48%
+CSS                  12m 54s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.95%
+XML                  11m 14s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.18%
+TypeScript           6m 12s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.86%
 
 💼 Projects:
-panorama             2h 7m 43s    ████████████████░░░░░░░░░  61.13%
-Panorama-Website     37m 4s       █████░░░░░░░░░░░░░░░░░░░░  17.74%
-panorama-countdown   25m 53s      ████░░░░░░░░░░░░░░░░░░░░░  12.39%
-bunplayground        6m 59s       █░░░░░░░░░░░░░░░░░░░░░░░░  3.34%
-unknown              5m 55s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.83%
+panorama             2h 7m 43s    ███████████████░░░░░░░░░░  58.88%
+Panorama-Website     37m 4s       █████░░░░░░░░░░░░░░░░░░░░  17.09%
+panorama-countdown   25m 53s      ███░░░░░░░░░░░░░░░░░░░░░░  11.93%
+unknown              7m 55s       █░░░░░░░░░░░░░░░░░░░░░░░░  3.65%
+bunplayground        6m 59s       █░░░░░░░░░░░░░░░░░░░░░░░░  3.22%
 
-Total: 3 hrs 29 mins
+Total: 3 hrs 37 mins
 ```
 
 #### 📮 Want to Contact me?
