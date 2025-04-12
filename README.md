@@ -5,7 +5,7 @@ When not doing school or working on a project, I enjoy flying drones and making 
 #### 👷 The latest repos I've pushed to
 
 - [`zera`](https://github.com/taciturnaxolotl/zera) - _"my new site v4?"_ **(1 day ago)**
-- [`inkpress`](https://github.com/taciturnaxolotl/inkpress) - _" an eink camera running on an rpi zero 2 w "_ **(1 day ago)**
+- [`inky`](https://github.com/taciturnaxolotl/inky) - _" an eink camera running on an rpi zero 2 w "_ **(1 day ago)**
 - [`thyme`](https://github.com/taciturnaxolotl/thyme) - _"my custom split keyboard 🫶"_ **(2 days ago)**
 - [`dots`](https://github.com/taciturnaxolotl/dots) - _"Kieran's opinionated (and probably slightly dumb) nix config"_ **(2 days ago)**
 - [`smokie`](https://github.com/taciturnaxolotl/smokie) - _"a system of takes and uploads"_ **(2 days ago)**
@@ -15,7 +15,7 @@ When not doing school or working on a project, I enjoy flying drones and making 
 
 #### ⌨️ My latest projects
 
-- [`inkpress`](https://github.com/taciturnaxolotl/inkpress) - _" an eink camera running on an rpi zero 2 w "_
+- [`inky`](https://github.com/taciturnaxolotl/inky) - _" an eink camera running on an rpi zero 2 w "_
 - [`thyme-module`](https://github.com/taciturnaxolotl/thyme-module) - _"the zmk module for thyme"_
 - [`smokie`](https://github.com/taciturnaxolotl/smokie) - _"a system of takes and uploads"_
 - [`sudo-proxy`](https://github.com/taciturnaxolotl/sudo-proxy) - _"a proxy"_
