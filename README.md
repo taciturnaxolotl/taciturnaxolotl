@@ -4,14 +4,14 @@ When not doing school or working on a project, I enjoy flying drones and making 
 
 #### 👷 The latest repos I've pushed to
 
-- [`zera`](https://github.com/taciturnaxolotl/zera) - _"my new site v4?"_ **(1 day ago)**
 - [`inkpress`](https://github.com/taciturnaxolotl/inkpress) - _" an eink camera running on an rpi zero 2 w "_ **(1 day ago)**
-- [`dots`](https://github.com/taciturnaxolotl/dots) - _"Kieran's opinionated (and probably slightly dumb) nix config"_ **(2 days ago)**
+- [`zera`](https://github.com/taciturnaxolotl/zera) - _"my new site v4?"_ **(1 day ago)**
+- [`smokie`](https://github.com/taciturnaxolotl/smokie) - _"a system of takes and uploads"_ **(2 days ago)**
 - [`thyme`](https://github.com/taciturnaxolotl/thyme) - _"my custom split keyboard 🫶"_ **(2 days ago)**
 - [`thorn`](https://github.com/taciturnaxolotl/thorn) - _"macos special characters on linux"_ **(2 days ago)**
-- [`smokie`](https://github.com/taciturnaxolotl/smokie) - _"a system of takes and uploads"_ **(2 days ago)**
-- [`thyme-module`](https://github.com/taciturnaxolotl/thyme-module) - _"the zmk module for thyme"_ **(1 week ago)**
+- [`dots`](https://github.com/taciturnaxolotl/dots) - _"Kieran's opinionated (and probably slightly dumb) nix config"_ **(2 days ago)**
 - [`dns`](https://github.com/hackclub/dns) - _"🕹 Manage Hack Club's DNS through a GitHub repository"_ **(1 week ago)**
+- [`thyme-module`](https://github.com/taciturnaxolotl/thyme-module) - _"the zmk module for thyme"_ **(1 week ago)**
 
 #### ⌨️ My latest projects
 
@@ -34,20 +34,20 @@ When not doing school or working on a project, I enjoy flying drones and making 
 
 ```text
 💾 Languages:
-Astro                1h 59m 33s   ███████████░░░░░░░░░░░░░░  40.65%
-Python               57m 55s      █████░░░░░░░░░░░░░░░░░░░░  19.69%
-HTML                 29m 14s      ███░░░░░░░░░░░░░░░░░░░░░░  9.94%
-Markdown             18m 39s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.34%
-CSS                  12m 54s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.39%
+Astro                1h 59m 33s   ██████████░░░░░░░░░░░░░░░  38.90%
+Python               58m 24s      █████░░░░░░░░░░░░░░░░░░░░  19.00%
+HTML                 29m 14s      ███░░░░░░░░░░░░░░░░░░░░░░  9.51%
+Markdown             20m 42s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.74%
+CSS                  12m 54s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.20%
 
 💼 Projects:
-panorama             2h 7m 43s    ███████████░░░░░░░░░░░░░░  43.42%
-inkpress             1h 21m 15s   ███████░░░░░░░░░░░░░░░░░░  27.62%
-Panorama-Website     37m 4s       ████░░░░░░░░░░░░░░░░░░░░░  12.60%
-panorama-countdown   25m 53s      ███░░░░░░░░░░░░░░░░░░░░░░  8.80%
-unknown              9m 55s       █░░░░░░░░░░░░░░░░░░░░░░░░  3.37%
+panorama             2h 7m 43s    ███████████░░░░░░░░░░░░░░  41.55%
+inkpress             1h 34m 29s   ████████░░░░░░░░░░░░░░░░░  30.74%
+Panorama-Website     37m 4s       ████░░░░░░░░░░░░░░░░░░░░░  12.06%
+panorama-countdown   25m 53s      ███░░░░░░░░░░░░░░░░░░░░░░  8.42%
+unknown              9m 55s       █░░░░░░░░░░░░░░░░░░░░░░░░  3.23%
 
-Total: 4 hrs 54 mins
+Total: 5 hrs 7 mins
 ```
 
 #### 📮 Want to Contact me?
