@@ -6,12 +6,12 @@ When not doing school or working on a project, I enjoy flying drones and making 
 
 - [`inky`](https://github.com/taciturnaxolotl/inky) - _" an eink camera running on an rpi zero 2 w "_ **(today)**
 - [`dots`](https://github.com/taciturnaxolotl/dots) - _"Kieran's opinionated (and probably slightly dumb) nix config"_ **(today)**
+- [`charming-slack`](https://github.com/taciturnaxolotl/charming-slack) - _"A cool slack over ssh project with a pretty bubbletea tui"_ **(today)**
 - [`ink`](https://github.com/taciturnaxolotl/ink) - _"a simple way to log http requests"_ **(today)**
 - [`zera`](https://github.com/taciturnaxolotl/zera) - _"my new site v4?"_ **(3 days ago)**
 - [`thorn`](https://github.com/taciturnaxolotl/thorn) - _"macos special characters on linux"_ **(4 days ago)**
 - [`smokie`](https://github.com/taciturnaxolotl/smokie) - _"a system of takes and uploads"_ **(4 days ago)**
 - [`thyme`](https://github.com/taciturnaxolotl/thyme) - _"my custom split keyboard 🫶"_ **(4 days ago)**
-- [`thyme-module`](https://github.com/taciturnaxolotl/thyme-module) - _"the zmk module for thyme"_ **(1 week ago)**
 
 #### ⌨️ My latest projects
 
@@ -34,20 +34,20 @@ When not doing school or working on a project, I enjoy flying drones and making 
 
 ```text
 💾 Languages:
-Python               1h 34m 20s   ███████████░░░░░░░░░░░░░░  40.75%
-Markdown             34m 12s      ████░░░░░░░░░░░░░░░░░░░░░  14.77%
-Bash                 27m 7s       ███░░░░░░░░░░░░░░░░░░░░░░  11.71%
-YAML                 26m 3s       ███░░░░░░░░░░░░░░░░░░░░░░  11.25%
-python               9m 34s       ██░░░░░░░░░░░░░░░░░░░░░░░  4.13%
+Python               1h 40m 20s   ███████████░░░░░░░░░░░░░░  41.93%
+Markdown             34m 12s      ████░░░░░░░░░░░░░░░░░░░░░  14.29%
+Bash                 27m 7s       ███░░░░░░░░░░░░░░░░░░░░░░  11.33%
+YAML                 26m 3s       ███░░░░░░░░░░░░░░░░░░░░░░  10.89%
+python               9m 34s       █░░░░░░░░░░░░░░░░░░░░░░░░  4.00%
 
 💼 Projects:
-inkpress             2h 4m 5s     ██████████████░░░░░░░░░░░  53.57%
-inky                 1h 26m 15s   ██████████░░░░░░░░░░░░░░░  37.24%
-unknown              9m 37s       ██░░░░░░░░░░░░░░░░░░░░░░░  4.15%
-nixos                3m 34s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.54%
-panorama-countdown   3m 33s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.53%
+inkpress             2h 4m 5s     █████████████░░░░░░░░░░░░  51.82%
+inky                 1h 34m 15s   ██████████░░░░░░░░░░░░░░░  39.36%
+unknown              9m 36s       ██░░░░░░░░░░░░░░░░░░░░░░░  4.01%
+nixos                3m 34s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.49%
+panorama-countdown   3m 33s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.48%
 
-Total: 3 hrs 52 mins
+Total: 3 hrs 59 mins
 ```
 
 #### 📮 Want to Contact me?
