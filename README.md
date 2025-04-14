@@ -4,8 +4,8 @@ When not doing school or working on a project, I enjoy flying drones and making 
 
 #### 👷 The latest repos I've pushed to
 
-- [`dots`](https://github.com/taciturnaxolotl/dots) - _"Kieran's opinionated (and probably slightly dumb) nix config"_ **(1 day ago)**
-- [`inky`](https://github.com/taciturnaxolotl/inky) - _" an eink camera running on an rpi zero 2 w "_ **(1 day ago)**
+- [`dots`](https://github.com/taciturnaxolotl/dots) - _"Kieran's opinionated (and probably slightly dumb) nix config"_ **(today)**
+- [`inky`](https://github.com/taciturnaxolotl/inky) - _" an eink camera running on an rpi zero 2 w "_ **(today)**
 - [`zera`](https://github.com/taciturnaxolotl/zera) - _"my new site v4?"_ **(3 days ago)**
 - [`thyme`](https://github.com/taciturnaxolotl/thyme) - _"my custom split keyboard 🫶"_ **(4 days ago)**
 - [`smokie`](https://github.com/taciturnaxolotl/smokie) - _"a system of takes and uploads"_ **(4 days ago)**
@@ -34,20 +34,20 @@ When not doing school or working on a project, I enjoy flying drones and making 
 
 ```text
 💾 Languages:
-Python               1h 10m 58s   ██████████░░░░░░░░░░░░░░░  37.67%
-Markdown             34m 12s      █████░░░░░░░░░░░░░░░░░░░░  18.16%
-YAML                 26m 3s       ████░░░░░░░░░░░░░░░░░░░░░  13.83%
-Bash                 21m 59s      ███░░░░░░░░░░░░░░░░░░░░░░  11.67%
-markdown             9m 15s       ██░░░░░░░░░░░░░░░░░░░░░░░  4.91%
+Python               1h 10m 58s   ██████████░░░░░░░░░░░░░░░  36.97%
+Markdown             34m 12s      █████░░░░░░░░░░░░░░░░░░░░  17.82%
+YAML                 26m 3s       ████░░░░░░░░░░░░░░░░░░░░░  13.57%
+Bash                 21m 59s      ███░░░░░░░░░░░░░░░░░░░░░░  11.45%
+markdown             9m 15s       ██░░░░░░░░░░░░░░░░░░░░░░░  4.82%
 
 💼 Projects:
-inkpress             2h 4m 5s     █████████████████░░░░░░░░  65.84%
-inky                 52m 15s      ███████░░░░░░░░░░░░░░░░░░  27.72%
-unknown              4m 1s        █░░░░░░░░░░░░░░░░░░░░░░░░  2.13%
-panorama-countdown   3m 33s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.88%
-hackatime-bot        2m 12s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.17%
+inkpress             2h 4m 5s     █████████████████░░░░░░░░  64.61%
+inky                 52m 16s      ███████░░░░░░░░░░░░░░░░░░  27.22%
+unknown              4m 1s        █░░░░░░░░░░░░░░░░░░░░░░░░  2.09%
+nixos                3m 34s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.86%
+panorama-countdown   3m 33s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.85%
 
-Total: 3 hrs 8 mins
+Total: 3 hrs 12 mins
 ```
 
 #### 📮 Want to Contact me?
