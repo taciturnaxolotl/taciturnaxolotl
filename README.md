@@ -4,14 +4,14 @@ When not doing school or working on a project, I enjoy flying drones and making 
 
 #### 👷 The latest repos I've pushed to
 
-- [`dots`](https://github.com/taciturnaxolotl/dots) - _"Kieran's opinionated (and probably slightly dumb) nix config"_ **(today)**
-- [`inky`](https://github.com/taciturnaxolotl/inky) - _" an eink camera running on an rpi zero 2 w "_ **(today)**
-- [`zera`](https://github.com/taciturnaxolotl/zera) - _"my new site v4?"_ **(2 days ago)**
-- [`thyme`](https://github.com/taciturnaxolotl/thyme) - _"my custom split keyboard 🫶"_ **(3 days ago)**
-- [`thorn`](https://github.com/taciturnaxolotl/thorn) - _"macos special characters on linux"_ **(3 days ago)**
-- [`smokie`](https://github.com/taciturnaxolotl/smokie) - _"a system of takes and uploads"_ **(3 days ago)**
-- [`thyme-module`](https://github.com/taciturnaxolotl/thyme-module) - _"the zmk module for thyme"_ **(1 week ago)**
+- [`dots`](https://github.com/taciturnaxolotl/dots) - _"Kieran's opinionated (and probably slightly dumb) nix config"_ **(1 day ago)**
+- [`inky`](https://github.com/taciturnaxolotl/inky) - _" an eink camera running on an rpi zero 2 w "_ **(1 day ago)**
+- [`zera`](https://github.com/taciturnaxolotl/zera) - _"my new site v4?"_ **(3 days ago)**
+- [`thyme`](https://github.com/taciturnaxolotl/thyme) - _"my custom split keyboard 🫶"_ **(4 days ago)**
+- [`smokie`](https://github.com/taciturnaxolotl/smokie) - _"a system of takes and uploads"_ **(4 days ago)**
+- [`thorn`](https://github.com/taciturnaxolotl/thorn) - _"macos special characters on linux"_ **(4 days ago)**
 - [`dns`](https://github.com/hackclub/dns) - _"🕹 Manage Hack Club's DNS through a GitHub repository"_ **(1 week ago)**
+- [`thyme-module`](https://github.com/taciturnaxolotl/thyme-module) - _"the zmk module for thyme"_ **(1 week ago)**
 
 #### ⌨️ My latest projects
 
@@ -34,20 +34,20 @@ When not doing school or working on a project, I enjoy flying drones and making 
 
 ```text
 💾 Languages:
-Python               1h 10m 19s   ██████████░░░░░░░░░░░░░░░  36.25%
-Markdown             35m 41s      █████░░░░░░░░░░░░░░░░░░░░  18.40%
-YAML                 26m 3s       ████░░░░░░░░░░░░░░░░░░░░░  13.43%
-Bash                 21m 59s      ███░░░░░░░░░░░░░░░░░░░░░░  11.33%
-markdown             9m 15s       ██░░░░░░░░░░░░░░░░░░░░░░░  4.77%
+Python               1h 10m 19s   ██████████░░░░░░░░░░░░░░░  37.57%
+Markdown             35m 41s      █████░░░░░░░░░░░░░░░░░░░░  19.06%
+YAML                 26m 3s       ████░░░░░░░░░░░░░░░░░░░░░  13.92%
+Bash                 21m 59s      ███░░░░░░░░░░░░░░░░░░░░░░  11.74%
+markdown             9m 15s       ██░░░░░░░░░░░░░░░░░░░░░░░  4.94%
 
 💼 Projects:
-inkpress             2h 5m 34s    █████████████████░░░░░░░░  64.70%
-inky                 49m 35s      ███████░░░░░░░░░░░░░░░░░░  25.55%
-bunplayground        6m 59s       █░░░░░░░░░░░░░░░░░░░░░░░░  3.60%
-unknown              4m 0s        █░░░░░░░░░░░░░░░░░░░░░░░░  2.06%
-panorama-countdown   3m 33s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.83%
+inkpress             2h 5m 34s    █████████████████░░░░░░░░  67.05%
+inky                 49m 35s      ███████░░░░░░░░░░░░░░░░░░  26.48%
+unknown              4m 1s        █░░░░░░░░░░░░░░░░░░░░░░░░  2.14%
+panorama-countdown   3m 33s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.90%
+hackatime-bot        2m 12s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.17%
 
-Total: 3 hrs 14 mins
+Total: 3 hrs 7 mins
 ```
 
 #### 📮 Want to Contact me?
