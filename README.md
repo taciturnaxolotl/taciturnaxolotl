@@ -4,14 +4,14 @@ When not doing school or working on a project, I enjoy flying drones and making 
 
 #### 👷 The latest repos I've pushed to
 
-- [`riceathon`](https://github.com/hackclub/riceathon) - _"Upcoming Hack Club YSWS where you can rice your Linux desktop and submit your dotfiles to get free programmer socks"_ **(today)**
-- [`inky`](https://github.com/taciturnaxolotl/inky) - _" an eink camera running on an rpi zero 2 w "_ **(1 day ago)**
-- [`charming-slack`](https://github.com/taciturnaxolotl/charming-slack) - _"A cool slack over ssh project with a pretty bubbletea tui"_ **(1 day ago)**
-- [`ink`](https://github.com/taciturnaxolotl/ink) - _"a simple way to log http requests"_ **(1 day ago)**
-- [`dots`](https://github.com/taciturnaxolotl/dots) - _"Kieran's opinionated (and probably slightly dumb) nix config"_ **(1 day ago)**
-- [`thyme`](https://github.com/taciturnaxolotl/thyme) - _"my custom split keyboard 🫶"_ **(1 day ago)**
-- [`zera`](https://github.com/taciturnaxolotl/zera) - _"my new site v4?"_ **(4 days ago)**
-- [`thorn`](https://github.com/taciturnaxolotl/thorn) - _"macos special characters on linux"_ **(5 days ago)**
+- [`riceathon`](https://github.com/hackclub/riceathon) - _"Upcoming Hack Club YSWS where you can rice your Linux desktop and submit your dotfiles to get free programmer socks"_ **(1 day ago)**
+- [`inky`](https://github.com/taciturnaxolotl/inky) - _" an eink camera running on an rpi zero 2 w "_ **(2 days ago)**
+- [`charming-slack`](https://github.com/taciturnaxolotl/charming-slack) - _"A cool slack over ssh project with a pretty bubbletea tui"_ **(2 days ago)**
+- [`ink`](https://github.com/taciturnaxolotl/ink) - _"a simple way to log http requests"_ **(2 days ago)**
+- [`dots`](https://github.com/taciturnaxolotl/dots) - _"Kieran's opinionated (and probably slightly dumb) nix config"_ **(2 days ago)**
+- [`thyme`](https://github.com/taciturnaxolotl/thyme) - _"my custom split keyboard 🫶"_ **(2 days ago)**
+- [`zera`](https://github.com/taciturnaxolotl/zera) - _"my new site v4?"_ **(5 days ago)**
+- [`thorn`](https://github.com/taciturnaxolotl/thorn) - _"macos special characters on linux"_ **(6 days ago)**
 
 #### ⌨️ My latest projects
 
@@ -34,18 +34,18 @@ When not doing school or working on a project, I enjoy flying drones and making 
 
 ```text
 💾 Languages:
-Python     1h 40m 20s   ███████████░░░░░░░░░░░░░░  40.92%
-Markdown   35m 57s      ████░░░░░░░░░░░░░░░░░░░░░  14.66%
-Bash       27m 7s       ███░░░░░░░░░░░░░░░░░░░░░░  11.06%
-YAML       26m 3s       ███░░░░░░░░░░░░░░░░░░░░░░  10.62%
-python     9m 34s       █░░░░░░░░░░░░░░░░░░░░░░░░  3.90%
+Python               1h 40m 20s   ███████████░░░░░░░░░░░░░░  40.93%
+Markdown             35m 57s      ████░░░░░░░░░░░░░░░░░░░░░  14.67%
+Bash                 27m 7s       ███░░░░░░░░░░░░░░░░░░░░░░  11.06%
+YAML                 26m 3s       ███░░░░░░░░░░░░░░░░░░░░░░  10.63%
+python               9m 34s       █░░░░░░░░░░░░░░░░░░░░░░░░  3.90%
 
 💼 Projects:
-inkpress   2h 5m 34s    █████████████░░░░░░░░░░░░  51.20%
-inky       1h 34m 20s   ██████████░░░░░░░░░░░░░░░  38.46%
-unknown    9m 36s       █░░░░░░░░░░░░░░░░░░░░░░░░  3.91%
-smokie     4m 0s        █░░░░░░░░░░░░░░░░░░░░░░░░  1.63%
-nixos      3m 34s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.45%
+inky                 3h 39m 54s   ███████████████████████░░  89.66%
+unknown              9m 36s       █░░░░░░░░░░░░░░░░░░░░░░░░  3.91%
+smokie               6m 27s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.63%
+nixos                3m 34s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.45%
+panorama-countdown   3m 33s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.45%
 
 Total: 4 hrs 5 mins
 ```
