@@ -4,7 +4,7 @@ When not doing school or working on a project, I enjoy flying drones and making 
 
 #### 👷 The latest repos I've pushed to
 
-- [`dots`](https://github.com/taciturnaxolotl/dots) - _"Kieran's opinionated (and probably slightly dumb) nix config"_ **(2 days ago)**
+- [`dots`](https://github.com/taciturnaxolotl/dots) - _"Kieran's opinionated (and probably slightly dumb) nix config"_ **(today)**
 - [`smokie`](https://github.com/taciturnaxolotl/smokie) - _"a system of takes and uploads"_ **(2 days ago)**
 - [`charming-slack`](https://github.com/taciturnaxolotl/charming-slack) - _"A cool slack over ssh project with a pretty bubbletea tui"_ **(3 days ago)**
 - [`inky`](https://github.com/taciturnaxolotl/inky) - _" an eink camera running on an rpi zero 2 w "_ **(5 days ago)**
@@ -34,20 +34,20 @@ When not doing school or working on a project, I enjoy flying drones and making 
 
 ```text
 💾 Languages:
-TypeScript     5h 15m 28s   ████████████████░░░░░░░░░  60.75%
-Python         41m 56s      ███░░░░░░░░░░░░░░░░░░░░░░  8.07%
-typescript     34m 53s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.72%
-CSS            29m 26s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.67%
-Bash           28m 19s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.45%
+TypeScript     5h 44m 9s    ████████████████░░░░░░░░░  62.28%
+Python         41m 56s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.59%
+typescript     37m 26s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.77%
+CSS            29m 26s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.33%
+Bash           28m 19s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.12%
 
 💼 Projects:
-smokie         6h 35m 55s   ████████████████████░░░░░  76.23%
-inky           1h 30m 17s   █████░░░░░░░░░░░░░░░░░░░░  17.38%
-hackclub-cdn   11m 43s      █░░░░░░░░░░░░░░░░░░░░░░░░  2.26%
-tangled-core   9m 17s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.79%
-unknown        8m 36s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.66%
+smokie         7h 9m 9s     ████████████████████░░░░░  77.66%
+inky           1h 30m 17s   █████░░░░░░░░░░░░░░░░░░░░  16.34%
+hackclub-cdn   11m 43s      █░░░░░░░░░░░░░░░░░░░░░░░░  2.12%
+tangled-core   9m 17s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.68%
+unknown        8m 36s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.56%
 
-Total: 8 hrs 39 mins
+Total: 9 hrs 13 mins
 ```
 
 #### 📮 Want to Contact me?
