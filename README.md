@@ -5,12 +5,12 @@ When not doing school or working on a project, I enjoy flying drones and making 
 #### 👷 The latest repos I've pushed to
 
 - [`smokie`](https://github.com/taciturnaxolotl/smokie) - _"a system of takes and uploads"_ **(today)**
+- [`inky`](https://github.com/taciturnaxolotl/inky) - _" an eink camera running on an rpi zero 2 w "_ **(today)**
 - [`dots`](https://github.com/taciturnaxolotl/dots) - _"Kieran's opinionated (and probably slightly dumb) nix config"_ **(1 day ago)**
 - [`charming-slack`](https://github.com/taciturnaxolotl/charming-slack) - _"A cool slack over ssh project with a pretty bubbletea tui"_ **(4 days ago)**
-- [`inky`](https://github.com/taciturnaxolotl/inky) - _" an eink camera running on an rpi zero 2 w "_ **(6 days ago)**
 - [`riceathon`](https://github.com/hackclub/riceathon) - _"Upcoming Hack Club YSWS where you can rice your Linux desktop and submit your dotfiles to get free programmer socks"_ **(6 days ago)**
-- [`ink`](https://github.com/taciturnaxolotl/ink) - _"a simple way to log http requests"_ **(1 week ago)**
 - [`thyme`](https://github.com/taciturnaxolotl/thyme) - _"my custom split keyboard 🫶"_ **(1 week ago)**
+- [`ink`](https://github.com/taciturnaxolotl/ink) - _"a simple way to log http requests"_ **(1 week ago)**
 - [`zera`](https://github.com/taciturnaxolotl/zera) - _"my new site v4?"_ **(1 week ago)**
 
 #### ⌨️ My latest projects
@@ -34,20 +34,20 @@ When not doing school or working on a project, I enjoy flying drones and making 
 
 ```text
 💾 Languages:
-TypeScript     6h 38m 52s   ██████████████████░░░░░░░  70.96%
-Bash           39m 11s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.97%
-typescript     38m 31s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.85%
-CSS            29m 26s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.24%
-Markdown       10m 24s      █░░░░░░░░░░░░░░░░░░░░░░░░  1.85%
+TypeScript     6h 38m 52s   ██████████████████░░░░░░░  70.04%
+Bash           42m 12s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.41%
+typescript     38m 31s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.76%
+CSS            29m 26s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.17%
+Markdown       10m 24s      █░░░░░░░░░░░░░░░░░░░░░░░░  1.83%
 
 💼 Projects:
-smokie         8h 15m 12s   ███████████████████████░░  88.09%
-inky           42m 56s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.64%
-hackclub-cdn   11m 43s      █░░░░░░░░░░░░░░░░░░░░░░░░  2.08%
-tangled-core   9m 17s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.65%
-unknown        3m 1s        █░░░░░░░░░░░░░░░░░░░░░░░░  0.54%
+smokie         8h 15m 12s   ██████████████████████░░░  86.96%
+inky           50m 15s      ███░░░░░░░░░░░░░░░░░░░░░░  8.82%
+hackclub-cdn   11m 43s      █░░░░░░░░░░░░░░░░░░░░░░░░  2.06%
+tangled-core   9m 17s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.63%
+unknown        3m 1s        █░░░░░░░░░░░░░░░░░░░░░░░░  0.53%
 
-Total: 9 hrs 22 mins
+Total: 9 hrs 29 mins
 ```
 
 #### 📮 Want to Contact me?
