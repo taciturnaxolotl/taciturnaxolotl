@@ -1,6 +1,6 @@
-### ✌️ Hi! I'm a 16-year-old homeschooled programmer/wannabe hardware guy!
+### ✌️ Hi! I'm a 17-year-old homeschooled programmer/wannabe hardware guy!
 
-When not doing school or working on a project, I enjoy flying drones and making videos on my YouTube channel, [**_`A Wanderer's Archives`_**](https://youtube.com/@wanderer.archives).
+When not doing school or working on a project, I enjoy flying drones and making videos on my YouTube channel, [**_`The Wild Ramblings of Kieran`_**](https://youtube.com/@kieran-rambles).
 
 #### 👷 The latest repos I've pushed to
 
