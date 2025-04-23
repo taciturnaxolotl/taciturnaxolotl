@@ -6,9 +6,9 @@ When not doing school or working on a project, I enjoy flying drones and making 
 
 - [`hn-alerts`](https://github.com/taciturnaxolotl/hn-alerts) - _""_ **(today)**
 - [`smokie`](https://github.com/taciturnaxolotl/smokie) - _"a system of takes and uploads"_ **(today)**
-- [`dots`](https://github.com/taciturnaxolotl/dots) - _"Kieran's opinionated (and probably slightly dumb) nix config"_ **(1 day ago)**
-- [`zera`](https://github.com/taciturnaxolotl/zera) - _"my new site v4?"_ **(1 day ago)**
 - [`solder`](https://github.com/hackclub/solder) - _""_ **(1 day ago)**
+- [`zera`](https://github.com/taciturnaxolotl/zera) - _"my new site v4?"_ **(1 day ago)**
+- [`dots`](https://github.com/taciturnaxolotl/dots) - _"Kieran's opinionated (and probably slightly dumb) nix config"_ **(1 day ago)**
 - [`inky`](https://github.com/taciturnaxolotl/inky) - _" an eink camera running on an rpi zero 2 w "_ **(2 days ago)**
 - [`charming-slack`](https://github.com/taciturnaxolotl/charming-slack) - _"A cool slack over ssh project with a pretty bubbletea tui"_ **(6 days ago)**
 - [`riceathon`](https://github.com/hackclub/riceathon) - _"Upcoming Hack Club YSWS where you can rice your Linux desktop and submit your dotfiles to get free programmer socks"_ **(1 week ago)**
@@ -34,20 +34,20 @@ When not doing school or working on a project, I enjoy flying drones and making 
 
 ```text
 💾 Languages:
-TypeScript        8h 42m 53s   ████████████████░░░░░░░░░  62.77%
-CSS               52m 0s       ██░░░░░░░░░░░░░░░░░░░░░░░  6.24%
-typescript        51m 5s       ██░░░░░░░░░░░░░░░░░░░░░░░  6.13%
-Bash              43m 39s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.24%
-Astro             27m 44s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.33%
+TypeScript        8h 42m 53s   ████████████████░░░░░░░░░  60.47%
+CSS               52m 0s       ██░░░░░░░░░░░░░░░░░░░░░░░  6.01%
+typescript        51m 5s       ██░░░░░░░░░░░░░░░░░░░░░░░  5.91%
+HTML              44m 21s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.13%
+Bash              43m 39s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.05%
 
 💼 Projects:
-smokie            8h 11m 23s   ███████████████░░░░░░░░░░  58.98%
-hn-alerts         2h 45m 44s   █████░░░░░░░░░░░░░░░░░░░░  19.89%
-hackclub-solder   1h 2m 11s    ██░░░░░░░░░░░░░░░░░░░░░░░  7.46%
-inky              50m 15s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.03%
-zera              18m 33s      █░░░░░░░░░░░░░░░░░░░░░░░░  2.23%
+smokie            8h 11m 23s   ███████████████░░░░░░░░░░  56.82%
+hn-alerts         2h 45m 44s   █████░░░░░░░░░░░░░░░░░░░░  19.17%
+hackclub-solder   1h 2m 11s    ██░░░░░░░░░░░░░░░░░░░░░░░  7.19%
+inky              50m 15s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.81%
+deestone          40m 38s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.70%
 
-Total: 13 hrs 53 mins
+Total: 14 hrs 25 mins
 ```
 
 #### 📮 Want to Contact me?
