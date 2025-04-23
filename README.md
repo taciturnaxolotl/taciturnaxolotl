@@ -4,14 +4,14 @@ When not doing school or working on a project, I enjoy flying drones and making 
 
 #### 👷 The latest repos I've pushed to
 
-- [`hn-alerts`](https://github.com/taciturnaxolotl/hn-alerts) - _""_ **(today)**
 - [`smokie`](https://github.com/taciturnaxolotl/smokie) - _"a system of takes and uploads"_ **(today)**
-- [`dots`](https://github.com/taciturnaxolotl/dots) - _"Kieran's opinionated (and probably slightly dumb) nix config"_ **(1 day ago)**
+- [`hn-alerts`](https://github.com/taciturnaxolotl/hn-alerts) - _""_ **(today)**
+- [`solder`](https://github.com/hackclub/solder) - _""_ **(1 day ago)**
 - [`zera`](https://github.com/taciturnaxolotl/zera) - _"my new site v4?"_ **(1 day ago)**
+- [`dots`](https://github.com/taciturnaxolotl/dots) - _"Kieran's opinionated (and probably slightly dumb) nix config"_ **(1 day ago)**
 - [`inky`](https://github.com/taciturnaxolotl/inky) - _" an eink camera running on an rpi zero 2 w "_ **(2 days ago)**
 - [`charming-slack`](https://github.com/taciturnaxolotl/charming-slack) - _"A cool slack over ssh project with a pretty bubbletea tui"_ **(6 days ago)**
 - [`riceathon`](https://github.com/hackclub/riceathon) - _"Upcoming Hack Club YSWS where you can rice your Linux desktop and submit your dotfiles to get free programmer socks"_ **(1 week ago)**
-- [`ink`](https://github.com/taciturnaxolotl/ink) - _"a simple way to log http requests"_ **(1 week ago)**
 
 #### ⌨️ My latest projects
 
@@ -34,20 +34,20 @@ When not doing school or working on a project, I enjoy flying drones and making 
 
 ```text
 💾 Languages:
-TypeScript        6h 39m 35s   ███████████████░░░░░░░░░░  59.25%
-CSS               52m 0s       ██░░░░░░░░░░░░░░░░░░░░░░░  7.71%
-Bash              42m 15s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.26%
-typescript        40m 32s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.01%
-Astro             27m 44s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.11%
+TypeScript        7h 17m 55s   ████████████████░░░░░░░░░  60.15%
+CSS               52m 0s       ██░░░░░░░░░░░░░░░░░░░░░░░  7.14%
+typescript        43m 41s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.00%
+Bash              43m 39s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.00%
+Astro             27m 44s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.81%
 
 💼 Projects:
-smokie            8h 10m 39s   ███████████████████░░░░░░  72.75%
-hackclub-solder   1h 2m 11s    ███░░░░░░░░░░░░░░░░░░░░░░  9.22%
-inky              50m 15s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.45%
-zera              18m 33s      █░░░░░░░░░░░░░░░░░░░░░░░░  2.75%
-hn-alerts         16m 46s      █░░░░░░░░░░░░░░░░░░░░░░░░  2.49%
+smokie            8h 11m 23s   █████████████████░░░░░░░░  67.49%
+hn-alerts         1h 9m 44s    ███░░░░░░░░░░░░░░░░░░░░░░  9.58%
+hackclub-solder   1h 2m 11s    ███░░░░░░░░░░░░░░░░░░░░░░  8.54%
+inky              50m 15s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.90%
+zera              18m 33s      █░░░░░░░░░░░░░░░░░░░░░░░░  2.55%
 
-Total: 11 hrs 14 mins
+Total: 12 hrs 8 mins
 ```
 
 #### 📮 Want to Contact me?
