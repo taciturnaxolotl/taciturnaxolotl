@@ -4,21 +4,21 @@ When not doing school or working on a project, I enjoy flying drones and making 
 
 #### 👷 The latest repos I've pushed to
 
-- [`bunplayground`](https://github.com/taciturnaxolotl/bunplayground) - _"random bun scripts that dont fit anywhere else"_ **(today)**
 - [`hn-alerts`](https://github.com/taciturnaxolotl/hn-alerts) - _""_ **(today)**
+- [`tonic`](https://github.com/taciturnaxolotl/tonic) - _""_ **(today)**
 - [`serif`](https://github.com/taciturnaxolotl/serif) - _""_ **(today)**
+- [`bunplayground`](https://github.com/taciturnaxolotl/bunplayground) - _"random bun scripts that dont fit anywhere else"_ **(today)**
 - [`smokie`](https://github.com/taciturnaxolotl/smokie) - _"a system of takes and uploads"_ **(1 day ago)**
 - [`zera`](https://github.com/taciturnaxolotl/zera) - _"my new site v4?"_ **(2 days ago)**
-- [`dots`](https://github.com/taciturnaxolotl/dots) - _"Kieran's opinionated (and probably slightly dumb) nix config"_ **(2 days ago)**
 - [`solder`](https://github.com/hackclub/solder) - _""_ **(2 days ago)**
-- [`inky`](https://github.com/taciturnaxolotl/inky) - _" an eink camera running on an rpi zero 2 w "_ **(3 days ago)**
+- [`dots`](https://github.com/taciturnaxolotl/dots) - _"Kieran's opinionated (and probably slightly dumb) nix config"_ **(2 days ago)**
 
 #### ⌨️ My latest projects
 
+- [`tonic`](https://github.com/taciturnaxolotl/tonic) - _""_
 - [`serif`](https://github.com/taciturnaxolotl/serif) - _""_
 - [`hn-alerts`](https://github.com/taciturnaxolotl/hn-alerts) - _""_
 - [`inky`](https://github.com/taciturnaxolotl/inky) - _" an eink camera running on an rpi zero 2 w "_
-- [`thyme-module`](https://github.com/taciturnaxolotl/thyme-module) - _"the zmk module for thyme"_
 
 #### 🗒️ the latest posts from my [blog](https://dunkirk.sh)
 
