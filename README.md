@@ -5,13 +5,13 @@ When not doing school or working on a project, I enjoy flying drones and making 
 #### 👷 The latest repos I've pushed to
 
 - [`bunplayground`](https://github.com/taciturnaxolotl/bunplayground) - _"random bun scripts that dont fit anywhere else"_ **(today)**
-- [`hn-alerts`](https://github.com/taciturnaxolotl/hn-alerts) - _""_ **(1 day ago)**
+- [`hn-alerts`](https://github.com/taciturnaxolotl/hn-alerts) - _""_ **(today)**
+- [`serif`](https://github.com/taciturnaxolotl/serif) - _""_ **(today)**
 - [`smokie`](https://github.com/taciturnaxolotl/smokie) - _"a system of takes and uploads"_ **(1 day ago)**
-- [`dots`](https://github.com/taciturnaxolotl/dots) - _"Kieran's opinionated (and probably slightly dumb) nix config"_ **(2 days ago)**
 - [`zera`](https://github.com/taciturnaxolotl/zera) - _"my new site v4?"_ **(2 days ago)**
+- [`dots`](https://github.com/taciturnaxolotl/dots) - _"Kieran's opinionated (and probably slightly dumb) nix config"_ **(2 days ago)**
 - [`solder`](https://github.com/hackclub/solder) - _""_ **(2 days ago)**
 - [`inky`](https://github.com/taciturnaxolotl/inky) - _" an eink camera running on an rpi zero 2 w "_ **(3 days ago)**
-- [`charming-slack`](https://github.com/taciturnaxolotl/charming-slack) - _"A cool slack over ssh project with a pretty bubbletea tui"_ **(1 week ago)**
 
 #### ⌨️ My latest projects
 
@@ -34,20 +34,20 @@ When not doing school or working on a project, I enjoy flying drones and making 
 
 ```text
 💾 Languages:
-TypeScript        8h 52m 55s   █████████████░░░░░░░░░░░░  48.72%
-JavaScript        3h 25m 0s    █████░░░░░░░░░░░░░░░░░░░░  18.74%
-HTML              55m 31s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.08%
-typescript        53m 51s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.92%
-CSS               52m 20s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.78%
+TypeScript        8h 52m 55s   █████████████░░░░░░░░░░░░  48.05%
+JavaScript        3h 29m 8s    █████░░░░░░░░░░░░░░░░░░░░  18.86%
+HTML              55m 31s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.01%
+typescript        53m 51s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.86%
+CSS               52m 20s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.72%
 
 💼 Projects:
-smokie            8h 23m 3s    ████████████░░░░░░░░░░░░░  45.99%
-bunplayground     3h 22m 38s   █████░░░░░░░░░░░░░░░░░░░░  18.52%
-hn-alerts         2h 46m 11s   ████░░░░░░░░░░░░░░░░░░░░░  15.19%
-hackclub-solder   1h 2m 11s    ██░░░░░░░░░░░░░░░░░░░░░░░  5.68%
-inky              50m 15s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.59%
+smokie            8h 23m 3s    ████████████░░░░░░░░░░░░░  45.35%
+bunplayground     3h 24m 39s   █████░░░░░░░░░░░░░░░░░░░░  18.45%
+hn-alerts         2h 46m 11s   ████░░░░░░░░░░░░░░░░░░░░░  14.98%
+hackclub-solder   1h 2m 11s    ██░░░░░░░░░░░░░░░░░░░░░░░  5.61%
+inky              50m 15s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.53%
 
-Total: 18 hrs 14 mins
+Total: 18 hrs 29 mins
 ```
 
 #### 📮 Want to Contact me?
