@@ -4,13 +4,13 @@ When not doing school or working on a project, I enjoy flying drones and making 
 
 #### 👷 The latest repos I've pushed to
 
-- [`smokie`](https://github.com/taciturnaxolotl/smokie) - _"a system of takes and uploads"_ **(today)**
-- [`hn-alerts`](https://github.com/taciturnaxolotl/hn-alerts) - _""_ **(today)**
-- [`zera`](https://github.com/taciturnaxolotl/zera) - _"my new site v4?"_ **(1 day ago)**
-- [`solder`](https://github.com/hackclub/solder) - _""_ **(1 day ago)**
-- [`dots`](https://github.com/taciturnaxolotl/dots) - _"Kieran's opinionated (and probably slightly dumb) nix config"_ **(1 day ago)**
-- [`inky`](https://github.com/taciturnaxolotl/inky) - _" an eink camera running on an rpi zero 2 w "_ **(2 days ago)**
-- [`charming-slack`](https://github.com/taciturnaxolotl/charming-slack) - _"A cool slack over ssh project with a pretty bubbletea tui"_ **(6 days ago)**
+- [`smokie`](https://github.com/taciturnaxolotl/smokie) - _"a system of takes and uploads"_ **(1 day ago)**
+- [`hn-alerts`](https://github.com/taciturnaxolotl/hn-alerts) - _""_ **(1 day ago)**
+- [`zera`](https://github.com/taciturnaxolotl/zera) - _"my new site v4?"_ **(2 days ago)**
+- [`solder`](https://github.com/hackclub/solder) - _""_ **(2 days ago)**
+- [`dots`](https://github.com/taciturnaxolotl/dots) - _"Kieran's opinionated (and probably slightly dumb) nix config"_ **(2 days ago)**
+- [`inky`](https://github.com/taciturnaxolotl/inky) - _" an eink camera running on an rpi zero 2 w "_ **(3 days ago)**
+- [`charming-slack`](https://github.com/taciturnaxolotl/charming-slack) - _"A cool slack over ssh project with a pretty bubbletea tui"_ **(1 week ago)**
 - [`riceathon`](https://github.com/hackclub/riceathon) - _"Upcoming Hack Club YSWS where you can rice your Linux desktop and submit your dotfiles to get free programmer socks"_ **(1 week ago)**
 
 #### ⌨️ My latest projects
@@ -34,20 +34,20 @@ When not doing school or working on a project, I enjoy flying drones and making 
 
 ```text
 💾 Languages:
-TypeScript        8h 46m 39s   ███████████████░░░░░░░░░░  59.05%
-HTML              55m 31s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.23%
-typescript        52m 57s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.94%
-CSS               52m 20s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.87%
-Bash              43m 39s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.89%
+TypeScript        8h 50m 38s   ███████████████░░░░░░░░░░  58.01%
+HTML              55m 31s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.07%
+typescript        53m 51s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.89%
+CSS               52m 20s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.72%
+Bash              43m 39s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.77%
 
 💼 Projects:
-smokie            8h 22m 5s    ███████████████░░░░░░░░░░  56.29%
-hn-alerts         2h 46m 11s   █████░░░░░░░░░░░░░░░░░░░░  18.63%
-hackclub-solder   1h 2m 11s    ██░░░░░░░░░░░░░░░░░░░░░░░  6.97%
-inky              50m 15s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.63%
-deestone          47m 25s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.32%
+smokie            8h 22m 34s   ██████████████░░░░░░░░░░░  54.94%
+hn-alerts         2h 46m 11s   █████░░░░░░░░░░░░░░░░░░░░  18.17%
+hackclub-solder   1h 2m 11s    ██░░░░░░░░░░░░░░░░░░░░░░░  6.80%
+inky              50m 15s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.49%
+deestone          47m 25s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.18%
 
-Total: 14 hrs 52 mins
+Total: 15 hrs 15 mins
 ```
 
 #### 📮 Want to Contact me?
