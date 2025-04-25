@@ -4,14 +4,14 @@ When not doing school or working on a project, I enjoy flying drones and making 
 
 #### 👷 The latest repos I've pushed to
 
-- [`serif`](https://github.com/taciturnaxolotl/serif) - _""_ **(today)**
-- [`dots`](https://github.com/taciturnaxolotl/dots) - _"Kieran's opinionated (and probably slightly dumb) nix config"_ **(today)**
-- [`hn-alerts`](https://github.com/taciturnaxolotl/hn-alerts) - _""_ **(today)**
-- [`bunplayground`](https://github.com/taciturnaxolotl/bunplayground) - _"random bun scripts that dont fit anywhere else"_ **(today)**
-- [`tonic`](https://github.com/taciturnaxolotl/tonic) - _""_ **(today)**
-- [`smokie`](https://github.com/taciturnaxolotl/smokie) - _"a system of takes and uploads"_ **(1 day ago)**
-- [`solder`](https://github.com/hackclub/solder) - _""_ **(2 days ago)**
-- [`zera`](https://github.com/taciturnaxolotl/zera) - _"my new site v4?"_ **(2 days ago)**
+- [`serif`](https://github.com/taciturnaxolotl/serif) - _""_ **(1 day ago)**
+- [`zera`](https://github.com/taciturnaxolotl/zera) - _"my new site v4?"_ **(1 day ago)**
+- [`dots`](https://github.com/taciturnaxolotl/dots) - _"Kieran's opinionated (and probably slightly dumb) nix config"_ **(1 day ago)**
+- [`bunplayground`](https://github.com/taciturnaxolotl/bunplayground) - _"random bun scripts that dont fit anywhere else"_ **(1 day ago)**
+- [`tonic`](https://github.com/taciturnaxolotl/tonic) - _""_ **(1 day ago)**
+- [`hn-alerts`](https://github.com/taciturnaxolotl/hn-alerts) - _""_ **(1 day ago)**
+- [`smokie`](https://github.com/taciturnaxolotl/smokie) - _"a system of takes and uploads"_ **(2 days ago)**
+- [`solder`](https://github.com/hackclub/solder) - _""_ **(3 days ago)**
 
 #### ⌨️ My latest projects
 
@@ -22,11 +22,11 @@ When not doing school or working on a project, I enjoy flying drones and making 
 
 #### 🗒️ the latest posts from my [blog](https://dunkirk.sh)
 
+- [`Musings about Atuin`](https://dunkirk.sh/blog/atuin/) **(1 day ago)**
+
 - [`Adding a copy code button`](https://dunkirk.sh/blog/adding-a-copy-button/) **(1 month ago)**
 
 - [`All my animation projects`](https://dunkirk.sh/blog/my-animations/) **(1 month ago)**
-
-- [`Determining the properties of a spherical mirror with ray diagrams`](https://dunkirk.sh/blog/spherical-ray-diagrams/) **(1 month ago)**
 
 
 
@@ -34,20 +34,20 @@ When not doing school or working on a project, I enjoy flying drones and making 
 
 ```text
 💾 Languages:
-TypeScript        8h 52m 55s   ████████████░░░░░░░░░░░░░  45.41%
-JavaScript        3h 29m 8s    █████░░░░░░░░░░░░░░░░░░░░  17.82%
-HTML              1h 18m 21s   ██░░░░░░░░░░░░░░░░░░░░░░░  6.68%
-CSS               57m 58s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.94%
-typescript        53m 51s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.59%
+TypeScript        8h 52m 55s   ███████████░░░░░░░░░░░░░░  42.91%
+JavaScript        3h 29m 8s    █████░░░░░░░░░░░░░░░░░░░░  16.84%
+Markdown          1h 34m 12s   ██░░░░░░░░░░░░░░░░░░░░░░░  7.58%
+HTML              1h 33m 54s   ██░░░░░░░░░░░░░░░░░░░░░░░  7.56%
+CSS               1h 4m 50s    ██░░░░░░░░░░░░░░░░░░░░░░░  5.22%
 
 💼 Projects:
-smokie            8h 23m 3s    ███████████░░░░░░░░░░░░░░  42.86%
-bunplayground     3h 24m 39s   █████░░░░░░░░░░░░░░░░░░░░  17.44%
-hn-alerts         2h 46m 11s   ████░░░░░░░░░░░░░░░░░░░░░  14.16%
-zera              1h 4m 0s     ██░░░░░░░░░░░░░░░░░░░░░░░  5.45%
-hackclub-solder   1h 2m 11s    ██░░░░░░░░░░░░░░░░░░░░░░░  5.30%
+smokie            8h 23m 3s    ███████████░░░░░░░░░░░░░░  40.50%
+bunplayground     3h 24m 39s   █████░░░░░░░░░░░░░░░░░░░░  16.48%
+hn-alerts         2h 46m 11s   ████░░░░░░░░░░░░░░░░░░░░░  13.38%
+zera              2h 11m 33s   ███░░░░░░░░░░░░░░░░░░░░░░  10.59%
+hackclub-solder   1h 2m 11s    ██░░░░░░░░░░░░░░░░░░░░░░░  5.01%
 
-Total: 19 hrs 34 mins
+Total: 20 hrs 42 mins
 ```
 
 #### 📮 Want to Contact me?
