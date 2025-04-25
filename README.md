@@ -4,12 +4,12 @@ When not doing school or working on a project, I enjoy flying drones and making 
 
 #### 👷 The latest repos I've pushed to
 
-- [`serif`](https://github.com/taciturnaxolotl/serif) - _""_ **(1 day ago)**
-- [`zera`](https://github.com/taciturnaxolotl/zera) - _"my new site v4?"_ **(1 day ago)**
-- [`dots`](https://github.com/taciturnaxolotl/dots) - _"Kieran's opinionated (and probably slightly dumb) nix config"_ **(1 day ago)**
-- [`bunplayground`](https://github.com/taciturnaxolotl/bunplayground) - _"random bun scripts that dont fit anywhere else"_ **(1 day ago)**
-- [`tonic`](https://github.com/taciturnaxolotl/tonic) - _""_ **(1 day ago)**
+- [`serif`](https://github.com/taciturnaxolotl/serif) - _""_ **(today)**
 - [`hn-alerts`](https://github.com/taciturnaxolotl/hn-alerts) - _""_ **(1 day ago)**
+- [`tonic`](https://github.com/taciturnaxolotl/tonic) - _""_ **(1 day ago)**
+- [`zera`](https://github.com/taciturnaxolotl/zera) - _"my new site v4?"_ **(1 day ago)**
+- [`bunplayground`](https://github.com/taciturnaxolotl/bunplayground) - _"random bun scripts that dont fit anywhere else"_ **(1 day ago)**
+- [`dots`](https://github.com/taciturnaxolotl/dots) - _"Kieran's opinionated (and probably slightly dumb) nix config"_ **(1 day ago)**
 - [`smokie`](https://github.com/taciturnaxolotl/smokie) - _"a system of takes and uploads"_ **(2 days ago)**
 - [`solder`](https://github.com/hackclub/solder) - _""_ **(3 days ago)**
 
@@ -34,20 +34,20 @@ When not doing school or working on a project, I enjoy flying drones and making 
 
 ```text
 💾 Languages:
-TypeScript        8h 52m 26s   ███████████░░░░░░░░░░░░░░  42.80%
-JavaScript        3h 29m 8s    █████░░░░░░░░░░░░░░░░░░░░  16.81%
-Markdown          1h 36m 37s   ██░░░░░░░░░░░░░░░░░░░░░░░  7.77%
-HTML              1h 33m 54s   ██░░░░░░░░░░░░░░░░░░░░░░░  7.55%
-CSS               1h 4m 50s    ██░░░░░░░░░░░░░░░░░░░░░░░  5.21%
+TypeScript        8h 52m 26s   ███████████░░░░░░░░░░░░░░  42.29%
+JavaScript        3h 29m 8s    █████░░░░░░░░░░░░░░░░░░░░  16.61%
+Markdown          1h 51m 26s   ███░░░░░░░░░░░░░░░░░░░░░░  8.85%
+HTML              1h 33m 54s   ██░░░░░░░░░░░░░░░░░░░░░░░  7.46%
+CSS               1h 4m 50s    ██░░░░░░░░░░░░░░░░░░░░░░░  5.15%
 
 💼 Projects:
-smokie            8h 22m 34s   ███████████░░░░░░░░░░░░░░  40.40%
-bunplayground     3h 24m 39s   █████░░░░░░░░░░░░░░░░░░░░  16.45%
-hn-alerts         2h 46m 11s   ████░░░░░░░░░░░░░░░░░░░░░  13.36%
-zera              2h 13m 58s   ███░░░░░░░░░░░░░░░░░░░░░░  10.77%
-hackclub-solder   1h 2m 11s    ██░░░░░░░░░░░░░░░░░░░░░░░  5.00%
+smokie            8h 22m 34s   ██████████░░░░░░░░░░░░░░░  39.91%
+bunplayground     3h 24m 39s   █████░░░░░░░░░░░░░░░░░░░░  16.25%
+hn-alerts         2h 46m 11s   ████░░░░░░░░░░░░░░░░░░░░░  13.20%
+zera              2h 13m 58s   ███░░░░░░░░░░░░░░░░░░░░░░  10.64%
+hackclub-solder   1h 2m 11s    ██░░░░░░░░░░░░░░░░░░░░░░░  4.94%
 
-Total: 20 hrs 44 mins
+Total: 20 hrs 59 mins
 ```
 
 #### 📮 Want to Contact me?
