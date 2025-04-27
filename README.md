@@ -4,14 +4,14 @@ When not doing school or working on a project, I enjoy flying drones and making 
 
 #### 👷 The latest repos I've pushed to
 
+- [`Odyssey`](https://github.com/MeghanaM4/Odyssey) - _"for apex.hackclub.com"_ **(today)**
 - [`dots`](https://github.com/taciturnaxolotl/dots) - _"Kieran's opinionated (and probably slightly dumb) nix config"_ **(1 day ago)**
 - [`serif`](https://github.com/taciturnaxolotl/serif) - _""_ **(2 days ago)**
 - [`smokie`](https://github.com/taciturnaxolotl/smokie) - _"a system of takes and uploads"_ **(2 days ago)**
 - [`hn-alerts`](https://github.com/taciturnaxolotl/hn-alerts) - _""_ **(3 days ago)**
+- [`zera`](https://github.com/taciturnaxolotl/zera) - _"my new site v4?"_ **(3 days ago)**
 - [`bunplayground`](https://github.com/taciturnaxolotl/bunplayground) - _"random bun scripts that dont fit anywhere else"_ **(3 days ago)**
 - [`tonic`](https://github.com/taciturnaxolotl/tonic) - _""_ **(3 days ago)**
-- [`zera`](https://github.com/taciturnaxolotl/zera) - _"my new site v4?"_ **(3 days ago)**
-- [`solder`](https://github.com/hackclub/solder) - _""_ **(5 days ago)**
 
 #### ⌨️ My latest projects
 
@@ -34,20 +34,20 @@ When not doing school or working on a project, I enjoy flying drones and making 
 
 ```text
 💾 Languages:
-TypeScript        4h 0m 59s    ███████░░░░░░░░░░░░░░░░░░  27.28%
-JavaScript        3h 29m 8s    ██████░░░░░░░░░░░░░░░░░░░  23.68%
-Markdown          1h 41m 7s    ███░░░░░░░░░░░░░░░░░░░░░░  11.45%
-HTML              1h 32m 19s   ███░░░░░░░░░░░░░░░░░░░░░░  10.45%
-Bash              42m 29s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.81%
+TypeScript        3h 42m 22s   ███████░░░░░░░░░░░░░░░░░░  25.72%
+JavaScript        3h 29m 8s    ███████░░░░░░░░░░░░░░░░░░  24.19%
+Markdown          1h 43m 18s   ███░░░░░░░░░░░░░░░░░░░░░░  11.95%
+HTML              1h 32m 19s   ███░░░░░░░░░░░░░░░░░░░░░░  10.68%
+Bash              42m 29s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.91%
 
 💼 Projects:
-bunplayground     3h 24m 39s   ██████░░░░░░░░░░░░░░░░░░░  23.17%
-hn-alerts         2h 46m 11s   █████░░░░░░░░░░░░░░░░░░░░  18.81%
-smokie            2h 21m 42s   █████░░░░░░░░░░░░░░░░░░░░  16.04%
-zera              2h 11m 33s   ████░░░░░░░░░░░░░░░░░░░░░  14.89%
-hackclub-solder   1h 2m 11s    ██░░░░░░░░░░░░░░░░░░░░░░░  7.04%
+bunplayground     3h 24m 39s   ██████░░░░░░░░░░░░░░░░░░░  23.67%
+hn-alerts         2h 46m 11s   █████░░░░░░░░░░░░░░░░░░░░  19.22%
+zera              2h 11m 33s   ████░░░░░░░░░░░░░░░░░░░░░  15.22%
+smokie            2h 0m 29s    ████░░░░░░░░░░░░░░░░░░░░░  13.94%
+hackclub-solder   1h 2m 11s    ██░░░░░░░░░░░░░░░░░░░░░░░  7.19%
 
-Total: 14 hrs 43 mins
+Total: 14 hrs 25 mins
 ```
 
 #### 📮 Want to Contact me?
