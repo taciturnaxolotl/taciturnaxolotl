@@ -8,10 +8,10 @@ When not doing school or working on a project, I enjoy flying drones and making 
 - [`smokie`](https://github.com/taciturnaxolotl/smokie) - _"a system of takes and uploads"_ **(1 day ago)**
 - [`Odyssey`](https://github.com/MeghanaM4/Odyssey) - _"for apex.hackclub.com"_ **(4 days ago)**
 - [`serif`](https://github.com/taciturnaxolotl/serif) - _""_ **(6 days ago)**
-- [`hn-alerts`](https://github.com/taciturnaxolotl/hn-alerts) - _""_ **(1 week ago)**
-- [`zera`](https://github.com/taciturnaxolotl/zera) - _"my new site v4?"_ **(1 week ago)**
-- [`tonic`](https://github.com/taciturnaxolotl/tonic) - _""_ **(1 week ago)**
 - [`bunplayground`](https://github.com/taciturnaxolotl/bunplayground) - _"random bun scripts that dont fit anywhere else"_ **(1 week ago)**
+- [`zera`](https://github.com/taciturnaxolotl/zera) - _"my new site v4?"_ **(1 week ago)**
+- [`hn-alerts`](https://github.com/taciturnaxolotl/hn-alerts) - _""_ **(1 week ago)**
+- [`tonic`](https://github.com/taciturnaxolotl/tonic) - _""_ **(1 week ago)**
 
 #### ⌨️ My latest projects
 
