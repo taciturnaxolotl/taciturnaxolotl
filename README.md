@@ -4,14 +4,14 @@ When not doing school or working on a project, I enjoy flying drones and making 
 
 #### 👷 The latest repos I've pushed to
 
-- [`smokie`](https://github.com/taciturnaxolotl/smokie) - _"a system of takes and uploads"_ **(1 day ago)**
+- [`harbor`](https://github.com/hackclub/harbor) - _"Just give it some time!"_ **(today)**
 - [`dots`](https://github.com/taciturnaxolotl/dots) - _"Kieran's opinionated (and probably slightly dumb) nix config"_ **(1 day ago)**
+- [`smokie`](https://github.com/taciturnaxolotl/smokie) - _"a system of takes and uploads"_ **(1 day ago)**
 - [`Odyssey`](https://github.com/MeghanaM4/Odyssey) - _"for apex.hackclub.com"_ **(5 days ago)**
 - [`serif`](https://github.com/taciturnaxolotl/serif) - _""_ **(1 week ago)**
-- [`bunplayground`](https://github.com/taciturnaxolotl/bunplayground) - _"random bun scripts that dont fit anywhere else"_ **(1 week ago)**
-- [`hn-alerts`](https://github.com/taciturnaxolotl/hn-alerts) - _""_ **(1 week ago)**
 - [`zera`](https://github.com/taciturnaxolotl/zera) - _"my new site v4?"_ **(1 week ago)**
 - [`tonic`](https://github.com/taciturnaxolotl/tonic) - _""_ **(1 week ago)**
+- [`bunplayground`](https://github.com/taciturnaxolotl/bunplayground) - _"random bun scripts that dont fit anywhere else"_ **(1 week ago)**
 
 #### ⌨️ My latest projects
 
@@ -34,20 +34,20 @@ When not doing school or working on a project, I enjoy flying drones and making 
 
 ```text
 💾 Languages:
-TypeScript         56m 50s      ███████░░░░░░░░░░░░░░░░░░  26.28%
-Ruby               37m 46s      █████░░░░░░░░░░░░░░░░░░░░  17.47%
-ruby               26m 35s      ████░░░░░░░░░░░░░░░░░░░░░  12.29%
-Markdown           19m 38s      ███░░░░░░░░░░░░░░░░░░░░░░  9.08%
-markdown           15m 39s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.24%
+TypeScript         1h 0m 9s     ███████░░░░░░░░░░░░░░░░░░  26.30%
+Ruby               46m 55s      ██████░░░░░░░░░░░░░░░░░░░  20.51%
+ruby               26m 35s      ███░░░░░░░░░░░░░░░░░░░░░░  11.62%
+Markdown           19m 38s      ███░░░░░░░░░░░░░░░░░░░░░░  8.58%
+markdown           15m 39s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.84%
 
 💼 Projects:
-harbor             1h 18m 29s   ██████████░░░░░░░░░░░░░░░  36.28%
-smokie             42m 36s      █████░░░░░░░░░░░░░░░░░░░░  19.69%
-emojibot           31m 31s      ████░░░░░░░░░░░░░░░░░░░░░  14.57%
-hackclub-journey   21m 7s       ███░░░░░░░░░░░░░░░░░░░░░░  9.76%
-nixos              15m 54s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.35%
+harbor             1h 27m 38s   ██████████░░░░░░░░░░░░░░░  38.31%
+smokie             45m 55s      ██████░░░░░░░░░░░░░░░░░░░  20.07%
+emojibot           31m 31s      ████░░░░░░░░░░░░░░░░░░░░░  13.78%
+hackclub-journey   21m 7s       ███░░░░░░░░░░░░░░░░░░░░░░  9.23%
+nixos              15m 54s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.95%
 
-Total: 3 hrs 36 mins
+Total: 3 hrs 49 mins
 ```
 
 #### 📮 Want to Contact me?
