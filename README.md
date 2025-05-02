@@ -5,7 +5,7 @@ When not doing school or working on a project, I enjoy flying drones and making 
 #### 👷 The latest repos I've pushed to
 
 - [`smokie`](https://github.com/taciturnaxolotl/smokie) - _"a system of takes and uploads"_ **(today)**
-- [`harbor`](https://github.com/hackclub/harbor) - _"Just give it some time!"_ **(today)**
+- [`hackatime`](https://github.com/hackclub/hackatime) - _"Just give it some time!"_ **(today)**
 - [`dots`](https://github.com/taciturnaxolotl/dots) - _"Kieran's opinionated (and probably slightly dumb) nix config"_ **(1 day ago)**
 - [`Odyssey`](https://github.com/MeghanaM4/Odyssey) - _"for apex.hackclub.com"_ **(5 days ago)**
 - [`serif`](https://github.com/taciturnaxolotl/serif) - _""_ **(1 week ago)**
