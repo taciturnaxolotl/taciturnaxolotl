@@ -4,12 +4,12 @@ When not doing school or working on a project, I enjoy flying drones and making 
 
 #### 👷 The latest repos I've pushed to
 
-- [`thyme`](https://github.com/taciturnaxolotl/thyme) - _"my custom split keyboard 🫶"_ **(today)**
+- [`dots`](https://github.com/taciturnaxolotl/dots) - _"Kieran's opinionated (and probably slightly dumb) nix config"_ **(today)**
 - [`pxlboard`](https://github.com/taciturnaxolotl/pxlboard) - _""_ **(today)**
+- [`thyme`](https://github.com/taciturnaxolotl/thyme) - _"my custom split keyboard 🫶"_ **(today)**
 - [`cachet`](https://github.com/taciturnaxolotl/cachet) - _"a cache for slack profile pictures and emojis"_ **(1 day ago)**
-- [`hackatime`](https://github.com/hackclub/hackatime) - _"Just give it some time!"_ **(1 day ago)**
 - [`smokie`](https://github.com/taciturnaxolotl/smokie) - _"a system of takes and uploads"_ **(1 day ago)**
-- [`dots`](https://github.com/taciturnaxolotl/dots) - _"Kieran's opinionated (and probably slightly dumb) nix config"_ **(1 day ago)**
+- [`hackatime`](https://github.com/hackclub/hackatime) - _"Just give it some time!"_ **(1 day ago)**
 - [`Odyssey`](https://github.com/MeghanaM4/Odyssey) - _"for apex.hackclub.com"_ **(6 days ago)**
 - [`serif`](https://github.com/taciturnaxolotl/serif) - _""_ **(1 week ago)**
 
@@ -34,20 +34,20 @@ When not doing school or working on a project, I enjoy flying drones and making 
 
 ```text
 💾 Languages:
-TypeScript   1h 7m 58s    ██████░░░░░░░░░░░░░░░░░░░  23.17%
-Ruby         46m 55s      ████░░░░░░░░░░░░░░░░░░░░░  15.99%
-Markdown     33m 55s      ███░░░░░░░░░░░░░░░░░░░░░░  11.56%
-ruby         26m 35s      ███░░░░░░░░░░░░░░░░░░░░░░  9.06%
-Nix          23m 3s       ██░░░░░░░░░░░░░░░░░░░░░░░  7.86%
+TypeScript   1h 7m 58s    ██████░░░░░░░░░░░░░░░░░░░  22.97%
+Ruby         46m 55s      ████░░░░░░░░░░░░░░░░░░░░░  15.86%
+Markdown     33m 55s      ███░░░░░░░░░░░░░░░░░░░░░░  11.46%
+ruby         26m 35s      ███░░░░░░░░░░░░░░░░░░░░░░  8.98%
+Nix          23m 3s       ██░░░░░░░░░░░░░░░░░░░░░░░  7.79%
 
 💼 Projects:
-harbor       1h 27m 38s   ████████░░░░░░░░░░░░░░░░░  29.86%
-pxlboard     52m 1s       █████░░░░░░░░░░░░░░░░░░░░  17.72%
-smokie       49m 22s      █████░░░░░░░░░░░░░░░░░░░░  16.82%
-emojibot     34m 9s       ███░░░░░░░░░░░░░░░░░░░░░░  11.64%
-nixos        27m 10s      ███░░░░░░░░░░░░░░░░░░░░░░  9.26%
+harbor       1h 27m 38s   ████████░░░░░░░░░░░░░░░░░  29.61%
+pxlboard     54m 29s      █████░░░░░░░░░░░░░░░░░░░░  18.41%
+smokie       49m 22s      █████░░░░░░░░░░░░░░░░░░░░  16.68%
+emojibot     34m 9s       ███░░░░░░░░░░░░░░░░░░░░░░  11.54%
+nixos        27m 10s      ███░░░░░░░░░░░░░░░░░░░░░░  9.18%
 
-Total: 4 hrs 53 mins
+Total: 4 hrs 56 mins
 ```
 
 #### 📮 Want to Contact me?
