@@ -4,14 +4,14 @@ When not doing school or working on a project, I enjoy flying drones and making 
 
 #### 👷 The latest repos I've pushed to
 
-- [`smokie`](https://github.com/taciturnaxolotl/smokie) - _"a system of takes and uploads"_ **(today)**
-- [`thyme`](https://github.com/taciturnaxolotl/thyme) - _"my custom split keyboard 🫶"_ **(today)**
-- [`dots`](https://github.com/taciturnaxolotl/dots) - _"Kieran's opinionated (and probably slightly dumb) nix config"_ **(today)**
-- [`pxlboard`](https://github.com/taciturnaxolotl/pxlboard) - _""_ **(today)**
-- [`2025-reefscape`](https://github.com/df1317/2025-reefscape) - _"it's not a water game but it will do"_ **(today)**
-- [`cachet`](https://github.com/taciturnaxolotl/cachet) - _"a cache for slack profile pictures and emojis"_ **(1 day ago)**
-- [`hackatime`](https://github.com/hackclub/hackatime) - _"Just give it some time!"_ **(1 day ago)**
-- [`Odyssey`](https://github.com/MeghanaM4/Odyssey) - _"for apex.hackclub.com"_ **(6 days ago)**
+- [`smokie`](https://github.com/taciturnaxolotl/smokie) - _"a system of takes and uploads"_ **(1 day ago)**
+- [`thyme`](https://github.com/taciturnaxolotl/thyme) - _"my custom split keyboard 🫶"_ **(1 day ago)**
+- [`dots`](https://github.com/taciturnaxolotl/dots) - _"Kieran's opinionated (and probably slightly dumb) nix config"_ **(1 day ago)**
+- [`pxlboard`](https://github.com/taciturnaxolotl/pxlboard) - _""_ **(1 day ago)**
+- [`2025-reefscape`](https://github.com/df1317/2025-reefscape) - _"it's not a water game but it will do"_ **(1 day ago)**
+- [`cachet`](https://github.com/taciturnaxolotl/cachet) - _"a cache for slack profile pictures and emojis"_ **(2 days ago)**
+- [`hackatime`](https://github.com/hackclub/hackatime) - _"Just give it some time!"_ **(2 days ago)**
+- [`Odyssey`](https://github.com/MeghanaM4/Odyssey) - _"for apex.hackclub.com"_ **(1 week ago)**
 
 #### ⌨️ My latest projects
 
