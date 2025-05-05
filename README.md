@@ -4,13 +4,13 @@ When not doing school or working on a project, I enjoy flying drones and making 
 
 #### 👷 The latest repos I've pushed to
 
+- [`smokie`](https://github.com/taciturnaxolotl/smokie) - _"a system of takes and uploads"_ **(today)**
 - [`pxlboard`](https://github.com/taciturnaxolotl/pxlboard) - _""_ **(1 day ago)**
-- [`smokie`](https://github.com/taciturnaxolotl/smokie) - _"a system of takes and uploads"_ **(1 day ago)**
-- [`2025-reefscape`](https://github.com/df1317/2025-reefscape) - _"it's not a water game but it will do"_ **(2 days ago)**
-- [`dots`](https://github.com/taciturnaxolotl/dots) - _"Kieran's opinionated (and probably slightly dumb) nix config"_ **(2 days ago)**
 - [`thyme`](https://github.com/taciturnaxolotl/thyme) - _"my custom split keyboard 🫶"_ **(2 days ago)**
-- [`cachet`](https://github.com/taciturnaxolotl/cachet) - _"a cache for slack profile pictures and emojis"_ **(3 days ago)**
+- [`dots`](https://github.com/taciturnaxolotl/dots) - _"Kieran's opinionated (and probably slightly dumb) nix config"_ **(2 days ago)**
+- [`2025-reefscape`](https://github.com/df1317/2025-reefscape) - _"it's not a water game but it will do"_ **(2 days ago)**
 - [`hackatime`](https://github.com/hackclub/hackatime) - _"Just give it some time!"_ **(3 days ago)**
+- [`cachet`](https://github.com/taciturnaxolotl/cachet) - _"a cache for slack profile pictures and emojis"_ **(3 days ago)**
 - [`Odyssey`](https://github.com/MeghanaM4/Odyssey) - _"for apex.hackclub.com"_ **(1 week ago)**
 
 #### ⌨️ My latest projects
@@ -34,20 +34,20 @@ When not doing school or working on a project, I enjoy flying drones and making 
 
 ```text
 💾 Languages:
-TypeScript       1h 21m 39s   █████░░░░░░░░░░░░░░░░░░░░  18.51%
-Markdown         59m 29s      ████░░░░░░░░░░░░░░░░░░░░░  13.49%
-Java             49m 20s      ███░░░░░░░░░░░░░░░░░░░░░░  11.19%
-Ruby             46m 55s      ███░░░░░░░░░░░░░░░░░░░░░░  10.64%
-Nix              31m 43s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.19%
+TypeScript       1h 24m 26s   █████░░░░░░░░░░░░░░░░░░░░  19.01%
+Markdown         59m 29s      ████░░░░░░░░░░░░░░░░░░░░░  13.39%
+Java             49m 20s      ███░░░░░░░░░░░░░░░░░░░░░░  11.11%
+Ruby             46m 55s      ███░░░░░░░░░░░░░░░░░░░░░░  10.56%
+Nix              31m 43s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.14%
 
 💼 Projects:
-pxlboard         1h 41m 37s   ██████░░░░░░░░░░░░░░░░░░░  23.03%
-harbor           1h 27m 50s   █████░░░░░░░░░░░░░░░░░░░░  19.91%
-smokie           1h 5m 0s     ████░░░░░░░░░░░░░░░░░░░░░  14.73%
-2025-reefscape   1h 2m 45s    ████░░░░░░░░░░░░░░░░░░░░░  14.22%
-nixos            49m 59s      ███░░░░░░░░░░░░░░░░░░░░░░  11.33%
+pxlboard         1h 41m 37s   ██████░░░░░░░░░░░░░░░░░░░  22.87%
+harbor           1h 27m 50s   █████░░░░░░░░░░░░░░░░░░░░  19.77%
+smokie           1h 8m 6s     ████░░░░░░░░░░░░░░░░░░░░░  15.33%
+2025-reefscape   1h 2m 45s    ████░░░░░░░░░░░░░░░░░░░░░  14.12%
+nixos            49m 59s      ███░░░░░░░░░░░░░░░░░░░░░░  11.25%
 
-Total: 7 hrs 21 mins
+Total: 7 hrs 24 mins
 ```
 
 #### 📮 Want to Contact me?
