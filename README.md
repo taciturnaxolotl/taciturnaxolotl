@@ -4,14 +4,14 @@ When not doing school or working on a project, I enjoy flying drones and making 
 
 #### 👷 The latest repos I've pushed to
 
-- [`zera`](https://github.com/taciturnaxolotl/zera) - _"my new site v4?"_ **(today)**
-- [`bunplayground`](https://github.com/taciturnaxolotl/bunplayground) - _"random bun scripts that dont fit anywhere else"_ **(today)**
-- [`dots`](https://github.com/taciturnaxolotl/dots) - _"Kieran's opinionated (and probably slightly dumb) nix config"_ **(today)**
-- [`serif`](https://github.com/taciturnaxolotl/serif) - _""_ **(today)**
-- [`hackatime`](https://github.com/hackclub/hackatime) - _"Just give it some time!"_ **(today)**
-- [`smokie`](https://github.com/taciturnaxolotl/smokie) - _"a system of takes and uploads"_ **(today)**
-- [`pixeldust`](https://github.com/hackclub/pixeldust) - _""_ **(1 day ago)**
-- [`pxlboard`](https://github.com/taciturnaxolotl/pxlboard) - _""_ **(1 day ago)**
+- [`zera`](https://github.com/taciturnaxolotl/zera) - _"my new site v4?"_ **(1 day ago)**
+- [`bunplayground`](https://github.com/taciturnaxolotl/bunplayground) - _"random bun scripts that dont fit anywhere else"_ **(1 day ago)**
+- [`dots`](https://github.com/taciturnaxolotl/dots) - _"Kieran's opinionated (and probably slightly dumb) nix config"_ **(1 day ago)**
+- [`serif`](https://github.com/taciturnaxolotl/serif) - _""_ **(1 day ago)**
+- [`hackatime`](https://github.com/hackclub/hackatime) - _"Just give it some time!"_ **(1 day ago)**
+- [`smokie`](https://github.com/taciturnaxolotl/smokie) - _"a system of takes and uploads"_ **(1 day ago)**
+- [`pixeldust`](https://github.com/hackclub/pixeldust) - _""_ **(2 days ago)**
+- [`pxlboard`](https://github.com/taciturnaxolotl/pxlboard) - _""_ **(2 days ago)**
 
 #### ⌨️ My latest projects
 
@@ -34,20 +34,20 @@ When not doing school or working on a project, I enjoy flying drones and making 
 
 ```text
 💾 Languages:
-TypeScript       1h 47m 22s   █████░░░░░░░░░░░░░░░░░░░░  16.57%
-Bash             1h 4m 13s    ███░░░░░░░░░░░░░░░░░░░░░░  9.91%
-Java             1h 2m 44s    ███░░░░░░░░░░░░░░░░░░░░░░  9.68%
-Markdown         1h 2m 19s    ███░░░░░░░░░░░░░░░░░░░░░░  9.62%
-Ruby             46m 55s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.24%
+TypeScript       1h 47m 22s   ████░░░░░░░░░░░░░░░░░░░░░  15.48%
+Java             1h 42m 6s    ████░░░░░░░░░░░░░░░░░░░░░  14.72%
+Bash             1h 4m 13s    ███░░░░░░░░░░░░░░░░░░░░░░  9.26%
+Markdown         1h 2m 19s    ███░░░░░░░░░░░░░░░░░░░░░░  8.98%
+Ruby             46m 55s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.76%
 
 💼 Projects:
-nixos            1h 53m 9s    █████░░░░░░░░░░░░░░░░░░░░  17.46%
-harbor           1h 42m 7s    ████░░░░░░░░░░░░░░░░░░░░░  15.75%
-pxlboard         1h 41m 37s   ████░░░░░░░░░░░░░░░░░░░░░  15.68%
-2025-reefscape   1h 17m 44s   ███░░░░░░░░░░░░░░░░░░░░░░  11.99%
-smokie           1h 10m 28s   ███░░░░░░░░░░░░░░░░░░░░░░  10.87%
+2025-reefscape   2h 3m 22s    █████░░░░░░░░░░░░░░░░░░░░  17.78%
+nixos            1h 53m 9s    █████░░░░░░░░░░░░░░░░░░░░  16.31%
+harbor           1h 42m 7s    ████░░░░░░░░░░░░░░░░░░░░░  14.72%
+pxlboard         1h 41m 37s   ████░░░░░░░░░░░░░░░░░░░░░  14.64%
+smokie           1h 10m 28s   ███░░░░░░░░░░░░░░░░░░░░░░  10.16%
 
-Total: 10 hrs 48 mins
+Total: 11 hrs 34 mins
 ```
 
 #### 📮 Want to Contact me?
