@@ -4,9 +4,9 @@ When not doing school or working on a project, I enjoy flying drones and making 
 
 #### 👷 The latest repos I've pushed to
 
+- [`dots`](https://github.com/taciturnaxolotl/dots) - _"Kieran's opinionated (and probably slightly dumb) nix config"_ **(today)**
 - [`zera`](https://github.com/taciturnaxolotl/zera) - _"my new site v4?"_ **(1 day ago)**
 - [`bunplayground`](https://github.com/taciturnaxolotl/bunplayground) - _"random bun scripts that dont fit anywhere else"_ **(1 day ago)**
-- [`dots`](https://github.com/taciturnaxolotl/dots) - _"Kieran's opinionated (and probably slightly dumb) nix config"_ **(1 day ago)**
 - [`serif`](https://github.com/taciturnaxolotl/serif) - _""_ **(1 day ago)**
 - [`hackatime`](https://github.com/hackclub/hackatime) - _"Just give it some time!"_ **(1 day ago)**
 - [`smokie`](https://github.com/taciturnaxolotl/smokie) - _"a system of takes and uploads"_ **(1 day ago)**
@@ -34,20 +34,20 @@ When not doing school or working on a project, I enjoy flying drones and making 
 
 ```text
 💾 Languages:
-TypeScript       1h 47m 22s   ████░░░░░░░░░░░░░░░░░░░░░  15.38%
-Java             1h 46m 27s   ████░░░░░░░░░░░░░░░░░░░░░  15.25%
-Bash             1h 4m 13s    ███░░░░░░░░░░░░░░░░░░░░░░  9.20%
-Markdown         1h 2m 19s    ███░░░░░░░░░░░░░░░░░░░░░░  8.93%
-Ruby             46m 55s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.72%
+Java             1h 55m 23s   █████░░░░░░░░░░░░░░░░░░░░  16.27%
+TypeScript       1h 47m 22s   ████░░░░░░░░░░░░░░░░░░░░░  15.14%
+Bash             1h 4m 13s    ███░░░░░░░░░░░░░░░░░░░░░░  9.06%
+Markdown         1h 2m 19s    ███░░░░░░░░░░░░░░░░░░░░░░  8.79%
+Ruby             46m 55s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.62%
 
 💼 Projects:
-2025-reefscape   2h 7m 43s    █████░░░░░░░░░░░░░░░░░░░░  18.30%
-nixos            1h 53m 9s    █████░░░░░░░░░░░░░░░░░░░░  16.21%
-harbor           1h 42m 7s    ████░░░░░░░░░░░░░░░░░░░░░  14.63%
-pxlboard         1h 41m 25s   ████░░░░░░░░░░░░░░░░░░░░░  14.53%
-smokie           1h 10m 28s   ███░░░░░░░░░░░░░░░░░░░░░░  10.10%
+2025-reefscape   2h 18m 51s   █████░░░░░░░░░░░░░░░░░░░░  19.58%
+nixos            1h 53m 9s    ████░░░░░░░░░░░░░░░░░░░░░  15.96%
+harbor           1h 42m 7s    ████░░░░░░░░░░░░░░░░░░░░░  14.40%
+pxlboard         1h 41m 25s   ████░░░░░░░░░░░░░░░░░░░░░  14.30%
+smokie           1h 10m 28s   ███░░░░░░░░░░░░░░░░░░░░░░  9.94%
 
-Total: 11 hrs 38 mins
+Total: 11 hrs 49 mins
 ```
 
 #### 📮 Want to Contact me?
