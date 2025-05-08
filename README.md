@@ -4,14 +4,14 @@ When not doing school or working on a project, I enjoy flying drones and making 
 
 #### 👷 The latest repos I've pushed to
 
-- [`dots`](https://github.com/taciturnaxolotl/dots) - _"Kieran's opinionated (and probably slightly dumb) nix config"_ **(today)**
-- [`bunplayground`](https://github.com/taciturnaxolotl/bunplayground) - _"random bun scripts that dont fit anywhere else"_ **(1 day ago)**
-- [`zera`](https://github.com/taciturnaxolotl/zera) - _"my new site v4?"_ **(1 day ago)**
-- [`smokie`](https://github.com/taciturnaxolotl/smokie) - _"a system of takes and uploads"_ **(1 day ago)**
-- [`hackatime`](https://github.com/hackclub/hackatime) - _"Just give it some time!"_ **(2 days ago)**
-- [`serif`](https://github.com/taciturnaxolotl/serif) - _""_ **(2 days ago)**
-- [`pxlboard`](https://github.com/taciturnaxolotl/pxlboard) - _""_ **(3 days ago)**
-- [`pixeldust`](https://github.com/hackclub/pixeldust) - _""_ **(3 days ago)**
+- [`dots`](https://github.com/taciturnaxolotl/dots) - _"Kieran's opinionated (and probably slightly dumb) nix config"_ **(1 day ago)**
+- [`bunplayground`](https://github.com/taciturnaxolotl/bunplayground) - _"random bun scripts that dont fit anywhere else"_ **(2 days ago)**
+- [`zera`](https://github.com/taciturnaxolotl/zera) - _"my new site v4?"_ **(2 days ago)**
+- [`smokie`](https://github.com/taciturnaxolotl/smokie) - _"a system of takes and uploads"_ **(2 days ago)**
+- [`hackatime`](https://github.com/hackclub/hackatime) - _"Just give it some time!"_ **(3 days ago)**
+- [`serif`](https://github.com/taciturnaxolotl/serif) - _""_ **(3 days ago)**
+- [`pxlboard`](https://github.com/taciturnaxolotl/pxlboard) - _""_ **(4 days ago)**
+- [`pixeldust`](https://github.com/hackclub/pixeldust) - _""_ **(4 days ago)**
 
 #### ⌨️ My latest projects
 
@@ -22,7 +22,7 @@ When not doing school or working on a project, I enjoy flying drones and making 
 
 #### 🗒️ the latest posts from my [blog](https://dunkirk.sh)
 
-- [`Musings about Atuin`](https://dunkirk.sh/blog/atuin/) **(1 week ago)**
+- [`Musings about Atuin`](https://dunkirk.sh/blog/atuin/) **(2 weeks ago)**
 
 - [`Adding a copy code button`](https://dunkirk.sh/blog/adding-a-copy-button/) **(1 month ago)**
 
@@ -34,20 +34,20 @@ When not doing school or working on a project, I enjoy flying drones and making 
 
 ```text
 💾 Languages:
-TypeScript       2h 1m 48s    ████░░░░░░░░░░░░░░░░░░░░░  15.57%
-Java             1h 49m 22s   ████░░░░░░░░░░░░░░░░░░░░░  13.98%
-Markdown         1h 17m 30s   ███░░░░░░░░░░░░░░░░░░░░░░  9.90%
-Nix              1h 14m 29s   ███░░░░░░░░░░░░░░░░░░░░░░  9.52%
-Bash             1h 4m 13s    ███░░░░░░░░░░░░░░░░░░░░░░  8.21%
+TypeScript       2h 1m 48s    ████░░░░░░░░░░░░░░░░░░░░░  15.08%
+Java             1h 49m 22s   ████░░░░░░░░░░░░░░░░░░░░░  13.54%
+Markdown         1h 28m 6s    ███░░░░░░░░░░░░░░░░░░░░░░  10.91%
+Nix              1h 21m 53s   ███░░░░░░░░░░░░░░░░░░░░░░  10.14%
+Bash             1h 5m 9s     ███░░░░░░░░░░░░░░░░░░░░░░  8.07%
 
 💼 Projects:
-2025-reefscape   2h 12m 38s   █████░░░░░░░░░░░░░░░░░░░░  16.95%
-nixos            1h 51m 8s    ████░░░░░░░░░░░░░░░░░░░░░  14.20%
-harbor           1h 42m 7s    ████░░░░░░░░░░░░░░░░░░░░░  13.05%
-pxlboard         1h 41m 25s   ████░░░░░░░░░░░░░░░░░░░░░  12.96%
-smokie           1h 20m 52s   ███░░░░░░░░░░░░░░░░░░░░░░  10.33%
+2025-reefscape   2h 12m 38s   █████░░░░░░░░░░░░░░░░░░░░  16.42%
+nixos            1h 56m 46s   ████░░░░░░░░░░░░░░░░░░░░░  14.46%
+harbor           1h 42m 7s    ████░░░░░░░░░░░░░░░░░░░░░  12.64%
+pxlboard         1h 41m 25s   ████░░░░░░░░░░░░░░░░░░░░░  12.56%
+nat-dots         1h 33m 55s   ███░░░░░░░░░░░░░░░░░░░░░░  11.63%
 
-Total: 13 hrs 3 mins
+Total: 13 hrs 28 mins
 ```
 
 #### 📮 Want to Contact me?
