@@ -5,13 +5,13 @@ When not doing school or working on a project, I enjoy flying drones and making 
 #### 👷 The latest repos I've pushed to
 
 - [`2025-reefscape`](https://github.com/df1317/2025-reefscape) - _"it's not a water game but it will do"_ **(today)**
+- [`dots`](https://github.com/taciturnaxolotl/dots) - _"Kieran's opinionated (and probably slightly dumb) nix config"_ **(today)**
 - [`smokie`](https://github.com/taciturnaxolotl/smokie) - _"a system of takes and uploads"_ **(1 day ago)**
-- [`dots`](https://github.com/taciturnaxolotl/dots) - _"Kieran's opinionated (and probably slightly dumb) nix config"_ **(1 day ago)**
 - [`zera`](https://github.com/taciturnaxolotl/zera) - _"my new site v4?"_ **(3 days ago)**
 - [`bunplayground`](https://github.com/taciturnaxolotl/bunplayground) - _"random bun scripts that dont fit anywhere else"_ **(3 days ago)**
-- [`serif`](https://github.com/taciturnaxolotl/serif) - _""_ **(4 days ago)**
 - [`hackatime`](https://github.com/hackclub/hackatime) - _"Just give it some time!"_ **(4 days ago)**
-- [`pxlboard`](https://github.com/taciturnaxolotl/pxlboard) - _""_ **(5 days ago)**
+- [`serif`](https://github.com/taciturnaxolotl/serif) - _""_ **(4 days ago)**
+- [`pixeldust`](https://github.com/hackclub/pixeldust) - _""_ **(5 days ago)**
 
 #### ⌨️ My latest projects
 
@@ -34,20 +34,20 @@ When not doing school or working on a project, I enjoy flying drones and making 
 
 ```text
 💾 Languages:
-Java             2h 27m 40s   █████░░░░░░░░░░░░░░░░░░░░  19.31%
-Markdown         2h 7m 13s    █████░░░░░░░░░░░░░░░░░░░░  16.64%
-Nix              1h 37m 6s    ████░░░░░░░░░░░░░░░░░░░░░  12.70%
-TypeScript       1h 9m 32s    ███░░░░░░░░░░░░░░░░░░░░░░  9.09%
-Bash             1h 5m 57s    ███░░░░░░░░░░░░░░░░░░░░░░  8.62%
+Java             2h 27m 40s   █████░░░░░░░░░░░░░░░░░░░░  18.71%
+Markdown         2h 7m 13s    █████░░░░░░░░░░░░░░░░░░░░  16.12%
+Nix              1h 58m 31s   ████░░░░░░░░░░░░░░░░░░░░░  15.01%
+TypeScript       1h 9m 32s    ███░░░░░░░░░░░░░░░░░░░░░░  8.81%
+Bash             1h 5m 57s    ███░░░░░░░░░░░░░░░░░░░░░░  8.35%
 
 💼 Projects:
-2025-reefscape   3h 26m 20s   ███████░░░░░░░░░░░░░░░░░░  26.97%
-nixos            2h 31m 47s   █████░░░░░░░░░░░░░░░░░░░░  19.84%
-nat-dots         1h 44m 17s   ████░░░░░░░░░░░░░░░░░░░░░  13.63%
-pxlboard         1h 41m 25s   ████░░░░░░░░░░░░░░░░░░░░░  13.26%
-smokie           48m 51s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.39%
+2025-reefscape   3h 27m 39s   ███████░░░░░░░░░░░░░░░░░░  26.30%
+nixos            2h 53m 12s   ██████░░░░░░░░░░░░░░░░░░░  21.93%
+nat-dots         1h 44m 17s   ████░░░░░░░░░░░░░░░░░░░░░  13.21%
+pxlboard         1h 41m 25s   ████░░░░░░░░░░░░░░░░░░░░░  12.84%
+smokie           48m 51s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.19%
 
-Total: 12 hrs 45 mins
+Total: 13 hrs 10 mins
 ```
 
 #### 📮 Want to Contact me?
