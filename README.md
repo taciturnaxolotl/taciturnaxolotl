@@ -6,12 +6,12 @@ When not doing school or working on a project, I enjoy flying drones and making 
 
 - [`zera`](https://github.com/taciturnaxolotl/zera) - _"my new site v4?"_ **(today)**
 - [`serif`](https://github.com/taciturnaxolotl/serif) - _""_ **(today)**
+- [`dots`](https://github.com/taciturnaxolotl/dots) - _"Kieran's opinionated (and probably slightly dumb) nix config"_ **(today)**
+- [`hackatime`](https://github.com/hackclub/hackatime) - _"Just give it some time!"_ **(today)**
 - [`2025-reefscape`](https://github.com/df1317/2025-reefscape) - _"it's not a water game but it will do"_ **(3 days ago)**
-- [`dots`](https://github.com/taciturnaxolotl/dots) - _"Kieran's opinionated (and probably slightly dumb) nix config"_ **(3 days ago)**
 - [`smokie`](https://github.com/taciturnaxolotl/smokie) - _"a system of takes and uploads"_ **(4 days ago)**
 - [`bunplayground`](https://github.com/taciturnaxolotl/bunplayground) - _"random bun scripts that dont fit anywhere else"_ **(6 days ago)**
-- [`hackatime`](https://github.com/hackclub/hackatime) - _"Just give it some time!"_ **(1 week ago)**
-- [`pxlboard`](https://github.com/taciturnaxolotl/pxlboard) - _""_ **(1 week ago)**
+- [`pixeldust`](https://github.com/hackclub/pixeldust) - _""_ **(1 week ago)**
 
 #### ⌨️ My latest projects
 
