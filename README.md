@@ -4,14 +4,14 @@ When not doing school or working on a project, I enjoy flying drones and making 
 
 #### 👷 The latest repos I've pushed to
 
-- [`2025-reefscape`](https://github.com/df1317/2025-reefscape) - _"it's not a water game but it will do"_ **(2 days ago)**
-- [`dots`](https://github.com/taciturnaxolotl/dots) - _"Kieran's opinionated (and probably slightly dumb) nix config"_ **(2 days ago)**
-- [`smokie`](https://github.com/taciturnaxolotl/smokie) - _"a system of takes and uploads"_ **(3 days ago)**
-- [`zera`](https://github.com/taciturnaxolotl/zera) - _"my new site v4?"_ **(5 days ago)**
-- [`bunplayground`](https://github.com/taciturnaxolotl/bunplayground) - _"random bun scripts that dont fit anywhere else"_ **(5 days ago)**
-- [`hackatime`](https://github.com/hackclub/hackatime) - _"Just give it some time!"_ **(6 days ago)**
-- [`serif`](https://github.com/taciturnaxolotl/serif) - _""_ **(6 days ago)**
-- [`pixeldust`](https://github.com/hackclub/pixeldust) - _""_ **(1 week ago)**
+- [`2025-reefscape`](https://github.com/df1317/2025-reefscape) - _"it's not a water game but it will do"_ **(3 days ago)**
+- [`dots`](https://github.com/taciturnaxolotl/dots) - _"Kieran's opinionated (and probably slightly dumb) nix config"_ **(3 days ago)**
+- [`smokie`](https://github.com/taciturnaxolotl/smokie) - _"a system of takes and uploads"_ **(4 days ago)**
+- [`zera`](https://github.com/taciturnaxolotl/zera) - _"my new site v4?"_ **(6 days ago)**
+- [`bunplayground`](https://github.com/taciturnaxolotl/bunplayground) - _"random bun scripts that dont fit anywhere else"_ **(6 days ago)**
+- [`hackatime`](https://github.com/hackclub/hackatime) - _"Just give it some time!"_ **(1 week ago)**
+- [`serif`](https://github.com/taciturnaxolotl/serif) - _""_ **(1 week ago)**
+- [`pxlboard`](https://github.com/taciturnaxolotl/pxlboard) - _""_ **(1 week ago)**
 
 #### ⌨️ My latest projects
 
@@ -34,20 +34,20 @@ When not doing school or working on a project, I enjoy flying drones and making 
 
 ```text
 💾 Languages:
-Nix              2h 19m 42s   ██████░░░░░░░░░░░░░░░░░░░  22.14%
-Java             1h 38m 20s   ████░░░░░░░░░░░░░░░░░░░░░  15.59%
-Markdown         1h 17m 34s   ████░░░░░░░░░░░░░░░░░░░░░  12.29%
-Bash             1h 7m 27s    ███░░░░░░░░░░░░░░░░░░░░░░  10.69%
-TypeScript       42m 40s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.76%
+Nix              2h 19m 42s   ██████░░░░░░░░░░░░░░░░░░░  22.86%
+Java             1h 40m 0s    █████░░░░░░░░░░░░░░░░░░░░  16.36%
+Markdown         1h 10m 13s   ███░░░░░░░░░░░░░░░░░░░░░░  11.49%
+Bash             1h 7m 27s    ███░░░░░░░░░░░░░░░░░░░░░░  11.04%
+TypeScript       42m 40s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.98%
 
 💼 Projects:
-nixos            3h 8m 21s    ████████░░░░░░░░░░░░░░░░░  29.85%
-2025-reefscape   2h 24m 53s   ██████░░░░░░░░░░░░░░░░░░░  22.96%
-nat-dots         1h 44m 17s   █████░░░░░░░░░░░░░░░░░░░░  16.53%
-panorama         58m 55s      ███░░░░░░░░░░░░░░░░░░░░░░  9.34%
-bunplayground    35m 5s       ██░░░░░░░░░░░░░░░░░░░░░░░  5.56%
+nixos            3h 8m 21s    ████████░░░░░░░░░░░░░░░░░  30.81%
+2025-reefscape   2h 26m 45s   ██████░░░░░░░░░░░░░░░░░░░  24.00%
+nat-dots         1h 44m 17s   █████░░░░░░░░░░░░░░░░░░░░  17.06%
+panorama         58m 55s      ███░░░░░░░░░░░░░░░░░░░░░░  9.64%
+bunplayground    35m 5s       ██░░░░░░░░░░░░░░░░░░░░░░░  5.74%
 
-Total: 10 hrs 31 mins
+Total: 10 hrs 11 mins
 ```
 
 #### 📮 Want to Contact me?
