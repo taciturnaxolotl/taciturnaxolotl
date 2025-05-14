@@ -4,9 +4,9 @@ When not doing school or working on a project, I enjoy flying drones and making 
 
 #### 👷 The latest repos I've pushed to
 
-- [`ink`](https://github.com/taciturnaxolotl/ink) - _"a simple way to log http requests"_ **(1 day ago)**
+- [`dots`](https://github.com/taciturnaxolotl/dots) - _"Kieran's opinionated (and probably slightly dumb) nix config"_ **(today)**
 - [`zera`](https://github.com/taciturnaxolotl/zera) - _"my new site v4?"_ **(1 day ago)**
-- [`dots`](https://github.com/taciturnaxolotl/dots) - _"Kieran's opinionated (and probably slightly dumb) nix config"_ **(1 day ago)**
+- [`ink`](https://github.com/taciturnaxolotl/ink) - _"a simple way to log http requests"_ **(1 day ago)**
 - [`serif`](https://github.com/taciturnaxolotl/serif) - _"bluesky community verifications! (also the site repo for serif.blue)"_ **(2 days ago)**
 - [`hackatime`](https://github.com/hackclub/hackatime) - _"Just give it some time!"_ **(2 days ago)**
 - [`2025-reefscape`](https://github.com/df1317/2025-reefscape) - _"it's not a water game but it will do"_ **(5 days ago)**
@@ -34,20 +34,20 @@ When not doing school or working on a project, I enjoy flying drones and making 
 
 ```text
 💾 Languages:
-Nix              4h 35m 48s   ██████████░░░░░░░░░░░░░░░  38.03%
-Markdown         1h 35m 45s   ████░░░░░░░░░░░░░░░░░░░░░  13.20%
-Bash             1h 18m 31s   ███░░░░░░░░░░░░░░░░░░░░░░  10.83%
-nix              39m 45s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.48%
-Java             38m 18s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.28%
+Nix              4h 48m 19s   ██████████░░░░░░░░░░░░░░░  37.79%
+Markdown         1h 39m 36s   ████░░░░░░░░░░░░░░░░░░░░░  13.06%
+Bash             1h 20m 33s   ███░░░░░░░░░░░░░░░░░░░░░░  10.56%
+nix              39m 45s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.21%
+Java             38m 18s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.02%
 
 💼 Projects:
-tma-inventory    4h 26m 42s   ██████████░░░░░░░░░░░░░░░  36.76%
-nixos            2h 39m 14s   ██████░░░░░░░░░░░░░░░░░░░  21.95%
-nat-dots         1h 44m 17s   ████░░░░░░░░░░░░░░░░░░░░░  14.37%
-2025-reefscape   1h 15m 0s    ███░░░░░░░░░░░░░░░░░░░░░░  10.34%
-hackathonstore   48m 37s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.70%
+tma-inventory    4h 58m 21s   ██████████░░░░░░░░░░░░░░░  39.09%
+nixos            2h 45m 14s   ██████░░░░░░░░░░░░░░░░░░░  21.65%
+nat-dots         1h 44m 17s   ████░░░░░░░░░░░░░░░░░░░░░  13.66%
+2025-reefscape   1h 15m 0s    ███░░░░░░░░░░░░░░░░░░░░░░  9.83%
+hackathonstore   48m 37s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.37%
 
-Total: 12 hrs 6 mins
+Total: 12 hrs 43 mins
 ```
 
 #### 📮 Want to Contact me?
