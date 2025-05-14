@@ -4,13 +4,13 @@ When not doing school or working on a project, I enjoy flying drones and making 
 
 #### 👷 The latest repos I've pushed to
 
-- [`dots`](https://github.com/taciturnaxolotl/dots) - _"Kieran's opinionated (and probably slightly dumb) nix config"_ **(today)**
-- [`ink`](https://github.com/taciturnaxolotl/ink) - _"a simple way to log http requests"_ **(today)**
-- [`zera`](https://github.com/taciturnaxolotl/zera) - _"my new site v4?"_ **(today)**
-- [`serif`](https://github.com/taciturnaxolotl/serif) - _"bluesky community verifications! (also the site repo for serif.blue)"_ **(1 day ago)**
-- [`hackatime`](https://github.com/hackclub/hackatime) - _"Just give it some time!"_ **(1 day ago)**
-- [`2025-reefscape`](https://github.com/df1317/2025-reefscape) - _"it's not a water game but it will do"_ **(4 days ago)**
-- [`smokie`](https://github.com/taciturnaxolotl/smokie) - _"a system of takes and uploads"_ **(5 days ago)**
+- [`dots`](https://github.com/taciturnaxolotl/dots) - _"Kieran's opinionated (and probably slightly dumb) nix config"_ **(1 day ago)**
+- [`ink`](https://github.com/taciturnaxolotl/ink) - _"a simple way to log http requests"_ **(1 day ago)**
+- [`zera`](https://github.com/taciturnaxolotl/zera) - _"my new site v4?"_ **(1 day ago)**
+- [`serif`](https://github.com/taciturnaxolotl/serif) - _"bluesky community verifications! (also the site repo for serif.blue)"_ **(2 days ago)**
+- [`hackatime`](https://github.com/hackclub/hackatime) - _"Just give it some time!"_ **(2 days ago)**
+- [`2025-reefscape`](https://github.com/df1317/2025-reefscape) - _"it's not a water game but it will do"_ **(5 days ago)**
+- [`smokie`](https://github.com/taciturnaxolotl/smokie) - _"a system of takes and uploads"_ **(6 days ago)**
 - [`bunplayground`](https://github.com/taciturnaxolotl/bunplayground) - _"random bun scripts that dont fit anywhere else"_ **(1 week ago)**
 
 #### ⌨️ My latest projects
@@ -34,20 +34,20 @@ When not doing school or working on a project, I enjoy flying drones and making 
 
 ```text
 💾 Languages:
-Nix              2h 54m 13s   ██████████░░░░░░░░░░░░░░░  36.81%
-Markdown         1h 13m 33s   ████░░░░░░░░░░░░░░░░░░░░░  15.54%
-Java             38m 18s      ███░░░░░░░░░░░░░░░░░░░░░░  8.09%
-Bash             37m 16s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.87%
-nix              32m 17s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.82%
+Nix              3h 5m 5s     █████████░░░░░░░░░░░░░░░░  35.65%
+Markdown         1h 18m 5s    ████░░░░░░░░░░░░░░░░░░░░░  15.04%
+Bash             39m 57s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.70%
+Java             38m 18s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.38%
+nix              32m 19s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.22%
 
 💼 Projects:
-nixos            2h 40m 8s    █████████░░░░░░░░░░░░░░░░  33.82%
-nat-dots         1h 44m 17s   ██████░░░░░░░░░░░░░░░░░░░  22.02%
-2025-reefscape   1h 15m 0s    ████░░░░░░░░░░░░░░░░░░░░░  15.84%
-tma-inventory    46m 45s      ███░░░░░░░░░░░░░░░░░░░░░░  9.87%
-smokie           12m 39s      █░░░░░░░░░░░░░░░░░░░░░░░░  2.67%
+nixos            2h 40m 8s    ████████░░░░░░░░░░░░░░░░░  30.83%
+nat-dots         1h 44m 17s   ██████░░░░░░░░░░░░░░░░░░░  20.08%
+2025-reefscape   1h 15m 0s    ████░░░░░░░░░░░░░░░░░░░░░  14.44%
+tma-inventory    1h 0m 55s    ███░░░░░░░░░░░░░░░░░░░░░░  11.73%
+hackathonstore   45m 44s      ███░░░░░░░░░░░░░░░░░░░░░░  8.81%
 
-Total: 7 hrs 53 mins
+Total: 8 hrs 39 mins
 ```
 
 #### 📮 Want to Contact me?
