@@ -4,11 +4,11 @@ When not doing school or working on a project, I enjoy flying drones and making 
 
 #### 👷 The latest repos I've pushed to
 
-- [`dots`](https://github.com/taciturnaxolotl/dots) - _"Kieran's opinionated (and probably slightly dumb) nix config"_ **(1 day ago)**
+- [`dots`](https://github.com/taciturnaxolotl/dots) - _"Kieran's opinionated (and probably slightly dumb) nix config"_ **(today)**
+- [`carriage`](https://github.com/taciturnaxolotl/carriage) - _"@taciturnaxolotl's repo template"_ **(1 day ago)**
 - [`zera`](https://github.com/taciturnaxolotl/zera) - _"my new site v4?"_ **(1 day ago)**
 - [`2025-reefscape`](https://github.com/df1317/2025-reefscape) - _"it's not a water game but it will do"_ **(1 day ago)**
 - [`.github`](https://github.com/taciturnaxolotl/.github) - _"github config files"_ **(1 day ago)**
-- [`carriage`](https://github.com/taciturnaxolotl/carriage) - _"@taciturnaxolotl's repo template"_ **(1 day ago)**
 - [`ink`](https://github.com/taciturnaxolotl/ink) - _"a simple way to log http requests"_ **(2 days ago)**
 - [`hackatime`](https://github.com/hackclub/hackatime) - _"Just give it some time!"_ **(3 days ago)**
 - [`serif`](https://github.com/taciturnaxolotl/serif) - _"bluesky community verifications! (also the site repo for serif.blue)"_ **(3 days ago)**
@@ -34,20 +34,20 @@ When not doing school or working on a project, I enjoy flying drones and making 
 
 ```text
 💾 Languages:
-Nix              3h 58m 57s   █████████░░░░░░░░░░░░░░░░  34.95%
-Bash             1h 19m 37s   ███░░░░░░░░░░░░░░░░░░░░░░  11.64%
-Markdown         1h 16m 37s   ███░░░░░░░░░░░░░░░░░░░░░░  11.21%
-Java             38m 18s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.60%
-Ruby             33m 14s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.86%
+Nix              3h 59m 7s    █████████░░░░░░░░░░░░░░░░  35.17%
+Markdown         1h 16m 37s   ███░░░░░░░░░░░░░░░░░░░░░░  11.27%
+Bash             1h 14m 52s   ███░░░░░░░░░░░░░░░░░░░░░░  11.01%
+Java             38m 18s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.63%
+Ruby             33m 14s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.89%
 
 💼 Projects:
-tma-inventory    5h 20m 41s   ████████████░░░░░░░░░░░░░  46.89%
-nixos            2h 39m 36s   ██████░░░░░░░░░░░░░░░░░░░  23.34%
-2025-reefscape   1h 15m 0s    ███░░░░░░░░░░░░░░░░░░░░░░  10.97%
-hackathonstore   48m 37s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.11%
-panorama         15m 28s      █░░░░░░░░░░░░░░░░░░░░░░░░  2.26%
+tma-inventory    5h 20m 41s   ████████████░░░░░░░░░░░░░  47.14%
+nixos            2h 40m 7s    ██████░░░░░░░░░░░░░░░░░░░  23.54%
+2025-reefscape   1h 15m 0s    ███░░░░░░░░░░░░░░░░░░░░░░  11.03%
+hackathonstore   48m 36s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.14%
+panorama         15m 28s      █░░░░░░░░░░░░░░░░░░░░░░░░  2.27%
 
-Total: 11 hrs 24 mins
+Total: 11 hrs 20 mins
 ```
 
 #### 📮 Want to Contact me?
