@@ -4,14 +4,14 @@ When not doing school or working on a project, I enjoy flying drones and making 
 
 #### 👷 The latest repos I've pushed to
 
-- [`dots`](https://github.com/taciturnaxolotl/dots) - _"Kieran's opinionated (and probably slightly dumb) nix config"_ **(today)**
-- [`zera`](https://github.com/taciturnaxolotl/zera) - _"my new site v4?"_ **(today)**
-- [`2025-reefscape`](https://github.com/df1317/2025-reefscape) - _"it's not a water game but it will do"_ **(today)**
-- [`.github`](https://github.com/taciturnaxolotl/.github) - _"github config files"_ **(today)**
-- [`carriage`](https://github.com/taciturnaxolotl/carriage) - _"@taciturnaxolotl's repo template"_ **(today)**
-- [`ink`](https://github.com/taciturnaxolotl/ink) - _"a simple way to log http requests"_ **(1 day ago)**
-- [`hackatime`](https://github.com/hackclub/hackatime) - _"Just give it some time!"_ **(2 days ago)**
-- [`serif`](https://github.com/taciturnaxolotl/serif) - _"bluesky community verifications! (also the site repo for serif.blue)"_ **(2 days ago)**
+- [`dots`](https://github.com/taciturnaxolotl/dots) - _"Kieran's opinionated (and probably slightly dumb) nix config"_ **(1 day ago)**
+- [`zera`](https://github.com/taciturnaxolotl/zera) - _"my new site v4?"_ **(1 day ago)**
+- [`2025-reefscape`](https://github.com/df1317/2025-reefscape) - _"it's not a water game but it will do"_ **(1 day ago)**
+- [`.github`](https://github.com/taciturnaxolotl/.github) - _"github config files"_ **(1 day ago)**
+- [`carriage`](https://github.com/taciturnaxolotl/carriage) - _"@taciturnaxolotl's repo template"_ **(1 day ago)**
+- [`ink`](https://github.com/taciturnaxolotl/ink) - _"a simple way to log http requests"_ **(2 days ago)**
+- [`hackatime`](https://github.com/hackclub/hackatime) - _"Just give it some time!"_ **(3 days ago)**
+- [`serif`](https://github.com/taciturnaxolotl/serif) - _"bluesky community verifications! (also the site repo for serif.blue)"_ **(3 days ago)**
 
 #### ⌨️ My latest projects
 
@@ -22,7 +22,7 @@ When not doing school or working on a project, I enjoy flying drones and making 
 
 #### 🗒️ the latest posts from my [blog](https://dunkirk.sh)
 
-- [`Musings about Atuin`](https://dunkirk.sh/blog/atuin/) **(2 weeks ago)**
+- [`Musings about Atuin`](https://dunkirk.sh/blog/atuin/) **(3 weeks ago)**
 
 - [`Adding a copy code button`](https://dunkirk.sh/blog/adding-a-copy-button/) **(2 months ago)**
 
@@ -34,20 +34,20 @@ When not doing school or working on a project, I enjoy flying drones and making 
 
 ```text
 💾 Languages:
-Nix              4h 8m 27s    █████████░░░░░░░░░░░░░░░░  34.98%
-Markdown         1h 23m 24s   ███░░░░░░░░░░░░░░░░░░░░░░  11.74%
-Bash             1h 20m 33s   ███░░░░░░░░░░░░░░░░░░░░░░  11.34%
-Java             38m 18s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.39%
-Ruby             33m 14s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.68%
+Nix              3h 58m 57s   █████████░░░░░░░░░░░░░░░░  34.95%
+Bash             1h 19m 37s   ███░░░░░░░░░░░░░░░░░░░░░░  11.64%
+Markdown         1h 16m 37s   ███░░░░░░░░░░░░░░░░░░░░░░  11.21%
+Java             38m 18s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.60%
+Ruby             33m 14s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.86%
 
 💼 Projects:
-tma-inventory    5h 20m 41s   ████████████░░░░░░░░░░░░░  45.14%
-nixos            2h 45m 14s   ██████░░░░░░░░░░░░░░░░░░░  23.26%
-2025-reefscape   1h 15m 0s    ███░░░░░░░░░░░░░░░░░░░░░░  10.56%
-hackathonstore   48m 37s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.84%
-nat-dots         31m 12s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.39%
+tma-inventory    5h 20m 41s   ████████████░░░░░░░░░░░░░  46.89%
+nixos            2h 39m 36s   ██████░░░░░░░░░░░░░░░░░░░  23.34%
+2025-reefscape   1h 15m 0s    ███░░░░░░░░░░░░░░░░░░░░░░  10.97%
+hackathonstore   48m 37s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.11%
+panorama         15m 28s      █░░░░░░░░░░░░░░░░░░░░░░░░  2.26%
 
-Total: 11 hrs 50 mins
+Total: 11 hrs 24 mins
 ```
 
 #### 📮 Want to Contact me?
