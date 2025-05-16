@@ -5,7 +5,7 @@ When not doing school or working on a project, I enjoy flying drones and making 
 #### 👷 The latest repos I've pushed to
 
 - [`cachet`](https://github.com/taciturnaxolotl/cachet) - _"a cache for slack profile pictures and emojis"_ **(today)**
-- [`dots`](https://github.com/taciturnaxolotl/dots) - _"Kieran's opinionated (and probably slightly dumb) nix config"_ **(1 day ago)**
+- [`dots`](https://github.com/taciturnaxolotl/dots) - _"Kieran's opinionated (and probably slightly dumb) nix config"_ **(today)**
 - [`carriage`](https://github.com/taciturnaxolotl/carriage) - _"@taciturnaxolotl's repo template"_ **(2 days ago)**
 - [`zera`](https://github.com/taciturnaxolotl/zera) - _"my new site v4?"_ **(2 days ago)**
 - [`2025-reefscape`](https://github.com/df1317/2025-reefscape) - _"it's not a water game but it will do"_ **(2 days ago)**
@@ -34,20 +34,20 @@ When not doing school or working on a project, I enjoy flying drones and making 
 
 ```text
 💾 Languages:
-Nix              2h 54m 41s   ████████░░░░░░░░░░░░░░░░░  31.59%
-Bash             1h 11m 10s   ████░░░░░░░░░░░░░░░░░░░░░  12.87%
-TypeScript       1h 0m 44s    ███░░░░░░░░░░░░░░░░░░░░░░  10.98%
-Markdown         37m 10s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.72%
-Ruby             33m 14s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.01%
+Nix              2h 57m 4s    ████████░░░░░░░░░░░░░░░░░  31.56%
+Bash             1h 11m 10s   ████░░░░░░░░░░░░░░░░░░░░░  12.68%
+TypeScript       1h 2m 48s    ███░░░░░░░░░░░░░░░░░░░░░░  11.19%
+Markdown         37m 10s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.62%
+Ruby             33m 14s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.92%
 
 💼 Projects:
-tma-inventory    5h 20m 41s   ███████████████░░░░░░░░░░  57.97%
-nixos            1h 11m 7s    ████░░░░░░░░░░░░░░░░░░░░░  12.86%
-hackathonstore   48m 36s      ███░░░░░░░░░░░░░░░░░░░░░░  8.78%
-hackclub-site    30m 5s       ██░░░░░░░░░░░░░░░░░░░░░░░  5.44%
-cachet           15m 46s      █░░░░░░░░░░░░░░░░░░░░░░░░  2.85%
+tma-inventory    5h 22m 47s   ███████████████░░░░░░░░░░  57.50%
+nixos            1h 15m 7s    ████░░░░░░░░░░░░░░░░░░░░░  13.38%
+hackathonstore   48m 36s      ███░░░░░░░░░░░░░░░░░░░░░░  8.66%
+hackclub-site    30m 5s       ██░░░░░░░░░░░░░░░░░░░░░░░  5.36%
+cachet           17m 50s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.18%
 
-Total: 9 hrs 13 mins
+Total: 9 hrs 21 mins
 ```
 
 #### 📮 Want to Contact me?
