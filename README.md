@@ -4,13 +4,13 @@ When not doing school or working on a project, I enjoy flying drones and making 
 
 #### 👷 The latest repos I've pushed to
 
+- [`cachet`](https://github.com/taciturnaxolotl/cachet) - _"a cache for slack profile pictures and emojis"_ **(today)**
 - [`dots`](https://github.com/taciturnaxolotl/dots) - _"Kieran's opinionated (and probably slightly dumb) nix config"_ **(1 day ago)**
 - [`carriage`](https://github.com/taciturnaxolotl/carriage) - _"@taciturnaxolotl's repo template"_ **(2 days ago)**
 - [`zera`](https://github.com/taciturnaxolotl/zera) - _"my new site v4?"_ **(2 days ago)**
 - [`2025-reefscape`](https://github.com/df1317/2025-reefscape) - _"it's not a water game but it will do"_ **(2 days ago)**
 - [`.github`](https://github.com/taciturnaxolotl/.github) - _"github config files"_ **(2 days ago)**
 - [`ink`](https://github.com/taciturnaxolotl/ink) - _"a simple way to log http requests"_ **(3 days ago)**
-- [`hackatime`](https://github.com/hackclub/hackatime) - _"Just give it some time!"_ **(4 days ago)**
 - [`serif`](https://github.com/taciturnaxolotl/serif) - _"bluesky community verifications! (also the site repo for serif.blue)"_ **(4 days ago)**
 
 #### ⌨️ My latest projects
@@ -34,20 +34,20 @@ When not doing school or working on a project, I enjoy flying drones and making 
 
 ```text
 💾 Languages:
-Nix              3h 42m 32s   ██████████░░░░░░░░░░░░░░░  39.24%
-Bash             1h 12m 3s    ████░░░░░░░░░░░░░░░░░░░░░  12.70%
-Markdown         37m 10s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.55%
-Ruby             33m 14s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.86%
-TypeScript       26m 35s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.69%
+Nix              3h 23m 43s   █████████░░░░░░░░░░░░░░░░  34.93%
+Bash             1h 12m 6s    ████░░░░░░░░░░░░░░░░░░░░░  12.36%
+TypeScript       57m 51s      ███░░░░░░░░░░░░░░░░░░░░░░  9.92%
+Markdown         37m 10s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.37%
+Ruby             33m 14s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.70%
 
 💼 Projects:
-tma-inventory    5h 20m 41s   ███████████████░░░░░░░░░░  56.52%
-nixos            2h 2m 28s    ██████░░░░░░░░░░░░░░░░░░░  21.59%
-hackathonstore   48m 36s      ███░░░░░░░░░░░░░░░░░░░░░░  8.57%
-panorama         15m 28s      █░░░░░░░░░░░░░░░░░░░░░░░░  2.73%
-zera             12m 30s      █░░░░░░░░░░░░░░░░░░░░░░░░  2.20%
+tma-inventory    5h 20m 41s   ██████████████░░░░░░░░░░░  54.96%
+nixos            1h 43m 39s   █████░░░░░░░░░░░░░░░░░░░░  17.76%
+hackathonstore   48m 36s      ███░░░░░░░░░░░░░░░░░░░░░░  8.33%
+hackclub-site    29m 43s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.09%
+panorama         15m 28s      █░░░░░░░░░░░░░░░░░░░░░░░░  2.65%
 
-Total: 9 hrs 27 mins
+Total: 9 hrs 42 mins
 ```
 
 #### 📮 Want to Contact me?
