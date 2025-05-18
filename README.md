@@ -4,7 +4,7 @@ When not doing school or working on a project, I enjoy flying drones and making 
 
 #### 👷 The latest repos I've pushed to
 
-- [`dots`](https://github.com/taciturnaxolotl/dots) - _"Kieran's opinionated (and probably slightly dumb) nix config"_ **(1 day ago)**
+- [`dots`](https://github.com/taciturnaxolotl/dots) - _"Kieran's opinionated (and probably slightly dumb) nix config"_ **(today)**
 - [`cachet`](https://github.com/taciturnaxolotl/cachet) - _"a cache for slack profile pictures and emojis"_ **(2 days ago)**
 - [`carriage`](https://github.com/taciturnaxolotl/carriage) - _"@taciturnaxolotl's repo template"_ **(4 days ago)**
 - [`zera`](https://github.com/taciturnaxolotl/zera) - _"my new site v4?"_ **(4 days ago)**
@@ -34,20 +34,20 @@ When not doing school or working on a project, I enjoy flying drones and making 
 
 ```text
 💾 Languages:
-Nix              3h 9m 5s     ███████░░░░░░░░░░░░░░░░░░  24.87%
-Ruby             1h 46m 5s    ████░░░░░░░░░░░░░░░░░░░░░  13.95%
-Bash             1h 9m 52s    ███░░░░░░░░░░░░░░░░░░░░░░  9.19%
-TypeScript       1h 2m 48s    ███░░░░░░░░░░░░░░░░░░░░░░  8.26%
-Markdown         49m 59s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.57%
+Nix              3h 11m 50s   ███████░░░░░░░░░░░░░░░░░░  25.11%
+Ruby             1h 46m 5s    ████░░░░░░░░░░░░░░░░░░░░░  13.89%
+Bash             1h 9m 52s    ███░░░░░░░░░░░░░░░░░░░░░░  9.15%
+TypeScript       1h 2m 48s    ███░░░░░░░░░░░░░░░░░░░░░░  8.22%
+Markdown         49m 59s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.54%
 
 💼 Projects:
-tma-inventory    8h 8m 50s    █████████████████░░░░░░░░  64.26%
-nixos            1h 23m 25s   ███░░░░░░░░░░░░░░░░░░░░░░  10.97%
-hackathonstore   48m 36s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.39%
-hackclub-site    30m 5s       █░░░░░░░░░░░░░░░░░░░░░░░░  3.95%
-multitime        23m 16s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.06%
+tma-inventory    8h 8m 50s    ████████████████░░░░░░░░░  63.95%
+nixos            1h 26m 10s   ███░░░░░░░░░░░░░░░░░░░░░░  11.27%
+hackathonstore   48m 36s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.36%
+hackclub-site    30m 5s       █░░░░░░░░░░░░░░░░░░░░░░░░  3.94%
+multitime        23m 16s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.04%
 
-Total: 12 hrs 41 mins
+Total: 12 hrs 44 mins
 ```
 
 #### 📮 Want to Contact me?
