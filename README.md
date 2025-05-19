@@ -4,14 +4,14 @@ When not doing school or working on a project, I enjoy flying drones and making 
 
 #### 👷 The latest repos I've pushed to
 
-- [`dots`](https://github.com/taciturnaxolotl/dots) - _"Kieran's opinionated (and probably slightly dumb) nix config"_ **(today)**
-- [`cachet`](https://github.com/taciturnaxolotl/cachet) - _"a cache for slack profile pictures and emojis"_ **(2 days ago)**
-- [`carriage`](https://github.com/taciturnaxolotl/carriage) - _"@taciturnaxolotl's repo template"_ **(4 days ago)**
-- [`zera`](https://github.com/taciturnaxolotl/zera) - _"my new site v4?"_ **(4 days ago)**
-- [`2025-reefscape`](https://github.com/df1317/2025-reefscape) - _"it's not a water game but it will do"_ **(4 days ago)**
-- [`.github`](https://github.com/taciturnaxolotl/.github) - _"github config files"_ **(4 days ago)**
-- [`ink`](https://github.com/taciturnaxolotl/ink) - _"a simple way to log http requests"_ **(5 days ago)**
-- [`serif`](https://github.com/taciturnaxolotl/serif) - _"bluesky community verifications! (also the site repo for serif.blue)"_ **(6 days ago)**
+- [`dots`](https://github.com/taciturnaxolotl/dots) - _"Kieran's opinionated (and probably slightly dumb) nix config"_ **(1 day ago)**
+- [`cachet`](https://github.com/taciturnaxolotl/cachet) - _"a cache for slack profile pictures and emojis"_ **(3 days ago)**
+- [`zera`](https://github.com/taciturnaxolotl/zera) - _"my new site v4?"_ **(5 days ago)**
+- [`.github`](https://github.com/taciturnaxolotl/.github) - _"github config files"_ **(5 days ago)**
+- [`2025-reefscape`](https://github.com/df1317/2025-reefscape) - _"it's not a water game but it will do"_ **(5 days ago)**
+- [`carriage`](https://github.com/taciturnaxolotl/carriage) - _"@taciturnaxolotl's repo template"_ **(5 days ago)**
+- [`ink`](https://github.com/taciturnaxolotl/ink) - _"a simple way to log http requests"_ **(6 days ago)**
+- [`serif`](https://github.com/taciturnaxolotl/serif) - _"bluesky community verifications! (also the site repo for serif.blue)"_ **(1 week ago)**
 
 #### ⌨️ My latest projects
 
@@ -34,20 +34,20 @@ When not doing school or working on a project, I enjoy flying drones and making 
 
 ```text
 💾 Languages:
-Nix              3h 12m 55s   ███████░░░░░░░░░░░░░░░░░░  24.67%
-Ruby             1h 48m 15s   ████░░░░░░░░░░░░░░░░░░░░░  13.84%
-Bash             1h 9m 52s    ███░░░░░░░░░░░░░░░░░░░░░░  8.94%
-TypeScript       1h 2m 48s    ███░░░░░░░░░░░░░░░░░░░░░░  8.03%
-Markdown         49m 59s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.39%
+Nix              3h 12m 55s   ██████░░░░░░░░░░░░░░░░░░░  23.69%
+Ruby             1h 59m 22s   ████░░░░░░░░░░░░░░░░░░░░░  14.66%
+Bash             1h 9m 52s    ███░░░░░░░░░░░░░░░░░░░░░░  8.58%
+TypeScript       1h 2m 48s    ██░░░░░░░░░░░░░░░░░░░░░░░  7.71%
+Markdown         49m 59s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.14%
 
 💼 Projects:
-tma-inventory    8h 13m 3s    ████████████████░░░░░░░░░  63.03%
-nixos            1h 27m 15s   ███░░░░░░░░░░░░░░░░░░░░░░  11.15%
-hackathonstore   48m 36s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.21%
-hackclub-site    30m 5s       █░░░░░░░░░░░░░░░░░░░░░░░░  3.85%
-multitime        23m 16s      █░░░░░░░░░░░░░░░░░░░░░░░░  2.97%
+tma-inventory    8h 45m 33s   █████████████████░░░░░░░░  64.50%
+nixos            1h 27m 15s   ███░░░░░░░░░░░░░░░░░░░░░░  10.71%
+hackathonstore   48m 36s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.97%
+hackclub-site    30m 5s       █░░░░░░░░░░░░░░░░░░░░░░░░  3.69%
+multitime        23m 16s      █░░░░░░░░░░░░░░░░░░░░░░░░  2.86%
 
-Total: 13 hrs 2 mins
+Total: 13 hrs 35 mins
 ```
 
 #### 📮 Want to Contact me?
