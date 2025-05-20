@@ -5,7 +5,7 @@ When not doing school or working on a project, I enjoy flying drones and making 
 #### 👷 The latest repos I've pushed to
 
 - [`hn-alerts`](https://github.com/taciturnaxolotl/hn-alerts) - _"a bot to track your hackernews posts!"_ **(today)**
-- [`dots`](https://github.com/taciturnaxolotl/dots) - _"Kieran's opinionated (and probably slightly dumb) nix config"_ **(1 day ago)**
+- [`dots`](https://github.com/taciturnaxolotl/dots) - _"Kieran's opinionated (and probably slightly dumb) nix config"_ **(today)**
 - [`zera`](https://github.com/taciturnaxolotl/zera) - _"my new site v4?"_ **(1 day ago)**
 - [`cachet`](https://github.com/taciturnaxolotl/cachet) - _"a cache for slack profile pictures and emojis"_ **(4 days ago)**
 - [`.github`](https://github.com/taciturnaxolotl/.github) - _"github config files"_ **(6 days ago)**
@@ -34,20 +34,20 @@ When not doing school or working on a project, I enjoy flying drones and making 
 
 ```text
 💾 Languages:
-Nix              3h 9m 32s    █████░░░░░░░░░░░░░░░░░░░░  18.57%
-TypeScript       2h 37m 14s   ████░░░░░░░░░░░░░░░░░░░░░  15.41%
-Ruby             2h 20m 37s   ████░░░░░░░░░░░░░░░░░░░░░  13.78%
-Markdown         1h 9m 1s     ██░░░░░░░░░░░░░░░░░░░░░░░  6.76%
-Bash             1h 4m 4s     ██░░░░░░░░░░░░░░░░░░░░░░░  6.28%
+Nix              3h 12m 17s   █████░░░░░░░░░░░░░░░░░░░░  18.17%
+TypeScript       3h 12m 1s    █████░░░░░░░░░░░░░░░░░░░░  18.15%
+Ruby             2h 20m 37s   ████░░░░░░░░░░░░░░░░░░░░░  13.29%
+Markdown         1h 7m 1s     ██░░░░░░░░░░░░░░░░░░░░░░░  6.33%
+Bash             1h 4m 4s     ██░░░░░░░░░░░░░░░░░░░░░░░  6.06%
 
 💼 Projects:
-tma-inventory    9h 37m 37s   ███████████████░░░░░░░░░░  56.59%
-hn-alerts        2h 19m 21s   ████░░░░░░░░░░░░░░░░░░░░░  13.65%
-zera             1h 14m 26s   ██░░░░░░░░░░░░░░░░░░░░░░░  7.29%
-nixos            1h 13m 42s   ██░░░░░░░░░░░░░░░░░░░░░░░  7.22%
-hackathonstore   48m 36s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.76%
+tma-inventory    9h 37m 37s   ██████████████░░░░░░░░░░░  54.57%
+hn-alerts        2h 55m 22s   █████░░░░░░░░░░░░░░░░░░░░  16.57%
+nixos            1h 16m 52s   ██░░░░░░░░░░░░░░░░░░░░░░░  7.26%
+zera             1h 14m 26s   ██░░░░░░░░░░░░░░░░░░░░░░░  7.03%
+hackathonstore   48m 36s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.59%
 
-Total: 17 hrs 1 mins
+Total: 17 hrs 38 mins
 ```
 
 #### 📮 Want to Contact me?
