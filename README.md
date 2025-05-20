@@ -6,12 +6,12 @@ When not doing school or working on a project, I enjoy flying drones and making 
 
 - [`hn-alerts`](https://github.com/taciturnaxolotl/hn-alerts) - _"a bot to track your hackernews posts!"_ **(today)**
 - [`dots`](https://github.com/taciturnaxolotl/dots) - _"Kieran's opinionated (and probably slightly dumb) nix config"_ **(today)**
+- [`visualize-git`](https://github.com/maxwofford/visualize-git) - _""_ **(today)**
 - [`zera`](https://github.com/taciturnaxolotl/zera) - _"my new site v4?"_ **(1 day ago)**
 - [`cachet`](https://github.com/taciturnaxolotl/cachet) - _"a cache for slack profile pictures and emojis"_ **(4 days ago)**
-- [`.github`](https://github.com/taciturnaxolotl/.github) - _"github config files"_ **(6 days ago)**
-- [`2025-reefscape`](https://github.com/df1317/2025-reefscape) - _"it's not a water game but it will do"_ **(6 days ago)**
 - [`carriage`](https://github.com/taciturnaxolotl/carriage) - _"@taciturnaxolotl's repo template"_ **(6 days ago)**
-- [`ink`](https://github.com/taciturnaxolotl/ink) - _"a simple way to log http requests"_ **(1 week ago)**
+- [`2025-reefscape`](https://github.com/df1317/2025-reefscape) - _"it's not a water game but it will do"_ **(6 days ago)**
+- [`.github`](https://github.com/taciturnaxolotl/.github) - _"github config files"_ **(6 days ago)**
 
 #### ⌨️ My latest projects
 
@@ -34,20 +34,20 @@ When not doing school or working on a project, I enjoy flying drones and making 
 
 ```text
 💾 Languages:
-Nix              3h 12m 17s   █████░░░░░░░░░░░░░░░░░░░░  18.17%
-TypeScript       3h 12m 1s    █████░░░░░░░░░░░░░░░░░░░░  18.15%
-Ruby             2h 20m 37s   ████░░░░░░░░░░░░░░░░░░░░░  13.29%
-Markdown         1h 7m 1s     ██░░░░░░░░░░░░░░░░░░░░░░░  6.33%
-Bash             1h 4m 4s     ██░░░░░░░░░░░░░░░░░░░░░░░  6.06%
+TypeScript       3h 14m 16s   █████░░░░░░░░░░░░░░░░░░░░  18.48%
+Nix              3h 10m 52s   █████░░░░░░░░░░░░░░░░░░░░  18.15%
+Ruby             2h 20m 36s   ████░░░░░░░░░░░░░░░░░░░░░  13.37%
+JavaScript       1h 5m 12s    ██░░░░░░░░░░░░░░░░░░░░░░░  6.20%
+Markdown         1h 3m 8s     ██░░░░░░░░░░░░░░░░░░░░░░░  6.00%
 
 💼 Projects:
-tma-inventory    9h 37m 37s   ██████████████░░░░░░░░░░░  54.57%
-hn-alerts        2h 55m 22s   █████░░░░░░░░░░░░░░░░░░░░  16.57%
-nixos            1h 16m 52s   ██░░░░░░░░░░░░░░░░░░░░░░░  7.26%
-zera             1h 14m 26s   ██░░░░░░░░░░░░░░░░░░░░░░░  7.03%
-hackathonstore   48m 36s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.59%
+tma-inventory    9h 20m 40s   ██████████████░░░░░░░░░░░  53.31%
+hn-alerts        3h 5m 45s    █████░░░░░░░░░░░░░░░░░░░░  17.66%
+nixos            1h 16m 52s   ██░░░░░░░░░░░░░░░░░░░░░░░  7.31%
+zera             1h 14m 26s   ██░░░░░░░░░░░░░░░░░░░░░░░  7.08%
+hackathonstore   48m 36s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.62%
 
-Total: 17 hrs 38 mins
+Total: 17 hrs 32 mins
 ```
 
 #### 📮 Want to Contact me?
