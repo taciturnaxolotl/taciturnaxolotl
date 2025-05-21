@@ -9,9 +9,9 @@ When not doing school or working on a project, I enjoy flying drones and making 
 - [`visualize-git`](https://github.com/maxwofford/visualize-git) - _""_ **(1 day ago)**
 - [`zera`](https://github.com/taciturnaxolotl/zera) - _"my new site v4?"_ **(2 days ago)**
 - [`cachet`](https://github.com/taciturnaxolotl/cachet) - _"a cache for slack profile pictures and emojis"_ **(5 days ago)**
-- [`.github`](https://github.com/taciturnaxolotl/.github) - _"github config files"_ **(1 week ago)**
 - [`2025-reefscape`](https://github.com/df1317/2025-reefscape) - _"it's not a water game but it will do"_ **(1 week ago)**
 - [`carriage`](https://github.com/taciturnaxolotl/carriage) - _"@taciturnaxolotl's repo template"_ **(1 week ago)**
+- [`.github`](https://github.com/taciturnaxolotl/.github) - _"github config files"_ **(1 week ago)**
 
 #### ⌨️ My latest projects
 
@@ -34,20 +34,20 @@ When not doing school or working on a project, I enjoy flying drones and making 
 
 ```text
 💾 Languages:
-TypeScript      3h 2m 25s    █████░░░░░░░░░░░░░░░░░░░░  19.39%
-Ruby            2h 17m 3s    ████░░░░░░░░░░░░░░░░░░░░░  14.57%
-Nix             1h 47m 32s   ███░░░░░░░░░░░░░░░░░░░░░░  11.43%
-JavaScript      1h 31m 0s    ███░░░░░░░░░░░░░░░░░░░░░░  9.67%
-Bash            47m 49s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.08%
+TypeScript         3h 2m 25s    █████░░░░░░░░░░░░░░░░░░░░  19.46%
+Ruby               2h 10m 27s   ████░░░░░░░░░░░░░░░░░░░░░  13.91%
+Nix                1h 47m 32s   ███░░░░░░░░░░░░░░░░░░░░░░  11.47%
+JavaScript         1h 40m 1s    ███░░░░░░░░░░░░░░░░░░░░░░  10.67%
+Java Server Page   47m 4s       ██░░░░░░░░░░░░░░░░░░░░░░░  5.02%
 
 💼 Projects:
-tma-inventory   7h 17m 57s   ████████████░░░░░░░░░░░░░  46.53%
-hn-alerts       4h 8m 23s    ███████░░░░░░░░░░░░░░░░░░  26.39%
-nixos           1h 17m 23s   ███░░░░░░░░░░░░░░░░░░░░░░  8.22%
-zera            1h 14m 26s   ██░░░░░░░░░░░░░░░░░░░░░░░  7.91%
-hackclub-site   30m 5s       █░░░░░░░░░░░░░░░░░░░░░░░░  3.20%
+tma-inventory      6h 53m 35s   ████████████░░░░░░░░░░░░░  44.09%
+hn-alerts          4h 25m 34s   ████████░░░░░░░░░░░░░░░░░  28.31%
+nixos              1h 17m 23s   ███░░░░░░░░░░░░░░░░░░░░░░  8.25%
+zera               1h 14m 26s   ██░░░░░░░░░░░░░░░░░░░░░░░  7.94%
+hackclub-site      30m 5s       █░░░░░░░░░░░░░░░░░░░░░░░░  3.21%
 
-Total: 15 hrs 41 mins
+Total: 15 hrs 38 mins
 ```
 
 #### 📮 Want to Contact me?
