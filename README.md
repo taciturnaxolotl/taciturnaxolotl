@@ -4,14 +4,14 @@ When not doing school or working on a project, I enjoy flying drones and making 
 
 #### 👷 The latest repos I've pushed to
 
+- [`hn-alerts`](https://github.com/taciturnaxolotl/hn-alerts) - _"a bot to track your hackernews posts!"_ **(today)**
 - [`dots`](https://github.com/taciturnaxolotl/dots) - _"Kieran's opinionated (and probably slightly dumb) nix config"_ **(today)**
-- [`hn-alerts`](https://github.com/taciturnaxolotl/hn-alerts) - _"a bot to track your hackernews posts!"_ **(1 day ago)**
 - [`visualize-git`](https://github.com/maxwofford/visualize-git) - _""_ **(1 day ago)**
 - [`zera`](https://github.com/taciturnaxolotl/zera) - _"my new site v4?"_ **(2 days ago)**
 - [`cachet`](https://github.com/taciturnaxolotl/cachet) - _"a cache for slack profile pictures and emojis"_ **(5 days ago)**
 - [`.github`](https://github.com/taciturnaxolotl/.github) - _"github config files"_ **(1 week ago)**
-- [`2025-reefscape`](https://github.com/df1317/2025-reefscape) - _"it's not a water game but it will do"_ **(1 week ago)**
 - [`carriage`](https://github.com/taciturnaxolotl/carriage) - _"@taciturnaxolotl's repo template"_ **(1 week ago)**
+- [`2025-reefscape`](https://github.com/df1317/2025-reefscape) - _"it's not a water game but it will do"_ **(1 week ago)**
 
 #### ⌨️ My latest projects
 
@@ -34,20 +34,20 @@ When not doing school or working on a project, I enjoy flying drones and making 
 
 ```text
 💾 Languages:
-TypeScript         3h 4m 30s    ██████░░░░░░░░░░░░░░░░░░░  21.22%
-Ruby               1h 57m 34s   ████░░░░░░░░░░░░░░░░░░░░░  13.52%
-JavaScript         1h 40m 0s    ███░░░░░░░░░░░░░░░░░░░░░░  11.50%
-Nix                1h 35m 51s   ███░░░░░░░░░░░░░░░░░░░░░░  11.02%
-Java Server Page   47m 4s       ██░░░░░░░░░░░░░░░░░░░░░░░  5.41%
+TypeScript         3h 4m 50s    ██████░░░░░░░░░░░░░░░░░░░  21.65%
+Ruby               1h 56m 47s   ████░░░░░░░░░░░░░░░░░░░░░  13.68%
+JavaScript         1h 51m 57s   ████░░░░░░░░░░░░░░░░░░░░░  13.11%
+Nix                1h 26m 10s   ███░░░░░░░░░░░░░░░░░░░░░░  10.09%
+Java Server Page   47m 4s       ██░░░░░░░░░░░░░░░░░░░░░░░  5.51%
 
 💼 Projects:
-tma-inventory      5h 8m 5s     █████████░░░░░░░░░░░░░░░░  35.42%
-hn-alerts          4h 27m 39s   ████████░░░░░░░░░░░░░░░░░  30.77%
-nixos              1h 50m 29s   ████░░░░░░░░░░░░░░░░░░░░░  12.70%
-zera               1h 14m 26s   ███░░░░░░░░░░░░░░░░░░░░░░  8.56%
-hackclub-site      30m 5s       █░░░░░░░░░░░░░░░░░░░░░░░░  3.46%
+hn-alerts          4h 44m 9s    █████████░░░░░░░░░░░░░░░░  33.27%
+tma-inventory      4h 36m 30s   █████████░░░░░░░░░░░░░░░░  32.37%
+nixos              1h 46m 28s   ████░░░░░░░░░░░░░░░░░░░░░  12.46%
+zera               1h 16m 26s   ███░░░░░░░░░░░░░░░░░░░░░░  8.95%
+hackclub-site      30m 5s       █░░░░░░░░░░░░░░░░░░░░░░░░  3.52%
 
-Total: 14 hrs 30 mins
+Total: 14 hrs 14 mins
 ```
 
 #### 📮 Want to Contact me?
