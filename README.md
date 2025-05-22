@@ -4,14 +4,14 @@ When not doing school or working on a project, I enjoy flying drones and making 
 
 #### 👷 The latest repos I've pushed to
 
-- [`zera`](https://github.com/taciturnaxolotl/zera) - _"my new site v4?"_ **(today)**
-- [`dots`](https://github.com/taciturnaxolotl/dots) - _"Kieran's opinionated (and probably slightly dumb) nix config"_ **(today)**
-- [`hn-alerts`](https://github.com/taciturnaxolotl/hn-alerts) - _"a bot to track your hackernews posts!"_ **(today)**
-- [`visualize-git`](https://github.com/maxwofford/visualize-git) - _""_ **(1 day ago)**
-- [`cachet`](https://github.com/taciturnaxolotl/cachet) - _"a cache for slack profile pictures and emojis"_ **(5 days ago)**
-- [`carriage`](https://github.com/taciturnaxolotl/carriage) - _"@taciturnaxolotl's repo template"_ **(1 week ago)**
-- [`2025-reefscape`](https://github.com/df1317/2025-reefscape) - _"it's not a water game but it will do"_ **(1 week ago)**
+- [`zera`](https://github.com/taciturnaxolotl/zera) - _"my new site v4?"_ **(1 day ago)**
+- [`dots`](https://github.com/taciturnaxolotl/dots) - _"Kieran's opinionated (and probably slightly dumb) nix config"_ **(1 day ago)**
+- [`hn-alerts`](https://github.com/taciturnaxolotl/hn-alerts) - _"a bot to track your hackernews posts!"_ **(1 day ago)**
+- [`smokie`](https://github.com/taciturnaxolotl/smokie) - _"a system of takes and uploads"_ **(1 day ago)**
+- [`visualize-git`](https://github.com/maxwofford/visualize-git) - _""_ **(2 days ago)**
+- [`cachet`](https://github.com/taciturnaxolotl/cachet) - _"a cache for slack profile pictures and emojis"_ **(6 days ago)**
 - [`.github`](https://github.com/taciturnaxolotl/.github) - _"github config files"_ **(1 week ago)**
+- [`carriage`](https://github.com/taciturnaxolotl/carriage) - _"@taciturnaxolotl's repo template"_ **(1 week ago)**
 
 #### ⌨️ My latest projects
 
@@ -22,9 +22,9 @@ When not doing school or working on a project, I enjoy flying drones and making 
 
 #### 🗒️ the latest posts from my [blog](https://dunkirk.sh)
 
-- [`Making Hacker News Alerts`](https://dunkirk.sh/blog/hn-alerts/) **(today)**
+- [`Making Hacker News Alerts`](https://dunkirk.sh/blog/hn-alerts/) **(1 day ago)**
 
-- [`Musings about Atuin`](https://dunkirk.sh/blog/atuin/) **(3 weeks ago)**
+- [`Musings about Atuin`](https://dunkirk.sh/blog/atuin/) **(4 weeks ago)**
 
 - [`Adding a copy code button`](https://dunkirk.sh/blog/adding-a-copy-button/) **(2 months ago)**
 
@@ -34,20 +34,20 @@ When not doing school or working on a project, I enjoy flying drones and making 
 
 ```text
 💾 Languages:
-TypeScript      4h 34m 44s   ███████░░░░░░░░░░░░░░░░░░  26.56%
-JavaScript      2h 3m 21s    ███░░░░░░░░░░░░░░░░░░░░░░  11.93%
-Ruby            1h 51m 43s   ███░░░░░░░░░░░░░░░░░░░░░░  10.80%
-HTML            1h 38m 2s    ███░░░░░░░░░░░░░░░░░░░░░░  9.48%
-Nix             1h 26m 0s    ███░░░░░░░░░░░░░░░░░░░░░░  8.31%
+TypeScript      4h 41m 43s   ███████░░░░░░░░░░░░░░░░░░  26.09%
+JavaScript      2h 8m 14s    ███░░░░░░░░░░░░░░░░░░░░░░  11.88%
+HTML            2h 6m 23s    ███░░░░░░░░░░░░░░░░░░░░░░  11.71%
+Ruby            1h 51m 43s   ███░░░░░░░░░░░░░░░░░░░░░░  10.35%
+Nix             1h 26m 0s    ██░░░░░░░░░░░░░░░░░░░░░░░  7.97%
 
 💼 Projects:
-hn-alerts       7h 48m 47s   ████████████░░░░░░░░░░░░░  45.31%
-tma-inventory   4h 16m 56s   ███████░░░░░░░░░░░░░░░░░░  24.83%
-nixos           1h 45m 57s   ███░░░░░░░░░░░░░░░░░░░░░░  10.24%
-zera            1h 31m 3s    ███░░░░░░░░░░░░░░░░░░░░░░  8.80%
-hackclub-site   30m 5s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.91%
+hn-alerts       8h 24m 5s    ████████████░░░░░░░░░░░░░  46.67%
+tma-inventory   4h 16m 56s   ██████░░░░░░░░░░░░░░░░░░░  23.79%
+nixos           1h 45m 57s   ███░░░░░░░░░░░░░░░░░░░░░░  9.81%
+zera            1h 31m 3s    ███░░░░░░░░░░░░░░░░░░░░░░  8.43%
+hackclub-site   30m 5s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.79%
 
-Total: 17 hrs 15 mins
+Total: 18 hrs 0 mins
 ```
 
 #### 📮 Want to Contact me?
