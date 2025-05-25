@@ -4,11 +4,11 @@ When not doing school or working on a project, I enjoy flying drones and making 
 
 #### 👷 The latest repos I've pushed to
 
-- [`zera`](https://github.com/taciturnaxolotl/zera) - _"my new site v4?"_ **(3 days ago)**
-- [`dots`](https://github.com/taciturnaxolotl/dots) - _"Kieran's opinionated (and probably slightly dumb) nix config"_ **(3 days ago)**
-- [`hn-alerts`](https://github.com/taciturnaxolotl/hn-alerts) - _"a bot to track your hackernews posts!"_ **(3 days ago)**
-- [`smokie`](https://github.com/taciturnaxolotl/smokie) - _"a system of takes and uploads"_ **(3 days ago)**
-- [`visualize-git`](https://github.com/maxwofford/visualize-git) - _""_ **(4 days ago)**
+- [`zera`](https://github.com/taciturnaxolotl/zera) - _"my new site v4?"_ **(4 days ago)**
+- [`dots`](https://github.com/taciturnaxolotl/dots) - _"Kieran's opinionated (and probably slightly dumb) nix config"_ **(4 days ago)**
+- [`hn-alerts`](https://github.com/taciturnaxolotl/hn-alerts) - _"a bot to track your hackernews posts!"_ **(4 days ago)**
+- [`smokie`](https://github.com/taciturnaxolotl/smokie) - _"a system of takes and uploads"_ **(4 days ago)**
+- [`visualize-git`](https://github.com/maxwofford/visualize-git) - _""_ **(5 days ago)**
 - [`cachet`](https://github.com/taciturnaxolotl/cachet) - _"a cache for slack profile pictures and emojis"_ **(1 week ago)**
 - [`.github`](https://github.com/taciturnaxolotl/.github) - _"github config files"_ **(1 week ago)**
 - [`carriage`](https://github.com/taciturnaxolotl/carriage) - _"@taciturnaxolotl's repo template"_ **(1 week ago)**
@@ -22,7 +22,7 @@ When not doing school or working on a project, I enjoy flying drones and making 
 
 #### 🗒️ the latest posts from my [blog](https://dunkirk.sh)
 
-- [`Making Hacker News Alerts`](https://dunkirk.sh/blog/hn-alerts/) **(3 days ago)**
+- [`Making Hacker News Alerts`](https://dunkirk.sh/blog/hn-alerts/) **(4 days ago)**
 
 - [`Musings about Atuin`](https://dunkirk.sh/blog/atuin/) **(1 month ago)**
 
@@ -34,20 +34,20 @@ When not doing school or working on a project, I enjoy flying drones and making 
 
 ```text
 💾 Languages:
-TypeScript      5h 24m 48s   █████████░░░░░░░░░░░░░░░░  32.67%
-HTML            2h 14m 0s    ████░░░░░░░░░░░░░░░░░░░░░  13.48%
-JavaScript      2h 13m 30s   ████░░░░░░░░░░░░░░░░░░░░░  13.43%
-Ruby            1h 13m 41s   ██░░░░░░░░░░░░░░░░░░░░░░░  7.41%
-Nix             1h 12m 4s    ██░░░░░░░░░░░░░░░░░░░░░░░  7.25%
+TypeScript      5h 24m 48s   █████████░░░░░░░░░░░░░░░░  32.79%
+HTML            2h 14m 0s    ████░░░░░░░░░░░░░░░░░░░░░  13.53%
+JavaScript      2h 13m 30s   ████░░░░░░░░░░░░░░░░░░░░░  13.48%
+Ruby            1h 13m 41s   ██░░░░░░░░░░░░░░░░░░░░░░░  7.44%
+Nix             1h 12m 4s    ██░░░░░░░░░░░░░░░░░░░░░░░  7.28%
 
 💼 Projects:
-hn-alerts       10h 4m 25s   ████████████████░░░░░░░░░  60.79%
-tma-inventory   2h 33m 9s    ████░░░░░░░░░░░░░░░░░░░░░  15.40%
-zera            1h 30m 43s   ███░░░░░░░░░░░░░░░░░░░░░░  9.12%
-nixos           1h 27m 46s   ███░░░░░░░░░░░░░░░░░░░░░░  8.83%
-unknown         31m 13s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.14%
+hn-alerts       10h 4m 25s   ████████████████░░░░░░░░░  61.01%
+tma-inventory   2h 33m 9s    ████░░░░░░░░░░░░░░░░░░░░░  15.46%
+zera            1h 30m 43s   ███░░░░░░░░░░░░░░░░░░░░░░  9.16%
+nixos           1h 27m 46s   ███░░░░░░░░░░░░░░░░░░░░░░  8.86%
+unknown         31m 13s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.15%
 
-Total: 16 hrs 34 mins
+Total: 16 hrs 31 mins
 ```
 
 #### 📮 Want to Contact me?
