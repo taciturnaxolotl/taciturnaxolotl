@@ -4,10 +4,10 @@ When not doing school or working on a project, I enjoy flying drones and making 
 
 #### 👷 The latest repos I've pushed to
 
-- [`dots`](https://github.com/taciturnaxolotl/dots) - _"Kieran's opinionated (and probably slightly dumb) nix config"_ **(today)**
-- [`smokie`](https://github.com/taciturnaxolotl/smokie) - _"a system of takes and uploads"_ **(5 days ago)**
-- [`zera`](https://github.com/taciturnaxolotl/zera) - _"my new site v4?"_ **(5 days ago)**
-- [`hn-alerts`](https://github.com/taciturnaxolotl/hn-alerts) - _"a bot to track your hackernews posts!"_ **(5 days ago)**
+- [`dots`](https://github.com/taciturnaxolotl/dots) - _"Kieran's opinionated (and probably slightly dumb) nix config"_ **(1 day ago)**
+- [`smokie`](https://github.com/taciturnaxolotl/smokie) - _"a system of takes and uploads"_ **(6 days ago)**
+- [`zera`](https://github.com/taciturnaxolotl/zera) - _"my new site v4?"_ **(6 days ago)**
+- [`hn-alerts`](https://github.com/taciturnaxolotl/hn-alerts) - _"a bot to track your hackernews posts!"_ **(6 days ago)**
 - [`cachet`](https://github.com/taciturnaxolotl/cachet) - _"a cache for slack profile pictures and emojis"_ **(1 week ago)**
 - [`.github`](https://github.com/taciturnaxolotl/.github) - _"github config files"_ **(1 week ago)**
 - [`2025-reefscape`](https://github.com/df1317/2025-reefscape) - _"it's not a water game but it will do"_ **(1 week ago)**
@@ -22,7 +22,7 @@ When not doing school or working on a project, I enjoy flying drones and making 
 
 #### 🗒️ the latest posts from my [blog](https://dunkirk.sh)
 
-- [`Making Hacker News Alerts`](https://dunkirk.sh/blog/hn-alerts/) **(5 days ago)**
+- [`Making Hacker News Alerts`](https://dunkirk.sh/blog/hn-alerts/) **(6 days ago)**
 
 - [`Musings about Atuin`](https://dunkirk.sh/blog/atuin/) **(1 month ago)**
 
@@ -34,20 +34,20 @@ When not doing school or working on a project, I enjoy flying drones and making 
 
 ```text
 💾 Languages:
-TypeScript      5h 3m 2s     ██████████░░░░░░░░░░░░░░░  39.44%
-HTML            2h 14m 0s    █████░░░░░░░░░░░░░░░░░░░░  17.44%
-JavaScript      1h 42m 45s   ████░░░░░░░░░░░░░░░░░░░░░  13.37%
-Nix             43m 55s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.72%
-Ruby            32m 56s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.29%
+TypeScript      4h 58m 2s    ██████████░░░░░░░░░░░░░░░  39.04%
+HTML            2h 14m 0s    █████░░░░░░░░░░░░░░░░░░░░  17.55%
+JavaScript      1h 42m 45s   ████░░░░░░░░░░░░░░░░░░░░░  13.46%
+Nix             43m 55s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.75%
+Ruby            32m 56s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.31%
 
 💼 Projects:
-hn-alerts       9h 40m 12s   ███████████████████░░░░░░  75.49%
-tma-inventory   1h 2m 29s    ███░░░░░░░░░░░░░░░░░░░░░░  8.13%
-nixos           46m 50s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.09%
-zera            39m 50s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.18%
-unknown         20m 34s      █░░░░░░░░░░░░░░░░░░░░░░░░  2.68%
+hn-alerts       9h 35m 12s   ███████████████████░░░░░░  75.33%
+tma-inventory   1h 2m 29s    ███░░░░░░░░░░░░░░░░░░░░░░  8.18%
+nixos           46m 50s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.13%
+zera            39m 50s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.22%
+unknown         20m 34s      █░░░░░░░░░░░░░░░░░░░░░░░░  2.69%
 
-Total: 12 hrs 49 mins
+Total: 12 hrs 44 mins
 ```
 
 #### 📮 Want to Contact me?
