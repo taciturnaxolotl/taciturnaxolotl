@@ -9,9 +9,9 @@ When not doing school or working on a project, I enjoy flying drones and making 
 - [`dots`](https://github.com/taciturnaxolotl/dots) - _"Kieran's opinionated (and probably slightly dumb) nix config"_ **(1 day ago)**
 - [`smokie`](https://github.com/taciturnaxolotl/smokie) - _"a system of takes and uploads"_ **(1 week ago)**
 - [`hn-alerts`](https://github.com/taciturnaxolotl/hn-alerts) - _"a bot to track your hackernews posts!"_ **(1 week ago)**
+- [`visualize-git`](https://github.com/maxwofford/visualize-git) - _""_ **(1 week ago)**
 - [`cachet`](https://github.com/taciturnaxolotl/cachet) - _"a cache for slack profile pictures and emojis"_ **(1 week ago)**
 - [`2025-reefscape`](https://github.com/df1317/2025-reefscape) - _"it's not a water game but it will do"_ **(2 weeks ago)**
-- [`carriage`](https://github.com/taciturnaxolotl/carriage) - _"@taciturnaxolotl's repo template"_ **(2 weeks ago)**
 
 #### ⌨️ My latest projects
 
@@ -34,20 +34,20 @@ When not doing school or working on a project, I enjoy flying drones and making 
 
 ```text
 💾 Languages:
-TypeScript      3h 1m 29s    █████████░░░░░░░░░░░░░░░░  33.46%
-HTML            2h 6m 30s    ██████░░░░░░░░░░░░░░░░░░░  23.32%
-Markdown        45m 28s      ███░░░░░░░░░░░░░░░░░░░░░░  8.38%
-JavaScript      42m 43s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.88%
-Ruby            32m 56s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.07%
+TypeScript      2h 45m 13s   ████████░░░░░░░░░░░░░░░░░  31.04%
+HTML            2h 9m 53s    ███████░░░░░░░░░░░░░░░░░░  24.40%
+JavaScript      40m 51s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.67%
+Markdown        35m 50s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.73%
+Ruby            32m 56s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.19%
 
 💼 Projects:
-hn-alerts       5h 22m 22s   ███████████████░░░░░░░░░░  59.41%
-zera            1h 11m 3s    ████░░░░░░░░░░░░░░░░░░░░░  13.09%
-tma-inventory   1h 2m 29s    ███░░░░░░░░░░░░░░░░░░░░░░  11.52%
-serif           23m 48s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.39%
-unknown         23m 41s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.36%
+hn-alerts       4h 58m 46s   ███████████████░░░░░░░░░░  56.11%
+zera            1h 22m 32s   ████░░░░░░░░░░░░░░░░░░░░░  15.50%
+tma-inventory   1h 2m 29s    ███░░░░░░░░░░░░░░░░░░░░░░  11.73%
+serif           25m 48s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.85%
+unknown         23m 41s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.45%
 
-Total: 9 hrs 3 mins
+Total: 8 hrs 52 mins
 ```
 
 #### 📮 Want to Contact me?
