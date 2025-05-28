@@ -4,8 +4,8 @@ When not doing school or working on a project, I enjoy flying drones and making 
 
 #### 👷 The latest repos I've pushed to
 
+- [`zera`](https://github.com/taciturnaxolotl/zera) - _"my new site v4?"_ **(today)**
 - [`serif`](https://github.com/taciturnaxolotl/serif) - _"bluesky community verifications! (also the site repo for serif.blue)"_ **(today)**
-- [`zera`](https://github.com/taciturnaxolotl/zera) - _"my new site v4?"_ **(1 day ago)**
 - [`dots`](https://github.com/taciturnaxolotl/dots) - _"Kieran's opinionated (and probably slightly dumb) nix config"_ **(1 day ago)**
 - [`smokie`](https://github.com/taciturnaxolotl/smokie) - _"a system of takes and uploads"_ **(1 week ago)**
 - [`hn-alerts`](https://github.com/taciturnaxolotl/hn-alerts) - _"a bot to track your hackernews posts!"_ **(1 week ago)**
@@ -34,20 +34,20 @@ When not doing school or working on a project, I enjoy flying drones and making 
 
 ```text
 💾 Languages:
-TypeScript      2h 45m 13s   ████████░░░░░░░░░░░░░░░░░  31.04%
-HTML            2h 9m 53s    ███████░░░░░░░░░░░░░░░░░░  24.40%
-JavaScript      40m 51s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.67%
-Markdown        35m 50s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.73%
-Ruby            32m 56s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.19%
+TypeScript      2h 35m 53s   ████████░░░░░░░░░░░░░░░░░  29.88%
+HTML            2h 9m 53s    ███████░░░░░░░░░░░░░░░░░░  24.90%
+JavaScript      40m 51s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.83%
+Markdown        33m 50s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.49%
+Ruby            32m 56s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.31%
 
 💼 Projects:
-hn-alerts       4h 58m 46s   ███████████████░░░░░░░░░░  56.11%
-zera            1h 22m 32s   ████░░░░░░░░░░░░░░░░░░░░░  15.50%
-tma-inventory   1h 2m 29s    ███░░░░░░░░░░░░░░░░░░░░░░  11.73%
-serif           25m 48s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.85%
-unknown         23m 41s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.45%
+hn-alerts       4h 45m 14s   ██████████████░░░░░░░░░░░  54.67%
+zera            1h 27m 22s   █████░░░░░░░░░░░░░░░░░░░░  16.74%
+tma-inventory   1h 2m 29s    ███░░░░░░░░░░░░░░░░░░░░░░  11.98%
+serif           25m 48s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.94%
+unknown         21m 41s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.16%
 
-Total: 8 hrs 52 mins
+Total: 8 hrs 42 mins
 ```
 
 #### 📮 Want to Contact me?
