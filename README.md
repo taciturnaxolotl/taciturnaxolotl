@@ -4,21 +4,21 @@ When not doing school or working on a project, I enjoy flying drones and making 
 
 #### 👷 The latest repos I've pushed to
 
-- [`zera`](https://github.com/taciturnaxolotl/zera) - _"my new site v4?"_ **(1 day ago)**
+- [`tern`](https://github.com/taciturnaxolotl/tern) - _"an fpv drone!"_ **(today)**
 - [`serif`](https://github.com/taciturnaxolotl/serif) - _"bluesky community verifications! (also the site repo for serif.blue)"_ **(1 day ago)**
+- [`zera`](https://github.com/taciturnaxolotl/zera) - _"my new site v4?"_ **(1 day ago)**
 - [`dots`](https://github.com/taciturnaxolotl/dots) - _"Kieran's opinionated (and probably slightly dumb) nix config"_ **(1 day ago)**
-- [`smokie`](https://github.com/taciturnaxolotl/smokie) - _"a system of takes and uploads"_ **(1 week ago)**
 - [`hn-alerts`](https://github.com/taciturnaxolotl/hn-alerts) - _"a bot to track your hackernews posts!"_ **(1 week ago)**
+- [`smokie`](https://github.com/taciturnaxolotl/smokie) - _"a system of takes and uploads"_ **(1 week ago)**
 - [`visualize-git`](https://github.com/maxwofford/visualize-git) - _""_ **(1 week ago)**
 - [`cachet`](https://github.com/taciturnaxolotl/cachet) - _"a cache for slack profile pictures and emojis"_ **(1 week ago)**
-- [`2025-reefscape`](https://github.com/df1317/2025-reefscape) - _"it's not a water game but it will do"_ **(2 weeks ago)**
 
 #### ⌨️ My latest projects
 
+- [`tern`](https://github.com/taciturnaxolotl/tern) - _"an fpv drone!"_
 - [`pxlboard`](https://github.com/taciturnaxolotl/pxlboard) - _"YAGNG (yet another generic pixel grid)"_
 - [`serif`](https://github.com/taciturnaxolotl/serif) - _"bluesky community verifications! (also the site repo for serif.blue)"_
 - [`hn-alerts`](https://github.com/taciturnaxolotl/hn-alerts) - _"a bot to track your hackernews posts!"_
-- [`inky`](https://github.com/taciturnaxolotl/inky) - _" an eink camera running on an rpi zero 2 w "_
 
 #### 🗒️ the latest posts from my [blog](https://dunkirk.sh)
 
@@ -34,20 +34,20 @@ When not doing school or working on a project, I enjoy flying drones and making 
 
 ```text
 💾 Languages:
-Ruby            32m 56s      ████░░░░░░░░░░░░░░░░░░░░░  13.11%
-Markdown        30m 56s      ████░░░░░░░░░░░░░░░░░░░░░  12.31%
-HTML            30m 41s      ████░░░░░░░░░░░░░░░░░░░░░  12.21%
-JavaScript      24m 4s       ███░░░░░░░░░░░░░░░░░░░░░░  9.58%
-SCSS            20m 36s      ███░░░░░░░░░░░░░░░░░░░░░░  8.20%
+Markdown        39m 6s       ████░░░░░░░░░░░░░░░░░░░░░  13.51%
+Ruby            32m 56s      ███░░░░░░░░░░░░░░░░░░░░░░  11.38%
+HTML            30m 41s      ███░░░░░░░░░░░░░░░░░░░░░░  10.60%
+Astro           26m 16s      ███░░░░░░░░░░░░░░░░░░░░░░  9.07%
+JavaScript      25m 56s      ███░░░░░░░░░░░░░░░░░░░░░░  8.96%
 
 💼 Projects:
-zera            1h 26m 10s   █████████░░░░░░░░░░░░░░░░  34.28%
-tma-inventory   1h 3m 8s     ███████░░░░░░░░░░░░░░░░░░  25.12%
-nixos           35m 27s      ████░░░░░░░░░░░░░░░░░░░░░  14.10%
-serif           25m 48s      ███░░░░░░░░░░░░░░░░░░░░░░  10.27%
-unknown         20m 57s      ███░░░░░░░░░░░░░░░░░░░░░░  8.34%
+zera            1h 26m 10s   ████████░░░░░░░░░░░░░░░░░  29.76%
+tma-inventory   1h 3m 8s     ██████░░░░░░░░░░░░░░░░░░░  21.80%
+panorama        40m 55s      ████░░░░░░░░░░░░░░░░░░░░░  14.13%
+nixos           35m 27s      ████░░░░░░░░░░░░░░░░░░░░░  12.24%
+serif           25m 48s      ███░░░░░░░░░░░░░░░░░░░░░░  8.91%
 
-Total: 4 hrs 11 mins
+Total: 4 hrs 50 mins
 ```
 
 #### 📮 Want to Contact me?
