@@ -4,12 +4,12 @@ When not doing school or working on a project, I enjoy flying drones and making 
 
 #### 👷 The latest repos I've pushed to
 
+- [`dots`](https://github.com/taciturnaxolotl/dots) - _"Kieran's opinionated (and probably slightly dumb) nix config"_ **(today)**
 - [`tern`](https://github.com/taciturnaxolotl/tern) - _"an fpv drone!"_ **(today)**
+- [`smokie`](https://github.com/taciturnaxolotl/smokie) - _"a system of takes and uploads"_ **(today)**
 - [`serif`](https://github.com/taciturnaxolotl/serif) - _"bluesky community verifications! (also the site repo for serif.blue)"_ **(1 day ago)**
 - [`zera`](https://github.com/taciturnaxolotl/zera) - _"my new site v4?"_ **(1 day ago)**
-- [`dots`](https://github.com/taciturnaxolotl/dots) - _"Kieran's opinionated (and probably slightly dumb) nix config"_ **(1 day ago)**
 - [`hn-alerts`](https://github.com/taciturnaxolotl/hn-alerts) - _"a bot to track your hackernews posts!"_ **(1 week ago)**
-- [`smokie`](https://github.com/taciturnaxolotl/smokie) - _"a system of takes and uploads"_ **(1 week ago)**
 - [`visualize-git`](https://github.com/maxwofford/visualize-git) - _""_ **(1 week ago)**
 - [`cachet`](https://github.com/taciturnaxolotl/cachet) - _"a cache for slack profile pictures and emojis"_ **(1 week ago)**
 
@@ -34,20 +34,20 @@ When not doing school or working on a project, I enjoy flying drones and making 
 
 ```text
 💾 Languages:
-Astro           46m 57s      ████░░░░░░░░░░░░░░░░░░░░░  13.71%
-Markdown        41m 33s      ████░░░░░░░░░░░░░░░░░░░░░  12.13%
-JavaScript      38m 27s      ███░░░░░░░░░░░░░░░░░░░░░░  11.23%
-Ruby            32m 56s      ███░░░░░░░░░░░░░░░░░░░░░░  9.62%
-HTML            30m 41s      ███░░░░░░░░░░░░░░░░░░░░░░  8.96%
+Astro           1h 2m 48s    █████░░░░░░░░░░░░░░░░░░░░  16.69%
+Markdown        41m 33s      ███░░░░░░░░░░░░░░░░░░░░░░  11.04%
+JavaScript      38m 27s      ███░░░░░░░░░░░░░░░░░░░░░░  10.22%
+Ruby            32m 56s      ███░░░░░░░░░░░░░░░░░░░░░░  8.75%
+HTML            30m 41s      ███░░░░░░░░░░░░░░░░░░░░░░  8.15%
 
 💼 Projects:
-panorama        1h 33m 55s   ███████░░░░░░░░░░░░░░░░░░  27.42%
-zera            1h 26m 10s   ███████░░░░░░░░░░░░░░░░░░  25.15%
-tma-inventory   1h 3m 8s     █████░░░░░░░░░░░░░░░░░░░░  18.43%
-nixos           35m 27s      ███░░░░░░░░░░░░░░░░░░░░░░  10.35%
-serif           25m 48s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.53%
+panorama        1h 51m 13s   ████████░░░░░░░░░░░░░░░░░  29.54%
+zera            1h 26m 10s   ██████░░░░░░░░░░░░░░░░░░░  22.89%
+tma-inventory   1h 3m 8s     █████░░░░░░░░░░░░░░░░░░░░  16.77%
+nixos           35m 46s      ███░░░░░░░░░░░░░░░░░░░░░░  9.50%
+serif           25m 48s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.85%
 
-Total: 5 hrs 43 mins
+Total: 6 hrs 16 mins
 ```
 
 #### 📮 Want to Contact me?
