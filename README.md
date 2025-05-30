@@ -6,10 +6,10 @@ When not doing school or working on a project, I enjoy flying drones and making 
 
 - [`dots`](https://github.com/taciturnaxolotl/dots) - _"Kieran's opinionated (and probably slightly dumb) nix config"_ **(1 day ago)**
 - [`tern`](https://github.com/taciturnaxolotl/tern) - _"an fpv drone!"_ **(1 day ago)**
+- [`hn-alerts`](https://github.com/taciturnaxolotl/hn-alerts) - _"a bot to track your hackernews posts!"_ **(1 day ago)**
 - [`smokie`](https://github.com/taciturnaxolotl/smokie) - _"a system of takes and uploads"_ **(1 day ago)**
 - [`serif`](https://github.com/taciturnaxolotl/serif) - _"bluesky community verifications! (also the site repo for serif.blue)"_ **(2 days ago)**
 - [`zera`](https://github.com/taciturnaxolotl/zera) - _"my new site v4?"_ **(2 days ago)**
-- [`hn-alerts`](https://github.com/taciturnaxolotl/hn-alerts) - _"a bot to track your hackernews posts!"_ **(1 week ago)**
 - [`visualize-git`](https://github.com/maxwofford/visualize-git) - _""_ **(1 week ago)**
 - [`cachet`](https://github.com/taciturnaxolotl/cachet) - _"a cache for slack profile pictures and emojis"_ **(2 weeks ago)**
 
@@ -34,20 +34,20 @@ When not doing school or working on a project, I enjoy flying drones and making 
 
 ```text
 💾 Languages:
-Astro           2h 12m 12s   ████████░░░░░░░░░░░░░░░░░  30.51%
-TypeScript      51m 28s      ███░░░░░░░░░░░░░░░░░░░░░░  11.88%
-Markdown        41m 18s      ███░░░░░░░░░░░░░░░░░░░░░░  9.53%
-JavaScript      38m 19s      ███░░░░░░░░░░░░░░░░░░░░░░  8.84%
-HTML            30m 41s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.08%
+Astro        2h 12m 12s   ███████░░░░░░░░░░░░░░░░░░  27.51%
+JavaScript   1h 4m 39s    ████░░░░░░░░░░░░░░░░░░░░░  13.46%
+TypeScript   1h 2m 30s    ████░░░░░░░░░░░░░░░░░░░░░  13.01%
+Markdown     41m 18s      ███░░░░░░░░░░░░░░░░░░░░░░  8.60%
+HTML         31m 57s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.65%
 
 💼 Projects:
-panorama        3h 12m 13s   ████████████░░░░░░░░░░░░░  44.35%
-zera            1h 26m 10s   █████░░░░░░░░░░░░░░░░░░░░  19.88%
-smokie          42m 15s      ███░░░░░░░░░░░░░░░░░░░░░░  9.75%
-nixos           33m 46s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.79%
-tma-inventory   29m 27s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.79%
+panorama     3h 12m 13s   ██████████░░░░░░░░░░░░░░░  39.99%
+zera         1h 26m 10s   █████░░░░░░░░░░░░░░░░░░░░  17.93%
+smokie       53m 57s      ███░░░░░░░░░░░░░░░░░░░░░░  11.22%
+nixos        33m 46s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.03%
+hn-alerts    30m 7s       ██░░░░░░░░░░░░░░░░░░░░░░░  6.27%
 
-Total: 7 hrs 13 mins
+Total: 8 hrs 1 mins
 ```
 
 #### 📮 Want to Contact me?
