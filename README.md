@@ -4,9 +4,9 @@ When not doing school or working on a project, I enjoy flying drones and making 
 
 #### 👷 The latest repos I've pushed to
 
+- [`dots`](https://github.com/taciturnaxolotl/dots) - _"Kieran's opinionated (and probably slightly dumb) nix config"_ **(today)**
 - [`hn-alerts`](https://github.com/taciturnaxolotl/hn-alerts) - _"a bot to track your hackernews posts!"_ **(today)**
 - [`hackatime`](https://github.com/hackclub/hackatime) - _"Just give it some time!"_ **(1 day ago)**
-- [`dots`](https://github.com/taciturnaxolotl/dots) - _"Kieran's opinionated (and probably slightly dumb) nix config"_ **(2 days ago)**
 - [`tern`](https://github.com/taciturnaxolotl/tern) - _"an fpv drone!"_ **(2 days ago)**
 - [`smokie`](https://github.com/taciturnaxolotl/smokie) - _"a system of takes and uploads"_ **(2 days ago)**
 - [`serif`](https://github.com/taciturnaxolotl/serif) - _"bluesky community verifications! (also the site repo for serif.blue)"_ **(3 days ago)**
@@ -34,20 +34,20 @@ When not doing school or working on a project, I enjoy flying drones and making 
 
 ```text
 💾 Languages:
-TypeScript    2h 12m 44s   █████░░░░░░░░░░░░░░░░░░░░  19.47%
-Astro         2h 12m 12s   █████░░░░░░░░░░░░░░░░░░░░  19.39%
-JavaScript    1h 34m 14s   ████░░░░░░░░░░░░░░░░░░░░░  13.82%
-HTML          1h 23m 58s   ████░░░░░░░░░░░░░░░░░░░░░  12.32%
-Markdown      42m 31s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.24%
+TypeScript    2h 28m 20s   ██████░░░░░░░░░░░░░░░░░░░  21.15%
+Astro         2h 12m 12s   █████░░░░░░░░░░░░░░░░░░░░  18.85%
+JavaScript    1h 34m 14s   ████░░░░░░░░░░░░░░░░░░░░░  13.44%
+HTML          1h 26m 2s    ████░░░░░░░░░░░░░░░░░░░░░  12.27%
+Markdown      42m 31s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.06%
 
 💼 Projects:
-panorama      3h 12m 48s   ████████░░░░░░░░░░░░░░░░░  28.27%
-hn-alerts     2h 28m 33s   ██████░░░░░░░░░░░░░░░░░░░  21.78%
-zera          1h 26m 10s   ████░░░░░░░░░░░░░░░░░░░░░  12.63%
-smokie        53m 50s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.89%
-hc-passport   47m 3s       ██░░░░░░░░░░░░░░░░░░░░░░░  6.90%
+panorama      3h 12m 48s   ███████░░░░░░░░░░░░░░░░░░  27.48%
+hn-alerts     2h 46m 14s   ██████░░░░░░░░░░░░░░░░░░░  23.69%
+zera          1h 26m 10s   ████░░░░░░░░░░░░░░░░░░░░░  12.28%
+smokie        53m 50s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.67%
+hc-passport   47m 3s       ██░░░░░░░░░░░░░░░░░░░░░░░  6.71%
 
-Total: 11 hrs 22 mins
+Total: 11 hrs 42 mins
 ```
 
 #### 📮 Want to Contact me?
