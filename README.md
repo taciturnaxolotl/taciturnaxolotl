@@ -4,14 +4,14 @@ When not doing school or working on a project, I enjoy flying drones and making 
 
 #### 👷 The latest repos I've pushed to
 
-- [`zera`](https://github.com/taciturnaxolotl/zera) - _"my new site v4?"_ **(1 day ago)**
-- [`dots`](https://github.com/taciturnaxolotl/dots) - _"Kieran's opinionated (and probably slightly dumb) nix config"_ **(1 day ago)**
+- [`bunplayground`](https://github.com/taciturnaxolotl/bunplayground) - _"random bun scripts that dont fit anywhere else"_ **(today)**
 - [`hn-alerts`](https://github.com/taciturnaxolotl/hn-alerts) - _"a bot to track your hackernews posts!"_ **(1 day ago)**
+- [`zera`](https://github.com/taciturnaxolotl/zera) - _"my new site v4?"_ **(1 day ago)**
 - [`cachet`](https://github.com/taciturnaxolotl/cachet) - _"a cache for slack profile pictures and emojis"_ **(1 day ago)**
+- [`dots`](https://github.com/taciturnaxolotl/dots) - _"Kieran's opinionated (and probably slightly dumb) nix config"_ **(1 day ago)**
 - [`hackatime`](https://github.com/hackclub/hackatime) - _"Just give it some time!"_ **(2 days ago)**
-- [`tern`](https://github.com/taciturnaxolotl/tern) - _"an fpv drone!"_ **(3 days ago)**
 - [`smokie`](https://github.com/taciturnaxolotl/smokie) - _"a system of takes and uploads"_ **(3 days ago)**
-- [`serif`](https://github.com/taciturnaxolotl/serif) - _"bluesky community verifications! (also the site repo for serif.blue)"_ **(4 days ago)**
+- [`tern`](https://github.com/taciturnaxolotl/tern) - _"an fpv drone!"_ **(3 days ago)**
 
 #### ⌨️ My latest projects
 
@@ -34,20 +34,20 @@ When not doing school or working on a project, I enjoy flying drones and making 
 
 ```text
 💾 Languages:
-TypeScript   2h 37m 11s   ██████░░░░░░░░░░░░░░░░░░░  20.62%
-Astro        2h 12m 12s   █████░░░░░░░░░░░░░░░░░░░░  17.34%
-HTML         1h 42m 23s   ████░░░░░░░░░░░░░░░░░░░░░  13.43%
-JavaScript   1h 34m 14s   ████░░░░░░░░░░░░░░░░░░░░░  12.36%
-Markdown     53m 38s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.04%
+TypeScript   2h 43m 25s   ██████░░░░░░░░░░░░░░░░░░░  21.08%
+Astro        2h 12m 12s   █████░░░░░░░░░░░░░░░░░░░░  17.05%
+HTML         1h 42m 23s   ████░░░░░░░░░░░░░░░░░░░░░  13.21%
+JavaScript   1h 34m 14s   ████░░░░░░░░░░░░░░░░░░░░░  12.16%
+Markdown     55m 38s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.18%
 
 💼 Projects:
-hn-alerts    3h 22m 23s   ███████░░░░░░░░░░░░░░░░░░  26.54%
-panorama     3h 12m 48s   ███████░░░░░░░░░░░░░░░░░░  25.28%
-zera         1h 28m 37s   ███░░░░░░░░░░░░░░░░░░░░░░  11.62%
-smokie       55m 35s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.29%
-harbor       45m 52s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.02%
+hn-alerts    3h 22m 23s   ███████░░░░░░░░░░░░░░░░░░  26.10%
+panorama     3h 12m 48s   ███████░░░░░░░░░░░░░░░░░░  24.86%
+zera         1h 30m 37s   ███░░░░░░░░░░░░░░░░░░░░░░  11.69%
+smokie       55m 35s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.17%
+harbor       45m 52s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.91%
 
-Total: 12 hrs 43 mins
+Total: 12 hrs 55 mins
 ```
 
 #### 📮 Want to Contact me?
