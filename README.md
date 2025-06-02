@@ -4,8 +4,8 @@ When not doing school or working on a project, I enjoy flying drones and making 
 
 #### 👷 The latest repos I've pushed to
 
+- [`madbadger`](https://github.com/taciturnaxolotl/madbadger) - _"MadBadger :3"_ **(today)**
 - [`cap`](https://github.com/tiagorangel1/cap) - _"Cap is a lightweight, modern open-source CAPTCHA alternative using SHA-256 proof-of-work"_ **(1 day ago)**
-- [`madbadger`](https://github.com/taciturnaxolotl/madbadger) - _"MadBadger :3"_ **(1 day ago)**
 - [`bunplayground`](https://github.com/taciturnaxolotl/bunplayground) - _"random bun scripts that dont fit anywhere else"_ **(1 day ago)**
 - [`hn-alerts`](https://github.com/taciturnaxolotl/hn-alerts) - _"a bot to track your hackernews posts!"_ **(2 days ago)**
 - [`zera`](https://github.com/taciturnaxolotl/zera) - _"my new site v4?"_ **(2 days ago)**
@@ -34,20 +34,20 @@ When not doing school or working on a project, I enjoy flying drones and making 
 
 ```text
 💾 Languages:
-TypeScript   2h 43m 25s   ██████░░░░░░░░░░░░░░░░░░░  20.19%
-Astro        2h 12m 12s   █████░░░░░░░░░░░░░░░░░░░░  16.33%
-HTML         1h 42m 23s   ████░░░░░░░░░░░░░░░░░░░░░  12.65%
-JavaScript   1h 34m 14s   ███░░░░░░░░░░░░░░░░░░░░░░  11.64%
-Markdown     1h 2m 52s    ██░░░░░░░░░░░░░░░░░░░░░░░  7.77%
+TypeScript   2h 43m 25s   ██████░░░░░░░░░░░░░░░░░░░  20.09%
+Astro        2h 12m 12s   █████░░░░░░░░░░░░░░░░░░░░  16.25%
+HTML         1h 42m 23s   ████░░░░░░░░░░░░░░░░░░░░░  12.59%
+JavaScript   1h 34m 14s   ███░░░░░░░░░░░░░░░░░░░░░░  11.58%
+Markdown     1h 2m 52s    ██░░░░░░░░░░░░░░░░░░░░░░░  7.73%
 
 💼 Projects:
-hn-alerts    3h 22m 23s   ███████░░░░░░░░░░░░░░░░░░  24.99%
-panorama     3h 12m 48s   ██████░░░░░░░░░░░░░░░░░░░  23.81%
-zera         1h 30m 37s   ███░░░░░░░░░░░░░░░░░░░░░░  11.19%
-smokie       55m 35s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.86%
-harbor       45m 52s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.66%
+hn-alerts    3h 22m 23s   ███████░░░░░░░░░░░░░░░░░░  24.87%
+panorama     3h 12m 48s   ██████░░░░░░░░░░░░░░░░░░░  23.69%
+zera         1h 30m 37s   ███░░░░░░░░░░░░░░░░░░░░░░  11.14%
+smokie       55m 35s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.83%
+harbor       45m 52s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.64%
 
-Total: 13 hrs 30 mins
+Total: 13 hrs 34 mins
 ```
 
 #### 📮 Want to Contact me?
