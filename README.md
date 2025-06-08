@@ -4,13 +4,13 @@ When not doing school or working on a project, I enjoy flying drones and making 
 
 #### 👷 The latest repos I've pushed to
 
+- [`hn-alerts`](https://github.com/taciturnaxolotl/hn-alerts) - _"a bot to track your hackernews posts!"_ **(today)**
 - [`cachet`](https://github.com/taciturnaxolotl/cachet) - _"a cache for slack profile pictures and emojis"_ **(1 day ago)**
-- [`hn-alerts`](https://github.com/taciturnaxolotl/hn-alerts) - _"a bot to track your hackernews posts!"_ **(1 day ago)**
-- [`madbadger`](https://github.com/taciturnaxolotl/madbadger) - _"MadBadger :3"_ **(6 days ago)**
 - [`dots`](https://github.com/taciturnaxolotl/dots) - _"Kieran's opinionated (and probably slightly dumb) nix config"_ **(6 days ago)**
+- [`madbadger`](https://github.com/taciturnaxolotl/madbadger) - _"MadBadger :3"_ **(6 days ago)**
 - [`serif`](https://github.com/taciturnaxolotl/serif) - _"bluesky community verifications! (also the site repo for serif.blue)"_ **(6 days ago)**
-- [`cap`](https://github.com/tiagorangel1/cap) - _"Cap is a lightweight, modern open-source CAPTCHA alternative using SHA-256 proof-of-work"_ **(1 week ago)**
 - [`bunplayground`](https://github.com/taciturnaxolotl/bunplayground) - _"random bun scripts that dont fit anywhere else"_ **(1 week ago)**
+- [`cap`](https://github.com/tiagorangel1/cap) - _"Cap is a lightweight, modern open-source CAPTCHA alternative using SHA-256 proof-of-work"_ **(1 week ago)**
 - [`zera`](https://github.com/taciturnaxolotl/zera) - _"my new site v4?"_ **(1 week ago)**
 
 #### ⌨️ My latest projects
@@ -34,20 +34,20 @@ When not doing school or working on a project, I enjoy flying drones and making 
 
 ```text
 💾 Languages:
-HTML           53m 24s   ████████░░░░░░░░░░░░░░░░░  30.95%
-TypeScript     27m 5s    ████░░░░░░░░░░░░░░░░░░░░░  15.70%
-Python         21m 41s   ████░░░░░░░░░░░░░░░░░░░░░  12.57%
-JavaScript     14m 58s   ███░░░░░░░░░░░░░░░░░░░░░░  8.67%
-shell script   9m 33s    ██░░░░░░░░░░░░░░░░░░░░░░░  5.54%
+HTML           1h 5m 0s    █████████░░░░░░░░░░░░░░░░  33.59%
+TypeScript     27m 5s      ████░░░░░░░░░░░░░░░░░░░░░  14.00%
+Python         21m 41s     ███░░░░░░░░░░░░░░░░░░░░░░  11.20%
+JavaScript     18m 46s     ███░░░░░░░░░░░░░░░░░░░░░░  9.70%
+shell script   9m 34s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.94%
 
 💼 Projects:
-serif          48m 14s   ███████░░░░░░░░░░░░░░░░░░  27.92%
-hn-alerts      47m 13s   ███████░░░░░░░░░░░░░░░░░░  27.34%
-madbadger      35m 4s    ██████░░░░░░░░░░░░░░░░░░░  20.30%
-cachet         12m 57s   ██░░░░░░░░░░░░░░░░░░░░░░░  7.50%
-nixos          8m 5s     ██░░░░░░░░░░░░░░░░░░░░░░░  4.68%
+hn-alerts      1h 8m 13s   █████████░░░░░░░░░░░░░░░░  35.21%
+serif          48m 14s     ███████░░░░░░░░░░░░░░░░░░  24.90%
+madbadger      35m 4s      █████░░░░░░░░░░░░░░░░░░░░  18.10%
+cachet         12m 57s     ██░░░░░░░░░░░░░░░░░░░░░░░  6.69%
+nixos          8m 4s       ██░░░░░░░░░░░░░░░░░░░░░░░  4.16%
 
-Total: 2 hrs 53 mins
+Total: 3 hrs 14 mins
 ```
 
 #### 📮 Want to Contact me?
