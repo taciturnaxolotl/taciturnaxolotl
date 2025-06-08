@@ -5,7 +5,7 @@ When not doing school or working on a project, I enjoy flying drones and making 
 #### 👷 The latest repos I've pushed to
 
 - [`cachet`](https://github.com/taciturnaxolotl/cachet) - _"a cache for slack profile pictures and emojis"_ **(1 day ago)**
-- [`hn-alerts`](https://github.com/taciturnaxolotl/hn-alerts) - _"a bot to track your hackernews posts!"_ **(4 days ago)**
+- [`hn-alerts`](https://github.com/taciturnaxolotl/hn-alerts) - _"a bot to track your hackernews posts!"_ **(1 day ago)**
 - [`madbadger`](https://github.com/taciturnaxolotl/madbadger) - _"MadBadger :3"_ **(6 days ago)**
 - [`dots`](https://github.com/taciturnaxolotl/dots) - _"Kieran's opinionated (and probably slightly dumb) nix config"_ **(6 days ago)**
 - [`serif`](https://github.com/taciturnaxolotl/serif) - _"bluesky community verifications! (also the site repo for serif.blue)"_ **(6 days ago)**
@@ -34,20 +34,20 @@ When not doing school or working on a project, I enjoy flying drones and making 
 
 ```text
 💾 Languages:
-HTML           45m 10s   █████████░░░░░░░░░░░░░░░░  33.25%
-Python         21m 41s   ████░░░░░░░░░░░░░░░░░░░░░  15.96%
-TypeScript     17m 26s   ████░░░░░░░░░░░░░░░░░░░░░  12.83%
-Markdown       8m 36s    ██░░░░░░░░░░░░░░░░░░░░░░░  6.33%
-shell script   7m 33s    ██░░░░░░░░░░░░░░░░░░░░░░░  5.56%
+HTML           53m 24s   ████████░░░░░░░░░░░░░░░░░  30.95%
+TypeScript     27m 5s    ████░░░░░░░░░░░░░░░░░░░░░  15.70%
+Python         21m 41s   ████░░░░░░░░░░░░░░░░░░░░░  12.57%
+JavaScript     14m 58s   ███░░░░░░░░░░░░░░░░░░░░░░  8.67%
+shell script   9m 33s    ██░░░░░░░░░░░░░░░░░░░░░░░  5.54%
 
 💼 Projects:
-serif          48m 14s   █████████░░░░░░░░░░░░░░░░  35.45%
-madbadger      35m 4s    ███████░░░░░░░░░░░░░░░░░░  25.77%
-hn-alerts      12m 43s   ███░░░░░░░░░░░░░░░░░░░░░░  9.35%
-cachet         10m 47s   ██░░░░░░░░░░░░░░░░░░░░░░░  7.93%
-nixos          8m 5s     ██░░░░░░░░░░░░░░░░░░░░░░░  5.94%
+serif          48m 14s   ███████░░░░░░░░░░░░░░░░░░  27.92%
+hn-alerts      47m 13s   ███████░░░░░░░░░░░░░░░░░░  27.34%
+madbadger      35m 4s    ██████░░░░░░░░░░░░░░░░░░░  20.30%
+cachet         12m 57s   ██░░░░░░░░░░░░░░░░░░░░░░░  7.50%
+nixos          8m 5s     ██░░░░░░░░░░░░░░░░░░░░░░░  4.68%
 
-Total: 2 hrs 16 mins
+Total: 2 hrs 53 mins
 ```
 
 #### 📮 Want to Contact me?
