@@ -8,10 +8,10 @@ When not doing school or working on a project, I enjoy flying drones and making 
 - [`hn-alerts`](https://github.com/taciturnaxolotl/hn-alerts) - _"a bot to track your hackernews posts!"_ **(2 days ago)**
 - [`cachet`](https://github.com/taciturnaxolotl/cachet) - _"a cache for slack profile pictures and emojis"_ **(3 days ago)**
 - [`madbadger`](https://github.com/taciturnaxolotl/madbadger) - _"MadBadger :3"_ **(1 week ago)**
-- [`dots`](https://github.com/taciturnaxolotl/dots) - _"Kieran's opinionated (and probably slightly dumb) nix config"_ **(1 week ago)**
 - [`serif`](https://github.com/taciturnaxolotl/serif) - _"bluesky community verifications! (also the site repo for serif.blue)"_ **(1 week ago)**
-- [`bunplayground`](https://github.com/taciturnaxolotl/bunplayground) - _"random bun scripts that dont fit anywhere else"_ **(1 week ago)**
+- [`dots`](https://github.com/taciturnaxolotl/dots) - _"Kieran's opinionated (and probably slightly dumb) nix config"_ **(1 week ago)**
 - [`cap`](https://github.com/tiagorangel1/cap) - _"Cap is a lightweight, modern open-source CAPTCHA alternative using SHA-256 proof-of-work"_ **(1 week ago)**
+- [`bunplayground`](https://github.com/taciturnaxolotl/bunplayground) - _"random bun scripts that dont fit anywhere else"_ **(1 week ago)**
 
 #### ⌨️ My latest projects
 
@@ -34,20 +34,20 @@ When not doing school or working on a project, I enjoy flying drones and making 
 
 ```text
 💾 Languages:
-HTML                23m 44s     ███████░░░░░░░░░░░░░░░░░░  25.66%
-TypeScript          20m 51s     ██████░░░░░░░░░░░░░░░░░░░  22.54%
-JavaScript          18m 46s     ██████░░░░░░░░░░░░░░░░░░░  20.29%
-json                4m 19s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.67%
-shell script        4m 8s       ██░░░░░░░░░░░░░░░░░░░░░░░  4.47%
+Markdown            24m 34s     ██████░░░░░░░░░░░░░░░░░░░  21.18%
+HTML                23m 44s     ██████░░░░░░░░░░░░░░░░░░░  20.46%
+TypeScript          20m 51s     █████░░░░░░░░░░░░░░░░░░░░  17.98%
+JavaScript          18m 46s     █████░░░░░░░░░░░░░░░░░░░░  16.18%
+json                4m 19s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.72%
 
 💼 Projects:
-hn-alerts           1h 8m 13s   ███████████████████░░░░░░  73.63%
-cachet              12m 57s     ████░░░░░░░░░░░░░░░░░░░░░  13.98%
-nixos               4m 31s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.87%
-terminal-wakatime   3m 36s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.89%
-tern                2m 51s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.08%
+hn-alerts           1h 8m 13s   ███████████████░░░░░░░░░░  58.74%
+tern                26m 20s     ██████░░░░░░░░░░░░░░░░░░░  22.68%
+cachet              12m 57s     ███░░░░░░░░░░░░░░░░░░░░░░  11.15%
+nixos               4m 31s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.89%
+terminal-wakatime   3m 36s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.10%
 
-Total: 1 hrs 33 mins
+Total: 1 hrs 56 mins
 ```
 
 #### 📮 Want to Contact me?
