@@ -4,14 +4,14 @@ When not doing school or working on a project, I enjoy flying drones and making 
 
 #### 👷 The latest repos I've pushed to
 
+- [`tern`](https://github.com/taciturnaxolotl/tern) - _"an fpv drone!"_ **(today)**
 - [`spam-patriot`](https://github.com/taciturnaxolotl/spam-patriot) - _""_ **(today)**
 - [`hn-alerts`](https://github.com/taciturnaxolotl/hn-alerts) - _"a bot to track your hackernews posts!"_ **(2 days ago)**
 - [`cachet`](https://github.com/taciturnaxolotl/cachet) - _"a cache for slack profile pictures and emojis"_ **(3 days ago)**
-- [`madbadger`](https://github.com/taciturnaxolotl/madbadger) - _"MadBadger :3"_ **(1 week ago)**
 - [`dots`](https://github.com/taciturnaxolotl/dots) - _"Kieran's opinionated (and probably slightly dumb) nix config"_ **(1 week ago)**
+- [`madbadger`](https://github.com/taciturnaxolotl/madbadger) - _"MadBadger :3"_ **(1 week ago)**
 - [`serif`](https://github.com/taciturnaxolotl/serif) - _"bluesky community verifications! (also the site repo for serif.blue)"_ **(1 week ago)**
 - [`bunplayground`](https://github.com/taciturnaxolotl/bunplayground) - _"random bun scripts that dont fit anywhere else"_ **(1 week ago)**
-- [`cap`](https://github.com/tiagorangel1/cap) - _"Cap is a lightweight, modern open-source CAPTCHA alternative using SHA-256 proof-of-work"_ **(1 week ago)**
 
 #### ⌨️ My latest projects
 
@@ -34,20 +34,20 @@ When not doing school or working on a project, I enjoy flying drones and making 
 
 ```text
 💾 Languages:
-Markdown            56m 53s     ██████████░░░░░░░░░░░░░░░  38.22%
-HTML                23m 44s     ████░░░░░░░░░░░░░░░░░░░░░  15.94%
-TypeScript          20m 51s     ████░░░░░░░░░░░░░░░░░░░░░  14.01%
-JavaScript          18m 46s     ████░░░░░░░░░░░░░░░░░░░░░  12.61%
-json                4m 19s      █░░░░░░░░░░░░░░░░░░░░░░░░  2.90%
+Markdown            1h 37m 20s   █████████████░░░░░░░░░░░░  51.14%
+HTML                23m 44s      ████░░░░░░░░░░░░░░░░░░░░░  12.47%
+TypeScript          20m 51s      ███░░░░░░░░░░░░░░░░░░░░░░  10.95%
+JavaScript          18m 46s      ███░░░░░░░░░░░░░░░░░░░░░░  9.86%
+json                4m 19s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.27%
 
 💼 Projects:
-hn-alerts           1h 8m 13s   ████████████░░░░░░░░░░░░░  45.78%
-tern                59m 12s     ██████████░░░░░░░░░░░░░░░  39.73%
-cachet              12m 57s     ███░░░░░░░░░░░░░░░░░░░░░░  8.69%
-nixos               4m 31s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.03%
-terminal-wakatime   3m 36s      █░░░░░░░░░░░░░░░░░░░░░░░░  2.42%
+tern                1h 40m 41s   ██████████████░░░░░░░░░░░  52.86%
+hn-alerts           1h 8m 13s    █████████░░░░░░░░░░░░░░░░  35.81%
+cachet              12m 57s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.80%
+nixos               4m 31s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.37%
+terminal-wakatime   3m 36s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.89%
 
-Total: 2 hrs 29 mins
+Total: 3 hrs 10 mins
 ```
 
 #### 📮 Want to Contact me?
