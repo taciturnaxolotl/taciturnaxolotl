@@ -4,13 +4,13 @@ When not doing school or working on a project, I enjoy flying drones and making 
 
 #### 👷 The latest repos I've pushed to
 
+- [`dots`](https://github.com/taciturnaxolotl/dots) - _"Kieran's opinionated (and probably slightly dumb) nix config"_ **(today)**
 - [`tern`](https://github.com/taciturnaxolotl/tern) - _"an fpv drone!"_ **(1 day ago)**
 - [`spam-patriot`](https://github.com/taciturnaxolotl/spam-patriot) - _""_ **(1 day ago)**
 - [`hn-alerts`](https://github.com/taciturnaxolotl/hn-alerts) - _"a bot to track your hackernews posts!"_ **(3 days ago)**
 - [`cachet`](https://github.com/taciturnaxolotl/cachet) - _"a cache for slack profile pictures and emojis"_ **(4 days ago)**
 - [`madbadger`](https://github.com/taciturnaxolotl/madbadger) - _"MadBadger :3"_ **(1 week ago)**
 - [`serif`](https://github.com/taciturnaxolotl/serif) - _"bluesky community verifications! (also the site repo for serif.blue)"_ **(1 week ago)**
-- [`dots`](https://github.com/taciturnaxolotl/dots) - _"Kieran's opinionated (and probably slightly dumb) nix config"_ **(1 week ago)**
 - [`cap`](https://github.com/tiagorangel1/cap) - _"Cap is a lightweight, modern open-source CAPTCHA alternative using SHA-256 proof-of-work"_ **(1 week ago)**
 
 #### ⌨️ My latest projects
@@ -34,20 +34,20 @@ When not doing school or working on a project, I enjoy flying drones and making 
 
 ```text
 💾 Languages:
-Markdown        1h 54m 4s   ███████████░░░░░░░░░░░░░░  42.52%
-HTML            23m 44s     ███░░░░░░░░░░░░░░░░░░░░░░  8.85%
-JavaScript      22m 42s     ███░░░░░░░░░░░░░░░░░░░░░░  8.46%
-Ruby            22m 35s     ███░░░░░░░░░░░░░░░░░░░░░░  8.42%
-TypeScript      20m 51s     ██░░░░░░░░░░░░░░░░░░░░░░░  7.77%
+Markdown            2h 0m 11s   ███████████░░░░░░░░░░░░░░  41.57%
+HTML                23m 44s     ███░░░░░░░░░░░░░░░░░░░░░░  8.21%
+JavaScript          22m 42s     ██░░░░░░░░░░░░░░░░░░░░░░░  7.85%
+Ruby                22m 35s     ██░░░░░░░░░░░░░░░░░░░░░░░  7.81%
+TypeScript          20m 51s     ██░░░░░░░░░░░░░░░░░░░░░░░  7.21%
 
 💼 Projects:
-tern            1h 53m 3s   ███████████░░░░░░░░░░░░░░  42.11%
-hn-alerts       1h 8m 13s   ███████░░░░░░░░░░░░░░░░░░  25.41%
-tma-inventory   1h 5m 38s   ███████░░░░░░░░░░░░░░░░░░  24.45%
-cachet          12m 57s     ██░░░░░░░░░░░░░░░░░░░░░░░  4.82%
-nixos           4m 31s      █░░░░░░░░░░░░░░░░░░░░░░░░  1.68%
+tern                1h 55m 3s   ██████████░░░░░░░░░░░░░░░  39.77%
+hn-alerts           1h 8m 13s   ██████░░░░░░░░░░░░░░░░░░░  23.58%
+tma-inventory       1h 5m 38s   ██████░░░░░░░░░░░░░░░░░░░  22.69%
+terminal-wakatime   13m 41s     ██░░░░░░░░░░░░░░░░░░░░░░░  4.73%
+nixos               13m 16s     ██░░░░░░░░░░░░░░░░░░░░░░░  4.59%
 
-Total: 4 hrs 28 mins
+Total: 4 hrs 49 mins
 ```
 
 #### 📮 Want to Contact me?
