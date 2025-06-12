@@ -4,21 +4,21 @@ When not doing school or working on a project, I enjoy flying drones and making 
 
 #### 👷 The latest repos I've pushed to
 
-- [`dots`](https://github.com/taciturnaxolotl/dots) - _"Kieran's opinionated (and probably slightly dumb) nix config"_ **(today)**
-- [`tern`](https://github.com/taciturnaxolotl/tern) - _"an fpv drone!"_ **(1 day ago)**
-- [`spam-patriot`](https://github.com/taciturnaxolotl/spam-patriot) - _""_ **(1 day ago)**
-- [`hn-alerts`](https://github.com/taciturnaxolotl/hn-alerts) - _"a bot to track your hackernews posts!"_ **(3 days ago)**
-- [`cachet`](https://github.com/taciturnaxolotl/cachet) - _"a cache for slack profile pictures and emojis"_ **(4 days ago)**
+- [`plastic`](https://github.com/taciturnaxolotl/plastic) - _"self modifying website"_ **(1 day ago)**
+- [`dots`](https://github.com/taciturnaxolotl/dots) - _"Kieran's opinionated (and probably slightly dumb) nix config"_ **(1 day ago)**
+- [`terminal-wakatime`](https://github.com/hackclub/terminal-wakatime) - _"Wakatime plugin for bash / zsh / fish shells!"_ **(1 day ago)**
+- [`tern`](https://github.com/taciturnaxolotl/tern) - _"an fpv drone!"_ **(2 days ago)**
+- [`spam-patriot`](https://github.com/taciturnaxolotl/spam-patriot) - _""_ **(2 days ago)**
+- [`hn-alerts`](https://github.com/taciturnaxolotl/hn-alerts) - _"a bot to track your hackernews posts!"_ **(4 days ago)**
+- [`cachet`](https://github.com/taciturnaxolotl/cachet) - _"a cache for slack profile pictures and emojis"_ **(5 days ago)**
 - [`madbadger`](https://github.com/taciturnaxolotl/madbadger) - _"MadBadger :3"_ **(1 week ago)**
-- [`serif`](https://github.com/taciturnaxolotl/serif) - _"bluesky community verifications! (also the site repo for serif.blue)"_ **(1 week ago)**
-- [`cap`](https://github.com/tiagorangel1/cap) - _"Cap is a lightweight, modern open-source CAPTCHA alternative using SHA-256 proof-of-work"_ **(1 week ago)**
 
 #### ⌨️ My latest projects
 
+- [`plastic`](https://github.com/taciturnaxolotl/plastic) - _"self modifying website"_
 - [`tern`](https://github.com/taciturnaxolotl/tern) - _"an fpv drone!"_
 - [`pxlboard`](https://github.com/taciturnaxolotl/pxlboard) - _"YAGNG (yet another generic pixel grid)"_
 - [`serif`](https://github.com/taciturnaxolotl/serif) - _"bluesky community verifications! (also the site repo for serif.blue)"_
-- [`hn-alerts`](https://github.com/taciturnaxolotl/hn-alerts) - _"a bot to track your hackernews posts!"_
 
 #### 🗒️ the latest posts from my [blog](https://dunkirk.sh)
 
@@ -26,7 +26,7 @@ When not doing school or working on a project, I enjoy flying drones and making 
 
 - [`Musings about Atuin`](https://dunkirk.sh/blog/atuin/) **(1 month ago)**
 
-- [`Adding a copy code button`](https://dunkirk.sh/blog/adding-a-copy-button/) **(2 months ago)**
+- [`Adding a copy code button`](https://dunkirk.sh/blog/adding-a-copy-button/) **(3 months ago)**
 
 
 
@@ -34,20 +34,20 @@ When not doing school or working on a project, I enjoy flying drones and making 
 
 ```text
 💾 Languages:
-Markdown        1h 59m 40s   ███████████░░░░░░░░░░░░░░  43.24%
-HTML            23m 44s      ███░░░░░░░░░░░░░░░░░░░░░░  8.58%
-Ruby            22m 35s      ███░░░░░░░░░░░░░░░░░░░░░░  8.16%
-JavaScript      18m 46s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.78%
-TypeScript      16m 34s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.99%
+Markdown        2h 2m 24s    ███████████░░░░░░░░░░░░░░  40.58%
+HTML            33m 46s      ███░░░░░░░░░░░░░░░░░░░░░░  11.19%
+Ruby            22m 35s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.49%
+JavaScript      18m 46s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.22%
+TypeScript      16m 34s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.49%
 
 💼 Projects:
-tern            1h 55m 3s    ███████████░░░░░░░░░░░░░░  41.55%
-tma-inventory   1h 5m 38s    ██████░░░░░░░░░░░░░░░░░░░  23.70%
-hn-alerts       59m 24s      ██████░░░░░░░░░░░░░░░░░░░  21.45%
-nixos           13m 16s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.79%
-cachet          12m 57s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.68%
+tern            1h 57m 22s   ██████████░░░░░░░░░░░░░░░  38.89%
+tma-inventory   1h 5m 38s    ██████░░░░░░░░░░░░░░░░░░░  21.75%
+hn-alerts       59m 24s      █████░░░░░░░░░░░░░░░░░░░░  19.68%
+plastic         16m 17s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.40%
+nixos           15m 16s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.06%
 
-Total: 4 hrs 37 mins
+Total: 5 hrs 2 mins
 ```
 
 #### 📮 Want to Contact me?
