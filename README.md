@@ -4,8 +4,8 @@ When not doing school or working on a project, I enjoy flying drones and making 
 
 #### 👷 The latest repos I've pushed to
 
-- [`plastic`](https://github.com/taciturnaxolotl/plastic) - _"self modifying website"_ **(today)**
 - [`tern`](https://github.com/taciturnaxolotl/tern) - _"an fpv drone!"_ **(today)**
+- [`plastic`](https://github.com/taciturnaxolotl/plastic) - _"self modifying website"_ **(today)**
 - [`dots`](https://github.com/taciturnaxolotl/dots) - _"Kieran's opinionated (and probably slightly dumb) nix config"_ **(2 days ago)**
 - [`terminal-wakatime`](https://github.com/hackclub/terminal-wakatime) - _"Wakatime plugin for bash / zsh / fish shells!"_ **(2 days ago)**
 - [`hn-alerts`](https://github.com/taciturnaxolotl/hn-alerts) - _"a bot to track your hackernews posts!"_ **(5 days ago)**
@@ -34,20 +34,20 @@ When not doing school or working on a project, I enjoy flying drones and making 
 
 ```text
 💾 Languages:
-Markdown        2h 10m 41s   █████████░░░░░░░░░░░░░░░░  33.44%
-HTML            1h 40m 40s   ███████░░░░░░░░░░░░░░░░░░  25.76%
-Ruby            22m 35s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.78%
-unknown         19m 10s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.90%
-JavaScript      18m 46s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.80%
+Markdown        2h 10m 41s   ████████░░░░░░░░░░░░░░░░░  31.42%
+HTML            2h 1m 3s     ████████░░░░░░░░░░░░░░░░░  29.10%
+unknown         23m 55s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.75%
+Ruby            22m 35s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.43%
+JavaScript      18m 46s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.51%
 
 💼 Projects:
-tern            2h 9m 29s    █████████░░░░░░░░░░░░░░░░  33.12%
-plastic         1h 35m 51s   ███████░░░░░░░░░░░░░░░░░░  24.52%
-tma-inventory   1h 5m 38s    █████░░░░░░░░░░░░░░░░░░░░  16.79%
-hn-alerts       55m 30s      ████░░░░░░░░░░░░░░░░░░░░░  14.20%
-nixos           13m 10s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.37%
+tern            2h 9m 29s    ████████░░░░░░░░░░░░░░░░░  31.12%
+plastic         2h 0m 59s    ████████░░░░░░░░░░░░░░░░░  29.08%
+tma-inventory   1h 5m 38s    ████░░░░░░░░░░░░░░░░░░░░░  15.77%
+hn-alerts       55m 30s      ████░░░░░░░░░░░░░░░░░░░░░  13.34%
+nixos           13m 10s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.16%
 
-Total: 6 hrs 31 mins
+Total: 6 hrs 56 mins
 ```
 
 #### 📮 Want to Contact me?
