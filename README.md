@@ -8,9 +8,9 @@ When not doing school or working on a project, I enjoy flying drones and making 
 - [`tern`](https://github.com/taciturnaxolotl/tern) - _"an fpv drone!"_ **(1 day ago)**
 - [`dots`](https://github.com/taciturnaxolotl/dots) - _"Kieran's opinionated (and probably slightly dumb) nix config"_ **(3 days ago)**
 - [`terminal-wakatime`](https://github.com/hackclub/terminal-wakatime) - _"Wakatime plugin for bash / zsh / fish shells!"_ **(3 days ago)**
+- [`spam-patriot`](https://github.com/taciturnaxolotl/spam-patriot) - _""_ **(4 days ago)**
 - [`hn-alerts`](https://github.com/taciturnaxolotl/hn-alerts) - _"a bot to track your hackernews posts!"_ **(6 days ago)**
 - [`cachet`](https://github.com/taciturnaxolotl/cachet) - _"a cache for slack profile pictures and emojis"_ **(1 week ago)**
-- [`madbadger`](https://github.com/taciturnaxolotl/madbadger) - _"MadBadger :3"_ **(1 week ago)**
 - [`serif`](https://github.com/taciturnaxolotl/serif) - _"bluesky community verifications! (also the site repo for serif.blue)"_ **(1 week ago)**
 
 #### ⌨️ My latest projects
@@ -34,20 +34,20 @@ When not doing school or working on a project, I enjoy flying drones and making 
 
 ```text
 💾 Languages:
-HTML            3h 12m 26s   ██████████░░░░░░░░░░░░░░░  37.05%
-Markdown        2h 10m 41s   ███████░░░░░░░░░░░░░░░░░░  25.16%
-unknown         51m 50s      ███░░░░░░░░░░░░░░░░░░░░░░  9.98%
-Ruby            22m 35s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.35%
+HTML            3h 12m 39s   ██████████░░░░░░░░░░░░░░░  37.01%
+Markdown        2h 11m 35s   ███████░░░░░░░░░░░░░░░░░░  25.28%
+unknown         53m 50s      ███░░░░░░░░░░░░░░░░░░░░░░  10.34%
+Ruby            22m 35s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.34%
 JavaScript      18m 46s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.61%
 
 💼 Projects:
-plastic         3h 17m 31s   ██████████░░░░░░░░░░░░░░░  38.01%
-tern            2h 9m 29s    ███████░░░░░░░░░░░░░░░░░░  24.92%
-tma-inventory   1h 5m 38s    ████░░░░░░░░░░░░░░░░░░░░░  12.63%
-hn-alerts       55m 30s      ███░░░░░░░░░░░░░░░░░░░░░░  10.68%
-kierank         25m 3s       ██░░░░░░░░░░░░░░░░░░░░░░░  4.82%
+plastic         3h 20m 38s   ██████████░░░░░░░░░░░░░░░  38.53%
+tern            2h 9m 29s    ███████░░░░░░░░░░░░░░░░░░  24.87%
+tma-inventory   1h 5m 38s    ████░░░░░░░░░░░░░░░░░░░░░  12.60%
+hn-alerts       55m 30s      ███░░░░░░░░░░░░░░░░░░░░░░  10.66%
+kierank         25m 3s       ██░░░░░░░░░░░░░░░░░░░░░░░  4.81%
 
-Total: 8 hrs 40 mins
+Total: 8 hrs 41 mins
 ```
 
 #### 📮 Want to Contact me?
