@@ -4,14 +4,14 @@ When not doing school or working on a project, I enjoy flying drones and making 
 
 #### 👷 The latest repos I've pushed to
 
-- [`tern`](https://github.com/taciturnaxolotl/tern) - _"an fpv drone!"_ **(today)**
-- [`plastic`](https://github.com/taciturnaxolotl/plastic) - _"self modifying website"_ **(today)**
-- [`dots`](https://github.com/taciturnaxolotl/dots) - _"Kieran's opinionated (and probably slightly dumb) nix config"_ **(2 days ago)**
-- [`terminal-wakatime`](https://github.com/hackclub/terminal-wakatime) - _"Wakatime plugin for bash / zsh / fish shells!"_ **(2 days ago)**
-- [`hn-alerts`](https://github.com/taciturnaxolotl/hn-alerts) - _"a bot to track your hackernews posts!"_ **(5 days ago)**
-- [`cachet`](https://github.com/taciturnaxolotl/cachet) - _"a cache for slack profile pictures and emojis"_ **(6 days ago)**
-- [`serif`](https://github.com/taciturnaxolotl/serif) - _"bluesky community verifications! (also the site repo for serif.blue)"_ **(1 week ago)**
+- [`plastic`](https://github.com/taciturnaxolotl/plastic) - _"self modifying website"_ **(1 day ago)**
+- [`tern`](https://github.com/taciturnaxolotl/tern) - _"an fpv drone!"_ **(1 day ago)**
+- [`dots`](https://github.com/taciturnaxolotl/dots) - _"Kieran's opinionated (and probably slightly dumb) nix config"_ **(3 days ago)**
+- [`terminal-wakatime`](https://github.com/hackclub/terminal-wakatime) - _"Wakatime plugin for bash / zsh / fish shells!"_ **(3 days ago)**
+- [`hn-alerts`](https://github.com/taciturnaxolotl/hn-alerts) - _"a bot to track your hackernews posts!"_ **(6 days ago)**
+- [`cachet`](https://github.com/taciturnaxolotl/cachet) - _"a cache for slack profile pictures and emojis"_ **(1 week ago)**
 - [`madbadger`](https://github.com/taciturnaxolotl/madbadger) - _"MadBadger :3"_ **(1 week ago)**
+- [`serif`](https://github.com/taciturnaxolotl/serif) - _"bluesky community verifications! (also the site repo for serif.blue)"_ **(1 week ago)**
 
 #### ⌨️ My latest projects
 
@@ -34,20 +34,20 @@ When not doing school or working on a project, I enjoy flying drones and making 
 
 ```text
 💾 Languages:
-Markdown        2h 10m 41s   ████████░░░░░░░░░░░░░░░░░  31.42%
-HTML            2h 1m 3s     ████████░░░░░░░░░░░░░░░░░  29.10%
-unknown         23m 55s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.75%
-Ruby            22m 35s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.43%
-JavaScript      18m 46s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.51%
+HTML            2h 19m 5s    ████████░░░░░░░░░░░░░░░░░  31.90%
+Markdown        2h 10m 41s   ████████░░░░░░░░░░░░░░░░░  29.98%
+unknown         25m 55s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.94%
+Ruby            22m 35s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.18%
+JavaScript      18m 46s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.30%
 
 💼 Projects:
-tern            2h 9m 29s    ████████░░░░░░░░░░░░░░░░░  31.12%
-plastic         2h 0m 59s    ████████░░░░░░░░░░░░░░░░░  29.08%
-tma-inventory   1h 5m 38s    ████░░░░░░░░░░░░░░░░░░░░░  15.77%
-hn-alerts       55m 30s      ████░░░░░░░░░░░░░░░░░░░░░  13.34%
-nixos           13m 10s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.16%
+plastic         2h 21m 1s    █████████░░░░░░░░░░░░░░░░  32.34%
+tern            2h 9m 29s    ████████░░░░░░░░░░░░░░░░░  29.69%
+tma-inventory   1h 5m 38s    ████░░░░░░░░░░░░░░░░░░░░░  15.05%
+hn-alerts       55m 30s      ████░░░░░░░░░░░░░░░░░░░░░  12.73%
+nixos           13m 10s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.02%
 
-Total: 6 hrs 56 mins
+Total: 7 hrs 16 mins
 ```
 
 #### 📮 Want to Contact me?
