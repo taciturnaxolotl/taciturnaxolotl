@@ -4,6 +4,7 @@ When not doing school or working on a project, I enjoy flying drones and making 
 
 #### 👷 The latest repos I've pushed to
 
+- [`zera`](https://github.com/taciturnaxolotl/zera) - _"my new site v4?"_ **(today)**
 - [`plastic`](https://github.com/taciturnaxolotl/plastic) - _"self modifying website"_ **(1 day ago)**
 - [`tern`](https://github.com/taciturnaxolotl/tern) - _"an fpv drone!"_ **(2 days ago)**
 - [`dots`](https://github.com/taciturnaxolotl/dots) - _"Kieran's opinionated (and probably slightly dumb) nix config"_ **(4 days ago)**
@@ -11,7 +12,6 @@ When not doing school or working on a project, I enjoy flying drones and making 
 - [`spam-patriot`](https://github.com/taciturnaxolotl/spam-patriot) - _""_ **(5 days ago)**
 - [`hn-alerts`](https://github.com/taciturnaxolotl/hn-alerts) - _"a bot to track your hackernews posts!"_ **(1 week ago)**
 - [`cachet`](https://github.com/taciturnaxolotl/cachet) - _"a cache for slack profile pictures and emojis"_ **(1 week ago)**
-- [`serif`](https://github.com/taciturnaxolotl/serif) - _"bluesky community verifications! (also the site repo for serif.blue)"_ **(1 week ago)**
 
 #### ⌨️ My latest projects
 
@@ -22,11 +22,11 @@ When not doing school or working on a project, I enjoy flying drones and making 
 
 #### 🗒️ the latest posts from my [blog](https://dunkirk.sh)
 
-- [`Making Hacker News Alerts`](https://dunkirk.sh/blog/hn-alerts/) **(3 weeks ago)**
-
 - [`Musings about Atuin`](https://dunkirk.sh/blog/atuin/) **(1 month ago)**
 
 - [`Adding a copy code button`](https://dunkirk.sh/blog/adding-a-copy-button/) **(3 months ago)**
+
+- [`All my animation projects`](https://dunkirk.sh/blog/my-animations/) **(3 months ago)**
 
 
 
@@ -34,20 +34,20 @@ When not doing school or working on a project, I enjoy flying drones and making 
 
 ```text
 💾 Languages:
-HTML                2h 52m 48s   ██████████░░░░░░░░░░░░░░░  38.07%
-Markdown            2h 11m 41s   ████████░░░░░░░░░░░░░░░░░  29.01%
-unknown             55m 52s      ████░░░░░░░░░░░░░░░░░░░░░  12.31%
-Ruby                22m 35s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.98%
-Nix                 13m 31s      █░░░░░░░░░░░░░░░░░░░░░░░░  2.98%
+HTML                2h 52m 48s   ██████████░░░░░░░░░░░░░░░  37.74%
+Markdown            2h 12m 23s   ████████░░░░░░░░░░░░░░░░░  28.91%
+unknown             58m 0s       ████░░░░░░░░░░░░░░░░░░░░░  12.67%
+Ruby                22m 35s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.93%
+Nix                 13m 31s      █░░░░░░░░░░░░░░░░░░░░░░░░  2.95%
 
 💼 Projects:
-plastic             3h 20m 45s   ████████████░░░░░░░░░░░░░  44.22%
-tern                2h 9m 29s    ████████░░░░░░░░░░░░░░░░░  28.52%
-tma-inventory       1h 5m 38s    ████░░░░░░░░░░░░░░░░░░░░░  14.46%
-kierank             25m 3s       ██░░░░░░░░░░░░░░░░░░░░░░░  5.52%
-terminal-wakatime   12m 7s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.67%
+plastic             3h 20m 45s   ███████████░░░░░░░░░░░░░░  43.84%
+tern                2h 9m 29s    ████████░░░░░░░░░░░░░░░░░  28.27%
+tma-inventory       1h 5m 38s    ████░░░░░░░░░░░░░░░░░░░░░  14.33%
+kierank             25m 6s       ██░░░░░░░░░░░░░░░░░░░░░░░  5.48%
+terminal-wakatime   12m 7s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.65%
 
-Total: 7 hrs 34 mins
+Total: 7 hrs 38 mins
 ```
 
 #### 📮 Want to Contact me?
