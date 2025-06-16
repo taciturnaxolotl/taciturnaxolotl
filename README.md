@@ -4,11 +4,11 @@ When not doing school or working on a project, I enjoy flying drones and making 
 
 #### 👷 The latest repos I've pushed to
 
+- [`dots`](https://github.com/taciturnaxolotl/dots) - _"Kieran's opinionated (and probably slightly dumb) nix config"_ **(today)**
 - [`zera`](https://github.com/taciturnaxolotl/zera) - _"my new site v4?"_ **(1 day ago)**
 - [`plastic`](https://github.com/taciturnaxolotl/plastic) - _"self modifying website"_ **(2 days ago)**
 - [`tern`](https://github.com/taciturnaxolotl/tern) - _"an fpv drone!"_ **(3 days ago)**
 - [`terminal-wakatime`](https://github.com/hackclub/terminal-wakatime) - _"Wakatime plugin for bash / zsh / fish shells!"_ **(5 days ago)**
-- [`dots`](https://github.com/taciturnaxolotl/dots) - _"Kieran's opinionated (and probably slightly dumb) nix config"_ **(5 days ago)**
 - [`hn-alerts`](https://github.com/taciturnaxolotl/hn-alerts) - _"a bot to track your hackernews posts!"_ **(1 week ago)**
 - [`cachet`](https://github.com/taciturnaxolotl/cachet) - _"a cache for slack profile pictures and emojis"_ **(1 week ago)**
 - [`serif`](https://github.com/taciturnaxolotl/serif) - _"bluesky community verifications! (also the site repo for serif.blue)"_ **(2 weeks ago)**
