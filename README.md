@@ -4,12 +4,12 @@ When not doing school or working on a project, I enjoy flying drones and making 
 
 #### 👷 The latest repos I've pushed to
 
-- [`zera`](https://github.com/taciturnaxolotl/zera) - _"my new site v4?"_ **(today)**
-- [`plastic`](https://github.com/taciturnaxolotl/plastic) - _"self modifying website"_ **(1 day ago)**
-- [`tern`](https://github.com/taciturnaxolotl/tern) - _"an fpv drone!"_ **(2 days ago)**
-- [`dots`](https://github.com/taciturnaxolotl/dots) - _"Kieran's opinionated (and probably slightly dumb) nix config"_ **(4 days ago)**
-- [`terminal-wakatime`](https://github.com/hackclub/terminal-wakatime) - _"Wakatime plugin for bash / zsh / fish shells!"_ **(4 days ago)**
-- [`spam-patriot`](https://github.com/taciturnaxolotl/spam-patriot) - _""_ **(5 days ago)**
+- [`zera`](https://github.com/taciturnaxolotl/zera) - _"my new site v4?"_ **(1 day ago)**
+- [`plastic`](https://github.com/taciturnaxolotl/plastic) - _"self modifying website"_ **(2 days ago)**
+- [`tern`](https://github.com/taciturnaxolotl/tern) - _"an fpv drone!"_ **(3 days ago)**
+- [`dots`](https://github.com/taciturnaxolotl/dots) - _"Kieran's opinionated (and probably slightly dumb) nix config"_ **(5 days ago)**
+- [`terminal-wakatime`](https://github.com/hackclub/terminal-wakatime) - _"Wakatime plugin for bash / zsh / fish shells!"_ **(5 days ago)**
+- [`spam-patriot`](https://github.com/taciturnaxolotl/spam-patriot) - _""_ **(6 days ago)**
 - [`hn-alerts`](https://github.com/taciturnaxolotl/hn-alerts) - _"a bot to track your hackernews posts!"_ **(1 week ago)**
 - [`cachet`](https://github.com/taciturnaxolotl/cachet) - _"a cache for slack profile pictures and emojis"_ **(1 week ago)**
 
@@ -34,18 +34,18 @@ When not doing school or working on a project, I enjoy flying drones and making 
 
 ```text
 💾 Languages:
-HTML                2h 52m 48s   ██████████░░░░░░░░░░░░░░░  37.74%
-Markdown            2h 12m 23s   ████████░░░░░░░░░░░░░░░░░  28.91%
-unknown             58m 0s       ████░░░░░░░░░░░░░░░░░░░░░  12.67%
+HTML                2h 52m 48s   ██████████░░░░░░░░░░░░░░░  37.70%
+Markdown            2h 12m 31s   ████████░░░░░░░░░░░░░░░░░  28.91%
+unknown             58m 1s       ████░░░░░░░░░░░░░░░░░░░░░  12.66%
 Ruby                22m 35s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.93%
 Nix                 13m 31s      █░░░░░░░░░░░░░░░░░░░░░░░░  2.95%
 
 💼 Projects:
-plastic             3h 20m 45s   ███████████░░░░░░░░░░░░░░  43.84%
-tern                2h 9m 29s    ████████░░░░░░░░░░░░░░░░░  28.27%
-tma-inventory       1h 5m 38s    ████░░░░░░░░░░░░░░░░░░░░░  14.33%
-kierank             25m 6s       ██░░░░░░░░░░░░░░░░░░░░░░░  5.48%
-terminal-wakatime   12m 7s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.65%
+plastic             3h 20m 45s   ███████████░░░░░░░░░░░░░░  43.79%
+tern                2h 9m 29s    ████████░░░░░░░░░░░░░░░░░  28.24%
+tma-inventory       1h 5m 38s    ████░░░░░░░░░░░░░░░░░░░░░  14.32%
+kierank             25m 7s       ██░░░░░░░░░░░░░░░░░░░░░░░  5.48%
+terminal-wakatime   12m 7s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.64%
 
 Total: 7 hrs 38 mins
 ```
