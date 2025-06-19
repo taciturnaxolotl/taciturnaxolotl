@@ -4,14 +4,14 @@ When not doing school or working on a project, I enjoy flying drones and making 
 
 #### 👷 The latest repos I've pushed to
 
-- [`dots`](https://github.com/taciturnaxolotl/dots) - _"Kieran's opinionated (and probably slightly dumb) nix config"_ **(2 days ago)**
-- [`zera`](https://github.com/taciturnaxolotl/zera) - _"my new site v4?"_ **(3 days ago)**
-- [`plastic`](https://github.com/taciturnaxolotl/plastic) - _"self modifying website"_ **(4 days ago)**
-- [`tern`](https://github.com/taciturnaxolotl/tern) - _"an fpv drone!"_ **(5 days ago)**
+- [`hackatime`](https://github.com/hackclub/hackatime) - _"Just give it some time!"_ **(1 day ago)**
+- [`dots`](https://github.com/taciturnaxolotl/dots) - _"Kieran's opinionated (and probably slightly dumb) nix config"_ **(3 days ago)**
+- [`zera`](https://github.com/taciturnaxolotl/zera) - _"my new site v4?"_ **(4 days ago)**
+- [`plastic`](https://github.com/taciturnaxolotl/plastic) - _"self modifying website"_ **(5 days ago)**
+- [`tern`](https://github.com/taciturnaxolotl/tern) - _"an fpv drone!"_ **(6 days ago)**
 - [`terminal-wakatime`](https://github.com/hackclub/terminal-wakatime) - _"Wakatime plugin for bash / zsh / fish shells!"_ **(1 week ago)**
+- [`spam-patriot`](https://github.com/taciturnaxolotl/spam-patriot) - _""_ **(1 week ago)**
 - [`hn-alerts`](https://github.com/taciturnaxolotl/hn-alerts) - _"a bot to track your hackernews posts!"_ **(1 week ago)**
-- [`cachet`](https://github.com/taciturnaxolotl/cachet) - _"a cache for slack profile pictures and emojis"_ **(1 week ago)**
-- [`serif`](https://github.com/taciturnaxolotl/serif) - _"bluesky community verifications! (also the site repo for serif.blue)"_ **(2 weeks ago)**
 
 #### ⌨️ My latest projects
 
@@ -34,20 +34,20 @@ When not doing school or working on a project, I enjoy flying drones and making 
 
 ```text
 💾 Languages:
-HTML       2h 52m 48s   ██████████████░░░░░░░░░░░  55.61%
-unknown    1h 47m 2s    █████████░░░░░░░░░░░░░░░░  34.45%
-Markdown   12m 45s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.10%
-Nix        4m 58s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.60%
-JSON       4m 12s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.35%
+HTML       2h 41m 27s   ███████████████░░░░░░░░░░  56.35%
+unknown    1h 42m 26s   █████████░░░░░░░░░░░░░░░░  35.75%
+Markdown   10m 1s       █░░░░░░░░░░░░░░░░░░░░░░░░  3.50%
+Nix        4m 58s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.73%
+JSON       4m 12s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.47%
 
 💼 Projects:
-plastic    3h 20m 37s   █████████████████░░░░░░░░  64.56%
-kierank    41m 8s       ████░░░░░░░░░░░░░░░░░░░░░  13.24%
-tern       14m 26s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.64%
-movies     11m 45s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.78%
-hawkeye    8m 31s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.74%
+plastic    3h 3m 1s     ████████████████░░░░░░░░░  63.88%
+kierank    38m 52s      ████░░░░░░░░░░░░░░░░░░░░░  13.57%
+tern       12m 7s       ██░░░░░░░░░░░░░░░░░░░░░░░  4.23%
+movies     11m 45s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.10%
+hawkeye    8m 31s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.97%
 
-Total: 5 hrs 11 mins
+Total: 4 hrs 47 mins
 ```
 
 #### 📮 Want to Contact me?
