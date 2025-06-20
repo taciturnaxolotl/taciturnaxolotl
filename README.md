@@ -4,6 +4,7 @@ When not doing school or working on a project, I enjoy flying drones and making 
 
 #### 👷 The latest repos I've pushed to
 
+- [`hn-alerts`](https://github.com/taciturnaxolotl/hn-alerts) - _"a bot to track your hackernews posts!"_ **(today)**
 - [`hackatime`](https://github.com/hackclub/hackatime) - _"Just give it some time!"_ **(2 days ago)**
 - [`dots`](https://github.com/taciturnaxolotl/dots) - _"Kieran's opinionated (and probably slightly dumb) nix config"_ **(4 days ago)**
 - [`zera`](https://github.com/taciturnaxolotl/zera) - _"my new site v4?"_ **(5 days ago)**
@@ -11,7 +12,6 @@ When not doing school or working on a project, I enjoy flying drones and making 
 - [`tern`](https://github.com/taciturnaxolotl/tern) - _"an fpv drone!"_ **(1 week ago)**
 - [`terminal-wakatime`](https://github.com/hackclub/terminal-wakatime) - _"Wakatime plugin for bash / zsh / fish shells!"_ **(1 week ago)**
 - [`spam-patriot`](https://github.com/taciturnaxolotl/spam-patriot) - _""_ **(1 week ago)**
-- [`hn-alerts`](https://github.com/taciturnaxolotl/hn-alerts) - _"a bot to track your hackernews posts!"_ **(1 week ago)**
 
 #### ⌨️ My latest projects
 
@@ -34,20 +34,20 @@ When not doing school or working on a project, I enjoy flying drones and making 
 
 ```text
 💾 Languages:
-HTML          2h 29m 40s   █████████████░░░░░░░░░░░░  50.59%
-unknown       1h 54m 24s   ██████████░░░░░░░░░░░░░░░  38.67%
-Markdown      10m 1s       █░░░░░░░░░░░░░░░░░░░░░░░░  3.39%
-YAML          9m 34s       █░░░░░░░░░░░░░░░░░░░░░░░░  3.23%
-Nix           4m 58s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.68%
+HTML          2h 29m 40s   █████████████░░░░░░░░░░░░  50.15%
+unknown       1h 52m 25s   ██████████░░░░░░░░░░░░░░░  37.66%
+Markdown      10m 1s       █░░░░░░░░░░░░░░░░░░░░░░░░  3.36%
+YAML          9m 34s       █░░░░░░░░░░░░░░░░░░░░░░░░  3.21%
+Nix           4m 58s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.66%
 
 💼 Projects:
-plastic       2h 44m 53s   ██████████████░░░░░░░░░░░  55.73%
-kierank       42m 56s      ████░░░░░░░░░░░░░░░░░░░░░  14.51%
-movies        25m 44s      ███░░░░░░░░░░░░░░░░░░░░░░  8.70%
-unduckified   12m 42s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.29%
-tern          12m 7s       ██░░░░░░░░░░░░░░░░░░░░░░░  4.10%
+plastic       2h 44m 53s   ██████████████░░░░░░░░░░░  55.23%
+kierank       42m 56s      ████░░░░░░░░░░░░░░░░░░░░░  14.38%
+movies        23m 44s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.95%
+unduckified   12m 42s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.25%
+tern          12m 7s       ██░░░░░░░░░░░░░░░░░░░░░░░  4.06%
 
-Total: 4 hrs 56 mins
+Total: 4 hrs 59 mins
 ```
 
 #### 📮 Want to Contact me?
