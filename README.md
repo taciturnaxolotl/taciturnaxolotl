@@ -4,11 +4,11 @@ When not doing school or working on a project, I enjoy flying drones and making 
 
 #### 👷 The latest repos I've pushed to
 
-- [`hn-alerts`](https://github.com/taciturnaxolotl/hn-alerts) - _"a bot to track your hackernews posts!"_ **(today)**
-- [`hackatime`](https://github.com/hackclub/hackatime) - _"Just give it some time!"_ **(2 days ago)**
-- [`dots`](https://github.com/taciturnaxolotl/dots) - _"Kieran's opinionated (and probably slightly dumb) nix config"_ **(4 days ago)**
-- [`zera`](https://github.com/taciturnaxolotl/zera) - _"my new site v4?"_ **(5 days ago)**
-- [`plastic`](https://github.com/taciturnaxolotl/plastic) - _"self modifying website"_ **(6 days ago)**
+- [`plastic`](https://github.com/taciturnaxolotl/plastic) - _"self modifying website"_ **(1 day ago)**
+- [`hn-alerts`](https://github.com/taciturnaxolotl/hn-alerts) - _"a bot to track your hackernews posts!"_ **(1 day ago)**
+- [`hackatime`](https://github.com/hackclub/hackatime) - _"Just give it some time!"_ **(3 days ago)**
+- [`dots`](https://github.com/taciturnaxolotl/dots) - _"Kieran's opinionated (and probably slightly dumb) nix config"_ **(5 days ago)**
+- [`zera`](https://github.com/taciturnaxolotl/zera) - _"my new site v4?"_ **(6 days ago)**
 - [`tern`](https://github.com/taciturnaxolotl/tern) - _"an fpv drone!"_ **(1 week ago)**
 - [`terminal-wakatime`](https://github.com/hackclub/terminal-wakatime) - _"Wakatime plugin for bash / zsh / fish shells!"_ **(1 week ago)**
 - [`spam-patriot`](https://github.com/taciturnaxolotl/spam-patriot) - _""_ **(1 week ago)**
@@ -34,20 +34,20 @@ When not doing school or working on a project, I enjoy flying drones and making 
 
 ```text
 💾 Languages:
-unknown       1h 43m 26s   █████████████░░░░░░░░░░░░  50.82%
-HTML          1h 11m 35s   █████████░░░░░░░░░░░░░░░░  35.17%
-YAML          9m 34s       ██░░░░░░░░░░░░░░░░░░░░░░░  4.70%
-Nix           4m 58s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.44%
-JSON          4m 12s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.06%
+unknown       1h 43m 28s   ███████████████░░░░░░░░░░  56.16%
+HTML          52m 11s      ████████░░░░░░░░░░░░░░░░░  28.32%
+YAML          9m 34s       ██░░░░░░░░░░░░░░░░░░░░░░░  5.19%
+Nix           4m 58s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.70%
+JSON          4m 12s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.28%
 
 💼 Projects:
-plastic       1h 19m 39s   ██████████░░░░░░░░░░░░░░░  39.13%
-kierank       42m 56s      ██████░░░░░░░░░░░░░░░░░░░  21.09%
-movies        23m 44s      ███░░░░░░░░░░░░░░░░░░░░░░  11.66%
-unduckified   12m 42s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.24%
-hawkeye       8m 31s       ██░░░░░░░░░░░░░░░░░░░░░░░  4.18%
+plastic       58m 24s      ████████░░░░░░░░░░░░░░░░░  31.68%
+kierank       42m 56s      ██████░░░░░░░░░░░░░░░░░░░  23.29%
+movies        23m 44s      ████░░░░░░░░░░░░░░░░░░░░░  12.88%
+unduckified   12m 42s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.89%
+nixos         9m 18s       ██░░░░░░░░░░░░░░░░░░░░░░░  5.05%
 
-Total: 3 hrs 24 mins
+Total: 3 hrs 4 mins
 ```
 
 #### 📮 Want to Contact me?
