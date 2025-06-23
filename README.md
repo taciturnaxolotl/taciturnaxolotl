@@ -4,9 +4,9 @@ When not doing school or working on a project, I enjoy flying drones and making 
 
 #### 👷 The latest repos I've pushed to
 
-- [`dots`](https://github.com/taciturnaxolotl/dots) - _"Kieran's opinionated (and probably slightly dumb) nix config"_ **(1 day ago)**
+- [`akami`](https://github.com/taciturnaxolotl/akami) - _"🌷 the cutsie hackatime helper!"_ **(today)**
 - [`zera`](https://github.com/taciturnaxolotl/zera) - _"my new site v4?"_ **(1 day ago)**
-- [`akami`](https://github.com/taciturnaxolotl/akami) - _"🌷 the cutsie hackatime helper!"_ **(1 day ago)**
+- [`dots`](https://github.com/taciturnaxolotl/dots) - _"Kieran's opinionated (and probably slightly dumb) nix config"_ **(1 day ago)**
 - [`hn-alerts`](https://github.com/taciturnaxolotl/hn-alerts) - _"a bot to track your hackernews posts!"_ **(3 days ago)**
 - [`plastic`](https://github.com/taciturnaxolotl/plastic) - _"self modifying website"_ **(3 days ago)**
 - [`hackatime`](https://github.com/hackclub/hackatime) - _"Just give it some time!"_ **(5 days ago)**
@@ -34,20 +34,20 @@ When not doing school or working on a project, I enjoy flying drones and making 
 
 ```text
 💾 Languages:
-unknown   2h 26m 32s   ███████████░░░░░░░░░░░░░░  40.53%
-Go        2h 8m 17s    █████████░░░░░░░░░░░░░░░░  35.48%
-Nix       28m 22s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.85%
-YAML      9m 34s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.65%
-go        8m 20s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.30%
+unknown   2h 45m 51s   ███████████░░░░░░░░░░░░░░  40.48%
+Go        2h 34m 44s   ██████████░░░░░░░░░░░░░░░  37.76%
+Nix       28m 22s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.92%
+YAML      9m 34s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.33%
+go        9m 24s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.29%
 
 💼 Projects:
-akami     3h 21m 23s   ██████████████░░░░░░░░░░░  55.67%
-nixos     45m 59s      ████░░░░░░░░░░░░░░░░░░░░░  12.71%
-kierank   28m 12s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.80%
-movies    23m 44s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.56%
-zera      13m 52s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.83%
+akami     4h 2m 23s    ███████████████░░░░░░░░░░  59.13%
+nixos     45m 59s      ███░░░░░░░░░░░░░░░░░░░░░░  11.22%
+kierank   28m 34s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.97%
+movies    23m 44s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.79%
+zera      13m 52s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.38%
 
-Total: 6 hrs 2 mins
+Total: 6 hrs 50 mins
 ```
 
 #### 📮 Want to Contact me?
