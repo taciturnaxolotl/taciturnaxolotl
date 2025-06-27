@@ -4,8 +4,8 @@ When not doing school or working on a project, I enjoy flying drones and making 
 
 #### 👷 The latest repos I've pushed to
 
-- [`ctfd-alerts`](https://github.com/taciturnaxolotl/ctfd-alerts) - _""_ **(today)**
-- [`dots`](https://github.com/taciturnaxolotl/dots) - _"Kieran's opinionated (and probably slightly dumb) nix config"_ **(2 days ago)**
+- [`dots`](https://github.com/taciturnaxolotl/dots) - _"Kieran's opinionated (and probably slightly dumb) nix config"_ **(today)**
+- [`ctfd-alerts`](https://github.com/taciturnaxolotl/ctfd-alerts) - _"⛳ alerts for any ctfd instance via ntfy "_ **(today)**
 - [`akami`](https://github.com/taciturnaxolotl/akami) - _"🌷 the cutsie hackatime helper!"_ **(4 days ago)**
 - [`zera`](https://github.com/taciturnaxolotl/zera) - _"my new site v4?"_ **(5 days ago)**
 - [`hn-alerts`](https://github.com/taciturnaxolotl/hn-alerts) - _"a bot to track your hackernews posts!"_ **(1 week ago)**
@@ -15,7 +15,7 @@ When not doing school or working on a project, I enjoy flying drones and making 
 
 #### ⌨️ My latest projects
 
-- [`ctfd-alerts`](https://github.com/taciturnaxolotl/ctfd-alerts) - _""_
+- [`ctfd-alerts`](https://github.com/taciturnaxolotl/ctfd-alerts) - _"⛳ alerts for any ctfd instance via ntfy "_
 - [`akami`](https://github.com/taciturnaxolotl/akami) - _"🌷 the cutsie hackatime helper!"_
 - [`plastic`](https://github.com/taciturnaxolotl/plastic) - _"self modifying website"_
 - [`tern`](https://github.com/taciturnaxolotl/tern) - _"an fpv drone!"_
@@ -34,20 +34,20 @@ When not doing school or working on a project, I enjoy flying drones and making 
 
 ```text
 💾 Languages:
-unknown       7h 31m 13s   ███████████░░░░░░░░░░░░░░  42.86%
-Go            5h 50m 9s    █████████░░░░░░░░░░░░░░░░  33.26%
-Nix           1h 12m 31s   ██░░░░░░░░░░░░░░░░░░░░░░░  6.89%
-Markdown      47m 13s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.49%
-Python        24m 55s      █░░░░░░░░░░░░░░░░░░░░░░░░  2.37%
+unknown       7h 49m 49s   ███████████░░░░░░░░░░░░░░  43.24%
+Go            5h 52m 2s    █████████░░░░░░░░░░░░░░░░  32.40%
+Nix           1h 17m 23s   ██░░░░░░░░░░░░░░░░░░░░░░░  7.12%
+Markdown      51m 27s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.74%
+Python        24m 55s      █░░░░░░░░░░░░░░░░░░░░░░░░  2.29%
 
 💼 Projects:
-akami         6h 50m 14s   ██████████░░░░░░░░░░░░░░░  38.96%
-ctfd-alerts   2h 50m 44s   █████░░░░░░░░░░░░░░░░░░░░  16.22%
-nixos         1h 43m 13s   ███░░░░░░░░░░░░░░░░░░░░░░  9.80%
-pi            1h 27m 19s   ███░░░░░░░░░░░░░░░░░░░░░░  8.29%
-dots          58m 6s       ██░░░░░░░░░░░░░░░░░░░░░░░  5.52%
+akami         6h 50m 14s   ██████████░░░░░░░░░░░░░░░  37.75%
+ctfd-alerts   3h 11m 34s   █████░░░░░░░░░░░░░░░░░░░░  17.63%
+nixos         1h 47m 2s    ███░░░░░░░░░░░░░░░░░░░░░░  9.85%
+pi            1h 27m 19s   ███░░░░░░░░░░░░░░░░░░░░░░  8.03%
+dots          1h 1m 31s    ██░░░░░░░░░░░░░░░░░░░░░░░  5.66%
 
-Total: 17 hrs 33 mins
+Total: 18 hrs 7 mins
 ```
 
 #### 📮 Want to Contact me?
