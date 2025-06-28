@@ -4,8 +4,8 @@ When not doing school or working on a project, I enjoy flying drones and making 
 
 #### 👷 The latest repos I've pushed to
 
+- [`dots`](https://github.com/taciturnaxolotl/dots) - _"Kieran's opinionated (and probably slightly dumb) nix config"_ **(today)**
 - [`cachet`](https://github.com/taciturnaxolotl/cachet) - _"a cache for slack profile pictures and emojis"_ **(today)**
-- [`dots`](https://github.com/taciturnaxolotl/dots) - _"Kieran's opinionated (and probably slightly dumb) nix config"_ **(1 day ago)**
 - [`ctfd-alerts`](https://github.com/taciturnaxolotl/ctfd-alerts) - _"⛳ alerts for any ctfd instance via ntfy "_ **(1 day ago)**
 - [`akami`](https://github.com/taciturnaxolotl/akami) - _"🌷 the cutsie hackatime helper!"_ **(5 days ago)**
 - [`zera`](https://github.com/taciturnaxolotl/zera) - _"my new site v4?"_ **(6 days ago)**
@@ -34,20 +34,20 @@ When not doing school or working on a project, I enjoy flying drones and making 
 
 ```text
 💾 Languages:
-unknown       8h 2m 54s    ███████████░░░░░░░░░░░░░░  43.51%
-Go            5h 54m 2s    ████████░░░░░░░░░░░░░░░░░  31.90%
-Nix           1h 17m 23s   ██░░░░░░░░░░░░░░░░░░░░░░░  6.97%
-Markdown      51m 27s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.64%
-Python        24m 55s      █░░░░░░░░░░░░░░░░░░░░░░░░  2.24%
+unknown       8h 10m 10s   ███████████░░░░░░░░░░░░░░  43.61%
+Go            5h 54m 2s    ████████░░░░░░░░░░░░░░░░░  31.50%
+Nix           1h 21m 27s   ██░░░░░░░░░░░░░░░░░░░░░░░  7.25%
+Markdown      51m 27s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.58%
+Python        24m 55s      █░░░░░░░░░░░░░░░░░░░░░░░░  2.22%
 
 💼 Projects:
-akami         6h 50m 14s   ██████████░░░░░░░░░░░░░░░  36.95%
-ctfd-alerts   3h 15m 15s   █████░░░░░░░░░░░░░░░░░░░░  17.59%
-nixos         1h 50m 7s    ███░░░░░░░░░░░░░░░░░░░░░░  9.92%
-pi            1h 27m 19s   ██░░░░░░░░░░░░░░░░░░░░░░░  7.87%
-dots          1h 7m 29s    ██░░░░░░░░░░░░░░░░░░░░░░░  6.08%
+akami         6h 50m 14s   ██████████░░░░░░░░░░░░░░░  36.49%
+ctfd-alerts   3h 15m 15s   █████░░░░░░░░░░░░░░░░░░░░  17.37%
+nixos         1h 59m 39s   ███░░░░░░░░░░░░░░░░░░░░░░  10.64%
+pi            1h 27m 19s   ██░░░░░░░░░░░░░░░░░░░░░░░  7.77%
+dots          1h 7m 29s    ██░░░░░░░░░░░░░░░░░░░░░░░  6.00%
 
-Total: 18 hrs 30 mins
+Total: 18 hrs 44 mins
 ```
 
 #### 📮 Want to Contact me?
