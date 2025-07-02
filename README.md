@@ -4,14 +4,14 @@ When not doing school or working on a project, I enjoy flying drones and making 
 
 #### 👷 The latest repos I've pushed to
 
-- [`dots`](https://github.com/taciturnaxolotl/dots) - _"Kieran's opinionated (and probably slightly dumb) nix config"_ **(today)**
-- [`myrus`](https://github.com/taciturnaxolotl/myrus) - _"a scrappy gimbal that insults you in shakespearean english"_ **(today)**
+- [`hackatime-extension`](https://github.com/taciturnaxolotl/hackatime-extension) - _"the future most epic chrome / firefox / edge / vivaldi / opera extension ever!!!"_ **(today)**
 - [`spam-patriot`](https://github.com/taciturnaxolotl/spam-patriot) - _""_ **(today)**
+- [`myrus`](https://github.com/taciturnaxolotl/myrus) - _"a scrappy gimbal that insults you in shakespearean english"_ **(today)**
+- [`fraps`](https://github.com/taciturnaxolotl/fraps) - _"A spotify top tracks viewer!"_ **(today)**
+- [`dots`](https://github.com/taciturnaxolotl/dots) - _"Kieran's opinionated (and probably slightly dumb) nix config"_ **(today)**
+- [`the-tavern`](https://github.com/taciturnaxolotl/the-tavern) - _"The hackclub bag tavern where you can get gossip and learn about the latest quests"_ **(today)**
 - [`zera`](https://github.com/taciturnaxolotl/zera) - _"my new site v4?"_ **(4 days ago)**
 - [`cachet`](https://github.com/taciturnaxolotl/cachet) - _"a cache for slack profile pictures and emojis"_ **(4 days ago)**
-- [`ctfd-alerts`](https://github.com/taciturnaxolotl/ctfd-alerts) - _"⛳ alerts for any ctfd instance via ntfy "_ **(5 days ago)**
-- [`akami`](https://github.com/taciturnaxolotl/akami) - _"🌷 the cutsie hackatime helper!"_ **(1 week ago)**
-- [`plastic`](https://github.com/taciturnaxolotl/plastic) - _"self modifying website"_ **(1 week ago)**
 
 #### ⌨️ My latest projects
 
@@ -34,20 +34,20 @@ When not doing school or working on a project, I enjoy flying drones and making 
 
 ```text
 💾 Languages:
-unknown         5h 33m 30s   █████████████░░░░░░░░░░░░  48.51%
-Nix             2h 28m 25s   ██████░░░░░░░░░░░░░░░░░░░  21.59%
-Go              47m 3s       ██░░░░░░░░░░░░░░░░░░░░░░░  6.84%
-Markdown        46m 29s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.76%
-JavaScript      18m 52s      █░░░░░░░░░░░░░░░░░░░░░░░░  2.74%
+unknown         5h 39m 14s   █████████████░░░░░░░░░░░░  48.70%
+Nix             2h 30m 26s   ██████░░░░░░░░░░░░░░░░░░░  21.60%
+Go              47m 3s       ██░░░░░░░░░░░░░░░░░░░░░░░  6.75%
+Markdown        46m 29s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.67%
+JavaScript      20m 13s      █░░░░░░░░░░░░░░░░░░░░░░░░  2.90%
 
 💼 Projects:
-nixos           3h 40m 51s   █████████░░░░░░░░░░░░░░░░  32.11%
-ctfd-alerts     2h 0m 2s     █████░░░░░░░░░░░░░░░░░░░░  17.45%
-raycast-linux   1h 35m 31s   ████░░░░░░░░░░░░░░░░░░░░░  13.89%
-kierank         1h 12m 0s    ███░░░░░░░░░░░░░░░░░░░░░░  10.47%
-pi              53m 19s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.75%
+nixos           3h 42m 52s   ████████░░░░░░░░░░░░░░░░░  31.98%
+ctfd-alerts     2h 0m 2s     █████░░░░░░░░░░░░░░░░░░░░  17.23%
+raycast-linux   1h 35m 31s   ████░░░░░░░░░░░░░░░░░░░░░  13.71%
+kierank         1h 20m 20s   ███░░░░░░░░░░░░░░░░░░░░░░  11.53%
+pi              51m 50s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.44%
 
-Total: 11 hrs 28 mins
+Total: 11 hrs 37 mins
 ```
 
 #### 📮 Want to Contact me?
