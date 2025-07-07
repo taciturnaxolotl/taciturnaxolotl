@@ -4,12 +4,12 @@ When not doing school or working on a project, I enjoy flying drones and making 
 
 #### 👷 The latest repos I've pushed to
 
-- [`dots`](https://github.com/taciturnaxolotl/dots) - _"Kieran's opinionated (and probably slightly dumb) nix config"_ **(3 days ago)**
-- [`hackatime-extension`](https://github.com/taciturnaxolotl/hackatime-extension) - _"the future most epic chrome / firefox / edge / vivaldi / opera extension ever!!!"_ **(4 days ago)**
-- [`myrus`](https://github.com/taciturnaxolotl/myrus) - _"a scrappy gimbal that insults you in shakespearean english"_ **(4 days ago)**
-- [`fraps`](https://github.com/taciturnaxolotl/fraps) - _"A spotify top tracks viewer!"_ **(4 days ago)**
-- [`the-tavern`](https://github.com/taciturnaxolotl/the-tavern) - _"The hackclub bag tavern where you can get gossip and learn about the latest quests"_ **(4 days ago)**
-- [`spam-patriot`](https://github.com/taciturnaxolotl/spam-patriot) - _""_ **(4 days ago)**
+- [`dots`](https://github.com/taciturnaxolotl/dots) - _"Kieran's opinionated (and probably slightly dumb) nix config"_ **(4 days ago)**
+- [`hackatime-extension`](https://github.com/taciturnaxolotl/hackatime-extension) - _"the future most epic chrome / firefox / edge / vivaldi / opera extension ever!!!"_ **(5 days ago)**
+- [`myrus`](https://github.com/taciturnaxolotl/myrus) - _"a scrappy gimbal that insults you in shakespearean english"_ **(5 days ago)**
+- [`fraps`](https://github.com/taciturnaxolotl/fraps) - _"A spotify top tracks viewer!"_ **(5 days ago)**
+- [`the-tavern`](https://github.com/taciturnaxolotl/the-tavern) - _"The hackclub bag tavern where you can get gossip and learn about the latest quests"_ **(5 days ago)**
+- [`spam-patriot`](https://github.com/taciturnaxolotl/spam-patriot) - _""_ **(5 days ago)**
 - [`cachet`](https://github.com/taciturnaxolotl/cachet) - _"a cache for slack profile pictures and emojis"_ **(1 week ago)**
 - [`zera`](https://github.com/taciturnaxolotl/zera) - _"my new site v4?"_ **(1 week ago)**
 
@@ -34,20 +34,20 @@ When not doing school or working on a project, I enjoy flying drones and making 
 
 ```text
 💾 Languages:
-unknown         4h 14m 7s    ████████████████░░░░░░░░░  63.27%
-Nix             1h 42m 59s   ███████░░░░░░░░░░░░░░░░░░  25.64%
-conf            11m 54s      █░░░░░░░░░░░░░░░░░░░░░░░░  2.96%
-nix             9m 15s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.30%
-Markdown        5m 22s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.34%
+unknown         3h 51m 44s   ████████████████░░░░░░░░░  62.80%
+Nix             1h 37m 37s   ███████░░░░░░░░░░░░░░░░░░  26.46%
+conf            11m 54s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.23%
+nix             6m 37s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.79%
+Groff           4m 0s        █░░░░░░░░░░░░░░░░░░░░░░░░  1.08%
 
 💼 Projects:
-nixos           3h 29m 26s   ██████████████░░░░░░░░░░░  52.15%
-kierank         1h 20m 46s   ██████░░░░░░░░░░░░░░░░░░░  20.11%
-raycast-linux   38m 50s      ███░░░░░░░░░░░░░░░░░░░░░░  9.67%
-dots            23m 44s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.91%
-unknown         16m 28s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.10%
+nixos           3h 8m 7s     █████████████░░░░░░░░░░░░  50.99%
+kierank         1h 11m 24s   █████░░░░░░░░░░░░░░░░░░░░  19.35%
+raycast-linux   38m 50s      ███░░░░░░░░░░░░░░░░░░░░░░  10.53%
+dots            23m 44s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.43%
+unknown         16m 28s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.46%
 
-Total: 6 hrs 42 mins
+Total: 6 hrs 9 mins
 ```
 
 #### 📮 Want to Contact me?
