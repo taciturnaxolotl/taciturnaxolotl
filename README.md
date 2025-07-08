@@ -4,13 +4,13 @@ When not doing school or working on a project, I enjoy flying drones and making 
 
 #### 👷 The latest repos I've pushed to
 
-- [`dots`](https://github.com/taciturnaxolotl/dots) - _"Kieran's opinionated (and probably slightly dumb) nix config"_ **(4 days ago)**
-- [`spam-patriot`](https://github.com/taciturnaxolotl/spam-patriot) - _""_ **(5 days ago)**
-- [`fraps`](https://github.com/taciturnaxolotl/fraps) - _"A spotify top tracks viewer!"_ **(5 days ago)**
-- [`hackatime-extension`](https://github.com/taciturnaxolotl/hackatime-extension) - _"the future most epic chrome / firefox / edge / vivaldi / opera extension ever!!!"_ **(5 days ago)**
-- [`swapper`](https://github.com/taciturnaxolotl/swapper) - _"swap profiles with others on slack!"_ **(5 days ago)**
-- [`myrus`](https://github.com/taciturnaxolotl/myrus) - _"a scrappy gimbal that insults you in shakespearean english"_ **(5 days ago)**
-- [`the-tavern`](https://github.com/taciturnaxolotl/the-tavern) - _"The hackclub bag tavern where you can get gossip and learn about the latest quests"_ **(5 days ago)**
+- [`dots`](https://github.com/taciturnaxolotl/dots) - _"Kieran's opinionated (and probably slightly dumb) nix config"_ **(5 days ago)**
+- [`spam-patriot`](https://github.com/taciturnaxolotl/spam-patriot) - _""_ **(6 days ago)**
+- [`fraps`](https://github.com/taciturnaxolotl/fraps) - _"A spotify top tracks viewer!"_ **(6 days ago)**
+- [`hackatime-extension`](https://github.com/taciturnaxolotl/hackatime-extension) - _"the future most epic chrome / firefox / edge / vivaldi / opera extension ever!!!"_ **(6 days ago)**
+- [`swapper`](https://github.com/taciturnaxolotl/swapper) - _"swap profiles with others on slack!"_ **(6 days ago)**
+- [`myrus`](https://github.com/taciturnaxolotl/myrus) - _"a scrappy gimbal that insults you in shakespearean english"_ **(6 days ago)**
+- [`the-tavern`](https://github.com/taciturnaxolotl/the-tavern) - _"The hackclub bag tavern where you can get gossip and learn about the latest quests"_ **(6 days ago)**
 - [`cachet`](https://github.com/taciturnaxolotl/cachet) - _"a cache for slack profile pictures and emojis"_ **(1 week ago)**
 
 #### ⌨️ My latest projects
@@ -34,20 +34,20 @@ When not doing school or working on a project, I enjoy flying drones and making 
 
 ```text
 💾 Languages:
-unknown         3h 38m 29s   ████████████████░░░░░░░░░  61.07%
-Nix             1h 39m 37s   ███████░░░░░░░░░░░░░░░░░░  27.85%
-conf            11m 54s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.33%
-nix             6m 37s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.85%
-Groff           4m 0s        █░░░░░░░░░░░░░░░░░░░░░░░░  1.12%
+unknown         3h 38m 12s   ████████████████░░░░░░░░░  61.92%
+Nix             1h 39m 37s   ████████░░░░░░░░░░░░░░░░░  28.27%
+conf            11m 54s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.38%
+nix             6m 37s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.88%
+Groff           4m 0s        █░░░░░░░░░░░░░░░░░░░░░░░░  1.14%
 
 💼 Projects:
-nixos           3h 4m 7s     █████████████░░░░░░░░░░░░  51.47%
-kierank         1h 7m 11s    █████░░░░░░░░░░░░░░░░░░░░  18.78%
-raycast-linux   35m 49s      ███░░░░░░░░░░░░░░░░░░░░░░  10.01%
-dots            25m 44s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.19%
-unknown         16m 28s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.60%
+nixos           3h 4m 7s     ██████████████░░░░░░░░░░░  52.26%
+kierank         1h 7m 7s     █████░░░░░░░░░░░░░░░░░░░░  19.05%
+raycast-linux   35m 49s      ███░░░░░░░░░░░░░░░░░░░░░░  10.17%
+dots            25m 44s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.30%
+unknown         16m 28s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.67%
 
-Total: 5 hrs 58 mins
+Total: 5 hrs 52 mins
 ```
 
 #### 📮 Want to Contact me?
