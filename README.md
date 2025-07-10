@@ -4,7 +4,7 @@ When not doing school or working on a project, I enjoy flying drones and making 
 
 #### 👷 The latest repos I've pushed to
 
-- [`dots`](https://github.com/taciturnaxolotl/dots) - _"Kieran's opinionated (and probably slightly dumb) nix config"_ **(6 days ago)**
+- [`dots`](https://github.com/taciturnaxolotl/dots) - _"Kieran's opinionated (and probably slightly dumb) nix config"_ **(1 week ago)**
 - [`spam-patriot`](https://github.com/taciturnaxolotl/spam-patriot) - _""_ **(1 week ago)**
 - [`fraps`](https://github.com/taciturnaxolotl/fraps) - _"A spotify top tracks viewer!"_ **(1 week ago)**
 - [`hackatime-extension`](https://github.com/taciturnaxolotl/hackatime-extension) - _"the future most epic chrome / firefox / edge / vivaldi / opera extension ever!!!"_ **(1 week ago)**
