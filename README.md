@@ -11,7 +11,7 @@ When not doing school or working on a project, I enjoy flying drones and making 
 - [`swapper`](https://github.com/taciturnaxolotl/swapper) - _"swap profiles with others on slack!"_ **(1 week ago)**
 - [`myrus`](https://github.com/taciturnaxolotl/myrus) - _"a scrappy gimbal that insults you in shakespearean english"_ **(1 week ago)**
 - [`the-tavern`](https://github.com/taciturnaxolotl/the-tavern) - _"The hackclub bag tavern where you can get gossip and learn about the latest quests"_ **(1 week ago)**
-- [`cachet`](https://github.com/taciturnaxolotl/cachet) - _"a cache for slack profile pictures and emojis"_ **(1 week ago)**
+- [`cachet`](https://github.com/taciturnaxolotl/cachet) - _"a cache for slack profile pictures and emojis"_ **(2 weeks ago)**
 
 #### ⌨️ My latest projects
 
@@ -24,9 +24,9 @@ When not doing school or working on a project, I enjoy flying drones and making 
 
 - [`Musings about Atuin`](https://dunkirk.sh/blog/atuin/) **(2 months ago)**
 
-- [`Adding a copy code button`](https://dunkirk.sh/blog/adding-a-copy-button/) **(3 months ago)**
+- [`Adding a copy code button`](https://dunkirk.sh/blog/adding-a-copy-button/) **(4 months ago)**
 
-- [`All my animation projects`](https://dunkirk.sh/blog/my-animations/) **(3 months ago)**
+- [`All my animation projects`](https://dunkirk.sh/blog/my-animations/) **(4 months ago)**
 
 
 
@@ -34,13 +34,12 @@ When not doing school or working on a project, I enjoy flying drones and making 
 
 ```text
 💾 Languages:
-unknown         3m 43s   █████████████████░░░░░░░░  65.01%
-Nix             2m 0s    █████████░░░░░░░░░░░░░░░░  34.99%
+unknown   4m 4s   █████████████████░░░░░░░░  67.03%
+Nix       2m 0s   █████████░░░░░░░░░░░░░░░░  32.97%
 
 💼 Projects:
-raycast-linux   2m 48s   █████████████░░░░░░░░░░░░  48.98%
-dots            2m 0s    █████████░░░░░░░░░░░░░░░░  34.99%
-kierank         55s      █████░░░░░░░░░░░░░░░░░░░░  16.03%
+kierank   4m 4s   █████████████████░░░░░░░░  67.03%
+dots      2m 0s   █████████░░░░░░░░░░░░░░░░  32.97%
 
 Total: 0 hrs 6 mins
 ```
