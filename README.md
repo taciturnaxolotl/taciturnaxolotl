@@ -4,14 +4,14 @@ When not doing school or working on a project, I enjoy flying drones and making 
 
 #### 👷 The latest repos I've pushed to
 
+- [`claude-desktop-linux-flake`](https://github.com/k3d3/claude-desktop-linux-flake) - _"Nix Flake for Claude Desktop on Linux"_ **(today)**
 - [`dots`](https://github.com/taciturnaxolotl/dots) - _"Kieran's opinionated (and probably slightly dumb) nix config"_ **(1 week ago)**
-- [`myrus`](https://github.com/taciturnaxolotl/myrus) - _"a scrappy gimbal that insults you in shakespearean english"_ **(1 week ago)**
-- [`swapper`](https://github.com/taciturnaxolotl/swapper) - _"swap profiles with others on slack!"_ **(1 week ago)**
-- [`hackatime-extension`](https://github.com/taciturnaxolotl/hackatime-extension) - _"the future most epic chrome / firefox / edge / vivaldi / opera extension ever!!!"_ **(1 week ago)**
 - [`fraps`](https://github.com/taciturnaxolotl/fraps) - _"A spotify top tracks viewer!"_ **(1 week ago)**
-- [`the-tavern`](https://github.com/taciturnaxolotl/the-tavern) - _"The hackclub bag tavern where you can get gossip and learn about the latest quests"_ **(1 week ago)**
+- [`myrus`](https://github.com/taciturnaxolotl/myrus) - _"a scrappy gimbal that insults you in shakespearean english"_ **(1 week ago)**
+- [`hackatime-extension`](https://github.com/taciturnaxolotl/hackatime-extension) - _"the future most epic chrome / firefox / edge / vivaldi / opera extension ever!!!"_ **(1 week ago)**
 - [`spam-patriot`](https://github.com/taciturnaxolotl/spam-patriot) - _""_ **(1 week ago)**
-- [`cachet`](https://github.com/taciturnaxolotl/cachet) - _"a cache for slack profile pictures and emojis"_ **(2 weeks ago)**
+- [`swapper`](https://github.com/taciturnaxolotl/swapper) - _"swap profiles with others on slack!"_ **(1 week ago)**
+- [`the-tavern`](https://github.com/taciturnaxolotl/the-tavern) - _"The hackclub bag tavern where you can get gossip and learn about the latest quests"_ **(1 week ago)**
 
 #### ⌨️ My latest projects
 
@@ -34,20 +34,20 @@ When not doing school or working on a project, I enjoy flying drones and making 
 
 ```text
 💾 Languages:
-Nix          1h 11m 59s   █████████████░░░░░░░░░░░░  50.65%
-unknown      43m 2s       ████████░░░░░░░░░░░░░░░░░  30.28%
-JavaScript   8m 26s       ██░░░░░░░░░░░░░░░░░░░░░░░  5.93%
-json         8m 10s       ██░░░░░░░░░░░░░░░░░░░░░░░  5.75%
-Markdown     3m 21s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.36%
+Nix          1h 16m 30s   ████████████░░░░░░░░░░░░░  46.91%
+unknown      52m 17s      █████████░░░░░░░░░░░░░░░░  32.06%
+json         10m 27s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.41%
+JavaScript   8m 26s       ██░░░░░░░░░░░░░░░░░░░░░░░  5.17%
+Markdown     6m 6s        █░░░░░░░░░░░░░░░░░░░░░░░░  3.74%
 
 💼 Projects:
-RapidRAW     2h 4m 40s    ██████████████████████░░░  87.70%
-dots         11m 55s      ███░░░░░░░░░░░░░░░░░░░░░░  8.38%
-kierank      2m 0s        █░░░░░░░░░░░░░░░░░░░░░░░░  1.41%
-github       1m 56s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.36%
-akami        1m 1s        █░░░░░░░░░░░░░░░░░░░░░░░░  0.72%
+RapidRAW     2h 17m 10s   ██████████████████████░░░  84.10%
+dots         19m 27s      ███░░░░░░░░░░░░░░░░░░░░░░  11.93%
+github       2m 51s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.75%
+kierank      2m 0s        █░░░░░░░░░░░░░░░░░░░░░░░░  1.23%
+akami        1m 1s        █░░░░░░░░░░░░░░░░░░░░░░░░  0.62%
 
-Total: 2 hrs 22 mins
+Total: 2 hrs 43 mins
 ```
 
 #### 📮 Want to Contact me?
