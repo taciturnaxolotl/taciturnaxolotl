@@ -4,14 +4,14 @@ When not doing school or working on a project, I enjoy flying drones and making 
 
 #### 👷 The latest repos I've pushed to
 
-- [`claude-desktop-linux-flake`](https://github.com/k3d3/claude-desktop-linux-flake) - _"Nix Flake for Claude Desktop on Linux"_ **(today)**
+- [`claude-desktop-linux-flake`](https://github.com/k3d3/claude-desktop-linux-flake) - _"Nix Flake for Claude Desktop on Linux"_ **(1 day ago)**
 - [`dots`](https://github.com/taciturnaxolotl/dots) - _"Kieran's opinionated (and probably slightly dumb) nix config"_ **(1 week ago)**
-- [`fraps`](https://github.com/taciturnaxolotl/fraps) - _"A spotify top tracks viewer!"_ **(1 week ago)**
-- [`myrus`](https://github.com/taciturnaxolotl/myrus) - _"a scrappy gimbal that insults you in shakespearean english"_ **(1 week ago)**
-- [`hackatime-extension`](https://github.com/taciturnaxolotl/hackatime-extension) - _"the future most epic chrome / firefox / edge / vivaldi / opera extension ever!!!"_ **(1 week ago)**
-- [`spam-patriot`](https://github.com/taciturnaxolotl/spam-patriot) - _""_ **(1 week ago)**
-- [`swapper`](https://github.com/taciturnaxolotl/swapper) - _"swap profiles with others on slack!"_ **(1 week ago)**
-- [`the-tavern`](https://github.com/taciturnaxolotl/the-tavern) - _"The hackclub bag tavern where you can get gossip and learn about the latest quests"_ **(1 week ago)**
+- [`fraps`](https://github.com/taciturnaxolotl/fraps) - _"A spotify top tracks viewer!"_ **(2 weeks ago)**
+- [`myrus`](https://github.com/taciturnaxolotl/myrus) - _"a scrappy gimbal that insults you in shakespearean english"_ **(2 weeks ago)**
+- [`hackatime-extension`](https://github.com/taciturnaxolotl/hackatime-extension) - _"the future most epic chrome / firefox / edge / vivaldi / opera extension ever!!!"_ **(2 weeks ago)**
+- [`spam-patriot`](https://github.com/taciturnaxolotl/spam-patriot) - _""_ **(2 weeks ago)**
+- [`swapper`](https://github.com/taciturnaxolotl/swapper) - _"swap profiles with others on slack!"_ **(2 weeks ago)**
+- [`the-tavern`](https://github.com/taciturnaxolotl/the-tavern) - _"The hackclub bag tavern where you can get gossip and learn about the latest quests"_ **(2 weeks ago)**
 
 #### ⌨️ My latest projects
 
@@ -34,20 +34,20 @@ When not doing school or working on a project, I enjoy flying drones and making 
 
 ```text
 💾 Languages:
-Nix          1h 17m 16s   ████████████░░░░░░░░░░░░░  44.87%
-unknown      1h 0m 33s    █████████░░░░░░░░░░░░░░░░  35.17%
-json         10m 28s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.08%
-JavaScript   8m 26s       ██░░░░░░░░░░░░░░░░░░░░░░░  4.90%
-Markdown     6m 6s        █░░░░░░░░░░░░░░░░░░░░░░░░  3.54%
+Nix          1h 17m 30s   ████████████░░░░░░░░░░░░░  44.43%
+unknown      1h 2m 33s    █████████░░░░░░░░░░░░░░░░  35.86%
+json         10m 28s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.00%
+JavaScript   8m 26s       ██░░░░░░░░░░░░░░░░░░░░░░░  4.84%
+Markdown     6m 6s        █░░░░░░░░░░░░░░░░░░░░░░░░  3.50%
 
 💼 Projects:
-RapidRAW     2h 17m 35s   ████████████████████░░░░░  79.88%
-dots         24m 5s       ████░░░░░░░░░░░░░░░░░░░░░  13.98%
-github       4m 51s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.82%
-kierank      4m 5s        █░░░░░░░░░░░░░░░░░░░░░░░░  2.37%
-akami        1m 1s        █░░░░░░░░░░░░░░░░░░░░░░░░  0.59%
+RapidRAW     2h 17m 35s   ████████████████████░░░░░  78.86%
+dots         26m 19s      ████░░░░░░░░░░░░░░░░░░░░░  15.08%
+github       4m 51s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.78%
+kierank      4m 5s        █░░░░░░░░░░░░░░░░░░░░░░░░  2.34%
+akami        1m 1s        █░░░░░░░░░░░░░░░░░░░░░░░░  0.58%
 
-Total: 2 hrs 52 mins
+Total: 2 hrs 54 mins
 ```
 
 #### 📮 Want to Contact me?
