@@ -4,21 +4,21 @@ When not doing school or working on a project, I enjoy flying drones and making 
 
 #### 👷 The latest repos I've pushed to
 
-- [`dots`](https://github.com/taciturnaxolotl/dots) - _"Kieran's opinionated (and probably slightly dumb) nix config"_ **(today)**
-- [`claude-desktop-linux-flake`](https://github.com/k3d3/claude-desktop-linux-flake) - _"Nix Flake for Claude Desktop on Linux"_ **(1 day ago)**
+- [`dots`](https://github.com/taciturnaxolotl/dots) - _"Kieran's opinionated (and probably slightly dumb) nix config"_ **(1 day ago)**
+- [`shortwave`](https://github.com/taciturnaxolotl/shortwave) - _"a mega cool windows xp app "_ **(1 day ago)**
+- [`claude-desktop-linux-flake`](https://github.com/k3d3/claude-desktop-linux-flake) - _"Nix Flake for Claude Desktop on Linux"_ **(2 days ago)**
 - [`swapper`](https://github.com/taciturnaxolotl/swapper) - _"swap profiles with others on slack!"_ **(2 weeks ago)**
-- [`the-tavern`](https://github.com/taciturnaxolotl/the-tavern) - _"The hackclub bag tavern where you can get gossip and learn about the latest quests"_ **(2 weeks ago)**
 - [`spam-patriot`](https://github.com/taciturnaxolotl/spam-patriot) - _""_ **(2 weeks ago)**
 - [`myrus`](https://github.com/taciturnaxolotl/myrus) - _"a scrappy gimbal that insults you in shakespearean english"_ **(2 weeks ago)**
 - [`hackatime-extension`](https://github.com/taciturnaxolotl/hackatime-extension) - _"the future most epic chrome / firefox / edge / vivaldi / opera extension ever!!!"_ **(2 weeks ago)**
-- [`fraps`](https://github.com/taciturnaxolotl/fraps) - _"A spotify top tracks viewer!"_ **(2 weeks ago)**
+- [`the-tavern`](https://github.com/taciturnaxolotl/the-tavern) - _"The hackclub bag tavern where you can get gossip and learn about the latest quests"_ **(2 weeks ago)**
 
 #### ⌨️ My latest projects
 
+- [`shortwave`](https://github.com/taciturnaxolotl/shortwave) - _"a mega cool windows xp app "_
 - [`ctfd-alerts`](https://github.com/taciturnaxolotl/ctfd-alerts) - _"⛳ alerts for any ctfd instance via ntfy "_
 - [`akami`](https://github.com/taciturnaxolotl/akami) - _"🌷 the cutsie hackatime helper!"_
 - [`plastic`](https://github.com/taciturnaxolotl/plastic) - _"self modifying website"_
-- [`tern`](https://github.com/taciturnaxolotl/tern) - _"an fpv drone!"_
 
 #### 🗒️ the latest posts from my [blog](https://dunkirk.sh)
 
@@ -34,20 +34,20 @@ When not doing school or working on a project, I enjoy flying drones and making 
 
 ```text
 💾 Languages:
-unknown      2h 56m 2s    ████████████░░░░░░░░░░░░░  46.06%
-Nix          2h 36m 56s   ███████████░░░░░░░░░░░░░░  41.06%
-json         13m 31s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.54%
-JavaScript   8m 26s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.21%
-nix          8m 5s        █░░░░░░░░░░░░░░░░░░░░░░░░  2.11%
+unknown     3h 20m 25s   ████████████░░░░░░░░░░░░░  46.71%
+Nix         2h 45m 24s   ██████████░░░░░░░░░░░░░░░  38.55%
+json        13m 31s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.15%
+Markdown    13m 30s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.15%
+nix         8m 28s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.97%
 
 💼 Projects:
-RapidRAW     2h 22m 51s   ██████████░░░░░░░░░░░░░░░  37.37%
-nixpkgs      2h 14m 38s   █████████░░░░░░░░░░░░░░░░  35.22%
-dots         1h 3m 53s    █████░░░░░░░░░░░░░░░░░░░░  16.71%
-github       11m 10s      █░░░░░░░░░░░░░░░░░░░░░░░░  2.92%
-crush        11m 5s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.90%
+nixpkgs     2h 25m 40s   █████████░░░░░░░░░░░░░░░░  33.95%
+RapidRAW    2h 22m 51s   █████████░░░░░░░░░░░░░░░░  33.29%
+dots        1h 5m 28s    ████░░░░░░░░░░░░░░░░░░░░░  15.26%
+shortwave   25m 42s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.99%
+crush       13m 5s       █░░░░░░░░░░░░░░░░░░░░░░░░  3.05%
 
-Total: 6 hrs 22 mins
+Total: 7 hrs 9 mins
 ```
 
 #### 📮 Want to Contact me?
