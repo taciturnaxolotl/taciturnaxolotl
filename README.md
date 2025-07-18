@@ -5,8 +5,8 @@ When not doing school or working on a project, I enjoy flying drones and making 
 #### 👷 The latest repos I've pushed to
 
 - [`pxlboard`](https://github.com/taciturnaxolotl/pxlboard) - _"YAGNG (yet another generic pixel grid)"_ **(1 day ago)**
+- [`dots`](https://github.com/taciturnaxolotl/dots) - _"Kieran's opinionated (and probably slightly dumb) nix config"_ **(1 day ago)**
 - [`shortwave`](https://github.com/taciturnaxolotl/shortwave) - _"a mega cool windows xp app "_ **(2 days ago)**
-- [`dots`](https://github.com/taciturnaxolotl/dots) - _"Kieran's opinionated (and probably slightly dumb) nix config"_ **(2 days ago)**
 - [`claude-desktop-linux-flake`](https://github.com/k3d3/claude-desktop-linux-flake) - _"Nix Flake for Claude Desktop on Linux"_ **(3 days ago)**
 - [`spam-patriot`](https://github.com/taciturnaxolotl/spam-patriot) - _"olllllld project where we spammed scammers with python scripts; twas fun"_ **(2 weeks ago)**
 - [`hackatime-extension`](https://github.com/taciturnaxolotl/hackatime-extension) - _"the future most epic chrome / firefox / edge / vivaldi / opera extension ever!!!"_ **(2 weeks ago)**
@@ -34,20 +34,20 @@ When not doing school or working on a project, I enjoy flying drones and making 
 
 ```text
 💾 Languages:
-unknown     5h 22m 29s   ████████████░░░░░░░░░░░░░  47.27%
-Nix         3h 30m 2s    ████████░░░░░░░░░░░░░░░░░  30.79%
-Markdown    22m 28s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.29%
-nix         16m 41s      █░░░░░░░░░░░░░░░░░░░░░░░░  2.45%
-json        15m 13s      █░░░░░░░░░░░░░░░░░░░░░░░░  2.23%
+unknown     5h 49m 55s   ████████████░░░░░░░░░░░░░  47.94%
+Nix         3h 35m 45s   ████████░░░░░░░░░░░░░░░░░  29.56%
+Markdown    23m 55s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.28%
+nix         16m 41s      █░░░░░░░░░░░░░░░░░░░░░░░░  2.29%
+json        15m 13s      █░░░░░░░░░░░░░░░░░░░░░░░░  2.08%
 
 💼 Projects:
-nixpkgs     2h 36m 43s   ██████░░░░░░░░░░░░░░░░░░░  22.97%
-RapidRAW    2h 22m 51s   ██████░░░░░░░░░░░░░░░░░░░  20.94%
-dots        2h 14m 39s   █████░░░░░░░░░░░░░░░░░░░░  19.73%
-shortwave   1h 48m 11s   ████░░░░░░░░░░░░░░░░░░░░░  15.85%
-crush       50m 5s       ██░░░░░░░░░░░░░░░░░░░░░░░  7.34%
+dots        2h 44m 26s   ██████░░░░░░░░░░░░░░░░░░░  22.52%
+nixpkgs     2h 36m 43s   ██████░░░░░░░░░░░░░░░░░░░  21.47%
+RapidRAW    2h 22m 51s   █████░░░░░░░░░░░░░░░░░░░░  19.57%
+shortwave   1h 59m 5s    █████░░░░░░░░░░░░░░░░░░░░  16.31%
+crush       54m 57s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.53%
 
-Total: 11 hrs 22 mins
+Total: 12 hrs 10 mins
 ```
 
 #### 📮 Want to Contact me?
