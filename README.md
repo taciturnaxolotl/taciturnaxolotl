@@ -4,14 +4,14 @@ When not doing school or working on a project, I enjoy flying drones and making 
 
 #### 👷 The latest repos I've pushed to
 
+- [`akami`](https://github.com/taciturnaxolotl/akami) - _"🌷 the cutsie hackatime helper!"_ **(today)**
 - [`shortwave`](https://github.com/taciturnaxolotl/shortwave) - _"a mega cool windows xp app "_ **(today)**
 - [`dots`](https://github.com/taciturnaxolotl/dots) - _"Kieran's opinionated (and probably slightly dumb) nix config"_ **(1 day ago)**
 - [`pxlboard`](https://github.com/taciturnaxolotl/pxlboard) - _"YAGNG (yet another generic pixel grid)"_ **(2 days ago)**
 - [`culebra`](https://github.com/Fuabioo/culebra) - _"🐍 Seamlessly use lua configuration files with cobra"_ **(2 days ago)**
 - [`claude-desktop-linux-flake`](https://github.com/k3d3/claude-desktop-linux-flake) - _"Nix Flake for Claude Desktop on Linux"_ **(4 days ago)**
-- [`spam-patriot`](https://github.com/taciturnaxolotl/spam-patriot) - _"olllllld project where we spammed scammers with python scripts; twas fun"_ **(2 weeks ago)**
-- [`swapper`](https://github.com/taciturnaxolotl/swapper) - _"swap profiles with others on slack!"_ **(2 weeks ago)**
 - [`the-tavern`](https://github.com/taciturnaxolotl/the-tavern) - _"The hackclub bag tavern where you can get gossip and learn about the latest quests"_ **(2 weeks ago)**
+- [`spam-patriot`](https://github.com/taciturnaxolotl/spam-patriot) - _"olllllld project where we spammed scammers with python scripts; twas fun"_ **(2 weeks ago)**
 
 #### ⌨️ My latest projects
 
@@ -34,20 +34,20 @@ When not doing school or working on a project, I enjoy flying drones and making 
 
 ```text
 💾 Languages:
-unknown     8h 18m 26s   ████████████░░░░░░░░░░░░░  45.79%
-Nix         4h 17m 1s    ██████░░░░░░░░░░░░░░░░░░░  23.61%
-C++         54m 43s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.03%
-Go          48m 38s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.47%
-Bash        47m 42s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.38%
+unknown     8h 35m 39s   ████████████░░░░░░░░░░░░░  46.14%
+Nix         4h 28m 15s   ███████░░░░░░░░░░░░░░░░░░  24.01%
+C++         54m 43s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.90%
+Go          48m 38s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.35%
+Bash        47m 42s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.27%
 
 💼 Projects:
-dots        4h 18m 17s   ██████░░░░░░░░░░░░░░░░░░░  23.72%
-shortwave   4h 4m 30s    ██████░░░░░░░░░░░░░░░░░░░  22.46%
-crush       3h 0m 25s    █████░░░░░░░░░░░░░░░░░░░░  16.57%
-nixpkgs     2h 40m 15s   ████░░░░░░░░░░░░░░░░░░░░░  14.72%
-RapidRAW    2h 22m 51s   ████░░░░░░░░░░░░░░░░░░░░░  13.12%
+dots        4h 18m 23s   ██████░░░░░░░░░░░░░░░░░░░  23.12%
+shortwave   4h 15m 38s   ██████░░░░░░░░░░░░░░░░░░░  22.87%
+crush       3h 1m 27s    █████░░░░░░░░░░░░░░░░░░░░  16.23%
+nixpkgs     2h 46m 37s   ████░░░░░░░░░░░░░░░░░░░░░  14.91%
+RapidRAW    2h 22m 51s   ████░░░░░░░░░░░░░░░░░░░░░  12.78%
 
-Total: 18 hrs 9 mins
+Total: 18 hrs 38 mins
 ```
 
 #### 📮 Want to Contact me?
