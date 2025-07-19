@@ -4,14 +4,14 @@ When not doing school or working on a project, I enjoy flying drones and making 
 
 #### 👷 The latest repos I've pushed to
 
-- [`akami`](https://github.com/taciturnaxolotl/akami) - _"🌷 the cutsie hackatime helper!"_ **(today)**
 - [`shortwave`](https://github.com/taciturnaxolotl/shortwave) - _"a mega cool windows xp app "_ **(today)**
+- [`akami`](https://github.com/taciturnaxolotl/akami) - _"🌷 the cutsie hackatime helper!"_ **(today)**
 - [`dots`](https://github.com/taciturnaxolotl/dots) - _"Kieran's opinionated (and probably slightly dumb) nix config"_ **(1 day ago)**
 - [`pxlboard`](https://github.com/taciturnaxolotl/pxlboard) - _"YAGNG (yet another generic pixel grid)"_ **(2 days ago)**
 - [`culebra`](https://github.com/Fuabioo/culebra) - _"🐍 Seamlessly use lua configuration files with cobra"_ **(2 days ago)**
 - [`ctfd-alerts`](https://github.com/taciturnaxolotl/ctfd-alerts) - _"⛳ alerts for any ctfd instance via ntfy "_ **(3 days ago)**
 - [`claude-desktop-linux-flake`](https://github.com/k3d3/claude-desktop-linux-flake) - _"Nix Flake for Claude Desktop on Linux"_ **(4 days ago)**
-- [`fraps`](https://github.com/taciturnaxolotl/fraps) - _"A spotify top tracks viewer!"_ **(2 weeks ago)**
+- [`swapper`](https://github.com/taciturnaxolotl/swapper) - _"swap profiles with others on slack!"_ **(2 weeks ago)**
 
 #### ⌨️ My latest projects
 
@@ -34,20 +34,20 @@ When not doing school or working on a project, I enjoy flying drones and making 
 
 ```text
 💾 Languages:
-unknown     8h 40m 42s   ████████████░░░░░░░░░░░░░  46.33%
-Nix         4h 28m 15s   ██████░░░░░░░░░░░░░░░░░░░  23.87%
-C++         56m 2s       ██░░░░░░░░░░░░░░░░░░░░░░░  4.99%
-Go          48m 38s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.33%
-Bash        47m 42s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.24%
+unknown     9h 0m 49s    ████████████░░░░░░░░░░░░░  46.78%
+Nix         4h 29m 7s    ██████░░░░░░░░░░░░░░░░░░░  23.28%
+C++         1h 3m 10s    ██░░░░░░░░░░░░░░░░░░░░░░░  5.46%
+Go          48m 38s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.21%
+Bash        47m 42s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.13%
 
 💼 Projects:
-shortwave   4h 19m 17s   ██████░░░░░░░░░░░░░░░░░░░  23.07%
-dots        4h 18m 23s   ██████░░░░░░░░░░░░░░░░░░░  22.99%
-crush       3h 1m 27s    █████░░░░░░░░░░░░░░░░░░░░  16.14%
-nixpkgs     2h 46m 37s   ████░░░░░░░░░░░░░░░░░░░░░  14.82%
-RapidRAW    2h 22m 51s   ████░░░░░░░░░░░░░░░░░░░░░  12.71%
+shortwave   4h 51m 30s   ███████░░░░░░░░░░░░░░░░░░  25.21%
+dots        4h 18m 23s   ██████░░░░░░░░░░░░░░░░░░░  22.35%
+crush       3h 1m 27s    ████░░░░░░░░░░░░░░░░░░░░░  15.69%
+nixpkgs     2h 46m 37s   ████░░░░░░░░░░░░░░░░░░░░░  14.41%
+RapidRAW    2h 22m 51s   ████░░░░░░░░░░░░░░░░░░░░░  12.35%
 
-Total: 18 hrs 44 mins
+Total: 19 hrs 16 mins
 ```
 
 #### 📮 Want to Contact me?
