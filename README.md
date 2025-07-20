@@ -7,11 +7,11 @@ When not doing school or working on a project, I enjoy flying drones and making 
 - [`akami`](https://github.com/taciturnaxolotl/akami) - _"🌷 the cutsie hackatime helper!"_ **(1 day ago)**
 - [`shortwave`](https://github.com/taciturnaxolotl/shortwave) - _"a mega cool windows xp app "_ **(1 day ago)**
 - [`dots`](https://github.com/taciturnaxolotl/dots) - _"Kieran's opinionated (and probably slightly dumb) nix config"_ **(2 days ago)**
-- [`pxlboard`](https://github.com/taciturnaxolotl/pxlboard) - _"YAGNG (yet another generic pixel grid)"_ **(3 days ago)**
 - [`culebra`](https://github.com/Fuabioo/culebra) - _"🐍 Seamlessly use lua configuration files with cobra"_ **(3 days ago)**
+- [`pxlboard`](https://github.com/taciturnaxolotl/pxlboard) - _"YAGNG (yet another generic pixel grid)"_ **(3 days ago)**
 - [`ctfd-alerts`](https://github.com/taciturnaxolotl/ctfd-alerts) - _"⛳ alerts for any ctfd instance via ntfy "_ **(4 days ago)**
 - [`claude-desktop-linux-flake`](https://github.com/k3d3/claude-desktop-linux-flake) - _"Nix Flake for Claude Desktop on Linux"_ **(5 days ago)**
-- [`hackatime-extension`](https://github.com/taciturnaxolotl/hackatime-extension) - _"the future most epic chrome / firefox / edge / vivaldi / opera extension ever!!!"_ **(2 weeks ago)**
+- [`myrus`](https://github.com/taciturnaxolotl/myrus) - _"a scrappy gimbal that insults you in shakespearean english"_ **(2 weeks ago)**
 
 #### ⌨️ My latest projects
 
@@ -34,20 +34,20 @@ When not doing school or working on a project, I enjoy flying drones and making 
 
 ```text
 💾 Languages:
-unknown     9h 8m 57s    ████████████░░░░░░░░░░░░░  47.07%
-Nix         4h 29m 7s    ██████░░░░░░░░░░░░░░░░░░░  23.08%
-C++         1h 5m 12s    ██░░░░░░░░░░░░░░░░░░░░░░░  5.59%
-Go          48m 38s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.17%
-Bash        47m 42s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.09%
+unknown     9h 11m 3s    ████████████░░░░░░░░░░░░░  46.93%
+Nix         4h 29m 7s    ██████░░░░░░░░░░░░░░░░░░░  22.92%
+C++         1h 11m 11s   ██░░░░░░░░░░░░░░░░░░░░░░░  6.06%
+Go          48m 38s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.14%
+Bash        47m 42s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.06%
 
 💼 Projects:
-shortwave   5h 1m 39s    ███████░░░░░░░░░░░░░░░░░░  25.86%
-dots        4h 18m 23s   ██████░░░░░░░░░░░░░░░░░░░  22.15%
-crush       3h 1m 27s    ████░░░░░░░░░░░░░░░░░░░░░  15.56%
-nixpkgs     2h 46m 37s   ████░░░░░░░░░░░░░░░░░░░░░  14.28%
-RapidRAW    2h 22m 51s   ████░░░░░░░░░░░░░░░░░░░░░  12.25%
+shortwave   5h 9m 44s    ███████░░░░░░░░░░░░░░░░░░  26.37%
+dots        4h 18m 23s   ██████░░░░░░░░░░░░░░░░░░░  22.00%
+crush       3h 1m 27s    ████░░░░░░░░░░░░░░░░░░░░░  15.45%
+nixpkgs     2h 46m 37s   ████░░░░░░░░░░░░░░░░░░░░░  14.19%
+RapidRAW    2h 22m 51s   ████░░░░░░░░░░░░░░░░░░░░░  12.16%
 
-Total: 19 hrs 26 mins
+Total: 19 hrs 35 mins
 ```
 
 #### 📮 Want to Contact me?
