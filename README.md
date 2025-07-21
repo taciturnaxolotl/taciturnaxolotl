@@ -4,8 +4,8 @@ When not doing school or working on a project, I enjoy flying drones and making 
 
 #### 👷 The latest repos I've pushed to
 
-- [`cachet`](https://github.com/taciturnaxolotl/cachet) - _"a cache for slack profile pictures and emojis"_ **(today)**
 - [`dots`](https://github.com/taciturnaxolotl/dots) - _"Kieran's opinionated (and probably slightly dumb) nix config"_ **(today)**
+- [`cachet`](https://github.com/taciturnaxolotl/cachet) - _"a cache for slack profile pictures and emojis"_ **(today)**
 - [`shortwave`](https://github.com/taciturnaxolotl/shortwave) - _"a mega cool windows xp app "_ **(1 day ago)**
 - [`akami`](https://github.com/taciturnaxolotl/akami) - _"🌷 the cutsie hackatime helper!"_ **(2 days ago)**
 - [`pxlboard`](https://github.com/taciturnaxolotl/pxlboard) - _"YAGNG (yet another generic pixel grid)"_ **(4 days ago)**
@@ -34,20 +34,20 @@ When not doing school or working on a project, I enjoy flying drones and making 
 
 ```text
 💾 Languages:
-unknown     9h 54m 15s   █████████████░░░░░░░░░░░░  48.24%
-Nix         4h 12m 30s   ██████░░░░░░░░░░░░░░░░░░░  20.50%
-C++         1h 19m 13s   ██░░░░░░░░░░░░░░░░░░░░░░░  6.43%
-Go          48m 38s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.95%
-Bash        47m 42s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.87%
+unknown     10h 0m 18s   ████████████░░░░░░░░░░░░░  47.46%
+Nix         4h 8m 5s     █████░░░░░░░░░░░░░░░░░░░░  19.61%
+C++         1h 19m 13s   ██░░░░░░░░░░░░░░░░░░░░░░░  6.26%
+Go          48m 38s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.84%
+Bash        47m 42s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.77%
 
 💼 Projects:
-shortwave   5h 51m 34s   ████████░░░░░░░░░░░░░░░░░  28.53%
-dots        4h 16m 8s    ██████░░░░░░░░░░░░░░░░░░░  20.79%
-nixpkgs     3h 17m 53s   █████░░░░░░░░░░░░░░░░░░░░  16.06%
-crush       3h 1m 27s    ████░░░░░░░░░░░░░░░░░░░░░  14.73%
-RapidRAW    1h 21m 23s   ██░░░░░░░░░░░░░░░░░░░░░░░  6.60%
+shortwave   5h 51m 34s   ███████░░░░░░░░░░░░░░░░░░  27.79%
+dots        4h 15m 56s   ██████░░░░░░░░░░░░░░░░░░░  20.23%
+nixpkgs     3h 17m 53s   ████░░░░░░░░░░░░░░░░░░░░░  15.64%
+crush       3h 1m 27s    ████░░░░░░░░░░░░░░░░░░░░░  14.34%
+RapidRAW    1h 14m 23s   ██░░░░░░░░░░░░░░░░░░░░░░░  5.88%
 
-Total: 20 hrs 32 mins
+Total: 21 hrs 5 mins
 ```
 
 #### 📮 Want to Contact me?
