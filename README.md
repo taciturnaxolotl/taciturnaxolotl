@@ -4,14 +4,14 @@ When not doing school or working on a project, I enjoy flying drones and making 
 
 #### 👷 The latest repos I've pushed to
 
-- [`dots`](https://github.com/taciturnaxolotl/dots) - _"Kieran's opinionated (and probably slightly dumb) nix config"_ **(today)**
-- [`cachet`](https://github.com/taciturnaxolotl/cachet) - _"a cache for slack profile pictures and emojis"_ **(today)**
-- [`shortwave`](https://github.com/taciturnaxolotl/shortwave) - _"a mega cool windows xp app "_ **(1 day ago)**
-- [`akami`](https://github.com/taciturnaxolotl/akami) - _"🌷 the cutsie hackatime helper!"_ **(2 days ago)**
-- [`pxlboard`](https://github.com/taciturnaxolotl/pxlboard) - _"YAGNG (yet another generic pixel grid)"_ **(4 days ago)**
-- [`culebra`](https://github.com/Fuabioo/culebra) - _"🐍 Seamlessly use lua configuration files with cobra"_ **(4 days ago)**
-- [`ctfd-alerts`](https://github.com/taciturnaxolotl/ctfd-alerts) - _"⛳ alerts for any ctfd instance via ntfy "_ **(5 days ago)**
-- [`claude-desktop-linux-flake`](https://github.com/k3d3/claude-desktop-linux-flake) - _"Nix Flake for Claude Desktop on Linux"_ **(6 days ago)**
+- [`dots`](https://github.com/taciturnaxolotl/dots) - _"Kieran's opinionated (and probably slightly dumb) nix config"_ **(1 day ago)**
+- [`cachet`](https://github.com/taciturnaxolotl/cachet) - _"a cache for slack profile pictures and emojis"_ **(1 day ago)**
+- [`shortwave`](https://github.com/taciturnaxolotl/shortwave) - _"a mega cool windows xp app "_ **(2 days ago)**
+- [`akami`](https://github.com/taciturnaxolotl/akami) - _"🌷 the cutsie hackatime helper!"_ **(3 days ago)**
+- [`pxlboard`](https://github.com/taciturnaxolotl/pxlboard) - _"YAGNG (yet another generic pixel grid)"_ **(5 days ago)**
+- [`culebra`](https://github.com/Fuabioo/culebra) - _"🐍 Seamlessly use lua configuration files with cobra"_ **(5 days ago)**
+- [`ctfd-alerts`](https://github.com/taciturnaxolotl/ctfd-alerts) - _"⛳ alerts for any ctfd instance via ntfy "_ **(6 days ago)**
+- [`claude-desktop-linux-flake`](https://github.com/k3d3/claude-desktop-linux-flake) - _"Nix Flake for Claude Desktop on Linux"_ **(1 week ago)**
 
 #### ⌨️ My latest projects
 
