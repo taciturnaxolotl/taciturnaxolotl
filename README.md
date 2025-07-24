@@ -4,14 +4,14 @@ When not doing school or working on a project, I enjoy flying drones and making 
 
 #### 👷 The latest repos I've pushed to
 
-- [`unamed-at`](https://github.com/taciturnaxolotl/unamed-at) - _"a dating labler on at-proto"_ **(1 day ago)**
-- [`cachet`](https://github.com/taciturnaxolotl/cachet) - _"a cache for slack profile pictures and emojis"_ **(1 day ago)**
-- [`dots`](https://github.com/taciturnaxolotl/dots) - _"Kieran's opinionated (and probably slightly dumb) nix config"_ **(2 days ago)**
-- [`shortwave`](https://github.com/taciturnaxolotl/shortwave) - _"a mega cool windows xp app "_ **(3 days ago)**
-- [`akami`](https://github.com/taciturnaxolotl/akami) - _"🌷 the cutsie hackatime helper!"_ **(4 days ago)**
-- [`culebra`](https://github.com/Fuabioo/culebra) - _"🐍 Seamlessly use lua configuration files with cobra"_ **(6 days ago)**
-- [`pxlboard`](https://github.com/taciturnaxolotl/pxlboard) - _"YAGNG (yet another generic pixel grid)"_ **(6 days ago)**
-- [`ctfd-alerts`](https://github.com/taciturnaxolotl/ctfd-alerts) - _"⛳ alerts for any ctfd instance via ntfy "_ **(1 week ago)**
+- [`claude-desktop-linux-flake`](https://github.com/k3d3/claude-desktop-linux-flake) - _"Nix Flake for Claude Desktop on Linux"_ **(1 day ago)**
+- [`cachet`](https://github.com/taciturnaxolotl/cachet) - _"a cache for slack profile pictures and emojis"_ **(2 days ago)**
+- [`unamed-at`](https://github.com/taciturnaxolotl/unamed-at) - _"a dating labler on at-proto"_ **(2 days ago)**
+- [`dots`](https://github.com/taciturnaxolotl/dots) - _"Kieran's opinionated (and probably slightly dumb) nix config"_ **(3 days ago)**
+- [`shortwave`](https://github.com/taciturnaxolotl/shortwave) - _"a mega cool windows xp app "_ **(4 days ago)**
+- [`akami`](https://github.com/taciturnaxolotl/akami) - _"🌷 the cutsie hackatime helper!"_ **(5 days ago)**
+- [`culebra`](https://github.com/Fuabioo/culebra) - _"🐍 Seamlessly use lua configuration files with cobra"_ **(1 week ago)**
+- [`pxlboard`](https://github.com/taciturnaxolotl/pxlboard) - _"YAGNG (yet another generic pixel grid)"_ **(1 week ago)**
 
 #### ⌨️ My latest projects
 
@@ -34,20 +34,20 @@ When not doing school or working on a project, I enjoy flying drones and making 
 
 ```text
 💾 Languages:
-unknown     8h 20m 12s   ████████████░░░░░░░░░░░░░  47.75%
-Nix         2h 9m 32s    ████░░░░░░░░░░░░░░░░░░░░░  12.37%
-C++         1h 19m 13s   ██░░░░░░░░░░░░░░░░░░░░░░░  7.56%
-Go          52m 38s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.02%
-Bash        45m 36s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.35%
+unknown      7h 56m 21s   ████████████░░░░░░░░░░░░░  47.54%
+Nix          2h 1m 52s    ████░░░░░░░░░░░░░░░░░░░░░  12.16%
+C++          1h 19m 13s   ██░░░░░░░░░░░░░░░░░░░░░░░  7.91%
+Go           52m 38s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.25%
+TypeScript   43m 46s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.37%
 
 💼 Projects:
-shortwave   5h 51m 34s   █████████░░░░░░░░░░░░░░░░  33.55%
-dots        3h 35m 28s   ██████░░░░░░░░░░░░░░░░░░░  20.56%
-crush       2h 52m 38s   █████░░░░░░░░░░░░░░░░░░░░  16.48%
-cachet      1h 47m 40s   ███░░░░░░░░░░░░░░░░░░░░░░  10.28%
-nixpkgs     1h 2m 13s    ██░░░░░░░░░░░░░░░░░░░░░░░  5.94%
+shortwave    5h 24m 10s   █████████░░░░░░░░░░░░░░░░  32.34%
+dots         3h 33m 21s   ██████░░░░░░░░░░░░░░░░░░░  21.29%
+crush        2h 50m 38s   █████░░░░░░░░░░░░░░░░░░░░  17.03%
+cachet       1h 47m 40s   ███░░░░░░░░░░░░░░░░░░░░░░  10.74%
+nixpkgs      54m 12s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.41%
 
-Total: 17 hrs 28 mins
+Total: 16 hrs 42 mins
 ```
 
 #### 📮 Want to Contact me?
