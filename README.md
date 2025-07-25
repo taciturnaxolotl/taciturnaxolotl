@@ -4,14 +4,14 @@ When not doing school or working on a project, I enjoy flying drones and making 
 
 #### 👷 The latest repos I've pushed to
 
+- [`bunplayground`](https://github.com/taciturnaxolotl/bunplayground) - _"random bun scripts that dont fit anywhere else"_ **(1 day ago)**
+- [`dots`](https://github.com/taciturnaxolotl/dots) - _"Kieran's opinionated (and probably slightly dumb) nix config"_ **(1 day ago)**
 - [`claude-desktop-linux-flake`](https://github.com/k3d3/claude-desktop-linux-flake) - _"Nix Flake for Claude Desktop on Linux"_ **(2 days ago)**
-- [`cachet`](https://github.com/taciturnaxolotl/cachet) - _"a cache for slack profile pictures and emojis"_ **(3 days ago)**
 - [`unamed-at`](https://github.com/taciturnaxolotl/unamed-at) - _"a dating labler on at-proto"_ **(3 days ago)**
-- [`dots`](https://github.com/taciturnaxolotl/dots) - _"Kieran's opinionated (and probably slightly dumb) nix config"_ **(4 days ago)**
+- [`cachet`](https://github.com/taciturnaxolotl/cachet) - _"a cache for slack profile pictures and emojis"_ **(3 days ago)**
 - [`shortwave`](https://github.com/taciturnaxolotl/shortwave) - _"a mega cool windows xp app "_ **(5 days ago)**
 - [`akami`](https://github.com/taciturnaxolotl/akami) - _"🌷 the cutsie hackatime helper!"_ **(6 days ago)**
 - [`culebra`](https://github.com/Fuabioo/culebra) - _"🐍 Seamlessly use lua configuration files with cobra"_ **(1 week ago)**
-- [`pxlboard`](https://github.com/taciturnaxolotl/pxlboard) - _"YAGNG (yet another generic pixel grid)"_ **(1 week ago)**
 
 #### ⌨️ My latest projects
 
@@ -34,20 +34,20 @@ When not doing school or working on a project, I enjoy flying drones and making 
 
 ```text
 💾 Languages:
-unknown      6h 8m 11s    ████████████░░░░░░░░░░░░░  46.89%
-Nix          1h 26m 0s    ███░░░░░░░░░░░░░░░░░░░░░░  10.95%
-C++          1h 5m 42s    ███░░░░░░░░░░░░░░░░░░░░░░  8.37%
-Go           52m 38s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.70%
-TypeScript   43m 46s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.57%
+unknown      5h 54m 27s   ████████████░░░░░░░░░░░░░  47.31%
+Nix          1h 17m 26s   ███░░░░░░░░░░░░░░░░░░░░░░  10.34%
+C++          1h 5m 42s    ███░░░░░░░░░░░░░░░░░░░░░░  8.77%
+Go           52m 38s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.03%
+TypeScript   43m 46s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.84%
 
 💼 Projects:
-shortwave    4h 4m 5s     ████████░░░░░░░░░░░░░░░░░  31.08%
-dots         2h 36m 51s   █████░░░░░░░░░░░░░░░░░░░░  19.97%
-crush        2h 35m 31s   █████░░░░░░░░░░░░░░░░░░░░  19.80%
-cachet       1h 47m 40s   ████░░░░░░░░░░░░░░░░░░░░░  13.71%
-nixpkgs      43m 9s       ██░░░░░░░░░░░░░░░░░░░░░░░  5.49%
+shortwave    4h 4m 5s     █████████░░░░░░░░░░░░░░░░  32.57%
+dots         2h 24m 42s   █████░░░░░░░░░░░░░░░░░░░░  19.31%
+crush        2h 13m 38s   █████░░░░░░░░░░░░░░░░░░░░  17.83%
+cachet       1h 47m 40s   ████░░░░░░░░░░░░░░░░░░░░░  14.37%
+nixpkgs      43m 9s       ██░░░░░░░░░░░░░░░░░░░░░░░  5.76%
 
-Total: 13 hrs 5 mins
+Total: 12 hrs 29 mins
 ```
 
 #### 📮 Want to Contact me?
