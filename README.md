@@ -4,13 +4,13 @@ When not doing school or working on a project, I enjoy flying drones and making 
 
 #### 👷 The latest repos I've pushed to
 
-- [`dots`](https://github.com/taciturnaxolotl/dots) - _"Kieran's opinionated (and probably slightly dumb) nix config"_ **(1 day ago)**
-- [`bunplayground`](https://github.com/taciturnaxolotl/bunplayground) - _"random bun scripts that dont fit anywhere else"_ **(1 day ago)**
-- [`claude-desktop-linux-flake`](https://github.com/k3d3/claude-desktop-linux-flake) - _"Nix Flake for Claude Desktop on Linux"_ **(2 days ago)**
-- [`unamed-at`](https://github.com/taciturnaxolotl/unamed-at) - _"a dating labler on at-proto"_ **(3 days ago)**
-- [`cachet`](https://github.com/taciturnaxolotl/cachet) - _"a cache for slack profile pictures and emojis"_ **(3 days ago)**
-- [`shortwave`](https://github.com/taciturnaxolotl/shortwave) - _"a mega cool windows xp app "_ **(5 days ago)**
-- [`akami`](https://github.com/taciturnaxolotl/akami) - _"🌷 the cutsie hackatime helper!"_ **(6 days ago)**
+- [`dots`](https://github.com/taciturnaxolotl/dots) - _"Kieran's opinionated (and probably slightly dumb) nix config"_ **(2 days ago)**
+- [`bunplayground`](https://github.com/taciturnaxolotl/bunplayground) - _"random bun scripts that dont fit anywhere else"_ **(2 days ago)**
+- [`claude-desktop-linux-flake`](https://github.com/k3d3/claude-desktop-linux-flake) - _"Nix Flake for Claude Desktop on Linux"_ **(3 days ago)**
+- [`unamed-at`](https://github.com/taciturnaxolotl/unamed-at) - _"a dating labler on at-proto"_ **(4 days ago)**
+- [`cachet`](https://github.com/taciturnaxolotl/cachet) - _"a cache for slack profile pictures and emojis"_ **(4 days ago)**
+- [`shortwave`](https://github.com/taciturnaxolotl/shortwave) - _"a mega cool windows xp app "_ **(6 days ago)**
+- [`akami`](https://github.com/taciturnaxolotl/akami) - _"🌷 the cutsie hackatime helper!"_ **(1 week ago)**
 - [`pxlboard`](https://github.com/taciturnaxolotl/pxlboard) - _"YAGNG (yet another generic pixel grid)"_ **(1 week ago)**
 
 #### ⌨️ My latest projects
@@ -34,20 +34,20 @@ When not doing school or working on a project, I enjoy flying drones and making 
 
 ```text
 💾 Languages:
-unknown      3h 36m 7s    █████████████░░░░░░░░░░░░  48.76%
-C++          57m 56s      ████░░░░░░░░░░░░░░░░░░░░░  13.07%
-TypeScript   43m 46s      ███░░░░░░░░░░░░░░░░░░░░░░  9.87%
-Nix          42m 17s      ███░░░░░░░░░░░░░░░░░░░░░░  9.54%
-Go           13m 55s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.14%
+unknown      3h 25m 0s    █████████████░░░░░░░░░░░░  48.53%
+C++          52m 26s      ████░░░░░░░░░░░░░░░░░░░░░  12.41%
+TypeScript   43m 46s      ███░░░░░░░░░░░░░░░░░░░░░░  10.36%
+Nix          40m 2s       ███░░░░░░░░░░░░░░░░░░░░░░  9.48%
+Go           13m 55s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.29%
 
 💼 Projects:
-shortwave    3h 3m 39s    ███████████░░░░░░░░░░░░░░  41.42%
-cachet       1h 47m 40s   ███████░░░░░░░░░░░░░░░░░░  24.28%
-nixpkgs      43m 9s       ███░░░░░░░░░░░░░░░░░░░░░░  9.73%
-dots         29m 57s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.75%
-kierank      21m 31s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.85%
+shortwave    2h 44m 46s   ██████████░░░░░░░░░░░░░░░  39.00%
+cachet       1h 47m 40s   ███████░░░░░░░░░░░░░░░░░░  25.48%
+nixpkgs      43m 9s       ███░░░░░░░░░░░░░░░░░░░░░░  10.21%
+dots         27m 57s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.62%
+kierank      21m 31s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.09%
 
-Total: 7 hrs 23 mins
+Total: 7 hrs 3 mins
 ```
 
 #### 📮 Want to Contact me?
