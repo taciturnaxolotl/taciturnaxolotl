@@ -4,14 +4,14 @@ When not doing school or working on a project, I enjoy flying drones and making 
 
 #### 👷 The latest repos I've pushed to
 
+- [`zera`](https://github.com/taciturnaxolotl/zera) - _"my new site v4?"_ **(today)**
 - [`dots`](https://github.com/taciturnaxolotl/dots) - _"Kieran's opinionated (and probably slightly dumb) nix config"_ **(2 days ago)**
 - [`bunplayground`](https://github.com/taciturnaxolotl/bunplayground) - _"random bun scripts that dont fit anywhere else"_ **(2 days ago)**
 - [`claude-desktop-linux-flake`](https://github.com/k3d3/claude-desktop-linux-flake) - _"Nix Flake for Claude Desktop on Linux"_ **(3 days ago)**
-- [`cachet`](https://github.com/taciturnaxolotl/cachet) - _"a cache for slack profile pictures and emojis"_ **(4 days ago)**
 - [`unamed-at`](https://github.com/taciturnaxolotl/unamed-at) - _"a dating labler on at-proto"_ **(4 days ago)**
+- [`cachet`](https://github.com/taciturnaxolotl/cachet) - _"a cache for slack profile pictures and emojis"_ **(4 days ago)**
 - [`shortwave`](https://github.com/taciturnaxolotl/shortwave) - _"a mega cool windows xp app "_ **(6 days ago)**
 - [`akami`](https://github.com/taciturnaxolotl/akami) - _"🌷 the cutsie hackatime helper!"_ **(1 week ago)**
-- [`pxlboard`](https://github.com/taciturnaxolotl/pxlboard) - _"YAGNG (yet another generic pixel grid)"_ **(1 week ago)**
 
 #### ⌨️ My latest projects
 
@@ -34,20 +34,20 @@ When not doing school or working on a project, I enjoy flying drones and making 
 
 ```text
 💾 Languages:
-unknown      2h 58m 51s   █████████████░░░░░░░░░░░░  51.74%
-TypeScript   43m 46s      ████░░░░░░░░░░░░░░░░░░░░░  12.66%
-Nix          32m 56s      ███░░░░░░░░░░░░░░░░░░░░░░  9.53%
-C++          24m 30s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.09%
-JavaScript   13m 23s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.87%
+unknown      2h 57m 47s   █████████████░░░░░░░░░░░░  51.96%
+TypeScript   43m 46s      ████░░░░░░░░░░░░░░░░░░░░░  12.79%
+Nix          30m 28s      ███░░░░░░░░░░░░░░░░░░░░░░  8.90%
+C++          24m 30s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.16%
+JavaScript   13m 23s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.91%
 
 💼 Projects:
-cachet       1h 47m 40s   ████████░░░░░░░░░░░░░░░░░  31.13%
-shortwave    1h 47m 5s    ████████░░░░░░░░░░░░░░░░░  30.97%
-nixpkgs      43m 9s       ████░░░░░░░░░░░░░░░░░░░░░  12.48%
-kierank      21m 30s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.22%
-dots         21m 3s       ██░░░░░░░░░░░░░░░░░░░░░░░  6.09%
+cachet       1h 47m 40s   ████████░░░░░░░░░░░░░░░░░  31.46%
+shortwave    1h 47m 5s    ████████░░░░░░░░░░░░░░░░░  31.28%
+nixpkgs      39m 37s      ███░░░░░░░░░░░░░░░░░░░░░░  11.57%
+kierank      21m 30s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.28%
+dots         21m 3s       ██░░░░░░░░░░░░░░░░░░░░░░░  6.15%
 
-Total: 5 hrs 46 mins
+Total: 5 hrs 42 mins
 ```
 
 #### 📮 Want to Contact me?
