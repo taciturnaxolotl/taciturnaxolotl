@@ -4,12 +4,12 @@ When not doing school or working on a project, I enjoy flying drones and making 
 
 #### 👷 The latest repos I've pushed to
 
-- [`zera`](https://github.com/taciturnaxolotl/zera) - _"my new site v4?"_ **(2 days ago)**
-- [`dots`](https://github.com/taciturnaxolotl/dots) - _"Kieran's opinionated (and probably slightly dumb) nix config"_ **(4 days ago)**
-- [`bunplayground`](https://github.com/taciturnaxolotl/bunplayground) - _"random bun scripts that dont fit anywhere else"_ **(4 days ago)**
-- [`claude-desktop-linux-flake`](https://github.com/k3d3/claude-desktop-linux-flake) - _"Nix Flake for Claude Desktop on Linux"_ **(5 days ago)**
-- [`unamed-at`](https://github.com/taciturnaxolotl/unamed-at) - _"a dating labler on at-proto"_ **(6 days ago)**
-- [`cachet`](https://github.com/taciturnaxolotl/cachet) - _"a cache for slack profile pictures and emojis"_ **(6 days ago)**
+- [`zera`](https://github.com/taciturnaxolotl/zera) - _"my new site v4?"_ **(3 days ago)**
+- [`dots`](https://github.com/taciturnaxolotl/dots) - _"Kieran's opinionated (and probably slightly dumb) nix config"_ **(5 days ago)**
+- [`bunplayground`](https://github.com/taciturnaxolotl/bunplayground) - _"random bun scripts that dont fit anywhere else"_ **(5 days ago)**
+- [`claude-desktop-linux-flake`](https://github.com/k3d3/claude-desktop-linux-flake) - _"Nix Flake for Claude Desktop on Linux"_ **(6 days ago)**
+- [`unamed-at`](https://github.com/taciturnaxolotl/unamed-at) - _"a dating labler on at-proto"_ **(1 week ago)**
+- [`cachet`](https://github.com/taciturnaxolotl/cachet) - _"a cache for slack profile pictures and emojis"_ **(1 week ago)**
 - [`shortwave`](https://github.com/taciturnaxolotl/shortwave) - _"a mega cool windows xp app "_ **(1 week ago)**
 - [`akami`](https://github.com/taciturnaxolotl/akami) - _"🌷 the cutsie hackatime helper!"_ **(1 week ago)**
 
@@ -34,18 +34,18 @@ When not doing school or working on a project, I enjoy flying drones and making 
 
 ```text
 💾 Languages:
-unknown      1h 45m 8s   ████████████████░░░░░░░░░  63.80%
-markdown     11m 32s     ██░░░░░░░░░░░░░░░░░░░░░░░  7.00%
-TypeScript   9m 9s       ██░░░░░░░░░░░░░░░░░░░░░░░  5.55%
-YAML         8m 43s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.29%
-JavaScript   8m 22s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.08%
+unknown      1h 45m 12s   ████████████████░░░░░░░░░  63.70%
+markdown     11m 32s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.98%
+TypeScript   9m 18s       ██░░░░░░░░░░░░░░░░░░░░░░░  5.63%
+YAML         8m 43s       ██░░░░░░░░░░░░░░░░░░░░░░░  5.28%
+JavaScript   8m 22s       ██░░░░░░░░░░░░░░░░░░░░░░░  5.07%
 
 💼 Projects:
-kierank      47m 58s     ████████░░░░░░░░░░░░░░░░░  29.10%
-cachet       39m 14s     ██████░░░░░░░░░░░░░░░░░░░  23.80%
-vault        13m 57s     ███░░░░░░░░░░░░░░░░░░░░░░  8.46%
-unamed-at    13m 35s     ███░░░░░░░░░░░░░░░░░░░░░░  8.24%
-unknown      12m 49s     ██░░░░░░░░░░░░░░░░░░░░░░░  7.77%
+kierank      48m 2s       ████████░░░░░░░░░░░░░░░░░  29.07%
+cachet       39m 14s      ██████░░░░░░░░░░░░░░░░░░░  23.75%
+vault        13m 57s      ███░░░░░░░░░░░░░░░░░░░░░░  8.44%
+unamed-at    13m 35s      ███░░░░░░░░░░░░░░░░░░░░░░  8.22%
+unknown      12m 49s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.76%
 
 Total: 2 hrs 45 mins
 ```
