@@ -4,10 +4,10 @@ When not doing school or working on a project, I enjoy flying drones and making 
 
 #### 👷 The latest repos I've pushed to
 
+- [`dots`](https://github.com/taciturnaxolotl/dots) - _"Kieran's opinionated (and probably slightly dumb) nix config"_ **(today)**
 - [`zera`](https://github.com/taciturnaxolotl/zera) - _"my new site v4?"_ **(3 days ago)**
 - [`crush`](https://github.com/charmbracelet/crush) - _"The AI coding agent for your favourite terminal 💘"_ **(4 days ago)**
 - [`bunplayground`](https://github.com/taciturnaxolotl/bunplayground) - _"random bun scripts that dont fit anywhere else"_ **(5 days ago)**
-- [`dots`](https://github.com/taciturnaxolotl/dots) - _"Kieran's opinionated (and probably slightly dumb) nix config"_ **(5 days ago)**
 - [`claude-desktop-linux-flake`](https://github.com/k3d3/claude-desktop-linux-flake) - _"Nix Flake for Claude Desktop on Linux"_ **(6 days ago)**
 - [`cachet`](https://github.com/taciturnaxolotl/cachet) - _"a cache for slack profile pictures and emojis"_ **(1 week ago)**
 - [`unamed-at`](https://github.com/taciturnaxolotl/unamed-at) - _"a dating labler on at-proto"_ **(1 week ago)**
@@ -34,20 +34,20 @@ When not doing school or working on a project, I enjoy flying drones and making 
 
 ```text
 💾 Languages:
-unknown      1h 9m 17s   ██████████████████░░░░░░░  70.51%
-markdown     8m 0s       ███░░░░░░░░░░░░░░░░░░░░░░  8.14%
-HTML         7m 54s      ███░░░░░░░░░░░░░░░░░░░░░░  8.04%
-TypeScript   5m 33s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.65%
-Nix          3m 49s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.88%
+unknown      1h 29m 22s   ████████████████░░░░░░░░░  63.28%
+Nix          24m 50s      █████░░░░░░░░░░░░░░░░░░░░  17.58%
+markdown     8m 0s        ██░░░░░░░░░░░░░░░░░░░░░░░  5.66%
+HTML         7m 54s       ██░░░░░░░░░░░░░░░░░░░░░░░  5.59%
+TypeScript   5m 33s       █░░░░░░░░░░░░░░░░░░░░░░░░  3.93%
 
 💼 Projects:
-kierank      41m 42s     ███████████░░░░░░░░░░░░░░  42.43%
-vault        13m 57s     ████░░░░░░░░░░░░░░░░░░░░░  14.19%
-unknown      10m 31s     ███░░░░░░░░░░░░░░░░░░░░░░  10.70%
-nixpkgs      8m 54s      ███░░░░░░░░░░░░░░░░░░░░░░  9.06%
-zera         6m 36s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.72%
+kierank      42m 57s      ████████░░░░░░░░░░░░░░░░░  30.40%
+dots         25m 58s      █████░░░░░░░░░░░░░░░░░░░░  18.38%
+nixpkgs      19m 13s      ████░░░░░░░░░░░░░░░░░░░░░  13.60%
+vault        13m 57s      ███░░░░░░░░░░░░░░░░░░░░░░  9.87%
+unknown      11m 25s      ███░░░░░░░░░░░░░░░░░░░░░░  8.08%
 
-Total: 1 hrs 38 mins
+Total: 2 hrs 21 mins
 ```
 
 #### 📮 Want to Contact me?
