@@ -4,10 +4,10 @@ When not doing school or working on a project, I enjoy flying drones and making 
 
 #### 👷 The latest repos I've pushed to
 
-- [`dots`](https://github.com/taciturnaxolotl/dots) - _"Kieran's opinionated (and probably slightly dumb) nix config"_ **(1 day ago)**
-- [`zera`](https://github.com/taciturnaxolotl/zera) - _"my new site v4?"_ **(4 days ago)**
-- [`crush`](https://github.com/charmbracelet/crush) - _"The glamourous AI coding agent for your favourite terminal 💘"_ **(5 days ago)**
-- [`bunplayground`](https://github.com/taciturnaxolotl/bunplayground) - _"random bun scripts that dont fit anywhere else"_ **(6 days ago)**
+- [`dots`](https://github.com/taciturnaxolotl/dots) - _"Kieran's opinionated (and probably slightly dumb) nix config"_ **(2 days ago)**
+- [`zera`](https://github.com/taciturnaxolotl/zera) - _"my new site v4?"_ **(5 days ago)**
+- [`crush`](https://github.com/charmbracelet/crush) - _"The glamourous AI coding agent for your favourite terminal 💘"_ **(6 days ago)**
+- [`bunplayground`](https://github.com/taciturnaxolotl/bunplayground) - _"random bun scripts that dont fit anywhere else"_ **(1 week ago)**
 - [`claude-desktop-linux-flake`](https://github.com/k3d3/claude-desktop-linux-flake) - _"Nix Flake for Claude Desktop on Linux"_ **(1 week ago)**
 - [`cachet`](https://github.com/taciturnaxolotl/cachet) - _"a cache for slack profile pictures and emojis"_ **(1 week ago)**
 - [`unamed-at`](https://github.com/taciturnaxolotl/unamed-at) - _"a dating labler on at-proto"_ **(1 week ago)**
@@ -34,20 +34,20 @@ When not doing school or working on a project, I enjoy flying drones and making 
 
 ```text
 💾 Languages:
-unknown    2h 41m 14s   ██████████████░░░░░░░░░░░  55.28%
-Nix        1h 23m 56s   ████████░░░░░░░░░░░░░░░░░  28.78%
-markdown   10m 0s       █░░░░░░░░░░░░░░░░░░░░░░░░  3.43%
-nix        9m 26s       █░░░░░░░░░░░░░░░░░░░░░░░░  3.23%
-HTML       7m 54s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.71%
+unknown         3h 31m 9s    █████████████░░░░░░░░░░░░  49.12%
+Nix             1h 33m 33s   ██████░░░░░░░░░░░░░░░░░░░  21.76%
+JavaScript      1h 14m 16s   █████░░░░░░░░░░░░░░░░░░░░  17.28%
+markdown        10m 0s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.33%
+HTML            7m 54s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.84%
 
 💼 Projects:
-dots       2h 40m 27s   ██████████████░░░░░░░░░░░  54.99%
-kierank    40m 57s      ████░░░░░░░░░░░░░░░░░░░░░  14.03%
-nixpkgs    37m 15s      ████░░░░░░░░░░░░░░░░░░░░░  12.77%
-vault      13m 57s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.78%
-unknown    11m 25s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.91%
+dots            2h 46m 2s    ██████████░░░░░░░░░░░░░░░  38.62%
+bunplayground   1h 19m 11s   █████░░░░░░░░░░░░░░░░░░░░  18.42%
+crush           50m 34s      ███░░░░░░░░░░░░░░░░░░░░░░  11.76%
+nixpkgs         43m 25s      ███░░░░░░░░░░░░░░░░░░░░░░  10.10%
+kierank         41m 15s      ███░░░░░░░░░░░░░░░░░░░░░░  9.59%
 
-Total: 4 hrs 52 mins
+Total: 7 hrs 10 mins
 ```
 
 #### 📮 Want to Contact me?
