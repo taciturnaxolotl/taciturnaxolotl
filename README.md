@@ -4,7 +4,7 @@ When not doing school or working on a project, I enjoy flying drones and making 
 
 #### 👷 The latest repos I've pushed to
 
-- [`dots`](https://github.com/taciturnaxolotl/dots) - _"Kieran's opinionated (and probably slightly dumb) nix config"_ **(2 days ago)**
+- [`dots`](https://github.com/taciturnaxolotl/dots) - _"Kieran's opinionated (and probably slightly dumb) nix config"_ **(today)**
 - [`zera`](https://github.com/taciturnaxolotl/zera) - _"my new site v4?"_ **(5 days ago)**
 - [`crush`](https://github.com/charmbracelet/crush) - _"The glamourous AI coding agent for your favourite terminal 💘"_ **(6 days ago)**
 - [`bunplayground`](https://github.com/taciturnaxolotl/bunplayground) - _"random bun scripts that dont fit anywhere else"_ **(1 week ago)**
@@ -34,20 +34,20 @@ When not doing school or working on a project, I enjoy flying drones and making 
 
 ```text
 💾 Languages:
-unknown         2h 48m 2s    ████████████░░░░░░░░░░░░░  45.96%
-Nix             1h 26m 5s    ██████░░░░░░░░░░░░░░░░░░░  23.54%
-JavaScript      1h 14m 16s   ██████░░░░░░░░░░░░░░░░░░░  20.31%
-markdown        10m 0s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.74%
-HTML            7m 54s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.16%
+unknown         2h 48m 4s    █████████████░░░░░░░░░░░░  51.76%
+Nix             1h 23m 56s   ███████░░░░░░░░░░░░░░░░░░  25.85%
+JavaScript      36m 42s      ███░░░░░░░░░░░░░░░░░░░░░░  11.30%
+markdown        10m 0s       █░░░░░░░░░░░░░░░░░░░░░░░░  3.08%
+HTML            7m 54s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.43%
 
 💼 Projects:
-dots            2h 31m 25s   ███████████░░░░░░░░░░░░░░  41.40%
-bunplayground   1h 19m 11s   ██████░░░░░░░░░░░░░░░░░░░  21.65%
-kierank         40m 57s      ███░░░░░░░░░░░░░░░░░░░░░░  11.20%
-nixpkgs         39m 15s      ███░░░░░░░░░░░░░░░░░░░░░░  10.73%
-vault           13m 57s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.81%
+dots            2h 34m 50s   ████████████░░░░░░░░░░░░░  47.67%
+kierank         40m 57s      ████░░░░░░░░░░░░░░░░░░░░░  12.61%
+nixpkgs         39m 15s      ████░░░░░░░░░░░░░░░░░░░░░  12.08%
+bunplayground   37m 6s       ███░░░░░░░░░░░░░░░░░░░░░░  11.42%
+vault           13m 57s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.29%
 
-Total: 6 hrs 6 mins
+Total: 5 hrs 25 mins
 ```
 
 #### 📮 Want to Contact me?
