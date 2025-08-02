@@ -10,15 +10,15 @@ When not doing school or working on a project, I enjoy flying drones and making 
 - [`crush`](https://github.com/charmbracelet/crush) - _"The glamourous AI coding agent for your favourite terminal 💘"_ **(1 week ago)**
 - [`bunplayground`](https://github.com/taciturnaxolotl/bunplayground) - _"random bun scripts that dont fit anywhere else"_ **(1 week ago)**
 - [`claude-desktop-linux-flake`](https://github.com/k3d3/claude-desktop-linux-flake) - _"Nix Flake for Claude Desktop on Linux"_ **(1 week ago)**
-- [`unamed-at`](https://github.com/taciturnaxolotl/unamed-at) - _"a dating labler on at-proto"_ **(1 week ago)**
 - [`cachet`](https://github.com/taciturnaxolotl/cachet) - _"a cache for slack profile pictures and emojis"_ **(1 week ago)**
+- [`shortwave`](https://github.com/taciturnaxolotl/shortwave) - _"a mega cool windows xp app "_ **(1 week ago)**
 
 #### ⌨️ My latest projects
 
-- [`unamed-at`](https://github.com/taciturnaxolotl/unamed-at) - _"a dating labler on at-proto"_
 - [`shortwave`](https://github.com/taciturnaxolotl/shortwave) - _"a mega cool windows xp app "_
 - [`ctfd-alerts`](https://github.com/taciturnaxolotl/ctfd-alerts) - _"⛳ alerts for any ctfd instance via ntfy "_
 - [`akami`](https://github.com/taciturnaxolotl/akami) - _"🌷 the cutsie hackatime helper!"_
+- [`plastic`](https://github.com/taciturnaxolotl/plastic) - _"self modifying website"_
 
 #### 🗒️ the latest posts from my [blog](https://dunkirk.sh)
 
@@ -34,20 +34,20 @@ When not doing school or working on a project, I enjoy flying drones and making 
 
 ```text
 💾 Languages:
-unknown      3h 53m 35s   ████████████████░░░░░░░░░  60.15%
-Nix          1h 43m 36s   ███████░░░░░░░░░░░░░░░░░░  26.68%
-markdown     10m 1s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.58%
-HTML         7m 54s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.03%
-TypeScript   5m 33s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.43%
+unknown      3h 58m 32s   ████████████████░░░░░░░░░  60.34%
+Nix          1h 43m 36s   ███████░░░░░░░░░░░░░░░░░░  26.21%
+markdown     10m 1s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.53%
+HTML         7m 54s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.00%
+TypeScript   5m 33s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.40%
 
 💼 Projects:
-dots         3h 26m 50s   ██████████████░░░░░░░░░░░  53.25%
-nixpkgs      1h 3m 36s    █████░░░░░░░░░░░░░░░░░░░░  16.37%
-kierank      51m 57s      ████░░░░░░░░░░░░░░░░░░░░░  13.37%
-vault        13m 57s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.59%
-unknown      11m 25s      █░░░░░░░░░░░░░░░░░░░░░░░░  2.94%
+dots         3h 29m 50s   ██████████████░░░░░░░░░░░  53.07%
+nixpkgs      1h 3m 36s    █████░░░░░░░░░░░░░░░░░░░░  16.09%
+kierank      53m 40s      ████░░░░░░░░░░░░░░░░░░░░░  13.57%
+vault        13m 57s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.53%
+unknown      11m 25s      █░░░░░░░░░░░░░░░░░░░░░░░░  2.89%
 
-Total: 6 hrs 28 mins
+Total: 6 hrs 35 mins
 ```
 
 #### 📮 Want to Contact me?
