@@ -4,9 +4,9 @@ When not doing school or working on a project, I enjoy flying drones and making 
 
 #### 👷 The latest repos I've pushed to
 
-- [`anthropic-api-key`](https://github.com/taciturnaxolotl/anthropic-api-key) - _"get your claude code tokens here"_ **(today)**
-- [`dots`](https://github.com/taciturnaxolotl/dots) - _"Kieran's opinionated (and probably slightly dumb) nix config"_ **(today)**
-- [`nixpkgs`](https://github.com/NixOS/nixpkgs) - _"Nix Packages collection & NixOS"_ **(4 days ago)**
+- [`dots`](https://github.com/taciturnaxolotl/dots) - _"Kieran's opinionated (and probably slightly dumb) nix config"_ **(1 day ago)**
+- [`anthropic-api-key`](https://github.com/taciturnaxolotl/anthropic-api-key) - _"get your claude code tokens here"_ **(1 day ago)**
+- [`nixpkgs`](https://github.com/NixOS/nixpkgs) - _"Nix Packages collection & NixOS"_ **(5 days ago)**
 - [`zera`](https://github.com/taciturnaxolotl/zera) - _"my new site v4?"_ **(1 week ago)**
 - [`crush`](https://github.com/charmbracelet/crush) - _"The glamourous AI coding agent for your favourite terminal 💘"_ **(1 week ago)**
 - [`bunplayground`](https://github.com/taciturnaxolotl/bunplayground) - _"random bun scripts that dont fit anywhere else"_ **(1 week ago)**
@@ -34,20 +34,20 @@ When not doing school or working on a project, I enjoy flying drones and making 
 
 ```text
 💾 Languages:
-unknown             4h 52m 34s   ██████████████░░░░░░░░░░░  55.29%
-Nix                 2h 17m 42s   ███████░░░░░░░░░░░░░░░░░░  26.02%
-JavaScript          16m 33s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.13%
-TypeScript          14m 27s      █░░░░░░░░░░░░░░░░░░░░░░░░  2.73%
-markdown            11m 24s      █░░░░░░░░░░░░░░░░░░░░░░░░  2.15%
+unknown             5h 13m 0s    ██████████████░░░░░░░░░░░  54.04%
+Nix                 2h 41m 36s   ███████░░░░░░░░░░░░░░░░░░  27.90%
+JavaScript          18m 43s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.23%
+TypeScript          14m 50s      █░░░░░░░░░░░░░░░░░░░░░░░░  2.56%
+markdown            11m 24s      █░░░░░░░░░░░░░░░░░░░░░░░░  1.97%
 
 💼 Projects:
-dots                4h 37m 37s   ██████████████░░░░░░░░░░░  52.46%
-nixpkgs             1h 5m 54s    ████░░░░░░░░░░░░░░░░░░░░░  12.45%
-kierank             1h 4m 32s    ████░░░░░░░░░░░░░░░░░░░░░  12.19%
-anthropic-api-key   49m 18s      ███░░░░░░░░░░░░░░░░░░░░░░  9.32%
-vault               13m 57s      █░░░░░░░░░░░░░░░░░░░░░░░░  2.64%
+dots                5h 21m 13s   ██████████████░░░░░░░░░░░  55.44%
+nixpkgs             1h 7m 54s    ███░░░░░░░░░░░░░░░░░░░░░░  11.72%
+kierank             1h 4m 32s    ███░░░░░░░░░░░░░░░░░░░░░░  11.14%
+anthropic-api-key   53m 50s      ███░░░░░░░░░░░░░░░░░░░░░░  9.29%
+vault               13m 57s      █░░░░░░░░░░░░░░░░░░░░░░░░  2.41%
 
-Total: 8 hrs 49 mins
+Total: 9 hrs 39 mins
 ```
 
 #### 📮 Want to Contact me?
