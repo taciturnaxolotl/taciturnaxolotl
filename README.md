@@ -4,14 +4,14 @@ When not doing school or working on a project, I enjoy flying drones and making 
 
 #### 👷 The latest repos I've pushed to
 
-- [`dots`](https://github.com/taciturnaxolotl/dots) - _"Kieran's opinionated (and probably slightly dumb) nix config"_ **(today)**
-- [`anthropic-api-key`](https://github.com/taciturnaxolotl/anthropic-api-key) - _"get your claude code tokens here"_ **(1 day ago)**
-- [`nixpkgs`](https://github.com/NixOS/nixpkgs) - _"Nix Packages collection & NixOS"_ **(5 days ago)**
+- [`shortwave`](https://github.com/taciturnaxolotl/shortwave) - _"a mega cool windows xp app "_ **(1 day ago)**
+- [`dots`](https://github.com/taciturnaxolotl/dots) - _"Kieran's opinionated (and probably slightly dumb) nix config"_ **(1 day ago)**
+- [`anthropic-api-key`](https://github.com/taciturnaxolotl/anthropic-api-key) - _"get your claude code tokens here"_ **(2 days ago)**
+- [`nixpkgs`](https://github.com/NixOS/nixpkgs) - _"Nix Packages collection & NixOS"_ **(6 days ago)**
 - [`zera`](https://github.com/taciturnaxolotl/zera) - _"my new site v4?"_ **(1 week ago)**
 - [`crush`](https://github.com/charmbracelet/crush) - _"The glamourous AI coding agent for your favourite terminal 💘"_ **(1 week ago)**
 - [`bunplayground`](https://github.com/taciturnaxolotl/bunplayground) - _"random bun scripts that dont fit anywhere else"_ **(1 week ago)**
 - [`claude-desktop-linux-flake`](https://github.com/k3d3/claude-desktop-linux-flake) - _"Nix Flake for Claude Desktop on Linux"_ **(1 week ago)**
-- [`cachet`](https://github.com/taciturnaxolotl/cachet) - _"a cache for slack profile pictures and emojis"_ **(1 week ago)**
 
 #### ⌨️ My latest projects
 
@@ -34,20 +34,20 @@ When not doing school or working on a project, I enjoy flying drones and making 
 
 ```text
 💾 Languages:
-unknown             4h 50m 44s   █████████████░░░░░░░░░░░░  50.94%
-Nix                 3h 4m 11s    █████████░░░░░░░░░░░░░░░░  32.27%
-JavaScript          18m 38s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.26%
-TypeScript          11m 48s      █░░░░░░░░░░░░░░░░░░░░░░░░  2.07%
-markdown            11m 32s      █░░░░░░░░░░░░░░░░░░░░░░░░  2.02%
+unknown               4h 58m 31s   █████████████░░░░░░░░░░░░  49.70%
+Nix                   3h 6m 37s    ████████░░░░░░░░░░░░░░░░░  31.07%
+JavaScript            18m 38s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.10%
+Aseprite              17m 29s      █░░░░░░░░░░░░░░░░░░░░░░░░  2.91%
+markdown              11m 32s      █░░░░░░░░░░░░░░░░░░░░░░░░  1.92%
 
 💼 Projects:
-dots                5h 59m 45s   ████████████████░░░░░░░░░  63.02%
-nixpkgs             1h 7m 54s    ███░░░░░░░░░░░░░░░░░░░░░░  11.89%
-anthropic-api-key   53m 50s      ███░░░░░░░░░░░░░░░░░░░░░░  9.43%
-kierank             35m 40s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.25%
-vault               13m 57s      █░░░░░░░░░░░░░░░░░░░░░░░░  2.44%
+dots                  6h 8m 46s    ████████████████░░░░░░░░░  61.38%
+nixpkgs               1h 7m 54s    ███░░░░░░░░░░░░░░░░░░░░░░  11.30%
+anthropic-api-key     53m 50s      ███░░░░░░░░░░░░░░░░░░░░░░  8.96%
+kierank               32m 45s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.45%
+pirates-of-aseprite   17m 29s      █░░░░░░░░░░░░░░░░░░░░░░░░  2.91%
 
-Total: 9 hrs 31 mins
+Total: 10 hrs 1 mins
 ```
 
 #### 📮 Want to Contact me?
