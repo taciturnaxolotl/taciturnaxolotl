@@ -4,8 +4,8 @@ When not doing school or working on a project, I enjoy flying drones and making 
 
 #### 👷 The latest repos I've pushed to
 
-- [`shortwave`](https://github.com/taciturnaxolotl/shortwave) - _"a mega cool windows xp app "_ **(1 day ago)**
 - [`dots`](https://github.com/taciturnaxolotl/dots) - _"Kieran's opinionated (and probably slightly dumb) nix config"_ **(1 day ago)**
+- [`shortwave`](https://github.com/taciturnaxolotl/shortwave) - _"a mega cool windows xp app "_ **(1 day ago)**
 - [`anthropic-api-key`](https://github.com/taciturnaxolotl/anthropic-api-key) - _"get your claude code tokens here"_ **(2 days ago)**
 - [`nixpkgs`](https://github.com/NixOS/nixpkgs) - _"Nix Packages collection & NixOS"_ **(6 days ago)**
 - [`zera`](https://github.com/taciturnaxolotl/zera) - _"my new site v4?"_ **(1 week ago)**
@@ -41,7 +41,7 @@ JavaScript            18m 38s     █░░░░░░░░░░░░░░�
 markdown              11m 33s     █░░░░░░░░░░░░░░░░░░░░░░░░  1.86%
 
 💼 Projects:
-dots                  6h 8m 46s   ███████████████░░░░░░░░░░  59.23%
+dots                  6h 8m 45s   ███████████████░░░░░░░░░░  59.23%
 nixpkgs               1h 7m 54s   ███░░░░░░░░░░░░░░░░░░░░░░  10.91%
 anthropic-api-key     53m 50s     ███░░░░░░░░░░░░░░░░░░░░░░  8.65%
 kierank               32m 45s     ██░░░░░░░░░░░░░░░░░░░░░░░  5.26%
