@@ -4,9 +4,9 @@ When not doing school or working on a project, I enjoy flying drones and making 
 
 #### 👷 The latest repos I've pushed to
 
+- [`dots`](https://github.com/taciturnaxolotl/dots) - _"Kieran's opinionated (and probably slightly dumb) nix config"_ **(today)**
 - [`zera`](https://github.com/taciturnaxolotl/zera) - _"my new site v4?"_ **(2 days ago)**
 - [`anthropic-api-key`](https://github.com/taciturnaxolotl/anthropic-api-key) - _"get your claude code tokens here"_ **(2 days ago)**
-- [`dots`](https://github.com/taciturnaxolotl/dots) - _"Kieran's opinionated (and probably slightly dumb) nix config"_ **(3 days ago)**
 - [`shortwave`](https://github.com/taciturnaxolotl/shortwave) - _"a mega cool windows xp app "_ **(5 days ago)**
 - [`nixpkgs`](https://github.com/NixOS/nixpkgs) - _"Nix Packages collection & NixOS"_ **(1 week ago)**
 - [`crush`](https://github.com/charmbracelet/crush) - _"The glamourous AI coding agent for your favourite terminal 💘"_ **(2 weeks ago)**
@@ -34,20 +34,20 @@ When not doing school or working on a project, I enjoy flying drones and making 
 
 ```text
 💾 Languages:
-unknown               3h 24m 6s    ████████████░░░░░░░░░░░░░  44.53%
-Nix                   1h 43m 48s   ██████░░░░░░░░░░░░░░░░░░░  22.65%
-Aseprite              30m 20s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.62%
-Markdown              23m 3s       ██░░░░░░░░░░░░░░░░░░░░░░░  5.03%
-JavaScript            20m 14s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.41%
+unknown               3h 27m 30s   ████████████░░░░░░░░░░░░░  44.48%
+Nix                   1h 46m 25s   ██████░░░░░░░░░░░░░░░░░░░  22.81%
+Aseprite              30m 20s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.50%
+Markdown              23m 8s       ██░░░░░░░░░░░░░░░░░░░░░░░  4.96%
+JavaScript            20m 14s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.34%
 
 💼 Projects:
-dots                  3h 40m 11s   █████████████░░░░░░░░░░░░  48.03%
-anthropic-api-key     58m 1s       ████░░░░░░░░░░░░░░░░░░░░░  12.66%
-kierank               34m 36s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.55%
-zera                  34m 25s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.51%
-pirates-of-aseprite   30m 20s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.62%
+dots                  3h 47m 48s   █████████████░░░░░░░░░░░░  48.82%
+anthropic-api-key     58m 1s       ████░░░░░░░░░░░░░░░░░░░░░  12.43%
+kierank               35m 7s       ██░░░░░░░░░░░░░░░░░░░░░░░  7.53%
+zera                  34m 25s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.38%
+pirates-of-aseprite   30m 20s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.50%
 
-Total: 7 hrs 38 mins
+Total: 7 hrs 47 mins
 ```
 
 #### 📮 Want to Contact me?
