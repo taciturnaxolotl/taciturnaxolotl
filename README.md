@@ -4,8 +4,8 @@ When not doing school or working on a project, I enjoy flying drones and making 
 
 #### 👷 The latest repos I've pushed to
 
+- [`dots`](https://github.com/taciturnaxolotl/dots) - _"Kieran's opinionated (and probably slightly dumb) nix config"_ **(today)**
 - [`pxlboard`](https://github.com/taciturnaxolotl/pxlboard) - _"YAGNG (yet another generic pixel grid)"_ **(today)**
-- [`dots`](https://github.com/taciturnaxolotl/dots) - _"Kieran's opinionated (and probably slightly dumb) nix config"_ **(3 days ago)**
 - [`zera`](https://github.com/taciturnaxolotl/zera) - _"my new site v4?"_ **(5 days ago)**
 - [`anthropic-api-key`](https://github.com/taciturnaxolotl/anthropic-api-key) - _"get your claude code tokens here"_ **(5 days ago)**
 - [`shortwave`](https://github.com/taciturnaxolotl/shortwave) - _"a mega cool windows xp app "_ **(1 week ago)**
@@ -34,20 +34,20 @@ When not doing school or working on a project, I enjoy flying drones and making 
 
 ```text
 💾 Languages:
-unknown     1h 33m 49s   █████████████░░░░░░░░░░░░  48.41%
-Nix         41m 55s      ██████░░░░░░░░░░░░░░░░░░░  21.63%
-Markdown    18m 22s      ███░░░░░░░░░░░░░░░░░░░░░░  9.48%
-nix         9m 9s        ██░░░░░░░░░░░░░░░░░░░░░░░  4.72%
-Bash        4m 49s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.49%
+unknown     1h 40m 22s   ████████████░░░░░░░░░░░░░  47.53%
+Nix         47m 1s       ██████░░░░░░░░░░░░░░░░░░░  22.26%
+Markdown    19m 30s      ███░░░░░░░░░░░░░░░░░░░░░░  9.23%
+nix         9m 10s       ██░░░░░░░░░░░░░░░░░░░░░░░  4.34%
+Bash        4m 52s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.30%
 
 💼 Projects:
-dots        1h 41m 14s   ██████████████░░░░░░░░░░░  52.22%
-zera        31m 1s       ████░░░░░░░░░░░░░░░░░░░░░  16.00%
-kierank     14m 43s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.59%
-crush       13m 45s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.09%
-charm-nur   8m 44s       ██░░░░░░░░░░░░░░░░░░░░░░░  4.51%
+dots        1h 58m 37s   ███████████████░░░░░░░░░░  56.15%
+zera        31m 1s       ████░░░░░░░░░░░░░░░░░░░░░  14.68%
+kierank     14m 45s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.98%
+crush       13m 45s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.51%
+charm-nur   8m 44s       ██░░░░░░░░░░░░░░░░░░░░░░░  4.13%
 
-Total: 3 hrs 14 mins
+Total: 3 hrs 31 mins
 ```
 
 #### 📮 Want to Contact me?
