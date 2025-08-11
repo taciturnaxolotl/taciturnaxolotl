@@ -4,9 +4,9 @@ When not doing school or working on a project, I enjoy flying drones and making 
 
 #### 👷 The latest repos I've pushed to
 
-- [`dots`](https://github.com/taciturnaxolotl/dots) - _"Kieran's opinionated (and probably slightly dumb) nix config"_ **(2 days ago)**
-- [`zera`](https://github.com/taciturnaxolotl/zera) - _"my new site v4?"_ **(4 days ago)**
-- [`anthropic-api-key`](https://github.com/taciturnaxolotl/anthropic-api-key) - _"get your claude code tokens here"_ **(4 days ago)**
+- [`dots`](https://github.com/taciturnaxolotl/dots) - _"Kieran's opinionated (and probably slightly dumb) nix config"_ **(3 days ago)**
+- [`zera`](https://github.com/taciturnaxolotl/zera) - _"my new site v4?"_ **(5 days ago)**
+- [`anthropic-api-key`](https://github.com/taciturnaxolotl/anthropic-api-key) - _"get your claude code tokens here"_ **(5 days ago)**
 - [`shortwave`](https://github.com/taciturnaxolotl/shortwave) - _"a mega cool windows xp app "_ **(1 week ago)**
 - [`nixpkgs`](https://github.com/NixOS/nixpkgs) - _"Nix Packages collection & NixOS"_ **(1 week ago)**
 - [`crush`](https://github.com/charmbracelet/crush) - _"The glamourous AI coding agent for your favourite terminal 💘"_ **(2 weeks ago)**
@@ -24,9 +24,9 @@ When not doing school or working on a project, I enjoy flying drones and making 
 
 - [`Musings about Atuin`](https://dunkirk.sh/blog/atuin/) **(3 months ago)**
 
-- [`Adding a copy code button`](https://dunkirk.sh/blog/adding-a-copy-button/) **(4 months ago)**
+- [`Adding a copy code button`](https://dunkirk.sh/blog/adding-a-copy-button/) **(5 months ago)**
 
-- [`All my animation projects`](https://dunkirk.sh/blog/my-animations/) **(4 months ago)**
+- [`All my animation projects`](https://dunkirk.sh/blog/my-animations/) **(5 months ago)**
 
 
 
@@ -34,20 +34,20 @@ When not doing school or working on a project, I enjoy flying drones and making 
 
 ```text
 💾 Languages:
-unknown               1h 51m 37s   ████████████░░░░░░░░░░░░░  44.10%
-Nix                   44m 8s       █████░░░░░░░░░░░░░░░░░░░░  17.44%
-Aseprite              30m 20s      ███░░░░░░░░░░░░░░░░░░░░░░  11.99%
-Markdown              16m 53s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.67%
-nix                   9m 11s       █░░░░░░░░░░░░░░░░░░░░░░░░  3.63%
+unknown               1h 39m 10s   ████████████░░░░░░░░░░░░░  45.67%
+Nix                   41m 41s      █████░░░░░░░░░░░░░░░░░░░░  19.20%
+Markdown              16m 53s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.78%
+Aseprite              14m 37s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.73%
+nix                   9m 10s       ██░░░░░░░░░░░░░░░░░░░░░░░  4.22%
 
 💼 Projects:
-dots                  1h 43m 50s   ███████████░░░░░░░░░░░░░░  41.01%
-zera                  31m 1s       ████░░░░░░░░░░░░░░░░░░░░░  12.25%
-pirates-of-aseprite   30m 20s      ███░░░░░░░░░░░░░░░░░░░░░░  11.98%
-shortwave             26m 5s       ███░░░░░░░░░░░░░░░░░░░░░░  10.30%
-kierank               17m 42s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.99%
+dots                  1h 34m 50s   ███████████░░░░░░░░░░░░░░  43.66%
+zera                  31m 1s       ████░░░░░░░░░░░░░░░░░░░░░  14.28%
+kierank               16m 43s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.70%
+shortwave             15m 50s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.29%
+pirates-of-aseprite   14m 37s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.73%
 
-Total: 4 hrs 13 mins
+Total: 3 hrs 37 mins
 ```
 
 #### 📮 Want to Contact me?
