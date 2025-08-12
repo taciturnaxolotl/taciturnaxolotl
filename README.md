@@ -4,12 +4,12 @@ When not doing school or working on a project, I enjoy flying drones and making 
 
 #### 👷 The latest repos I've pushed to
 
-- [`dots`](https://github.com/taciturnaxolotl/dots) - _"Kieran's opinionated (and probably slightly dumb) nix config"_ **(today)**
-- [`pxlboard`](https://github.com/taciturnaxolotl/pxlboard) - _"YAGNG (yet another generic pixel grid)"_ **(today)**
-- [`zera`](https://github.com/taciturnaxolotl/zera) - _"my new site v4?"_ **(5 days ago)**
-- [`anthropic-api-key`](https://github.com/taciturnaxolotl/anthropic-api-key) - _"get your claude code tokens here"_ **(5 days ago)**
+- [`dots`](https://github.com/taciturnaxolotl/dots) - _"Kieran's opinionated (and probably slightly dumb) nix config"_ **(1 day ago)**
+- [`pxlboard`](https://github.com/taciturnaxolotl/pxlboard) - _"YAGNG (yet another generic pixel grid)"_ **(1 day ago)**
+- [`zera`](https://github.com/taciturnaxolotl/zera) - _"my new site v4?"_ **(6 days ago)**
+- [`anthropic-api-key`](https://github.com/taciturnaxolotl/anthropic-api-key) - _"get your claude code tokens here"_ **(6 days ago)**
 - [`shortwave`](https://github.com/taciturnaxolotl/shortwave) - _"a mega cool windows xp app "_ **(1 week ago)**
-- [`nixpkgs`](https://github.com/NixOS/nixpkgs) - _"Nix Packages collection & NixOS"_ **(1 week ago)**
+- [`nixpkgs`](https://github.com/NixOS/nixpkgs) - _"Nix Packages collection & NixOS"_ **(2 weeks ago)**
 - [`crush`](https://github.com/charmbracelet/crush) - _"The glamourous AI coding agent for your favourite terminal 💘"_ **(2 weeks ago)**
 - [`bunplayground`](https://github.com/taciturnaxolotl/bunplayground) - _"random bun scripts that dont fit anywhere else"_ **(2 weeks ago)**
 
@@ -34,20 +34,20 @@ When not doing school or working on a project, I enjoy flying drones and making 
 
 ```text
 💾 Languages:
-unknown     1h 40m 22s   ████████████░░░░░░░░░░░░░  47.53%
-Nix         47m 1s       ██████░░░░░░░░░░░░░░░░░░░  22.26%
-Markdown    19m 30s      ███░░░░░░░░░░░░░░░░░░░░░░  9.23%
-nix         9m 10s       ██░░░░░░░░░░░░░░░░░░░░░░░  4.34%
-Bash        4m 52s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.30%
+unknown          2h 4m 14s   ██████████████░░░░░░░░░░░  52.32%
+Nix              47m 58s     ██████░░░░░░░░░░░░░░░░░░░  20.20%
+Markdown         20m 25s     ███░░░░░░░░░░░░░░░░░░░░░░  8.60%
+nix              7m 8s       █░░░░░░░░░░░░░░░░░░░░░░░░  3.00%
+Bash             5m 20s      █░░░░░░░░░░░░░░░░░░░░░░░░  2.25%
 
 💼 Projects:
-dots        1h 58m 37s   ███████████████░░░░░░░░░░  56.15%
-zera        31m 1s       ████░░░░░░░░░░░░░░░░░░░░░  14.68%
-kierank     14m 45s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.98%
-crush       13m 45s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.51%
-charm-nur   8m 44s       ██░░░░░░░░░░░░░░░░░░░░░░░  4.13%
+dots             2h 6m 0s    ██████████████░░░░░░░░░░░  53.04%
+zera             31m 1s      ████░░░░░░░░░░░░░░░░░░░░░  13.06%
+kierank          19m 57s     ███░░░░░░░░░░░░░░░░░░░░░░  8.40%
+crush            13m 45s     ██░░░░░░░░░░░░░░░░░░░░░░░  5.79%
+2025-reefscape   10m 49s     ██░░░░░░░░░░░░░░░░░░░░░░░  4.55%
 
-Total: 3 hrs 31 mins
+Total: 3 hrs 58 mins
 ```
 
 #### 📮 Want to Contact me?
