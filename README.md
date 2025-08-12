@@ -4,10 +4,10 @@ When not doing school or working on a project, I enjoy flying drones and making 
 
 #### 👷 The latest repos I've pushed to
 
+- [`pxlboard`](https://github.com/taciturnaxolotl/pxlboard) - _"YAGNG (yet another generic pixel grid)"_ **(today)**
 - [`dots`](https://github.com/taciturnaxolotl/dots) - _"Kieran's opinionated (and probably slightly dumb) nix config"_ **(1 day ago)**
-- [`pxlboard`](https://github.com/taciturnaxolotl/pxlboard) - _"YAGNG (yet another generic pixel grid)"_ **(1 day ago)**
-- [`zera`](https://github.com/taciturnaxolotl/zera) - _"my new site v4?"_ **(6 days ago)**
 - [`anthropic-api-key`](https://github.com/taciturnaxolotl/anthropic-api-key) - _"get your claude code tokens here"_ **(6 days ago)**
+- [`zera`](https://github.com/taciturnaxolotl/zera) - _"my new site v4?"_ **(6 days ago)**
 - [`shortwave`](https://github.com/taciturnaxolotl/shortwave) - _"a mega cool windows xp app "_ **(1 week ago)**
 - [`nixpkgs`](https://github.com/NixOS/nixpkgs) - _"Nix Packages collection & NixOS"_ **(2 weeks ago)**
 - [`crush`](https://github.com/charmbracelet/crush) - _"The glamourous AI coding agent for your favourite terminal 💘"_ **(2 weeks ago)**
@@ -34,18 +34,18 @@ When not doing school or working on a project, I enjoy flying drones and making 
 
 ```text
 💾 Languages:
-unknown          2h 51m 3s    ███████████████░░░░░░░░░░  59.47%
-Nix              47m 58s      █████░░░░░░░░░░░░░░░░░░░░  16.68%
-Markdown         22m 57s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.98%
-nix              7m 8s        █░░░░░░░░░░░░░░░░░░░░░░░░  2.48%
+unknown          2h 55m 26s   ████████████████░░░░░░░░░  60.94%
+Nix              47m 58s      █████░░░░░░░░░░░░░░░░░░░░  16.66%
+Markdown         20m 52s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.25%
 Bash             5m 20s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.85%
+nix              5m 8s        █░░░░░░░░░░░░░░░░░░░░░░░░  1.78%
 
 💼 Projects:
-dots             2h 10m 56s   ████████████░░░░░░░░░░░░░  45.51%
-2025-reefscape   43m 38s      ████░░░░░░░░░░░░░░░░░░░░░  15.16%
-zera             31m 1s       ███░░░░░░░░░░░░░░░░░░░░░░  10.78%
-kierank          30m 18s      ███░░░░░░░░░░░░░░░░░░░░░░  10.53%
-crush            13m 45s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.78%
+dots             2h 6m 47s    ████████████░░░░░░░░░░░░░  44.03%
+2025-reefscape   43m 38s      ████░░░░░░░░░░░░░░░░░░░░░  15.15%
+kierank          32m 18s      ███░░░░░░░░░░░░░░░░░░░░░░  11.22%
+zera             31m 1s       ███░░░░░░░░░░░░░░░░░░░░░░  10.77%
+crush            13m 45s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.77%
 
 Total: 4 hrs 48 mins
 ```
