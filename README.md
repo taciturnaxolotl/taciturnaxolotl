@@ -4,11 +4,11 @@ When not doing school or working on a project, I enjoy flying drones and making 
 
 #### 👷 The latest repos I've pushed to
 
-- [`anthropic-api-key`](https://github.com/taciturnaxolotl/anthropic-api-key) - _"get your claude code tokens here"_ **(today)**
-- [`pip`](https://github.com/taciturnaxolotl/pip) - _"yet another ssh pastes project"_ **(1 day ago)**
-- [`dots`](https://github.com/taciturnaxolotl/dots) - _"Kieran's opinionated (and probably slightly dumb) nix config"_ **(1 day ago)**
-- [`zera`](https://github.com/taciturnaxolotl/zera) - _"my new site v4?"_ **(2 days ago)**
-- [`pxlboard`](https://github.com/taciturnaxolotl/pxlboard) - _"YAGNG (yet another generic pixel grid)"_ **(3 days ago)**
+- [`anthropic-api-key`](https://github.com/taciturnaxolotl/anthropic-api-key) - _"get your claude code tokens here"_ **(1 day ago)**
+- [`pip`](https://github.com/taciturnaxolotl/pip) - _"yet another ssh pastes project"_ **(2 days ago)**
+- [`dots`](https://github.com/taciturnaxolotl/dots) - _"Kieran's opinionated (and probably slightly dumb) nix config"_ **(2 days ago)**
+- [`zera`](https://github.com/taciturnaxolotl/zera) - _"my new site v4?"_ **(3 days ago)**
+- [`pxlboard`](https://github.com/taciturnaxolotl/pxlboard) - _"YAGNG (yet another generic pixel grid)"_ **(4 days ago)**
 - [`shortwave`](https://github.com/taciturnaxolotl/shortwave) - _"a mega cool windows xp app "_ **(1 week ago)**
 - [`nixpkgs`](https://github.com/NixOS/nixpkgs) - _"Nix Packages collection & NixOS"_ **(2 weeks ago)**
 - [`crush`](https://github.com/charmbracelet/crush) - _"The glamourous AI coding agent for your favourite terminal 💘"_ **(3 weeks ago)**
@@ -34,7 +34,7 @@ When not doing school or working on a project, I enjoy flying drones and making 
 
 ```text
 💾 Languages:
-unknown          4h 26m 47s   ██████████████████░░░░░░░  70.51%
+unknown          4h 26m 48s   ██████████████████░░░░░░░  70.51%
 Nix              19m 57s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.27%
 CSS              18m 11s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.81%
 TypeScript       10m 9s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.68%
@@ -43,7 +43,7 @@ Bash             10m 8s       █░░░░░░░░░░░░░░░�
 💼 Projects:
 dots             1h 18m 47s   ██████░░░░░░░░░░░░░░░░░░░  20.81%
 frc-nix          1h 8m 51s    █████░░░░░░░░░░░░░░░░░░░░  18.19%
-kierank          53m 6s       ████░░░░░░░░░░░░░░░░░░░░░  14.03%
+kierank          53m 7s       ████░░░░░░░░░░░░░░░░░░░░░  14.03%
 2025-reefscape   43m 38s      ███░░░░░░░░░░░░░░░░░░░░░░  11.53%
 zera             29m 24s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.77%
 
