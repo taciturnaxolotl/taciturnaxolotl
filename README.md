@@ -4,9 +4,9 @@ When not doing school or working on a project, I enjoy flying drones and making 
 
 #### 👷 The latest repos I've pushed to
 
+- [`dots`](https://github.com/taciturnaxolotl/dots) - _"Kieran's opinionated (and probably slightly dumb) nix config"_ **(today)**
 - [`anthropic-api-key`](https://github.com/taciturnaxolotl/anthropic-api-key) - _"get your claude code tokens here"_ **(1 day ago)**
 - [`pip`](https://github.com/taciturnaxolotl/pip) - _"yet another ssh pastes project"_ **(2 days ago)**
-- [`dots`](https://github.com/taciturnaxolotl/dots) - _"Kieran's opinionated (and probably slightly dumb) nix config"_ **(2 days ago)**
 - [`zera`](https://github.com/taciturnaxolotl/zera) - _"my new site v4?"_ **(3 days ago)**
 - [`pxlboard`](https://github.com/taciturnaxolotl/pxlboard) - _"YAGNG (yet another generic pixel grid)"_ **(4 days ago)**
 - [`shortwave`](https://github.com/taciturnaxolotl/shortwave) - _"a mega cool windows xp app "_ **(1 week ago)**
@@ -34,20 +34,20 @@ When not doing school or working on a project, I enjoy flying drones and making 
 
 ```text
 💾 Languages:
-unknown          4h 22m 48s   ██████████████████░░░░░░░  70.58%
-Nix              19m 12s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.16%
-CSS              18m 11s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.88%
-Bash             10m 8s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.72%
-TypeScript       8m 50s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.37%
+unknown          4h 28m 53s   ██████████████████░░░░░░░  70.64%
+Nix              21m 26s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.63%
+CSS              18m 11s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.78%
+Bash             10m 8s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.66%
+TypeScript       8m 50s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.32%
 
 💼 Projects:
-dots             1h 16m 2s    ██████░░░░░░░░░░░░░░░░░░░  20.41%
-frc-nix          1h 8m 51s    █████░░░░░░░░░░░░░░░░░░░░  18.49%
-kierank          51m 6s       ████░░░░░░░░░░░░░░░░░░░░░  13.72%
-2025-reefscape   43m 38s      ███░░░░░░░░░░░░░░░░░░░░░░  11.72%
-zera             29m 24s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.89%
+dots             1h 22m 21s   ██████░░░░░░░░░░░░░░░░░░░  21.63%
+frc-nix          1h 8m 51s    █████░░░░░░░░░░░░░░░░░░░░  18.08%
+kierank          53m 6s       ████░░░░░░░░░░░░░░░░░░░░░  13.95%
+2025-reefscape   43m 38s      ███░░░░░░░░░░░░░░░░░░░░░░  11.46%
+zera             29m 24s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.72%
 
-Total: 6 hrs 12 mins
+Total: 6 hrs 21 mins
 ```
 
 #### 📮 Want to Contact me?
