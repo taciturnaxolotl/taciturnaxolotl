@@ -4,13 +4,13 @@ When not doing school or working on a project, I enjoy flying drones and making 
 
 #### 👷 The latest repos I've pushed to
 
-- [`dots`](https://github.com/taciturnaxolotl/dots) - _"Kieran's opinionated (and probably slightly dumb) nix config"_ **(1 day ago)**
-- [`anthropic-api-key`](https://github.com/taciturnaxolotl/anthropic-api-key) - _"get your claude code tokens here"_ **(3 days ago)**
-- [`pip`](https://github.com/taciturnaxolotl/pip) - _"yet another ssh pastes project"_ **(4 days ago)**
-- [`zera`](https://github.com/taciturnaxolotl/zera) - _"my new site v4?"_ **(5 days ago)**
-- [`pxlboard`](https://github.com/taciturnaxolotl/pxlboard) - _"YAGNG (yet another generic pixel grid)"_ **(6 days ago)**
+- [`dots`](https://github.com/taciturnaxolotl/dots) - _"Kieran's opinionated (and probably slightly dumb) nix config"_ **(2 days ago)**
+- [`anthropic-api-key`](https://github.com/taciturnaxolotl/anthropic-api-key) - _"get your claude code tokens here"_ **(4 days ago)**
+- [`pip`](https://github.com/taciturnaxolotl/pip) - _"yet another ssh pastes project"_ **(5 days ago)**
+- [`zera`](https://github.com/taciturnaxolotl/zera) - _"my new site v4?"_ **(6 days ago)**
+- [`pxlboard`](https://github.com/taciturnaxolotl/pxlboard) - _"YAGNG (yet another generic pixel grid)"_ **(1 week ago)**
 - [`shortwave`](https://github.com/taciturnaxolotl/shortwave) - _"a mega cool windows xp app "_ **(2 weeks ago)**
-- [`nixpkgs`](https://github.com/NixOS/nixpkgs) - _"Nix Packages collection & NixOS"_ **(2 weeks ago)**
+- [`nixpkgs`](https://github.com/NixOS/nixpkgs) - _"Nix Packages collection & NixOS"_ **(3 weeks ago)**
 - [`crush`](https://github.com/charmbracelet/crush) - _"The glamourous AI coding agent for your favourite terminal 💘"_ **(3 weeks ago)**
 
 #### ⌨️ My latest projects
@@ -34,20 +34,20 @@ When not doing school or working on a project, I enjoy flying drones and making 
 
 ```text
 💾 Languages:
-unknown          5h 3m 6s     ██████████████████░░░░░░░  71.96%
-CSS              18m 11s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.32%
-Bash             15m 28s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.67%
-Nix              14m 12s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.37%
-ActionScript     9m 22s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.22%
+unknown          4h 39m 12s   ██████████████████░░░░░░░  70.91%
+CSS              18m 11s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.62%
+Bash             15m 0s       █░░░░░░░░░░░░░░░░░░░░░░░░  3.81%
+Nix              13m 15s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.37%
+ActionScript     9m 22s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.38%
 
 💼 Projects:
-dots             1h 20m 44s   █████░░░░░░░░░░░░░░░░░░░░  19.16%
-frc-nix          1h 19m 56s   █████░░░░░░░░░░░░░░░░░░░░  18.97%
-kierank          1h 5m 45s    ████░░░░░░░░░░░░░░░░░░░░░  15.61%
-2025-reefscape   58m 56s      ████░░░░░░░░░░░░░░░░░░░░░  13.99%
-zera             29m 24s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.98%
+frc-nix          1h 19m 12s   ██████░░░░░░░░░░░░░░░░░░░  20.11%
+dots             1h 14m 12s   █████░░░░░░░░░░░░░░░░░░░░  18.84%
+kierank          58m 31s      ████░░░░░░░░░░░░░░░░░░░░░  14.86%
+2025-reefscape   48m 7s       ████░░░░░░░░░░░░░░░░░░░░░  12.22%
+zera             29m 24s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.46%
 
-Total: 7 hrs 1 mins
+Total: 6 hrs 34 mins
 ```
 
 #### 📮 Want to Contact me?
