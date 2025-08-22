@@ -4,14 +4,14 @@ When not doing school or working on a project, I enjoy flying drones and making 
 
 #### 👷 The latest repos I've pushed to
 
-- [`dots`](https://github.com/taciturnaxolotl/dots) - _"Kieran's opinionated (and probably slightly dumb) nix config"_ **(today)**
-- [`anthropic-api-key`](https://github.com/taciturnaxolotl/anthropic-api-key) - _"get your claude code tokens here"_ **(6 days ago)**
+- [`dots`](https://github.com/taciturnaxolotl/dots) - _"Kieran's opinionated (and probably slightly dumb) nix config"_ **(1 day ago)**
+- [`anthropic-api-key`](https://github.com/taciturnaxolotl/anthropic-api-key) - _"get your claude code tokens here"_ **(1 week ago)**
 - [`pip`](https://github.com/taciturnaxolotl/pip) - _"yet another ssh pastes project"_ **(1 week ago)**
 - [`zera`](https://github.com/taciturnaxolotl/zera) - _"my new site v4?"_ **(1 week ago)**
 - [`pxlboard`](https://github.com/taciturnaxolotl/pxlboard) - _"YAGNG (yet another generic pixel grid)"_ **(1 week ago)**
 - [`shortwave`](https://github.com/taciturnaxolotl/shortwave) - _"a mega cool windows xp app "_ **(2 weeks ago)**
 - [`nixpkgs`](https://github.com/NixOS/nixpkgs) - _"Nix Packages collection & NixOS"_ **(3 weeks ago)**
-- [`crush`](https://github.com/charmbracelet/crush) - _"The glamourous AI coding agent for your favourite terminal 💘"_ **(3 weeks ago)**
+- [`crush`](https://github.com/charmbracelet/crush) - _"The glamourous AI coding agent for your favourite terminal 💘"_ **(4 weeks ago)**
 
 #### ⌨️ My latest projects
 
@@ -22,7 +22,7 @@ When not doing school or working on a project, I enjoy flying drones and making 
 
 #### 🗒️ the latest posts from my [blog](https://dunkirk.sh)
 
-- [`Musings about Atuin`](https://dunkirk.sh/blog/atuin/) **(3 months ago)**
+- [`Musings about Atuin`](https://dunkirk.sh/blog/atuin/) **(4 months ago)**
 
 - [`Adding a copy code button`](https://dunkirk.sh/blog/adding-a-copy-button/) **(5 months ago)**
 
@@ -34,20 +34,20 @@ When not doing school or working on a project, I enjoy flying drones and making 
 
 ```text
 💾 Languages:
-unknown             3h 10m 47s   █████████████████░░░░░░░░  64.79%
-Nix                 22m 41s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.70%
-Bash                11m 37s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.94%
-C++                 11m 11s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.80%
-ActionScript        9m 22s       █░░░░░░░░░░░░░░░░░░░░░░░░  3.18%
+unknown          2h 49m 9s   ██████████████████░░░░░░░  68.71%
+Nix              20m 7s      ███░░░░░░░░░░░░░░░░░░░░░░  8.17%
+Bash             11m 37s     ██░░░░░░░░░░░░░░░░░░░░░░░  4.72%
+C++              11m 11s     ██░░░░░░░░░░░░░░░░░░░░░░░  4.54%
+ActionScript     9m 22s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.81%
 
 💼 Projects:
-dots                1h 23m 29s   ████████░░░░░░░░░░░░░░░░░  28.33%
-kierank             53m 54s      █████░░░░░░░░░░░░░░░░░░░░  18.29%
-cs1210              44m 48s      ████░░░░░░░░░░░░░░░░░░░░░  15.20%
-anthropic-api-key   25m 32s      ███░░░░░░░░░░░░░░░░░░░░░░  8.67%
-frc-nix             24m 4s       ███░░░░░░░░░░░░░░░░░░░░░░  8.17%
+dots             1h 8m 38s   ███████░░░░░░░░░░░░░░░░░░  27.87%
+kierank          51m 14s     ██████░░░░░░░░░░░░░░░░░░░  20.80%
+cs1210           44m 48s     █████░░░░░░░░░░░░░░░░░░░░  18.19%
+frc-nix          24m 4s      ███░░░░░░░░░░░░░░░░░░░░░░  9.77%
+2025-reefscape   15m 18s     ██░░░░░░░░░░░░░░░░░░░░░░░  6.21%
 
-Total: 4 hrs 55 mins
+Total: 4 hrs 6 mins
 ```
 
 #### 📮 Want to Contact me?
