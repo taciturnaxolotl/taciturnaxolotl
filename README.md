@@ -4,14 +4,14 @@ When not doing school or working on a project, I enjoy flying drones and making 
 
 #### 👷 The latest repos I've pushed to
 
-- [`dots`](https://github.com/taciturnaxolotl/dots) - _"Kieran's opinionated (and probably slightly dumb) nix config"_ **(2 days ago)**
+- [`dots`](https://github.com/taciturnaxolotl/dots) - _"Kieran's opinionated (and probably slightly dumb) nix config"_ **(3 days ago)**
 - [`anthropic-api-key`](https://github.com/taciturnaxolotl/anthropic-api-key) - _"get your claude code tokens here"_ **(1 week ago)**
 - [`pip`](https://github.com/taciturnaxolotl/pip) - _"yet another ssh pastes project"_ **(1 week ago)**
 - [`zera`](https://github.com/taciturnaxolotl/zera) - _"my new site v4?"_ **(1 week ago)**
 - [`pxlboard`](https://github.com/taciturnaxolotl/pxlboard) - _"YAGNG (yet another generic pixel grid)"_ **(1 week ago)**
-- [`shortwave`](https://github.com/taciturnaxolotl/shortwave) - _"a mega cool windows xp app "_ **(2 weeks ago)**
+- [`shortwave`](https://github.com/taciturnaxolotl/shortwave) - _"a mega cool windows xp app "_ **(3 weeks ago)**
 - [`nixpkgs`](https://github.com/NixOS/nixpkgs) - _"Nix Packages collection & NixOS"_ **(3 weeks ago)**
-- [`crush`](https://github.com/charmbracelet/crush) - _"The glamourous AI coding agent for your favourite terminal 💘"_ **(4 weeks ago)**
+- [`crush`](https://github.com/charmbracelet/crush) - _"The glamourous AI coding agent for your favourite terminal 💘"_ **(1 month ago)**
 
 #### ⌨️ My latest projects
 
@@ -34,20 +34,20 @@ When not doing school or working on a project, I enjoy flying drones and making 
 
 ```text
 💾 Languages:
-unknown          1h 59m 4s   ████████████████░░░░░░░░░  62.40%
-Nix              17m 6s      ███░░░░░░░░░░░░░░░░░░░░░░  8.96%
-C++              11m 11s     ██░░░░░░░░░░░░░░░░░░░░░░░  5.86%
-ActionScript     9m 22s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.91%
-TypeScript       7m 28s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.91%
+unknown          1h 57m 35s   █████████████████░░░░░░░░  64.70%
+Nix              15m 6s       ███░░░░░░░░░░░░░░░░░░░░░░  8.31%
+C++              11m 11s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.15%
+ActionScript     9m 22s       ██░░░░░░░░░░░░░░░░░░░░░░░  5.15%
+TypeScript       7m 28s       ██░░░░░░░░░░░░░░░░░░░░░░░  4.11%
 
 💼 Projects:
-dots             1h 2m 19s   █████████░░░░░░░░░░░░░░░░  32.64%
-cs1210           44m 48s     ██████░░░░░░░░░░░░░░░░░░░  23.47%
-kierank          29m 55s     ████░░░░░░░░░░░░░░░░░░░░░  15.67%
-2025-reefscape   15m 18s     ███░░░░░░░░░░░░░░░░░░░░░░  8.01%
-frc-nix          11m 5s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.81%
+dots             1h 2m 19s    █████████░░░░░░░░░░░░░░░░  34.27%
+cs1210           44m 48s      ███████░░░░░░░░░░░░░░░░░░  24.64%
+kierank          31m 55s      █████░░░░░░░░░░░░░░░░░░░░  17.55%
+2025-reefscape   15m 18s      ███░░░░░░░░░░░░░░░░░░░░░░  8.42%
+unduckified      8m 9s        ██░░░░░░░░░░░░░░░░░░░░░░░  4.48%
 
-Total: 3 hrs 11 mins
+Total: 3 hrs 2 mins
 ```
 
 #### 📮 Want to Contact me?
