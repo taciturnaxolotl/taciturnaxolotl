@@ -4,7 +4,7 @@ When not doing school or working on a project, I enjoy flying drones and making 
 
 #### 👷 The latest repos I've pushed to
 
-- [`dots`](https://github.com/taciturnaxolotl/dots) - _"Kieran's opinionated (and probably slightly dumb) nix config"_ **(3 days ago)**
+- [`dots`](https://github.com/taciturnaxolotl/dots) - _"Kieran's opinionated (and probably slightly dumb) nix config"_ **(4 days ago)**
 - [`anthropic-api-key`](https://github.com/taciturnaxolotl/anthropic-api-key) - _"get your claude code tokens here"_ **(1 week ago)**
 - [`pip`](https://github.com/taciturnaxolotl/pip) - _"yet another ssh pastes project"_ **(1 week ago)**
 - [`zera`](https://github.com/taciturnaxolotl/zera) - _"my new site v4?"_ **(1 week ago)**
