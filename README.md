@@ -4,9 +4,9 @@ When not doing school or working on a project, I enjoy flying drones and making 
 
 #### 👷 The latest repos I've pushed to
 
+- [`cachet`](https://github.com/taciturnaxolotl/cachet) - _"a cache for slack profile pictures and emojis"_ **(today)**
 - [`anthropic-api-key`](https://github.com/taciturnaxolotl/anthropic-api-key) - _"get your claude code tokens here"_ **(today)**
 - [`zera`](https://github.com/taciturnaxolotl/zera) - _"my new site v4?"_ **(1 day ago)**
-- [`cachet`](https://github.com/taciturnaxolotl/cachet) - _"a cache for slack profile pictures and emojis"_ **(1 day ago)**
 - [`dots`](https://github.com/taciturnaxolotl/dots) - _"Kieran's opinionated (and probably slightly dumb) nix config"_ **(1 day ago)**
 - [`pip`](https://github.com/taciturnaxolotl/pip) - _"yet another ssh pastes project"_ **(2 weeks ago)**
 - [`pxlboard`](https://github.com/taciturnaxolotl/pxlboard) - _"YAGNG (yet another generic pixel grid)"_ **(2 weeks ago)**
@@ -34,20 +34,20 @@ When not doing school or working on a project, I enjoy flying drones and making 
 
 ```text
 💾 Languages:
-unknown             2h 44m 50s   ██████████████████████░░░  86.11%
-JavaScript          8m 17s       ██░░░░░░░░░░░░░░░░░░░░░░░  4.33%
-TypeScript          8m 1s        ██░░░░░░░░░░░░░░░░░░░░░░░  4.19%
-Nix                 3m 39s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.91%
-Bash                3m 34s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.86%
+unknown             2h 46m 53s   ██████████████████████░░░  84.45%
+JavaScript          10m 17s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.20%
+TypeScript          8m 1s        ██░░░░░░░░░░░░░░░░░░░░░░░  4.06%
+Nix                 3m 39s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.85%
+Bash                3m 34s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.80%
 
 💼 Projects:
-dots                1h 9m 11s    ██████████░░░░░░░░░░░░░░░  36.15%
-kierank             38m 27s      ██████░░░░░░░░░░░░░░░░░░░  20.09%
-2025-reefscape      27m 44s      ████░░░░░░░░░░░░░░░░░░░░░  14.49%
-cachet              20m 28s      ███░░░░░░░░░░░░░░░░░░░░░░  10.69%
-anthropic-api-key   9m 8s        ██░░░░░░░░░░░░░░░░░░░░░░░  4.77%
+dots                1h 9m 11s    █████████░░░░░░░░░░░░░░░░  35.01%
+kierank             40m 5s       ██████░░░░░░░░░░░░░░░░░░░  20.29%
+2025-reefscape      27m 44s      ████░░░░░░░░░░░░░░░░░░░░░  14.04%
+cachet              23m 3s       ███░░░░░░░░░░░░░░░░░░░░░░  11.66%
+anthropic-api-key   11m 8s       ██░░░░░░░░░░░░░░░░░░░░░░░  5.63%
 
-Total: 3 hrs 11 mins
+Total: 3 hrs 18 mins
 ```
 
 #### 📮 Want to Contact me?
