@@ -4,14 +4,14 @@ When not doing school or working on a project, I enjoy flying drones and making 
 
 #### 👷 The latest repos I've pushed to
 
-- [`dots`](https://github.com/taciturnaxolotl/dots) - _"Kieran's opinionated (and probably slightly dumb) nix config"_ **(today)**
-- [`daedalus`](https://github.com/taciturnaxolotl/daedalus) - _"a vim plugin that displays stuff on an led matrix"_ **(today)**
-- [`cachet`](https://github.com/taciturnaxolotl/cachet) - _"a cache for slack profile pictures and emojis"_ **(3 days ago)**
-- [`anthropic-api-key`](https://github.com/taciturnaxolotl/anthropic-api-key) - _"get your claude code tokens here"_ **(3 days ago)**
-- [`zera`](https://github.com/taciturnaxolotl/zera) - _"my new site v4?"_ **(4 days ago)**
+- [`daedalus`](https://github.com/taciturnaxolotl/daedalus) - _"a vim plugin that displays stuff on an led matrix"_ **(1 day ago)**
+- [`dots`](https://github.com/taciturnaxolotl/dots) - _"Kieran's opinionated (and probably slightly dumb) nix config"_ **(1 day ago)**
+- [`cachet`](https://github.com/taciturnaxolotl/cachet) - _"a cache for slack profile pictures and emojis"_ **(4 days ago)**
+- [`anthropic-api-key`](https://github.com/taciturnaxolotl/anthropic-api-key) - _"get your claude code tokens here"_ **(4 days ago)**
+- [`zera`](https://github.com/taciturnaxolotl/zera) - _"my new site v4?"_ **(5 days ago)**
 - [`pip`](https://github.com/taciturnaxolotl/pip) - _"yet another ssh pastes project"_ **(2 weeks ago)**
-- [`pxlboard`](https://github.com/taciturnaxolotl/pxlboard) - _"YAGNG (yet another generic pixel grid)"_ **(2 weeks ago)**
-- [`shortwave`](https://github.com/taciturnaxolotl/shortwave) - _"a mega cool windows xp app "_ **(4 weeks ago)**
+- [`pxlboard`](https://github.com/taciturnaxolotl/pxlboard) - _"YAGNG (yet another generic pixel grid)"_ **(3 weeks ago)**
+- [`shortwave`](https://github.com/taciturnaxolotl/shortwave) - _"a mega cool windows xp app "_ **(1 month ago)**
 
 #### ⌨️ My latest projects
 
@@ -34,20 +34,20 @@ When not doing school or working on a project, I enjoy flying drones and making 
 
 ```text
 💾 Languages:
-unknown          3h 58m 34s   █████████████████░░░░░░░░  67.39%
-C++              37m 22s      ███░░░░░░░░░░░░░░░░░░░░░░  10.56%
-TOML             27m 8s       ██░░░░░░░░░░░░░░░░░░░░░░░  7.67%
-Nix              20m 12s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.71%
-JavaScript       10m 17s      █░░░░░░░░░░░░░░░░░░░░░░░░  2.91%
+unknown          4h 20m 42s   █████████████████░░░░░░░░  66.19%
+C++              54m 25s      ████░░░░░░░░░░░░░░░░░░░░░  13.82%
+TOML             27m 8s       ██░░░░░░░░░░░░░░░░░░░░░░░  6.89%
+Nix              20m 12s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.13%
+JavaScript       10m 17s      █░░░░░░░░░░░░░░░░░░░░░░░░  2.61%
 
 💼 Projects:
-daedalus         1h 28m 32s   ███████░░░░░░░░░░░░░░░░░░  25.01%
-dots             1h 20m 25s   ██████░░░░░░░░░░░░░░░░░░░  22.72%
-kierank          1h 3m 49s    █████░░░░░░░░░░░░░░░░░░░░  18.03%
-2025-reefscape   27m 44s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.83%
-cachet           23m 3s       ██░░░░░░░░░░░░░░░░░░░░░░░  6.51%
+daedalus         2h 8m 25s    █████████░░░░░░░░░░░░░░░░  32.60%
+dots             1h 20m 25s   ██████░░░░░░░░░░░░░░░░░░░  20.42%
+kierank          1h 3m 49s    █████░░░░░░░░░░░░░░░░░░░░  16.20%
+2025-reefscape   27m 44s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.04%
+cachet           23m 3s       ██░░░░░░░░░░░░░░░░░░░░░░░  5.85%
 
-Total: 5 hrs 54 mins
+Total: 6 hrs 34 mins
 ```
 
 #### 📮 Want to Contact me?
