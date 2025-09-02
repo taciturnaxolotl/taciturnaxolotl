@@ -4,6 +4,7 @@ When not doing school or working on a project, I enjoy flying drones and making 
 
 #### 👷 The latest repos I've pushed to
 
+- [`daedalus-hardware`](https://github.com/geschmit/daedalus-hardware) - _"EDA Files for Daedalus USB Accessory"_ **(1 day ago)**
 - [`dots`](https://github.com/taciturnaxolotl/dots) - _"Kieran's opinionated (and probably slightly dumb) nix config"_ **(1 day ago)**
 - [`daedalus`](https://github.com/taciturnaxolotl/daedalus) - _"a vim plugin that displays stuff on an led matrix"_ **(1 day ago)**
 - [`cachet`](https://github.com/taciturnaxolotl/cachet) - _"a cache for slack profile pictures and emojis"_ **(4 days ago)**
@@ -11,7 +12,6 @@ When not doing school or working on a project, I enjoy flying drones and making 
 - [`zera`](https://github.com/taciturnaxolotl/zera) - _"my new site v4?"_ **(5 days ago)**
 - [`pip`](https://github.com/taciturnaxolotl/pip) - _"yet another ssh pastes project"_ **(2 weeks ago)**
 - [`pxlboard`](https://github.com/taciturnaxolotl/pxlboard) - _"YAGNG (yet another generic pixel grid)"_ **(3 weeks ago)**
-- [`shortwave`](https://github.com/taciturnaxolotl/shortwave) - _"a mega cool windows xp app "_ **(1 month ago)**
 
 #### ⌨️ My latest projects
 
