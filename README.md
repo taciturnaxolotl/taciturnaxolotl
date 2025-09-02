@@ -4,9 +4,9 @@ When not doing school or working on a project, I enjoy flying drones and making 
 
 #### 👷 The latest repos I've pushed to
 
+- [`dots`](https://github.com/taciturnaxolotl/dots) - _"Kieran's opinionated (and probably slightly dumb) nix config"_ **(today)**
 - [`daedalus`](https://github.com/taciturnaxolotl/daedalus) - _"a vim plugin that displays stuff on an led matrix"_ **(today)**
 - [`daedalus-hardware`](https://github.com/geschmit/daedalus-hardware) - _"EDA Files for Daedalus USB Accessory"_ **(1 day ago)**
-- [`dots`](https://github.com/taciturnaxolotl/dots) - _"Kieran's opinionated (and probably slightly dumb) nix config"_ **(1 day ago)**
 - [`cachet`](https://github.com/taciturnaxolotl/cachet) - _"a cache for slack profile pictures and emojis"_ **(4 days ago)**
 - [`anthropic-api-key`](https://github.com/taciturnaxolotl/anthropic-api-key) - _"get your claude code tokens here"_ **(4 days ago)**
 - [`zera`](https://github.com/taciturnaxolotl/zera) - _"my new site v4?"_ **(5 days ago)**
@@ -34,20 +34,20 @@ When not doing school or working on a project, I enjoy flying drones and making 
 
 ```text
 💾 Languages:
-unknown          5h 9m 56s    ████████████████░░░░░░░░░  63.89%
-C++              1h 16m 13s   ████░░░░░░░░░░░░░░░░░░░░░  15.71%
-TOML             27m 8s       ██░░░░░░░░░░░░░░░░░░░░░░░  5.59%
-Nix              20m 12s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.16%
-Markdown         15m 20s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.16%
+unknown          5h 25m 26s   ████████████████░░░░░░░░░  63.67%
+C++              1h 16m 13s   ████░░░░░░░░░░░░░░░░░░░░░  14.91%
+TOML             27m 8s       ██░░░░░░░░░░░░░░░░░░░░░░░  5.31%
+Nix              21m 23s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.18%
+Markdown         15m 20s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.00%
 
 💼 Projects:
-daedalus         3h 39m 29s   ████████████░░░░░░░░░░░░░  45.24%
-dots             1h 20m 25s   █████░░░░░░░░░░░░░░░░░░░░  16.58%
-kierank          1h 3m 49s    ████░░░░░░░░░░░░░░░░░░░░░  13.16%
-2025-reefscape   27m 44s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.72%
-cachet           23m 3s       ██░░░░░░░░░░░░░░░░░░░░░░░  4.75%
+daedalus         4h 0m 26s    ████████████░░░░░░░░░░░░░  47.04%
+dots             1h 25m 31s   █████░░░░░░░░░░░░░░░░░░░░  16.73%
+kierank          1h 3m 49s    ████░░░░░░░░░░░░░░░░░░░░░  12.48%
+2025-reefscape   27m 44s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.43%
+cachet           23m 3s       ██░░░░░░░░░░░░░░░░░░░░░░░  4.51%
 
-Total: 8 hrs 5 mins
+Total: 8 hrs 31 mins
 ```
 
 #### 📮 Want to Contact me?
