@@ -4,9 +4,9 @@ When not doing school or working on a project, I enjoy flying drones and making 
 
 #### 👷 The latest repos I've pushed to
 
-- [`daedalus-hardware`](https://github.com/geschmit/daedalus-hardware) - _"EDA Files for Daedalus USB Accessory"_ **(3 days ago)**
-- [`dots`](https://github.com/taciturnaxolotl/dots) - _"Kieran's opinionated (and probably slightly dumb) nix config"_ **(3 days ago)**
-- [`daedalus`](https://github.com/taciturnaxolotl/daedalus) - _"a vim plugin that displays stuff on an led matrix"_ **(3 days ago)**
+- [`daedalus-hardware`](https://github.com/geschmit/daedalus-hardware) - _"EDA Files for Daedalus USB Accessory"_ **(4 days ago)**
+- [`dots`](https://github.com/taciturnaxolotl/dots) - _"Kieran's opinionated (and probably slightly dumb) nix config"_ **(4 days ago)**
+- [`daedalus`](https://github.com/taciturnaxolotl/daedalus) - _"a vim plugin that displays stuff on an led matrix"_ **(4 days ago)**
 - [`cachet`](https://github.com/taciturnaxolotl/cachet) - _"a cache for slack profile pictures and emojis"_ **(1 week ago)**
 - [`anthropic-api-key`](https://github.com/taciturnaxolotl/anthropic-api-key) - _"get your claude code tokens here"_ **(1 week ago)**
 - [`zera`](https://github.com/taciturnaxolotl/zera) - _"my new site v4?"_ **(1 week ago)**
@@ -34,20 +34,20 @@ When not doing school or working on a project, I enjoy flying drones and making 
 
 ```text
 💾 Languages:
-unknown     3h 52m 23s   ██████████████░░░░░░░░░░░  53.31%
-C++         1h 17m 48s   █████░░░░░░░░░░░░░░░░░░░░  17.85%
-TOML        31m 53s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.31%
-Markdown    21m 57s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.04%
-Nix         19m 24s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.45%
+unknown     3h 46m 4s    ██████████████░░░░░░░░░░░  52.90%
+C++         1h 17m 48s   █████░░░░░░░░░░░░░░░░░░░░  18.21%
+TOML        29m 38s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.93%
+Markdown    21m 57s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.14%
+Nix         19m 24s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.54%
 
 💼 Projects:
-daedalus    4h 2m 25s    ██████████████░░░░░░░░░░░  55.61%
-slack-tui   42m 0s       ███░░░░░░░░░░░░░░░░░░░░░░  9.63%
-kierank     37m 41s      ███░░░░░░░░░░░░░░░░░░░░░░  8.64%
-dots        23m 6s       ██░░░░░░░░░░░░░░░░░░░░░░░  5.30%
-Downloads   20m 0s       ██░░░░░░░░░░░░░░░░░░░░░░░  4.59%
+daedalus    4h 2m 25s    ███████████████░░░░░░░░░░  56.72%
+slack-tui   42m 0s       ███░░░░░░░░░░░░░░░░░░░░░░  9.83%
+kierank     31m 22s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.34%
+dots        23m 6s       ██░░░░░░░░░░░░░░░░░░░░░░░  5.41%
+Downloads   20m 0s       ██░░░░░░░░░░░░░░░░░░░░░░░  4.68%
 
-Total: 7 hrs 16 mins
+Total: 7 hrs 7 mins
 ```
 
 #### 📮 Want to Contact me?
