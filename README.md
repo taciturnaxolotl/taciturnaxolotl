@@ -4,14 +4,14 @@ When not doing school or working on a project, I enjoy flying drones and making 
 
 #### 👷 The latest repos I've pushed to
 
-- [`daedalus-hardware`](https://github.com/geschmit/daedalus-hardware) - _"EDA Files for Daedalus USB Accessory"_ **(4 days ago)**
+- [`2025-reefscape`](https://github.com/df1317/2025-reefscape) - _"it's not a water game but it will do"_ **(today)**
 - [`dots`](https://github.com/taciturnaxolotl/dots) - _"Kieran's opinionated (and probably slightly dumb) nix config"_ **(4 days ago)**
 - [`daedalus`](https://github.com/taciturnaxolotl/daedalus) - _"a vim plugin that displays stuff on an led matrix"_ **(4 days ago)**
+- [`daedalus-hardware`](https://github.com/geschmit/daedalus-hardware) - _"EDA Files for Daedalus USB Accessory"_ **(4 days ago)**
 - [`cachet`](https://github.com/taciturnaxolotl/cachet) - _"a cache for slack profile pictures and emojis"_ **(1 week ago)**
 - [`anthropic-api-key`](https://github.com/taciturnaxolotl/anthropic-api-key) - _"get your claude code tokens here"_ **(1 week ago)**
 - [`zera`](https://github.com/taciturnaxolotl/zera) - _"my new site v4?"_ **(1 week ago)**
 - [`pip`](https://github.com/taciturnaxolotl/pip) - _"yet another ssh pastes project"_ **(3 weeks ago)**
-- [`pxlboard`](https://github.com/taciturnaxolotl/pxlboard) - _"YAGNG (yet another generic pixel grid)"_ **(3 weeks ago)**
 
 #### ⌨️ My latest projects
 
@@ -34,18 +34,18 @@ When not doing school or working on a project, I enjoy flying drones and making 
 
 ```text
 💾 Languages:
-unknown     3h 49m 53s   ██████████████░░░░░░░░░░░  54.31%
-C++         1h 17m 48s   █████░░░░░░░░░░░░░░░░░░░░  18.38%
+unknown     3h 54m 49s   ██████████████░░░░░░░░░░░  55.50%
+C++         1h 17m 48s   █████░░░░░░░░░░░░░░░░░░░░  18.39%
 Markdown    21m 57s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.19%
-TOML        21m 48s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.15%
-Nix         19m 24s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.58%
+Nix         19m 24s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.59%
+TOML        16m 39s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.94%
 
 💼 Projects:
-daedalus    4h 2m 25s    ███████████████░░░░░░░░░░  57.26%
-slack-tui   42m 0s       ███░░░░░░░░░░░░░░░░░░░░░░  9.92%
-kierank     33m 11s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.84%
-dots        25m 6s       ██░░░░░░░░░░░░░░░░░░░░░░░  5.93%
-Downloads   20m 0s       ██░░░░░░░░░░░░░░░░░░░░░░░  4.72%
+daedalus    4h 2m 25s    ███████████████░░░░░░░░░░  57.29%
+slack-tui   42m 0s       ███░░░░░░░░░░░░░░░░░░░░░░  9.93%
+kierank     33m 9s       ██░░░░░░░░░░░░░░░░░░░░░░░  7.83%
+dots        30m 4s       ██░░░░░░░░░░░░░░░░░░░░░░░  7.11%
+Downloads   20m 0s       ██░░░░░░░░░░░░░░░░░░░░░░░  4.73%
 
 Total: 7 hrs 3 mins
 ```
