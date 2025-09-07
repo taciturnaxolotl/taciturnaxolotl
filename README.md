@@ -4,10 +4,10 @@ When not doing school or working on a project, I enjoy flying drones and making 
 
 #### 👷 The latest repos I've pushed to
 
-- [`2025-reefscape`](https://github.com/df1317/2025-reefscape) - _"it's not a water game but it will do"_ **(today)**
-- [`dots`](https://github.com/taciturnaxolotl/dots) - _"Kieran's opinionated (and probably slightly dumb) nix config"_ **(4 days ago)**
-- [`daedalus`](https://github.com/taciturnaxolotl/daedalus) - _"a vim plugin that displays stuff on an led matrix"_ **(4 days ago)**
-- [`daedalus-hardware`](https://github.com/geschmit/daedalus-hardware) - _"EDA Files for Daedalus USB Accessory"_ **(4 days ago)**
+- [`2025-reefscape`](https://github.com/df1317/2025-reefscape) - _"it's not a water game but it will do"_ **(1 day ago)**
+- [`dots`](https://github.com/taciturnaxolotl/dots) - _"Kieran's opinionated (and probably slightly dumb) nix config"_ **(5 days ago)**
+- [`daedalus`](https://github.com/taciturnaxolotl/daedalus) - _"a vim plugin that displays stuff on an led matrix"_ **(5 days ago)**
+- [`daedalus-hardware`](https://github.com/geschmit/daedalus-hardware) - _"EDA Files for Daedalus USB Accessory"_ **(5 days ago)**
 - [`cachet`](https://github.com/taciturnaxolotl/cachet) - _"a cache for slack profile pictures and emojis"_ **(1 week ago)**
 - [`anthropic-api-key`](https://github.com/taciturnaxolotl/anthropic-api-key) - _"get your claude code tokens here"_ **(1 week ago)**
 - [`zera`](https://github.com/taciturnaxolotl/zera) - _"my new site v4?"_ **(1 week ago)**
@@ -34,20 +34,20 @@ When not doing school or working on a project, I enjoy flying drones and making 
 
 ```text
 💾 Languages:
-unknown     3h 54m 49s   ██████████████░░░░░░░░░░░  55.50%
-C++         1h 17m 48s   █████░░░░░░░░░░░░░░░░░░░░  18.39%
-Markdown    21m 57s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.19%
-Nix         19m 24s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.59%
-TOML        16m 39s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.94%
+unknown     3h 47m 55s   ███████████████░░░░░░░░░░  56.37%
+C++         1h 17m 48s   █████░░░░░░░░░░░░░░░░░░░░  19.24%
+Markdown    21m 57s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.43%
+Nix         19m 24s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.80%
+Go          15m 30s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.83%
 
 💼 Projects:
-daedalus    4h 2m 25s    ███████████████░░░░░░░░░░  57.29%
-slack-tui   42m 0s       ███░░░░░░░░░░░░░░░░░░░░░░  9.93%
-kierank     33m 9s       ██░░░░░░░░░░░░░░░░░░░░░░░  7.83%
-dots        30m 4s       ██░░░░░░░░░░░░░░░░░░░░░░░  7.11%
-Downloads   20m 0s       ██░░░░░░░░░░░░░░░░░░░░░░░  4.73%
+daedalus    4h 2m 25s    ███████████████░░░░░░░░░░  59.95%
+slack-tui   42m 0s       ███░░░░░░░░░░░░░░░░░░░░░░  10.39%
+kierank     30m 11s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.46%
+dots        30m 4s       ██░░░░░░░░░░░░░░░░░░░░░░░  7.44%
+Downloads   20m 0s       ██░░░░░░░░░░░░░░░░░░░░░░░  4.95%
 
-Total: 7 hrs 3 mins
+Total: 6 hrs 44 mins
 ```
 
 #### 📮 Want to Contact me?
