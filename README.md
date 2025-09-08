@@ -4,11 +4,11 @@ When not doing school or working on a project, I enjoy flying drones and making 
 
 #### 👷 The latest repos I've pushed to
 
+- [`cachet`](https://github.com/taciturnaxolotl/cachet) - _"a cache for slack profile pictures and emojis"_ **(today)**
 - [`dots`](https://github.com/taciturnaxolotl/dots) - _"Kieran's opinionated (and probably slightly dumb) nix config"_ **(1 day ago)**
 - [`2025-reefscape`](https://github.com/df1317/2025-reefscape) - _"it's not a water game but it will do"_ **(2 days ago)**
 - [`daedalus`](https://github.com/taciturnaxolotl/daedalus) - _"a vim plugin that displays stuff on an led matrix"_ **(6 days ago)**
 - [`daedalus-hardware`](https://github.com/geschmit/daedalus-hardware) - _"EDA Files for Daedalus USB Accessory"_ **(6 days ago)**
-- [`cachet`](https://github.com/taciturnaxolotl/cachet) - _"a cache for slack profile pictures and emojis"_ **(1 week ago)**
 - [`anthropic-api-key`](https://github.com/taciturnaxolotl/anthropic-api-key) - _"get your claude code tokens here"_ **(1 week ago)**
 - [`zera`](https://github.com/taciturnaxolotl/zera) - _"my new site v4?"_ **(1 week ago)**
 - [`pip`](https://github.com/taciturnaxolotl/pip) - _"yet another ssh pastes project"_ **(3 weeks ago)**
@@ -34,20 +34,20 @@ When not doing school or working on a project, I enjoy flying drones and making 
 
 ```text
 💾 Languages:
-unknown        3h 38m 56s   ██████████████░░░░░░░░░░░  54.47%
-C++            1h 17m 48s   █████░░░░░░░░░░░░░░░░░░░░  19.36%
-Markdown       21m 57s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.46%
-Bash           16m 6s       ██░░░░░░░░░░░░░░░░░░░░░░░  4.01%
-Go             15m 30s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.86%
+unknown     3h 54m 48s   ██████████████░░░░░░░░░░░  55.85%
+C++         1h 17m 48s   █████░░░░░░░░░░░░░░░░░░░░  18.51%
+Markdown    21m 57s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.22%
+Bash        16m 6s       █░░░░░░░░░░░░░░░░░░░░░░░░  3.83%
+Go          15m 30s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.69%
 
 💼 Projects:
-daedalus       4h 2m 25s    ████████████████░░░░░░░░░  60.32%
-slack-tui      42m 0s       ███░░░░░░░░░░░░░░░░░░░░░░  10.45%
-dots           28m 42s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.14%
-lab-1-actual   19m 3s       ██░░░░░░░░░░░░░░░░░░░░░░░  4.74%
-kierank        17m 31s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.36%
+daedalus    4h 2m 25s    ███████████████░░░░░░░░░░  57.66%
+slack-tui   42m 0s       ███░░░░░░░░░░░░░░░░░░░░░░  9.99%
+dots        28m 42s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.83%
+cachet      25m 26s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.05%
+kierank     24m 47s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.89%
 
-Total: 6 hrs 42 mins
+Total: 7 hrs 0 mins
 ```
 
 #### 📮 Want to Contact me?
