@@ -4,9 +4,9 @@ When not doing school or working on a project, I enjoy flying drones and making 
 
 #### 👷 The latest repos I've pushed to
 
-- [`cachet`](https://github.com/taciturnaxolotl/cachet) - _"a cache for slack profile pictures and emojis"_ **(1 day ago)**
-- [`dots`](https://github.com/taciturnaxolotl/dots) - _"Kieran's opinionated (and probably slightly dumb) nix config"_ **(2 days ago)**
-- [`2025-reefscape`](https://github.com/df1317/2025-reefscape) - _"it's not a water game but it will do"_ **(3 days ago)**
+- [`cachet`](https://github.com/taciturnaxolotl/cachet) - _"a cache for slack profile pictures and emojis"_ **(2 days ago)**
+- [`dots`](https://github.com/taciturnaxolotl/dots) - _"Kieran's opinionated (and probably slightly dumb) nix config"_ **(3 days ago)**
+- [`2025-reefscape`](https://github.com/df1317/2025-reefscape) - _"it's not a water game but it will do"_ **(4 days ago)**
 - [`daedalus`](https://github.com/taciturnaxolotl/daedalus) - _"a vim plugin that displays stuff on an led matrix"_ **(1 week ago)**
 - [`daedalus-hardware`](https://github.com/geschmit/daedalus-hardware) - _"EDA Files for Daedalus USB Accessory"_ **(1 week ago)**
 - [`anthropic-api-key`](https://github.com/taciturnaxolotl/anthropic-api-key) - _"get your claude code tokens here"_ **(1 week ago)**
@@ -24,9 +24,9 @@ When not doing school or working on a project, I enjoy flying drones and making 
 
 - [`Musings about Atuin`](https://dunkirk.sh/blog/atuin/) **(4 months ago)**
 
-- [`Adding a copy code button`](https://dunkirk.sh/blog/adding-a-copy-button/) **(5 months ago)**
+- [`Adding a copy code button`](https://dunkirk.sh/blog/adding-a-copy-button/) **(6 months ago)**
 
-- [`All my animation projects`](https://dunkirk.sh/blog/my-animations/) **(5 months ago)**
+- [`All my animation projects`](https://dunkirk.sh/blog/my-animations/) **(6 months ago)**
 
 
 
