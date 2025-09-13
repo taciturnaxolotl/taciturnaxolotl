@@ -4,8 +4,8 @@ When not doing school or working on a project, I enjoy flying drones and making 
 
 #### 👷 The latest repos I've pushed to
 
+- [`dots`](https://github.com/taciturnaxolotl/dots) - _"Kieran's opinionated (and probably slightly dumb) nix config"_ **(today)**
 - [`hackatime-bot`](https://github.com/taciturnaxolotl/hackatime-bot) - _"providing password reset services for a long while: circa 2025"_ **(3 days ago)**
-- [`dots`](https://github.com/taciturnaxolotl/dots) - _"Kieran's opinionated (and probably slightly dumb) nix config"_ **(3 days ago)**
 - [`cachet`](https://github.com/taciturnaxolotl/cachet) - _"a cache for slack profile pictures and emojis"_ **(5 days ago)**
 - [`2025-reefscape`](https://github.com/df1317/2025-reefscape) - _"it's not a water game but it will do"_ **(1 week ago)**
 - [`daedalus`](https://github.com/taciturnaxolotl/daedalus) - _"a vim plugin that displays stuff on an led matrix"_ **(1 week ago)**
@@ -34,20 +34,20 @@ When not doing school or working on a project, I enjoy flying drones and making 
 
 ```text
 💾 Languages:
-unknown      3h 46m 51s   ██████████████████░░░░░░░  70.68%
-Bash         27m 54s      ███░░░░░░░░░░░░░░░░░░░░░░  8.69%
-JavaScript   19m 25s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.05%
-C++          16m 4s       ██░░░░░░░░░░░░░░░░░░░░░░░  5.01%
-Markdown     10m 50s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.38%
+unknown      3h 49m 3s   ██████████████████░░░░░░░  70.88%
+Bash         27m 54s     ███░░░░░░░░░░░░░░░░░░░░░░  8.63%
+JavaScript   19m 25s     ██░░░░░░░░░░░░░░░░░░░░░░░  6.01%
+C++          16m 4s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.97%
+Markdown     10m 50s     █░░░░░░░░░░░░░░░░░░░░░░░░  3.35%
 
 💼 Projects:
-Downloads    1h 36m 58s   ████████░░░░░░░░░░░░░░░░░  30.22%
-lab-2        51m 4s       ████░░░░░░░░░░░░░░░░░░░░░  15.92%
-cachet       43m 34s      ████░░░░░░░░░░░░░░░░░░░░░  13.58%
-dots         35m 23s      ███░░░░░░░░░░░░░░░░░░░░░░  11.03%
-kierank      22m 39s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.06%
+Downloads    1h 37m 9s   ████████░░░░░░░░░░░░░░░░░  30.07%
+lab-2        51m 4s      ████░░░░░░░░░░░░░░░░░░░░░  15.81%
+cachet       43m 34s     ████░░░░░░░░░░░░░░░░░░░░░  13.49%
+dots         35m 23s     ███░░░░░░░░░░░░░░░░░░░░░░  10.95%
+kierank      22m 39s     ██░░░░░░░░░░░░░░░░░░░░░░░  7.01%
 
-Total: 5 hrs 21 mins
+Total: 5 hrs 23 mins
 ```
 
 #### 📮 Want to Contact me?
