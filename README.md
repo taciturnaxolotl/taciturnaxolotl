@@ -4,13 +4,13 @@ When not doing school or working on a project, I enjoy flying drones and making 
 
 #### 👷 The latest repos I've pushed to
 
-- [`soapdump`](https://github.com/taciturnaxolotl/soapdump) - _"parses paypal soap logs"_ **(2 days ago)**
-- [`dots`](https://github.com/taciturnaxolotl/dots) - _"Kieran's opinionated (and probably slightly dumb) nix config"_ **(2 days ago)**
-- [`hackatime-bot`](https://github.com/taciturnaxolotl/hackatime-bot) - _"providing password reset services for a long while: circa 2025"_ **(5 days ago)**
+- [`soapdump`](https://github.com/taciturnaxolotl/soapdump) - _"parses paypal soap logs"_ **(3 days ago)**
+- [`dots`](https://github.com/taciturnaxolotl/dots) - _"Kieran's opinionated (and probably slightly dumb) nix config"_ **(3 days ago)**
+- [`hackatime-bot`](https://github.com/taciturnaxolotl/hackatime-bot) - _"providing password reset services for a long while: circa 2025"_ **(6 days ago)**
 - [`cachet`](https://github.com/taciturnaxolotl/cachet) - _"a cache for slack profile pictures and emojis"_ **(1 week ago)**
 - [`2025-reefscape`](https://github.com/df1317/2025-reefscape) - _"it's not a water game but it will do"_ **(1 week ago)**
-- [`daedalus`](https://github.com/taciturnaxolotl/daedalus) - _"a vim plugin that displays stuff on an led matrix"_ **(1 week ago)**
-- [`daedalus-hardware`](https://github.com/geschmit/daedalus-hardware) - _"EDA Files for Daedalus USB Accessory"_ **(1 week ago)**
+- [`daedalus`](https://github.com/taciturnaxolotl/daedalus) - _"a vim plugin that displays stuff on an led matrix"_ **(2 weeks ago)**
+- [`daedalus-hardware`](https://github.com/geschmit/daedalus-hardware) - _"EDA Files for Daedalus USB Accessory"_ **(2 weeks ago)**
 - [`anthropic-api-key`](https://github.com/taciturnaxolotl/anthropic-api-key) - _"get your claude code tokens here"_ **(2 weeks ago)**
 
 #### ⌨️ My latest projects
@@ -34,14 +34,14 @@ When not doing school or working on a project, I enjoy flying drones and making 
 
 ```text
 💾 Languages:
-unknown      5h 46m 2s    ████████████████████░░░░░  79.27%
+unknown      5h 46m 5s    ████████████████████░░░░░  79.28%
 Bash         31m 50s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.29%
 C++          16m 4s       █░░░░░░░░░░░░░░░░░░░░░░░░  3.68%
 Markdown     11m 37s      █░░░░░░░░░░░░░░░░░░░░░░░░  2.66%
 Shell        7m 12s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.65%
 
 💼 Projects:
-Downloads    2h 44m 46s   ██████████░░░░░░░░░░░░░░░  37.75%
+Downloads    2h 46m 49s   ██████████░░░░░░░░░░░░░░░  38.22%
 soapdump     1h 8m 55s    ████░░░░░░░░░░░░░░░░░░░░░  15.79%
 lab-2        51m 4s       ███░░░░░░░░░░░░░░░░░░░░░░  11.70%
 kierank      37m 46s      ███░░░░░░░░░░░░░░░░░░░░░░  8.65%
