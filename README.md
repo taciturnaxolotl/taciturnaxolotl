@@ -4,9 +4,9 @@ When not doing school or working on a project, I enjoy flying drones and making 
 
 #### 👷 The latest repos I've pushed to
 
-- [`soapdump`](https://github.com/taciturnaxolotl/soapdump) - _"parses paypal soap logs"_ **(3 days ago)**
-- [`dots`](https://github.com/taciturnaxolotl/dots) - _"Kieran's opinionated (and probably slightly dumb) nix config"_ **(3 days ago)**
-- [`hackatime-bot`](https://github.com/taciturnaxolotl/hackatime-bot) - _"providing password reset services for a long while: circa 2025"_ **(6 days ago)**
+- [`dots`](https://github.com/taciturnaxolotl/dots) - _"Kieran's opinionated (and probably slightly dumb) nix config"_ **(1 day ago)**
+- [`soapdump`](https://github.com/taciturnaxolotl/soapdump) - _"parses paypal soap logs"_ **(4 days ago)**
+- [`hackatime-bot`](https://github.com/taciturnaxolotl/hackatime-bot) - _"providing password reset services for a long while: circa 2025"_ **(1 week ago)**
 - [`cachet`](https://github.com/taciturnaxolotl/cachet) - _"a cache for slack profile pictures and emojis"_ **(1 week ago)**
 - [`2025-reefscape`](https://github.com/df1317/2025-reefscape) - _"it's not a water game but it will do"_ **(1 week ago)**
 - [`daedalus`](https://github.com/taciturnaxolotl/daedalus) - _"a vim plugin that displays stuff on an led matrix"_ **(2 weeks ago)**
@@ -34,20 +34,20 @@ When not doing school or working on a project, I enjoy flying drones and making 
 
 ```text
 💾 Languages:
-unknown      5h 54m 13s   ████████████████████░░░░░  79.22%
-Bash         31m 50s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.12%
-C++          16m 4s       █░░░░░░░░░░░░░░░░░░░░░░░░  3.59%
-Markdown     11m 37s      █░░░░░░░░░░░░░░░░░░░░░░░░  2.60%
-Shell        7m 12s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.61%
+unknown      5h 58m 45s   ████████████████████░░░░░  79.21%
+Bash         31m 50s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.03%
+C++          16m 4s       █░░░░░░░░░░░░░░░░░░░░░░░░  3.55%
+Markdown     11m 37s      █░░░░░░░░░░░░░░░░░░░░░░░░  2.56%
+Shell        7m 12s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.59%
 
 💼 Projects:
-Downloads    2h 53m 13s   ██████████░░░░░░░░░░░░░░░  38.75%
-soapdump     1h 6m 43s    ████░░░░░░░░░░░░░░░░░░░░░  14.92%
-lab-2        51m 4s       ███░░░░░░░░░░░░░░░░░░░░░░  11.42%
-kierank      43m 46s      ███░░░░░░░░░░░░░░░░░░░░░░  9.79%
-canvas-lms   22m 28s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.03%
+Downloads    2h 53m 13s   ██████████░░░░░░░░░░░░░░░  38.25%
+soapdump     1h 6m 43s    ████░░░░░░░░░░░░░░░░░░░░░  14.73%
+lab-2        51m 4s       ███░░░░░░░░░░░░░░░░░░░░░░  11.28%
+kierank      45m 46s      ███░░░░░░░░░░░░░░░░░░░░░░  10.11%
+canvas-lms   22m 28s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.96%
 
-Total: 7 hrs 27 mins
+Total: 7 hrs 33 mins
 ```
 
 #### 📮 Want to Contact me?
