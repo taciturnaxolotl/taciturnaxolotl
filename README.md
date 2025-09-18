@@ -4,8 +4,8 @@ When not doing school or working on a project, I enjoy flying drones and making 
 
 #### 👷 The latest repos I've pushed to
 
-- [`dots`](https://github.com/taciturnaxolotl/dots) - _"Kieran's opinionated (and probably slightly dumb) nix config"_ **(today)**
-- [`soapdump`](https://github.com/taciturnaxolotl/soapdump) - _"parses paypal soap logs"_ **(4 days ago)**
+- [`dots`](https://github.com/taciturnaxolotl/dots) - _"Kieran's opinionated (and probably slightly dumb) nix config"_ **(1 day ago)**
+- [`soapdump`](https://github.com/taciturnaxolotl/soapdump) - _"parses paypal soap logs"_ **(5 days ago)**
 - [`hackatime-bot`](https://github.com/taciturnaxolotl/hackatime-bot) - _"providing password reset services for a long while: circa 2025"_ **(1 week ago)**
 - [`cachet`](https://github.com/taciturnaxolotl/cachet) - _"a cache for slack profile pictures and emojis"_ **(1 week ago)**
 - [`2025-reefscape`](https://github.com/df1317/2025-reefscape) - _"it's not a water game but it will do"_ **(1 week ago)**
@@ -34,20 +34,20 @@ When not doing school or working on a project, I enjoy flying drones and making 
 
 ```text
 💾 Languages:
-unknown     6h 7m 43s    ████████████████████░░░░░  77.15%
-C++         40m 30s      ███░░░░░░░░░░░░░░░░░░░░░░  8.50%
-Bash        21m 17s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.47%
-Markdown    16m 45s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.51%
-Nix         6m 20s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.33%
+unknown     6h 17m 0s   ████████████████████░░░░░  77.54%
+C++         40m 48s     ███░░░░░░░░░░░░░░░░░░░░░░  8.39%
+Bash        21m 17s     ██░░░░░░░░░░░░░░░░░░░░░░░  4.38%
+Markdown    16m 45s     █░░░░░░░░░░░░░░░░░░░░░░░░  3.44%
+Nix         6m 20s      █░░░░░░░░░░░░░░░░░░░░░░░░  1.30%
 
 💼 Projects:
-Downloads   2h 56m 56s   ██████████░░░░░░░░░░░░░░░  37.13%
-lab-3       2h 0m 30s    ███████░░░░░░░░░░░░░░░░░░  25.28%
-soapdump    1h 6m 43s    ████░░░░░░░░░░░░░░░░░░░░░  14.00%
-kierank     38m 28s      ███░░░░░░░░░░░░░░░░░░░░░░  8.07%
-dots        21m 32s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.52%
+Downloads   3h 1m 39s   ██████████░░░░░░░░░░░░░░░  37.37%
+lab-3       2h 2m 49s   ███████░░░░░░░░░░░░░░░░░░  25.26%
+soapdump    1h 6m 43s   ████░░░░░░░░░░░░░░░░░░░░░  13.72%
+kierank     41m 0s      ███░░░░░░░░░░░░░░░░░░░░░░  8.43%
+dots        21m 32s     ██░░░░░░░░░░░░░░░░░░░░░░░  4.43%
 
-Total: 7 hrs 57 mins
+Total: 8 hrs 6 mins
 ```
 
 #### 📮 Want to Contact me?
