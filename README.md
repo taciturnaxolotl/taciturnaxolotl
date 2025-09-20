@@ -4,8 +4,8 @@ When not doing school or working on a project, I enjoy flying drones and making 
 
 #### 👷 The latest repos I've pushed to
 
+- [`ctfd-alerts`](https://github.com/taciturnaxolotl/ctfd-alerts) - _"⛳ alerts for any ctfd instance via ntfy "_ **(today)**
 - [`crush`](https://github.com/charmbracelet/crush) - _"The glamourous AI coding agent for your favourite terminal 💘"_ **(1 day ago)**
-- [`ctfd-alerts`](https://github.com/taciturnaxolotl/ctfd-alerts) - _"⛳ alerts for any ctfd instance via ntfy "_ **(1 day ago)**
 - [`512kb.club`](https://github.com/kevquirk/512kb.club) - _"Website for the 512 KB Club"_ **(2 days ago)**
 - [`dots`](https://github.com/taciturnaxolotl/dots) - _"Kieran's opinionated (and probably slightly dumb) nix config"_ **(3 days ago)**
 - [`soapdump`](https://github.com/taciturnaxolotl/soapdump) - _"parses paypal soap logs"_ **(1 week ago)**
@@ -34,20 +34,20 @@ When not doing school or working on a project, I enjoy flying drones and making 
 
 ```text
 💾 Languages:
-unknown       6h 15m 58s   ████████████████████░░░░░  76.56%
-C++           39m 43s      ███░░░░░░░░░░░░░░░░░░░░░░  8.09%
-Bash          23m 38s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.81%
-Markdown      17m 41s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.60%
-Shell         6m 3s        █░░░░░░░░░░░░░░░░░░░░░░░░  1.23%
+unknown       5h 52m 58s   ███████████████████░░░░░░  75.46%
+C++           39m 43s      ███░░░░░░░░░░░░░░░░░░░░░░  8.49%
+Bash          23m 38s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.05%
+Markdown      17m 41s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.78%
+Shell         6m 3s        █░░░░░░░░░░░░░░░░░░░░░░░░  1.29%
 
 💼 Projects:
-Downloads     2h 12m 11s   ███████░░░░░░░░░░░░░░░░░░  26.92%
-lab-3         2h 0m 49s    ███████░░░░░░░░░░░░░░░░░░  24.60%
-kierank       1h 14m 29s   ████░░░░░░░░░░░░░░░░░░░░░  15.17%
-soapdump      1h 7m 40s    ████░░░░░░░░░░░░░░░░░░░░░  13.78%
-ctfd-alerts   28m 49s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.87%
+lab-3         2h 0m 49s    ███████░░░░░░░░░░░░░░░░░░  25.83%
+Downloads     1h 46m 54s   ██████░░░░░░░░░░░░░░░░░░░  22.85%
+kierank       1h 14m 29s   ████░░░░░░░░░░░░░░░░░░░░░  15.92%
+soapdump      1h 7m 40s    ████░░░░░░░░░░░░░░░░░░░░░  14.47%
+ctfd-alerts   33m 58s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.26%
 
-Total: 8 hrs 11 mins
+Total: 7 hrs 48 mins
 ```
 
 #### 📮 Want to Contact me?
