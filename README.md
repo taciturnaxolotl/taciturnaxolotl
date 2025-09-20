@@ -4,13 +4,13 @@ When not doing school or working on a project, I enjoy flying drones and making 
 
 #### 👷 The latest repos I've pushed to
 
-- [`crush`](https://github.com/charmbracelet/crush) - _"The glamourous AI coding agent for your favourite terminal 💘"_ **(today)**
-- [`ctfd-alerts`](https://github.com/taciturnaxolotl/ctfd-alerts) - _"⛳ alerts for any ctfd instance via ntfy "_ **(today)**
-- [`dots`](https://github.com/taciturnaxolotl/dots) - _"Kieran's opinionated (and probably slightly dumb) nix config"_ **(2 days ago)**
-- [`soapdump`](https://github.com/taciturnaxolotl/soapdump) - _"parses paypal soap logs"_ **(6 days ago)**
+- [`crush`](https://github.com/charmbracelet/crush) - _"The glamourous AI coding agent for your favourite terminal 💘"_ **(1 day ago)**
+- [`ctfd-alerts`](https://github.com/taciturnaxolotl/ctfd-alerts) - _"⛳ alerts for any ctfd instance via ntfy "_ **(1 day ago)**
+- [`dots`](https://github.com/taciturnaxolotl/dots) - _"Kieran's opinionated (and probably slightly dumb) nix config"_ **(3 days ago)**
+- [`soapdump`](https://github.com/taciturnaxolotl/soapdump) - _"parses paypal soap logs"_ **(1 week ago)**
 - [`hackatime-bot`](https://github.com/taciturnaxolotl/hackatime-bot) - _"providing password reset services for a long while: circa 2025"_ **(1 week ago)**
 - [`cachet`](https://github.com/taciturnaxolotl/cachet) - _"a cache for slack profile pictures and emojis"_ **(1 week ago)**
-- [`2025-reefscape`](https://github.com/df1317/2025-reefscape) - _"it's not a water game but it will do"_ **(1 week ago)**
+- [`2025-reefscape`](https://github.com/df1317/2025-reefscape) - _"it's not a water game but it will do"_ **(2 weeks ago)**
 - [`daedalus-hardware`](https://github.com/geschmit/daedalus-hardware) - _"EDA Files for Daedalus USB Accessory"_ **(2 weeks ago)**
 
 #### ⌨️ My latest projects
@@ -34,20 +34,20 @@ When not doing school or working on a project, I enjoy flying drones and making 
 
 ```text
 💾 Languages:
-unknown     6h 23m 36s   ████████████████████░░░░░  78.04%
-C++         39m 43s      ███░░░░░░░░░░░░░░░░░░░░░░  8.08%
-Bash        23m 38s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.81%
-Markdown    16m 45s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.41%
-Shell       6m 3s        █░░░░░░░░░░░░░░░░░░░░░░░░  1.23%
+unknown     6h 26m 17s   ████████████████████░░░░░  78.16%
+C++         39m 43s      ███░░░░░░░░░░░░░░░░░░░░░░  8.04%
+Bash        23m 38s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.78%
+Markdown    16m 45s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.39%
+Shell       6m 3s        █░░░░░░░░░░░░░░░░░░░░░░░░  1.22%
 
 💼 Projects:
-Downloads   2h 26m 51s   ████████░░░░░░░░░░░░░░░░░  29.88%
-lab-3       2h 0m 49s    ███████░░░░░░░░░░░░░░░░░░  24.58%
-kierank     1h 21m 42s   █████░░░░░░░░░░░░░░░░░░░░  16.62%
-soapdump    1h 6m 43s    ████░░░░░░░░░░░░░░░░░░░░░  13.58%
-dots        22m 11s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.51%
+Downloads   2h 26m 51s   ████████░░░░░░░░░░░░░░░░░  29.72%
+lab-3       2h 0m 49s    ███████░░░░░░░░░░░░░░░░░░  24.45%
+kierank     1h 21m 42s   █████░░░░░░░░░░░░░░░░░░░░  16.53%
+soapdump    1h 6m 43s    ████░░░░░░░░░░░░░░░░░░░░░  13.50%
+dots        22m 11s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.49%
 
-Total: 8 hrs 11 mins
+Total: 8 hrs 14 mins
 ```
 
 #### 📮 Want to Contact me?
