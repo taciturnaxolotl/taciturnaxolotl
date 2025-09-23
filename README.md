@@ -4,14 +4,14 @@ When not doing school or working on a project, I enjoy flying drones and making 
 
 #### 👷 The latest repos I've pushed to
 
-- [`dots`](https://github.com/taciturnaxolotl/dots) - _"Kieran's opinionated (and probably slightly dumb) nix config"_ **(today)**
-- [`zera`](https://github.com/taciturnaxolotl/zera) - _"my new site v4?"_ **(1 day ago)**
-- [`cachet`](https://github.com/taciturnaxolotl/cachet) - _"a cache for slack profile pictures and emojis"_ **(1 day ago)**
-- [`crimson-phish`](https://github.com/taciturnaxolotl/crimson-phish) - _"a small phishing site"_ **(1 day ago)**
-- [`ctfd-alerts`](https://github.com/taciturnaxolotl/ctfd-alerts) - _"⛳ alerts for any ctfd instance via ntfy "_ **(2 days ago)**
-- [`nur`](https://github.com/charmbracelet/nur) - _""_ **(2 days ago)**
-- [`crush`](https://github.com/charmbracelet/crush) - _"The glamourous AI coding agent for your favourite terminal 💘"_ **(3 days ago)**
-- [`512kb.club`](https://github.com/kevquirk/512kb.club) - _"Website for the 512 KB Club"_ **(4 days ago)**
+- [`dots`](https://github.com/taciturnaxolotl/dots) - _"Kieran's opinionated (and probably slightly dumb) nix config"_ **(1 day ago)**
+- [`zera`](https://github.com/taciturnaxolotl/zera) - _"my new site v4?"_ **(2 days ago)**
+- [`cachet`](https://github.com/taciturnaxolotl/cachet) - _"a cache for slack profile pictures and emojis"_ **(2 days ago)**
+- [`crimson-phish`](https://github.com/taciturnaxolotl/crimson-phish) - _"a small phishing site"_ **(2 days ago)**
+- [`ctfd-alerts`](https://github.com/taciturnaxolotl/ctfd-alerts) - _"⛳ alerts for any ctfd instance via ntfy "_ **(3 days ago)**
+- [`nur`](https://github.com/charmbracelet/nur) - _""_ **(3 days ago)**
+- [`crush`](https://github.com/charmbracelet/crush) - _"The glamourous AI coding agent for your favourite terminal 💘"_ **(4 days ago)**
+- [`512kb.club`](https://github.com/kevquirk/512kb.club) - _"Website for the 512 KB Club"_ **(5 days ago)**
 
 #### ⌨️ My latest projects
 
@@ -34,20 +34,20 @@ When not doing school or working on a project, I enjoy flying drones and making 
 
 ```text
 💾 Languages:
-unknown       6h 58m 38s   ████████████████░░░░░░░░░  61.22%
-C++           1h 29m 43s   ████░░░░░░░░░░░░░░░░░░░░░  13.12%
+unknown       6h 58m 35s   ████████████████░░░░░░░░░  61.26%
+C++           1h 29m 43s   ████░░░░░░░░░░░░░░░░░░░░░  13.13%
 Bash          1h 25m 2s    ████░░░░░░░░░░░░░░░░░░░░░  12.44%
-Markdown      24m 22s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.56%
+Markdown      24m 22s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.57%
 JavaScript    18m 22s      █░░░░░░░░░░░░░░░░░░░░░░░░  2.69%
 
 💼 Projects:
-Downloads     2h 15m 18s   █████░░░░░░░░░░░░░░░░░░░░  19.79%
-lab-3         2h 0m 49s    █████░░░░░░░░░░░░░░░░░░░░  17.67%
-lab-4         1h 57m 30s   █████░░░░░░░░░░░░░░░░░░░░  17.19%
+Downloads     2h 15m 15s   █████░░░░░░░░░░░░░░░░░░░░  19.80%
+lab-3         2h 0m 49s    █████░░░░░░░░░░░░░░░░░░░░  17.68%
+lab-4         1h 57m 30s   █████░░░░░░░░░░░░░░░░░░░░  17.20%
 kierank       58m 38s      ███░░░░░░░░░░░░░░░░░░░░░░  8.58%
-ctfd-alerts   35m 51s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.24%
+ctfd-alerts   35m 51s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.25%
 
-Total: 11 hrs 24 mins
+Total: 11 hrs 23 mins
 ```
 
 #### 📮 Want to Contact me?
