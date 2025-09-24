@@ -4,8 +4,8 @@ When not doing school or working on a project, I enjoy flying drones and making 
 
 #### 👷 The latest repos I've pushed to
 
+- [`zera`](https://github.com/taciturnaxolotl/zera) - _"my new site v4?"_ **(today)**
 - [`dots`](https://github.com/taciturnaxolotl/dots) - _"Kieran's opinionated (and probably slightly dumb) nix config"_ **(2 days ago)**
-- [`zera`](https://github.com/taciturnaxolotl/zera) - _"my new site v4?"_ **(3 days ago)**
 - [`cachet`](https://github.com/taciturnaxolotl/cachet) - _"a cache for slack profile pictures and emojis"_ **(3 days ago)**
 - [`crimson-phish`](https://github.com/taciturnaxolotl/crimson-phish) - _"a small phishing site"_ **(3 days ago)**
 - [`ctfd-alerts`](https://github.com/taciturnaxolotl/ctfd-alerts) - _"⛳ alerts for any ctfd instance via ntfy "_ **(4 days ago)**
@@ -22,11 +22,11 @@ When not doing school or working on a project, I enjoy flying drones and making 
 
 #### 🗒️ the latest posts from my [blog](https://dunkirk.sh)
 
+- [`Novel phishing tactic using github notifications`](https://dunkirk.sh/blog/github-phishing/) **(today)**
+
 - [`Musings about Atuin`](https://dunkirk.sh/blog/atuin/) **(5 months ago)**
 
 - [`Adding a copy code button`](https://dunkirk.sh/blog/adding-a-copy-button/) **(6 months ago)**
-
-- [`All my animation projects`](https://dunkirk.sh/blog/my-animations/) **(6 months ago)**
 
 
 
@@ -34,20 +34,20 @@ When not doing school or working on a project, I enjoy flying drones and making 
 
 ```text
 💾 Languages:
-unknown       8h 6m 3s     ███████████████░░░░░░░░░░  59.53%
-C++           1h 46m 11s   ████░░░░░░░░░░░░░░░░░░░░░  13.01%
-Bash          1h 22m 39s   ███░░░░░░░░░░░░░░░░░░░░░░  10.12%
-Markdown      1h 6m 49s    ███░░░░░░░░░░░░░░░░░░░░░░  8.18%
-JavaScript    18m 51s      █░░░░░░░░░░░░░░░░░░░░░░░░  2.31%
+unknown       7h 56m 40s   ███████████████░░░░░░░░░░  59.09%
+C++           1h 42m 12s   ████░░░░░░░░░░░░░░░░░░░░░  12.67%
+Bash          1h 22m 9s    ███░░░░░░░░░░░░░░░░░░░░░░  10.18%
+Markdown      1h 11m 14s   ███░░░░░░░░░░░░░░░░░░░░░░  8.83%
+JavaScript    18m 51s      █░░░░░░░░░░░░░░░░░░░░░░░░  2.34%
 
 💼 Projects:
-lab-4         4h 46m 38s   █████████░░░░░░░░░░░░░░░░  35.11%
-Downloads     2h 7m 14s    ████░░░░░░░░░░░░░░░░░░░░░  15.59%
-lab-3         1h 15m 50s   ███░░░░░░░░░░░░░░░░░░░░░░  9.29%
-kierank       53m 31s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.56%
-ctfd-alerts   35m 51s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.39%
+lab-4         4h 57m 24s   ██████████░░░░░░░░░░░░░░░  36.87%
+Downloads     2h 7m 14s    ████░░░░░░░░░░░░░░░░░░░░░  15.77%
+zera          1h 2m 41s    ██░░░░░░░░░░░░░░░░░░░░░░░  7.77%
+kierank       53m 31s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.63%
+ctfd-alerts   35m 51s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.44%
 
-Total: 13 hrs 36 mins
+Total: 13 hrs 27 mins
 ```
 
 #### 📮 Want to Contact me?
