@@ -4,8 +4,8 @@ When not doing school or working on a project, I enjoy flying drones and making 
 
 #### 👷 The latest repos I've pushed to
 
+- [`dots`](https://github.com/taciturnaxolotl/dots) - _"Kieran's opinionated (and probably slightly dumb) nix config"_ **(today)**
 - [`zera`](https://github.com/taciturnaxolotl/zera) - _"my new site v4?"_ **(2 days ago)**
-- [`dots`](https://github.com/taciturnaxolotl/dots) - _"Kieran's opinionated (and probably slightly dumb) nix config"_ **(4 days ago)**
 - [`cachet`](https://github.com/taciturnaxolotl/cachet) - _"a cache for slack profile pictures and emojis"_ **(5 days ago)**
 - [`crimson-phish`](https://github.com/taciturnaxolotl/crimson-phish) - _"a small phishing site"_ **(5 days ago)**
 - [`ctfd-alerts`](https://github.com/taciturnaxolotl/ctfd-alerts) - _"⛳ alerts for any ctfd instance via ntfy "_ **(6 days ago)**
@@ -34,20 +34,20 @@ When not doing school or working on a project, I enjoy flying drones and making 
 
 ```text
 💾 Languages:
-unknown       7h 24m 24s   ██████████████░░░░░░░░░░░  53.76%
-Markdown      2h 6m 48s    ████░░░░░░░░░░░░░░░░░░░░░  15.34%
-C++           1h 41m 31s   ████░░░░░░░░░░░░░░░░░░░░░  12.28%
-Bash          1h 20m 54s   ███░░░░░░░░░░░░░░░░░░░░░░  9.79%
-JavaScript    18m 51s      █░░░░░░░░░░░░░░░░░░░░░░░░  2.28%
+unknown       7h 32m 40s   ██████████████░░░░░░░░░░░  53.92%
+Markdown      2h 6m 48s    ████░░░░░░░░░░░░░░░░░░░░░  15.10%
+C++           1h 41m 31s   ████░░░░░░░░░░░░░░░░░░░░░  12.09%
+Bash          1h 20m 54s   ███░░░░░░░░░░░░░░░░░░░░░░  9.64%
+JavaScript    18m 51s      █░░░░░░░░░░░░░░░░░░░░░░░░  2.25%
 
 💼 Projects:
-lab-4         5h 28m 11s   ██████████░░░░░░░░░░░░░░░  39.71%
-Downloads     2h 11m 40s   ████░░░░░░░░░░░░░░░░░░░░░  15.93%
-zera          1h 50m 0s    ████░░░░░░░░░░░░░░░░░░░░░  13.31%
-ctfd-alerts   35m 51s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.34%
-phish         34m 30s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.17%
+lab-4         5h 28m 11s   ██████████░░░░░░░░░░░░░░░  39.10%
+Downloads     2h 11m 40s   ████░░░░░░░░░░░░░░░░░░░░░  15.69%
+zera          1h 50m 0s    ████░░░░░░░░░░░░░░░░░░░░░  13.11%
+ctfd-alerts   35m 51s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.27%
+phish         34m 30s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.11%
 
-Total: 13 hrs 46 mins
+Total: 13 hrs 59 mins
 ```
 
 #### 📮 Want to Contact me?
