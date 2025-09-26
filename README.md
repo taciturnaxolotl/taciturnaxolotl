@@ -4,13 +4,13 @@ When not doing school or working on a project, I enjoy flying drones and making 
 
 #### 👷 The latest repos I've pushed to
 
-- [`zera`](https://github.com/taciturnaxolotl/zera) - _"my new site v4?"_ **(1 day ago)**
-- [`dots`](https://github.com/taciturnaxolotl/dots) - _"Kieran's opinionated (and probably slightly dumb) nix config"_ **(3 days ago)**
-- [`cachet`](https://github.com/taciturnaxolotl/cachet) - _"a cache for slack profile pictures and emojis"_ **(4 days ago)**
-- [`crimson-phish`](https://github.com/taciturnaxolotl/crimson-phish) - _"a small phishing site"_ **(4 days ago)**
-- [`ctfd-alerts`](https://github.com/taciturnaxolotl/ctfd-alerts) - _"⛳ alerts for any ctfd instance via ntfy "_ **(5 days ago)**
-- [`nur`](https://github.com/charmbracelet/nur) - _""_ **(5 days ago)**
-- [`crush`](https://github.com/charmbracelet/crush) - _"The glamourous AI coding agent for your favourite terminal 💘"_ **(6 days ago)**
+- [`zera`](https://github.com/taciturnaxolotl/zera) - _"my new site v4?"_ **(2 days ago)**
+- [`dots`](https://github.com/taciturnaxolotl/dots) - _"Kieran's opinionated (and probably slightly dumb) nix config"_ **(4 days ago)**
+- [`cachet`](https://github.com/taciturnaxolotl/cachet) - _"a cache for slack profile pictures and emojis"_ **(5 days ago)**
+- [`crimson-phish`](https://github.com/taciturnaxolotl/crimson-phish) - _"a small phishing site"_ **(5 days ago)**
+- [`ctfd-alerts`](https://github.com/taciturnaxolotl/ctfd-alerts) - _"⛳ alerts for any ctfd instance via ntfy "_ **(6 days ago)**
+- [`nur`](https://github.com/charmbracelet/nur) - _""_ **(6 days ago)**
+- [`crush`](https://github.com/charmbracelet/crush) - _"The glamourous AI coding agent for your favourite terminal 💘"_ **(1 week ago)**
 - [`512kb.club`](https://github.com/kevquirk/512kb.club) - _"Website for the 512 KB Club"_ **(1 week ago)**
 
 #### ⌨️ My latest projects
