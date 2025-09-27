@@ -4,12 +4,12 @@ When not doing school or working on a project, I enjoy flying drones and making 
 
 #### 👷 The latest repos I've pushed to
 
-- [`dots`](https://github.com/taciturnaxolotl/dots) - _"Kieran's opinionated (and probably slightly dumb) nix config"_ **(today)**
-- [`zera`](https://github.com/taciturnaxolotl/zera) - _"my new site v4?"_ **(2 days ago)**
-- [`cachet`](https://github.com/taciturnaxolotl/cachet) - _"a cache for slack profile pictures and emojis"_ **(5 days ago)**
-- [`crimson-phish`](https://github.com/taciturnaxolotl/crimson-phish) - _"a small phishing site"_ **(5 days ago)**
-- [`ctfd-alerts`](https://github.com/taciturnaxolotl/ctfd-alerts) - _"⛳ alerts for any ctfd instance via ntfy "_ **(6 days ago)**
-- [`nur`](https://github.com/charmbracelet/nur) - _""_ **(6 days ago)**
+- [`dots`](https://github.com/taciturnaxolotl/dots) - _"Kieran's opinionated (and probably slightly dumb) nix config"_ **(1 day ago)**
+- [`zera`](https://github.com/taciturnaxolotl/zera) - _"my new site v4?"_ **(3 days ago)**
+- [`cachet`](https://github.com/taciturnaxolotl/cachet) - _"a cache for slack profile pictures and emojis"_ **(6 days ago)**
+- [`crimson-phish`](https://github.com/taciturnaxolotl/crimson-phish) - _"a small phishing site"_ **(6 days ago)**
+- [`ctfd-alerts`](https://github.com/taciturnaxolotl/ctfd-alerts) - _"⛳ alerts for any ctfd instance via ntfy "_ **(1 week ago)**
+- [`nur`](https://github.com/charmbracelet/nur) - _""_ **(1 week ago)**
 - [`crush`](https://github.com/charmbracelet/crush) - _"The glamourous AI coding agent for your favourite terminal 💘"_ **(1 week ago)**
 - [`512kb.club`](https://github.com/kevquirk/512kb.club) - _"Website for the 512 KB Club"_ **(1 week ago)**
 
@@ -34,20 +34,20 @@ When not doing school or working on a project, I enjoy flying drones and making 
 
 ```text
 💾 Languages:
-unknown      7h 27m 27s   ██████████████░░░░░░░░░░░  52.71%
-Markdown     2h 11m 8s    ████░░░░░░░░░░░░░░░░░░░░░  15.45%
-C++          1h 44m 13s   ████░░░░░░░░░░░░░░░░░░░░░  12.28%
-Bash         1h 20m 33s   ███░░░░░░░░░░░░░░░░░░░░░░  9.49%
-JavaScript   18m 51s      █░░░░░░░░░░░░░░░░░░░░░░░░  2.22%
+unknown      7h 30m 47s   ██████████████░░░░░░░░░░░  52.89%
+Markdown     2h 11m 8s    ████░░░░░░░░░░░░░░░░░░░░░  15.39%
+C++          1h 44m 13s   ████░░░░░░░░░░░░░░░░░░░░░  12.23%
+Bash         1h 20m 33s   ███░░░░░░░░░░░░░░░░░░░░░░  9.45%
+JavaScript   18m 51s      █░░░░░░░░░░░░░░░░░░░░░░░░  2.21%
 
 💼 Projects:
-lab-4        5h 52m 28s   ███████████░░░░░░░░░░░░░░  41.52%
-Downloads    2h 11m 40s   ████░░░░░░░░░░░░░░░░░░░░░  15.51%
-zera         1h 54m 3s    ████░░░░░░░░░░░░░░░░░░░░░  13.44%
-phish        34m 30s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.06%
-unknown      31m 39s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.73%
+lab-4        5h 54m 29s   ███████████░░░░░░░░░░░░░░  41.60%
+Downloads    2h 11m 40s   ████░░░░░░░░░░░░░░░░░░░░░  15.45%
+zera         1h 56m 3s    ████░░░░░░░░░░░░░░░░░░░░░  13.62%
+phish        34m 30s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.05%
+unknown      31m 39s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.71%
 
-Total: 14 hrs 9 mins
+Total: 14 hrs 12 mins
 ```
 
 #### 📮 Want to Contact me?
