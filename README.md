@@ -8,10 +8,10 @@ When not doing school or working on a project, I enjoy flying drones and making 
 - [`yippe`](https://github.com/taciturnaxolotl/yippe) - _""_ **(1 day ago)**
 - [`dots`](https://github.com/taciturnaxolotl/dots) - _"Kieran's opinionated (and probably slightly dumb) nix config"_ **(2 days ago)**
 - [`zera`](https://github.com/taciturnaxolotl/zera) - _"my new site v4?"_ **(4 days ago)**
-- [`crimson-phish`](https://github.com/taciturnaxolotl/crimson-phish) - _"a small phishing site"_ **(1 week ago)**
 - [`cachet`](https://github.com/taciturnaxolotl/cachet) - _"a cache for slack profile pictures and emojis"_ **(1 week ago)**
+- [`512kb.club`](https://github.com/kevquirk/512kb.club) - _"Website for the 512 KB Club"_ **(1 week ago)**
+- [`crimson-phish`](https://github.com/taciturnaxolotl/crimson-phish) - _"a small phishing site"_ **(1 week ago)**
 - [`nur`](https://github.com/charmbracelet/nur) - _""_ **(1 week ago)**
-- [`ctfd-alerts`](https://github.com/taciturnaxolotl/ctfd-alerts) - _"⛳ alerts for any ctfd instance via ntfy "_ **(1 week ago)**
 
 #### ⌨️ My latest projects
 
