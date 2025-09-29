@@ -6,11 +6,11 @@ When not doing school or working on a project, I enjoy flying drones and making 
 
 - [`cv`](https://github.com/taciturnaxolotl/cv) - _"my cv powered by latex"_ **(today)**
 - [`viola`](https://github.com/taciturnaxolotl/viola) - _"ranked instant runoff voting for hackathons"_ **(1 day ago)**
-- [`yippe`](https://github.com/taciturnaxolotl/yippe) - _""_ **(2 days ago)**
 - [`smackdown`](https://github.com/taciturnaxolotl/smackdown) - _"the game"_ **(2 days ago)**
+- [`yippe`](https://github.com/taciturnaxolotl/yippe) - _""_ **(2 days ago)**
 - [`dots`](https://github.com/taciturnaxolotl/dots) - _"Kieran's opinionated (and probably slightly dumb) nix config"_ **(3 days ago)**
 - [`zera`](https://github.com/taciturnaxolotl/zera) - _"my new site v4?"_ **(5 days ago)**
-- [`crimson-phish`](https://github.com/taciturnaxolotl/crimson-phish) - _"a small phishing site"_ **(1 week ago)**
+- [`512kb.club`](https://github.com/kevquirk/512kb.club) - _"Website for the 512 KB Club"_ **(1 week ago)**
 - [`cachet`](https://github.com/taciturnaxolotl/cachet) - _"a cache for slack profile pictures and emojis"_ **(1 week ago)**
 
 #### ⌨️ My latest projects
@@ -34,20 +34,20 @@ When not doing school or working on a project, I enjoy flying drones and making 
 
 ```text
 💾 Languages:
-unknown      6h 21m 31s   █████████████░░░░░░░░░░░░  49.40%
-Markdown     2h 17m 9s    █████░░░░░░░░░░░░░░░░░░░░  17.76%
-C++          1h 44m 13s   ████░░░░░░░░░░░░░░░░░░░░░  13.49%
-TeX          57m 36s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.46%
-JavaScript   30m 11s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.91%
+unknown      6h 32m 25s   █████████████░░░░░░░░░░░░  49.75%
+Markdown     2h 17m 9s    █████░░░░░░░░░░░░░░░░░░░░  17.39%
+C++          1h 44m 13s   ████░░░░░░░░░░░░░░░░░░░░░  13.21%
+TeX          57m 36s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.30%
+JavaScript   30m 11s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.83%
 
 💼 Projects:
-lab-4        5h 56m 28s   ████████████░░░░░░░░░░░░░  46.16%
-cv           2h 8m 29s    █████░░░░░░░░░░░░░░░░░░░░  16.64%
-zera         1h 46m 43s   ████░░░░░░░░░░░░░░░░░░░░░  13.82%
-smackdown    1h 0m 33s    ██░░░░░░░░░░░░░░░░░░░░░░░  7.84%
-dots         24m 10s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.13%
+lab-4        5h 56m 28s   ████████████░░░░░░░░░░░░░  45.19%
+cv           2h 27m 23s   █████░░░░░░░░░░░░░░░░░░░░  18.69%
+zera         1h 44m 19s   ████░░░░░░░░░░░░░░░░░░░░░  13.23%
+smackdown    1h 0m 33s    ██░░░░░░░░░░░░░░░░░░░░░░░  7.68%
+dots         24m 10s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.06%
 
-Total: 12 hrs 52 mins
+Total: 13 hrs 9 mins
 ```
 
 #### 📮 Want to Contact me?
