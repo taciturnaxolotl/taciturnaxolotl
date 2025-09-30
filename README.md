@@ -4,12 +4,12 @@ When not doing school or working on a project, I enjoy flying drones and making 
 
 #### 👷 The latest repos I've pushed to
 
-- [`cv`](https://github.com/taciturnaxolotl/cv) - _"my cv powered by latex"_ **(today)**
-- [`viola`](https://github.com/taciturnaxolotl/viola) - _"ranked instant runoff voting for hackathons"_ **(1 day ago)**
-- [`yippe`](https://github.com/taciturnaxolotl/yippe) - _""_ **(2 days ago)**
-- [`smackdown`](https://github.com/taciturnaxolotl/smackdown) - _"the game"_ **(2 days ago)**
-- [`dots`](https://github.com/taciturnaxolotl/dots) - _"Kieran's opinionated (and probably slightly dumb) nix config"_ **(3 days ago)**
-- [`zera`](https://github.com/taciturnaxolotl/zera) - _"my new site v4?"_ **(5 days ago)**
+- [`cv`](https://github.com/taciturnaxolotl/cv) - _"my cv powered by latex"_ **(1 day ago)**
+- [`viola`](https://github.com/taciturnaxolotl/viola) - _"ranked instant runoff voting for hackathons"_ **(2 days ago)**
+- [`yippe`](https://github.com/taciturnaxolotl/yippe) - _""_ **(3 days ago)**
+- [`smackdown`](https://github.com/taciturnaxolotl/smackdown) - _"the game"_ **(3 days ago)**
+- [`dots`](https://github.com/taciturnaxolotl/dots) - _"Kieran's opinionated (and probably slightly dumb) nix config"_ **(4 days ago)**
+- [`zera`](https://github.com/taciturnaxolotl/zera) - _"my new site v4?"_ **(6 days ago)**
 - [`crimson-phish`](https://github.com/taciturnaxolotl/crimson-phish) - _"a small phishing site"_ **(1 week ago)**
 - [`512kb.club`](https://github.com/kevquirk/512kb.club) - _"Website for the 512 KB Club"_ **(1 week ago)**
 
@@ -34,20 +34,20 @@ When not doing school or working on a project, I enjoy flying drones and making 
 
 ```text
 💾 Languages:
-unknown      5h 30m 8s    █████████████░░░░░░░░░░░░  49.79%
-Markdown     2h 16m 19s   ██████░░░░░░░░░░░░░░░░░░░  20.56%
-TeX          58m 0s       ███░░░░░░░░░░░░░░░░░░░░░░  8.75%
-C++          54m 13s      ███░░░░░░░░░░░░░░░░░░░░░░  8.18%
-JavaScript   30m 11s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.55%
+unknown      5h 30m 34s   █████████████░░░░░░░░░░░░  48.95%
+Markdown     2h 16m 19s   ██████░░░░░░░░░░░░░░░░░░░  20.18%
+TeX          1h 9m 54s    ███░░░░░░░░░░░░░░░░░░░░░░  10.35%
+C++          54m 13s      ███░░░░░░░░░░░░░░░░░░░░░░  8.03%
+JavaScript   30m 11s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.47%
 
 💼 Projects:
-lab-4        3h 58m 58s   ██████████░░░░░░░░░░░░░░░  36.05%
-cv           2h 40m 23s   ███████░░░░░░░░░░░░░░░░░░  24.19%
-zera         1h 42m 54s   ████░░░░░░░░░░░░░░░░░░░░░  15.52%
-smackdown    1h 0m 33s    ███░░░░░░░░░░░░░░░░░░░░░░  9.13%
-catprinter   21m 22s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.22%
+lab-4        3h 58m 58s   █████████░░░░░░░░░░░░░░░░  35.39%
+cv           2h 52m 44s   ███████░░░░░░░░░░░░░░░░░░  25.58%
+zera         1h 42m 54s   ████░░░░░░░░░░░░░░░░░░░░░  15.24%
+smackdown    1h 0m 33s    ███░░░░░░░░░░░░░░░░░░░░░░  8.97%
+catprinter   21m 22s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.16%
 
-Total: 11 hrs 3 mins
+Total: 11 hrs 15 mins
 ```
 
 #### 📮 Want to Contact me?
