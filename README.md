@@ -4,9 +4,9 @@ When not doing school or working on a project, I enjoy flying drones and making 
 
 #### 👷 The latest repos I've pushed to
 
-- [`zera`](https://github.com/taciturnaxolotl/zera) - _"my new site v4?"_ **(1 day ago)**
-- [`dots`](https://github.com/taciturnaxolotl/dots) - _"Kieran's opinionated (and probably slightly dumb) nix config"_ **(2 days ago)**
-- [`cv`](https://github.com/taciturnaxolotl/cv) - _"my cv powered by latex"_ **(2 days ago)**
+- [`zera`](https://github.com/taciturnaxolotl/zera) - _"my new site v4?"_ **(2 days ago)**
+- [`dots`](https://github.com/taciturnaxolotl/dots) - _"Kieran's opinionated (and probably slightly dumb) nix config"_ **(3 days ago)**
+- [`cv`](https://github.com/taciturnaxolotl/cv) - _"my cv powered by latex"_ **(3 days ago)**
 - [`viola`](https://github.com/taciturnaxolotl/viola) - _"ranked instant runoff voting for hackathons"_ **(1 week ago)**
 - [`smackdown`](https://github.com/taciturnaxolotl/smackdown) - _"the game"_ **(1 week ago)**
 - [`yippe`](https://github.com/taciturnaxolotl/yippe) - _""_ **(1 week ago)**
