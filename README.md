@@ -5,11 +5,11 @@ When not doing school or working on a project, I enjoy flying drones and making 
 #### 👷 The latest repos I've pushed to
 
 - [`zera`](https://github.com/taciturnaxolotl/zera) - _"my new site v4?"_ **(2 days ago)**
-- [`dots`](https://github.com/taciturnaxolotl/dots) - _"Kieran's opinionated (and probably slightly dumb) nix config"_ **(3 days ago)**
 - [`cv`](https://github.com/taciturnaxolotl/cv) - _"my cv powered by latex"_ **(3 days ago)**
+- [`dots`](https://github.com/taciturnaxolotl/dots) - _"Kieran's opinionated (and probably slightly dumb) nix config"_ **(3 days ago)**
 - [`viola`](https://github.com/taciturnaxolotl/viola) - _"ranked instant runoff voting for hackathons"_ **(1 week ago)**
 - [`smackdown`](https://github.com/taciturnaxolotl/smackdown) - _"the game"_ **(1 week ago)**
-- [`yippe`](https://github.com/taciturnaxolotl/yippe) - _""_ **(1 week ago)**
+- [`crimson-phish`](https://github.com/taciturnaxolotl/crimson-phish) - _"a small phishing site"_ **(2 weeks ago)**
 - [`cachet`](https://github.com/taciturnaxolotl/cachet) - _"a cache for slack profile pictures and emojis"_ **(2 weeks ago)**
 - [`512kb.club`](https://github.com/kevquirk/512kb.club) - _"Website for the 512 KB Club"_ **(2 weeks ago)**
 
@@ -18,7 +18,7 @@ When not doing school or working on a project, I enjoy flying drones and making 
 - [`cv`](https://github.com/taciturnaxolotl/cv) - _"my cv powered by latex"_
 - [`viola`](https://github.com/taciturnaxolotl/viola) - _"ranked instant runoff voting for hackathons"_
 - [`smackdown`](https://github.com/taciturnaxolotl/smackdown) - _"the game"_
-- [`yippe`](https://github.com/taciturnaxolotl/yippe) - _""_
+- [`crimson-phish`](https://github.com/taciturnaxolotl/crimson-phish) - _"a small phishing site"_
 
 #### 🗒️ the latest posts from my [blog](https://dunkirk.sh)
 
@@ -34,20 +34,20 @@ When not doing school or working on a project, I enjoy flying drones and making 
 
 ```text
 💾 Languages:
-unknown     4h 52m 22s   ███████████░░░░░░░░░░░░░░  40.24%
-TeX         3h 41m 41s   ████████░░░░░░░░░░░░░░░░░  30.51%
-C++         1h 25m 20s   ███░░░░░░░░░░░░░░░░░░░░░░  11.74%
-Markdown    52m 42s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.25%
-HTML        33m 32s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.62%
+unknown            4h 39m 50s   ██████████░░░░░░░░░░░░░░░  39.52%
+TeX                3h 35m 56s   ████████░░░░░░░░░░░░░░░░░  30.49%
+C++                1h 25m 20s   ████░░░░░░░░░░░░░░░░░░░░░  12.05%
+Markdown           52m 42s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.44%
+HTML               31m 33s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.46%
 
 💼 Projects:
-cv          6h 8m 37s    █████████████░░░░░░░░░░░░  50.73%
-lab-5       3h 35m 23s   ████████░░░░░░░░░░░░░░░░░  29.64%
-zera        1h 4m 9s     ███░░░░░░░░░░░░░░░░░░░░░░  8.83%
-dots        38m 33s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.31%
-Downloads   8m 35s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.18%
+cv                 5h 48m 45s   █████████████░░░░░░░░░░░░  49.24%
+lab-5              3h 35m 23s   ████████░░░░░░░░░░░░░░░░░  30.41%
+zera               1h 4m 9s     ███░░░░░░░░░░░░░░░░░░░░░░  9.06%
+dots               38m 33s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.44%
+astro-cloudinary   11m 39s      █░░░░░░░░░░░░░░░░░░░░░░░░  1.65%
 
-Total: 12 hrs 7 mins
+Total: 11 hrs 48 mins
 ```
 
 #### 📮 Want to Contact me?
