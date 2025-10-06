@@ -4,6 +4,7 @@ When not doing school or working on a project, I enjoy flying drones and making 
 
 #### 👷 The latest repos I've pushed to
 
+- [`thyme`](https://github.com/taciturnaxolotl/thyme) - _"my custom split keyboard 🫶"_ **(today)**
 - [`zera`](https://github.com/taciturnaxolotl/zera) - _"my new site v4?"_ **(2 days ago)**
 - [`dots`](https://github.com/taciturnaxolotl/dots) - _"Kieran's opinionated (and probably slightly dumb) nix config"_ **(3 days ago)**
 - [`cv`](https://github.com/taciturnaxolotl/cv) - _"my cv powered by latex"_ **(3 days ago)**
@@ -11,7 +12,6 @@ When not doing school or working on a project, I enjoy flying drones and making 
 - [`smackdown`](https://github.com/taciturnaxolotl/smackdown) - _"the game"_ **(1 week ago)**
 - [`crimson-phish`](https://github.com/taciturnaxolotl/crimson-phish) - _"a small phishing site"_ **(2 weeks ago)**
 - [`cachet`](https://github.com/taciturnaxolotl/cachet) - _"a cache for slack profile pictures and emojis"_ **(2 weeks ago)**
-- [`512kb.club`](https://github.com/kevquirk/512kb.club) - _"Website for the 512 KB Club"_ **(2 weeks ago)**
 
 #### ⌨️ My latest projects
 
@@ -34,20 +34,20 @@ When not doing school or working on a project, I enjoy flying drones and making 
 
 ```text
 💾 Languages:
-unknown            4h 11m 24s   ██████████░░░░░░░░░░░░░░░  39.07%
-TeX                2h 59m 50s   ███████░░░░░░░░░░░░░░░░░░  27.95%
-C++                1h 25m 20s   ████░░░░░░░░░░░░░░░░░░░░░  13.26%
-Markdown           52m 42s      ███░░░░░░░░░░░░░░░░░░░░░░  8.19%
-HTML               31m 33s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.90%
+unknown    4h 15m 46s   ███████████░░░░░░░░░░░░░░  41.10%
+TeX        2h 44m 4s    ███████░░░░░░░░░░░░░░░░░░  26.36%
+C++        1h 25m 20s   ████░░░░░░░░░░░░░░░░░░░░░  13.71%
+Markdown   47m 16s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.59%
+HTML       31m 33s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.07%
 
 💼 Projects:
-cv                 4h 43m 52s   ████████████░░░░░░░░░░░░░  44.12%
-lab-5              3h 35m 23s   █████████░░░░░░░░░░░░░░░░  33.47%
-zera               1h 4m 9s     ███░░░░░░░░░░░░░░░░░░░░░░  9.97%
-dots               38m 33s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.99%
-astro-cloudinary   13m 38s      █░░░░░░░░░░░░░░░░░░░░░░░░  2.12%
+cv         4h 2m 37s    ██████████░░░░░░░░░░░░░░░  38.98%
+lab-5      3h 35m 23s   █████████░░░░░░░░░░░░░░░░  34.61%
+zera       1h 4m 9s     ███░░░░░░░░░░░░░░░░░░░░░░  10.31%
+dots       38m 33s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.19%
+frc-nix    15m 32s      █░░░░░░░░░░░░░░░░░░░░░░░░  2.50%
 
-Total: 10 hrs 43 mins
+Total: 10 hrs 22 mins
 ```
 
 #### 📮 Want to Contact me?
