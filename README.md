@@ -4,10 +4,10 @@ When not doing school or working on a project, I enjoy flying drones and making 
 
 #### 👷 The latest repos I've pushed to
 
-- [`thyme`](https://github.com/taciturnaxolotl/thyme) - _"my custom split keyboard 🫶"_ **(today)**
-- [`zera`](https://github.com/taciturnaxolotl/zera) - _"my new site v4?"_ **(2 days ago)**
-- [`dots`](https://github.com/taciturnaxolotl/dots) - _"Kieran's opinionated (and probably slightly dumb) nix config"_ **(3 days ago)**
-- [`cv`](https://github.com/taciturnaxolotl/cv) - _"my cv powered by latex"_ **(3 days ago)**
+- [`thyme`](https://github.com/taciturnaxolotl/thyme) - _"my custom split keyboard 🫶"_ **(1 day ago)**
+- [`zera`](https://github.com/taciturnaxolotl/zera) - _"my new site v4?"_ **(3 days ago)**
+- [`dots`](https://github.com/taciturnaxolotl/dots) - _"Kieran's opinionated (and probably slightly dumb) nix config"_ **(4 days ago)**
+- [`cv`](https://github.com/taciturnaxolotl/cv) - _"my cv powered by latex"_ **(4 days ago)**
 - [`viola`](https://github.com/taciturnaxolotl/viola) - _"ranked instant runoff voting for hackathons"_ **(1 week ago)**
 - [`smackdown`](https://github.com/taciturnaxolotl/smackdown) - _"the game"_ **(1 week ago)**
 - [`crimson-phish`](https://github.com/taciturnaxolotl/crimson-phish) - _"a small phishing site"_ **(2 weeks ago)**
@@ -34,20 +34,20 @@ When not doing school or working on a project, I enjoy flying drones and making 
 
 ```text
 💾 Languages:
-unknown    4h 32m 2s    ███████████░░░░░░░░░░░░░░  40.80%
-TeX        2h 43m 41s   ███████░░░░░░░░░░░░░░░░░░  24.55%
-C++        1h 45m 57s   ████░░░░░░░░░░░░░░░░░░░░░  15.89%
-Markdown   47m 36s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.14%
-HTML       31m 33s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.73%
+unknown    5h 0m 2s     ███████████░░░░░░░░░░░░░░  40.99%
+C++        2h 34m 24s   ██████░░░░░░░░░░░░░░░░░░░  21.09%
+TeX        2h 31m 47s   ██████░░░░░░░░░░░░░░░░░░░  20.73%
+Markdown   47m 36s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.50%
+HTML       31m 33s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.31%
 
 💼 Projects:
-lab-5      3h 33m 23s   ████████░░░░░░░░░░░░░░░░░  32.00%
-cv         3h 28m 14s   ████████░░░░░░░░░░░░░░░░░  31.22%
-lab-6      1h 4m 13s    ███░░░░░░░░░░░░░░░░░░░░░░  9.63%
-zera       1h 2m 11s    ███░░░░░░░░░░░░░░░░░░░░░░  9.32%
-dots       38m 33s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.78%
+lab-5      3h 33m 23s   ████████░░░░░░░░░░░░░░░░░  29.15%
+cv         3h 14m 14s   ███████░░░░░░░░░░░░░░░░░░  26.53%
+lab-6      2h 23m 25s   █████░░░░░░░░░░░░░░░░░░░░  19.59%
+zera       1h 2m 11s    ███░░░░░░░░░░░░░░░░░░░░░░  8.49%
+dots       38m 33s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.27%
 
-Total: 11 hrs 7 mins
+Total: 12 hrs 12 mins
 ```
 
 #### 📮 Want to Contact me?
