@@ -4,12 +4,12 @@ When not doing school or working on a project, I enjoy flying drones and making 
 
 #### 👷 The latest repos I've pushed to
 
-- [`scroll`](https://github.com/taciturnaxolotl/scroll) - _""_ **(today)**
-- [`dots`](https://github.com/taciturnaxolotl/dots) - _"Kieran's opinionated (and probably slightly dumb) nix config"_ **(2 days ago)**
-- [`thyme`](https://github.com/taciturnaxolotl/thyme) - _"my custom split keyboard 🫶"_ **(3 days ago)**
-- [`astro-cloudinary`](https://github.com/cloudinary-community/astro-cloudinary) - _"🚀 High-performance image and video delivery and uploading at scale in Astro powered by Cloudinary."_ **(3 days ago)**
-- [`zera`](https://github.com/taciturnaxolotl/zera) - _"my new site v4?"_ **(5 days ago)**
-- [`cv`](https://github.com/taciturnaxolotl/cv) - _"my cv powered by latex"_ **(6 days ago)**
+- [`scroll`](https://github.com/taciturnaxolotl/scroll) - _""_ **(1 day ago)**
+- [`dots`](https://github.com/taciturnaxolotl/dots) - _"Kieran's opinionated (and probably slightly dumb) nix config"_ **(3 days ago)**
+- [`thyme`](https://github.com/taciturnaxolotl/thyme) - _"my custom split keyboard 🫶"_ **(4 days ago)**
+- [`astro-cloudinary`](https://github.com/cloudinary-community/astro-cloudinary) - _"🚀 High-performance image and video delivery and uploading at scale in Astro powered by Cloudinary."_ **(4 days ago)**
+- [`zera`](https://github.com/taciturnaxolotl/zera) - _"my new site v4?"_ **(6 days ago)**
+- [`cv`](https://github.com/taciturnaxolotl/cv) - _"my cv powered by latex"_ **(1 week ago)**
 - [`viola`](https://github.com/taciturnaxolotl/viola) - _"ranked instant runoff voting for hackathons"_ **(1 week ago)**
 - [`smackdown`](https://github.com/taciturnaxolotl/smackdown) - _"the game"_ **(1 week ago)**
 
@@ -26,7 +26,7 @@ When not doing school or working on a project, I enjoy flying drones and making 
 
 - [`Musings about Atuin`](https://dunkirk.sh/blog/atuin/) **(5 months ago)**
 
-- [`Adding a copy code button`](https://dunkirk.sh/blog/adding-a-copy-button/) **(6 months ago)**
+- [`Adding a copy code button`](https://dunkirk.sh/blog/adding-a-copy-button/) **(7 months ago)**
 
 
 
@@ -34,7 +34,7 @@ When not doing school or working on a project, I enjoy flying drones and making 
 
 ```text
 💾 Languages:
-unknown            4h 50m 22s   ███████████████░░░░░░░░░░  57.27%
+unknown            4h 50m 23s   ███████████████░░░░░░░░░░  57.27%
 C++                1h 37m 9s    █████░░░░░░░░░░░░░░░░░░░░  19.16%
 HTML               31m 18s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.17%
 Markdown           27m 23s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.40%
