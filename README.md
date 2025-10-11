@@ -4,14 +4,14 @@ When not doing school or working on a project, I enjoy flying drones and making 
 
 #### 👷 The latest repos I've pushed to
 
-- [`scroll`](https://github.com/taciturnaxolotl/scroll) - _""_ **(1 day ago)**
-- [`dots`](https://github.com/taciturnaxolotl/dots) - _"Kieran's opinionated (and probably slightly dumb) nix config"_ **(3 days ago)**
-- [`thyme`](https://github.com/taciturnaxolotl/thyme) - _"my custom split keyboard 🫶"_ **(4 days ago)**
-- [`astro-cloudinary`](https://github.com/cloudinary-community/astro-cloudinary) - _"🚀 High-performance image and video delivery and uploading at scale in Astro powered by Cloudinary."_ **(4 days ago)**
-- [`zera`](https://github.com/taciturnaxolotl/zera) - _"my new site v4?"_ **(6 days ago)**
+- [`scroll`](https://github.com/taciturnaxolotl/scroll) - _""_ **(2 days ago)**
+- [`dots`](https://github.com/taciturnaxolotl/dots) - _"Kieran's opinionated (and probably slightly dumb) nix config"_ **(4 days ago)**
+- [`thyme`](https://github.com/taciturnaxolotl/thyme) - _"my custom split keyboard 🫶"_ **(5 days ago)**
+- [`astro-cloudinary`](https://github.com/cloudinary-community/astro-cloudinary) - _"🚀 High-performance image and video delivery and uploading at scale in Astro powered by Cloudinary."_ **(5 days ago)**
+- [`zera`](https://github.com/taciturnaxolotl/zera) - _"my new site v4?"_ **(1 week ago)**
 - [`cv`](https://github.com/taciturnaxolotl/cv) - _"my cv powered by latex"_ **(1 week ago)**
 - [`viola`](https://github.com/taciturnaxolotl/viola) - _"ranked instant runoff voting for hackathons"_ **(1 week ago)**
-- [`smackdown`](https://github.com/taciturnaxolotl/smackdown) - _"the game"_ **(1 week ago)**
+- [`smackdown`](https://github.com/taciturnaxolotl/smackdown) - _"the game"_ **(2 weeks ago)**
 
 #### ⌨️ My latest projects
 
@@ -34,20 +34,20 @@ When not doing school or working on a project, I enjoy flying drones and making 
 
 ```text
 💾 Languages:
-unknown            4h 35m 54s   ███████████████░░░░░░░░░░  56.06%
-C++                1h 37m 2s    █████░░░░░░░░░░░░░░░░░░░░  19.72%
-Markdown           27m 23s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.56%
-Nix                26m 10s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.32%
-HTML               20m 58s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.26%
+unknown            4h 23m 24s   ███████████████░░░░░░░░░░  57.08%
+C++                1h 37m 2s    ██████░░░░░░░░░░░░░░░░░░░  21.03%
+Markdown           27m 23s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.93%
+Nix                24m 50s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.38%
+JavaScript         20m 57s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.54%
 
 💼 Projects:
-lab-6              4h 9m 38s    █████████████░░░░░░░░░░░░  50.72%
-zera               42m 48s      ███░░░░░░░░░░░░░░░░░░░░░░  8.70%
-nixpkgs            40m 9s       ███░░░░░░░░░░░░░░░░░░░░░░  8.16%
-frc-nix            34m 48s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.07%
-astro-cloudinary   31m 58s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.49%
+lab-6              4h 9m 38s    ██████████████░░░░░░░░░░░  54.10%
+nixpkgs            40m 10s      ███░░░░░░░░░░░░░░░░░░░░░░  8.70%
+frc-nix            34m 48s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.54%
+astro-cloudinary   31m 58s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.93%
+scroll             20m 36s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.46%
 
-Total: 8 hrs 12 mins
+Total: 7 hrs 41 mins
 ```
 
 #### 📮 Want to Contact me?
