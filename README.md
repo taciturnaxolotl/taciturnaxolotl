@@ -4,7 +4,7 @@ When not doing school or working on a project, I enjoy flying drones and making 
 
 #### 👷 The latest repos I've pushed to
 
-- [`cachet`](https://github.com/taciturnaxolotl/cachet) - _"a cache for slack profile pictures and emojis"_ **(1 day ago)**
+- [`cachet`](https://github.com/taciturnaxolotl/cachet) - _"a cache for slack profile pictures and emojis"_ **(today)**
 - [`dots`](https://github.com/taciturnaxolotl/dots) - _"Kieran's opinionated (and probably slightly dumb) nix config"_ **(1 day ago)**
 - [`scroll`](https://github.com/taciturnaxolotl/scroll) - _""_ **(3 days ago)**
 - [`astro-cloudinary`](https://github.com/cloudinary-community/astro-cloudinary) - _"🚀 High-performance image and video delivery and uploading at scale in Astro powered by Cloudinary."_ **(6 days ago)**
@@ -34,20 +34,20 @@ When not doing school or working on a project, I enjoy flying drones and making 
 
 ```text
 💾 Languages:
-unknown       5h 29m 10s   ███████████████░░░░░░░░░░  59.39%
-C++           1h 37m 2s    █████░░░░░░░░░░░░░░░░░░░░  17.51%
-Markdown      39m 49s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.18%
-Nix           31m 12s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.63%
-JavaScript    19m 22s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.49%
+unknown       5h 51m 44s   ████████████████░░░░░░░░░  60.75%
+C++           1h 37m 2s    █████░░░░░░░░░░░░░░░░░░░░  16.76%
+Markdown      39m 49s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.88%
+Nix           31m 12s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.39%
+JavaScript    21m 33s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.72%
 
 💼 Projects:
-lab-6         4h 9m 38s    ████████████░░░░░░░░░░░░░  45.04%
-nixpkgs       1h 10m 41s   ████░░░░░░░░░░░░░░░░░░░░░  12.75%
-unduckified   41m 32s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.49%
-cachet        35m 42s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.44%
-frc-nix       34m 48s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.28%
+lab-6         4h 9m 38s    ███████████░░░░░░░░░░░░░░  43.11%
+nixpkgs       1h 10m 54s   ████░░░░░░░░░░░░░░░░░░░░░  12.24%
+cachet        59m 50s      ███░░░░░░░░░░░░░░░░░░░░░░  10.33%
+unduckified   41m 32s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.17%
+frc-nix       34m 48s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.01%
 
-Total: 9 hrs 14 mins
+Total: 9 hrs 39 mins
 ```
 
 #### 📮 Want to Contact me?
