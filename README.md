@@ -4,8 +4,8 @@ When not doing school or working on a project, I enjoy flying drones and making 
 
 #### 👷 The latest repos I've pushed to
 
+- [`cachet`](https://github.com/taciturnaxolotl/cachet) - _"a cache for slack profile pictures and emojis"_ **(today)**
 - [`dots`](https://github.com/taciturnaxolotl/dots) - _"Kieran's opinionated (and probably slightly dumb) nix config"_ **(1 day ago)**
-- [`cachet`](https://github.com/taciturnaxolotl/cachet) - _"a cache for slack profile pictures and emojis"_ **(2 days ago)**
 - [`scroll`](https://github.com/taciturnaxolotl/scroll) - _""_ **(5 days ago)**
 - [`thyme`](https://github.com/taciturnaxolotl/thyme) - _"my custom split keyboard 🫶"_ **(1 week ago)**
 - [`astro-cloudinary`](https://github.com/cloudinary-community/astro-cloudinary) - _"🚀 High-performance image and video delivery and uploading at scale in Astro powered by Cloudinary."_ **(1 week ago)**
@@ -34,20 +34,20 @@ When not doing school or working on a project, I enjoy flying drones and making 
 
 ```text
 💾 Languages:
-unknown       4h 45m 4s    ██████████████████░░░░░░░  69.84%
-Nix           1h 1m 5s     ████░░░░░░░░░░░░░░░░░░░░░  14.96%
-JavaScript    22m 37s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.54%
-Markdown      17m 30s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.29%
-Bash          8m 17s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.03%
+unknown       4h 39m 30s   ██████████████████░░░░░░░  69.81%
+Nix           1h 1m 5s     ████░░░░░░░░░░░░░░░░░░░░░  15.26%
+JavaScript    22m 37s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.65%
+Markdown      16m 8s       ██░░░░░░░░░░░░░░░░░░░░░░░  4.03%
+Bash          8m 17s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.07%
 
 💼 Projects:
-dots          1h 47m 32s   ███████░░░░░░░░░░░░░░░░░░  26.34%
-cachet        1h 19m 8s    █████░░░░░░░░░░░░░░░░░░░░  19.38%
-nixpkgs       1h 10m 52s   █████░░░░░░░░░░░░░░░░░░░░  17.36%
-unduckified   48m 28s      ███░░░░░░░░░░░░░░░░░░░░░░  11.87%
-scroll        25m 2s       ██░░░░░░░░░░░░░░░░░░░░░░░  6.13%
+dots          1h 47m 32s   ███████░░░░░░░░░░░░░░░░░░  26.86%
+cachet        1h 19m 8s    █████░░░░░░░░░░░░░░░░░░░░  19.76%
+nixpkgs       1h 10m 52s   █████░░░░░░░░░░░░░░░░░░░░  17.70%
+unduckified   48m 28s      ████░░░░░░░░░░░░░░░░░░░░░  12.10%
+scroll        25m 2s       ██░░░░░░░░░░░░░░░░░░░░░░░  6.25%
 
-Total: 6 hrs 48 mins
+Total: 6 hrs 40 mins
 ```
 
 #### 📮 Want to Contact me?
