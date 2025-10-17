@@ -4,13 +4,13 @@ When not doing school or working on a project, I enjoy flying drones and making 
 
 #### 👷 The latest repos I've pushed to
 
-- [`thyme`](https://github.com/taciturnaxolotl/thyme) - _"my custom split keyboard 🫶"_ **(today)**
-- [`cachet`](https://github.com/taciturnaxolotl/cachet) - _"a cache for slack profile pictures and emojis"_ **(2 days ago)**
-- [`dots`](https://github.com/taciturnaxolotl/dots) - _"Kieran's opinionated (and probably slightly dumb) nix config"_ **(3 days ago)**
+- [`thyme`](https://github.com/taciturnaxolotl/thyme) - _"my custom split keyboard 🫶"_ **(1 day ago)**
+- [`cachet`](https://github.com/taciturnaxolotl/cachet) - _"a cache for slack profile pictures and emojis"_ **(3 days ago)**
+- [`dots`](https://github.com/taciturnaxolotl/dots) - _"Kieran's opinionated (and probably slightly dumb) nix config"_ **(4 days ago)**
 - [`scroll`](https://github.com/taciturnaxolotl/scroll) - _""_ **(1 week ago)**
 - [`astro-cloudinary`](https://github.com/cloudinary-community/astro-cloudinary) - _"🚀 High-performance image and video delivery and uploading at scale in Astro powered by Cloudinary."_ **(1 week ago)**
 - [`zera`](https://github.com/taciturnaxolotl/zera) - _"my new site v4?"_ **(1 week ago)**
-- [`cv`](https://github.com/taciturnaxolotl/cv) - _"my cv powered by latex"_ **(1 week ago)**
+- [`cv`](https://github.com/taciturnaxolotl/cv) - _"my cv powered by latex"_ **(2 weeks ago)**
 - [`viola`](https://github.com/taciturnaxolotl/viola) - _"ranked instant runoff voting for hackathons"_ **(2 weeks ago)**
 
 #### ⌨️ My latest projects
@@ -34,20 +34,20 @@ When not doing school or working on a project, I enjoy flying drones and making 
 
 ```text
 💾 Languages:
-unknown      5h 43m 20s   █████████████████░░░░░░░░  66.33%
-Markdown     1h 2m 14s    ████░░░░░░░░░░░░░░░░░░░░░  12.02%
-Nix          1h 1m 41s    ███░░░░░░░░░░░░░░░░░░░░░░  11.92%
-Bash         24m 47s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.79%
-JavaScript   12m 54s      █░░░░░░░░░░░░░░░░░░░░░░░░  2.49%
+unknown      5h 41m 10s   █████████████████░░░░░░░░  66.19%
+Markdown     1h 2m 14s    ████░░░░░░░░░░░░░░░░░░░░░  12.07%
+Nix          1h 1m 41s    ███░░░░░░░░░░░░░░░░░░░░░░  11.97%
+Bash         24m 47s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.81%
+JavaScript   12m 54s      █░░░░░░░░░░░░░░░░░░░░░░░░  2.50%
 
 💼 Projects:
-dots         2h 24m 10s   ███████░░░░░░░░░░░░░░░░░░  27.85%
-cachet       1h 19m 9s    ████░░░░░░░░░░░░░░░░░░░░░  15.29%
-nixpkgs      1h 10m 52s   ████░░░░░░░░░░░░░░░░░░░░░  13.69%
-thyme        1h 8m 31s    ████░░░░░░░░░░░░░░░░░░░░░  13.24%
-Downloads    1h 1m 15s    ███░░░░░░░░░░░░░░░░░░░░░░  11.83%
+dots         2h 24m 10s   ███████░░░░░░░░░░░░░░░░░░  27.97%
+cachet       1h 19m 9s    ████░░░░░░░░░░░░░░░░░░░░░  15.35%
+nixpkgs      1h 10m 52s   ████░░░░░░░░░░░░░░░░░░░░░  13.75%
+thyme        1h 8m 31s    ████░░░░░░░░░░░░░░░░░░░░░  13.29%
+Downloads    1h 1m 15s    ███░░░░░░░░░░░░░░░░░░░░░░  11.88%
 
-Total: 8 hrs 38 mins
+Total: 8 hrs 35 mins
 ```
 
 #### 📮 Want to Contact me?
