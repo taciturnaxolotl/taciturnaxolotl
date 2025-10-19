@@ -4,9 +4,9 @@ When not doing school or working on a project, I enjoy flying drones and making 
 
 #### 👷 The latest repos I've pushed to
 
-- [`thyme`](https://github.com/taciturnaxolotl/thyme) - _"my custom split keyboard 🫶"_ **(1 day ago)**
-- [`cachet`](https://github.com/taciturnaxolotl/cachet) - _"a cache for slack profile pictures and emojis"_ **(4 days ago)**
-- [`dots`](https://github.com/taciturnaxolotl/dots) - _"Kieran's opinionated (and probably slightly dumb) nix config"_ **(5 days ago)**
+- [`thyme`](https://github.com/taciturnaxolotl/thyme) - _"my custom split keyboard 🫶"_ **(2 days ago)**
+- [`cachet`](https://github.com/taciturnaxolotl/cachet) - _"a cache for slack profile pictures and emojis"_ **(5 days ago)**
+- [`dots`](https://github.com/taciturnaxolotl/dots) - _"Kieran's opinionated (and probably slightly dumb) nix config"_ **(6 days ago)**
 - [`scroll`](https://github.com/taciturnaxolotl/scroll) - _""_ **(1 week ago)**
 - [`astro-cloudinary`](https://github.com/cloudinary-community/astro-cloudinary) - _"🚀 High-performance image and video delivery and uploading at scale in Astro powered by Cloudinary."_ **(1 week ago)**
 - [`zera`](https://github.com/taciturnaxolotl/zera) - _"my new site v4?"_ **(2 weeks ago)**
@@ -34,20 +34,20 @@ When not doing school or working on a project, I enjoy flying drones and making 
 
 ```text
 💾 Languages:
-unknown       5h 12m 47s   █████████████████░░░░░░░░  66.92%
-Markdown      1h 8m 34s    ████░░░░░░░░░░░░░░░░░░░░░  14.67%
-Nix           36m 51s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.88%
-Bash          24m 47s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.30%
-JavaScript    10m 47s      █░░░░░░░░░░░░░░░░░░░░░░░░  2.31%
+unknown      4h 51m 12s   ██████████████████░░░░░░░  68.36%
+Markdown     57m 59s      ████░░░░░░░░░░░░░░░░░░░░░  13.61%
+Nix          36m 51s      ███░░░░░░░░░░░░░░░░░░░░░░  8.65%
+Bash         24m 47s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.82%
+JavaScript   7m 59s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.87%
 
 💼 Projects:
-dots          2h 22m 10s   ████████░░░░░░░░░░░░░░░░░  30.42%
-cachet        1h 19m 9s    █████░░░░░░░░░░░░░░░░░░░░  16.94%
-thyme         1h 16m 51s   █████░░░░░░░░░░░░░░░░░░░░  16.44%
-Downloads     1h 1m 15s    ████░░░░░░░░░░░░░░░░░░░░░  13.11%
-unduckified   50m 28s      ███░░░░░░░░░░░░░░░░░░░░░░  10.80%
+dots         2h 22m 10s   █████████░░░░░░░░░░░░░░░░  33.38%
+cachet       1h 19m 9s    █████░░░░░░░░░░░░░░░░░░░░  18.58%
+thyme        1h 16m 51s   █████░░░░░░░░░░░░░░░░░░░░  18.04%
+Downloads    1h 1m 15s    ████░░░░░░░░░░░░░░░░░░░░░  14.38%
+kierank      16m 2s       █░░░░░░░░░░░░░░░░░░░░░░░░  3.76%
 
-Total: 7 hrs 47 mins
+Total: 7 hrs 6 mins
 ```
 
 #### 📮 Want to Contact me?
