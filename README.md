@@ -4,10 +4,10 @@ When not doing school or working on a project, I enjoy flying drones and making 
 
 #### 👷 The latest repos I've pushed to
 
+- [`dots`](https://github.com/taciturnaxolotl/dots) - _"Kieran's opinionated (and probably slightly dumb) nix config"_ **(today)**
 - [`hackatime-bot`](https://github.com/taciturnaxolotl/hackatime-bot) - _"providing password reset services for a long while: circa 2025"_ **(2 days ago)**
 - [`thyme`](https://github.com/taciturnaxolotl/thyme) - _"my custom split keyboard 🫶"_ **(5 days ago)**
 - [`cachet`](https://github.com/taciturnaxolotl/cachet) - _"a cache for slack profile pictures and emojis"_ **(1 week ago)**
-- [`dots`](https://github.com/taciturnaxolotl/dots) - _"Kieran's opinionated (and probably slightly dumb) nix config"_ **(1 week ago)**
 - [`scroll`](https://github.com/taciturnaxolotl/scroll) - _""_ **(1 week ago)**
 - [`astro-cloudinary`](https://github.com/cloudinary-community/astro-cloudinary) - _"🚀 High-performance image and video delivery and uploading at scale in Astro powered by Cloudinary."_ **(2 weeks ago)**
 - [`zera`](https://github.com/taciturnaxolotl/zera) - _"my new site v4?"_ **(2 weeks ago)**
@@ -34,20 +34,20 @@ When not doing school or working on a project, I enjoy flying drones and making 
 
 ```text
 💾 Languages:
-unknown    4h 2m 15s    ███████████████████░░░░░░  72.64%
-Markdown   1h 2m 40s    █████░░░░░░░░░░░░░░░░░░░░  18.79%
-Nix        13m 10s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.95%
-Bash       4m 54s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.47%
-TOML       3m 59s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.19%
+unknown    4h 15m 12s   ███████████████████░░░░░░  73.06%
+Markdown   1h 2m 40s    █████░░░░░░░░░░░░░░░░░░░░  17.94%
+Nix        13m 10s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.77%
+Bash       5m 10s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.48%
+TOML       3m 59s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.14%
 
 💼 Projects:
-lab-6      1h 45m 29s   ████████░░░░░░░░░░░░░░░░░  31.63%
-thyme      1h 16m 51s   ██████░░░░░░░░░░░░░░░░░░░  23.04%
-frc-nix    1h 0m 48s    █████░░░░░░░░░░░░░░░░░░░░  18.23%
-dots       39m 31s      ███░░░░░░░░░░░░░░░░░░░░░░  11.85%
-kierank    16m 26s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.93%
+lab-6      1h 45m 29s   ████████░░░░░░░░░░░░░░░░░  30.20%
+thyme      1h 16m 51s   ██████░░░░░░░░░░░░░░░░░░░  22.00%
+frc-nix    1h 0m 48s    █████░░░░░░░░░░░░░░░░░░░░  17.41%
+dots       42m 40s      ████░░░░░░░░░░░░░░░░░░░░░  12.21%
+kierank    16m 26s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.70%
 
-Total: 5 hrs 34 mins
+Total: 5 hrs 49 mins
 ```
 
 #### 📮 Want to Contact me?
