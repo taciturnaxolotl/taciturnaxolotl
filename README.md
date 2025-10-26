@@ -4,8 +4,8 @@ When not doing school or working on a project, I enjoy flying drones and making 
 
 #### 👷 The latest repos I've pushed to
 
-- [`dots`](https://github.com/taciturnaxolotl/dots) - _"Kieran's opinionated (and probably slightly dumb) nix config"_ **(2 days ago)**
-- [`hackatime-bot`](https://github.com/taciturnaxolotl/hackatime-bot) - _"providing password reset services for a long while: circa 2025"_ **(5 days ago)**
+- [`dots`](https://github.com/taciturnaxolotl/dots) - _"Kieran's opinionated (and probably slightly dumb) nix config"_ **(3 days ago)**
+- [`hackatime-bot`](https://github.com/taciturnaxolotl/hackatime-bot) - _"providing password reset services for a long while: circa 2025"_ **(6 days ago)**
 - [`thyme`](https://github.com/taciturnaxolotl/thyme) - _"my custom split keyboard 🫶"_ **(1 week ago)**
 - [`cachet`](https://github.com/taciturnaxolotl/cachet) - _"a cache for slack profile pictures and emojis"_ **(1 week ago)**
 - [`scroll`](https://github.com/taciturnaxolotl/scroll) - _""_ **(2 weeks ago)**
@@ -22,7 +22,7 @@ When not doing school or working on a project, I enjoy flying drones and making 
 
 #### 🗒️ the latest posts from my [blog](https://dunkirk.sh)
 
-- [`Novel phishing tactic using github notifications`](https://dunkirk.sh/blog/github-phishing/) **(1 day ago)**
+- [`Novel phishing tactic using github notifications`](https://dunkirk.sh/blog/github-phishing/) **(2 days ago)**
 
 - [`Musings about Atuin`](https://dunkirk.sh/blog/atuin/) **(6 months ago)**
 
@@ -34,20 +34,20 @@ When not doing school or working on a project, I enjoy flying drones and making 
 
 ```text
 💾 Languages:
-unknown    4h 23m 40s   ████████████████████░░░░░  76.97%
-C++        25m 6s       ██░░░░░░░░░░░░░░░░░░░░░░░  7.33%
-Markdown   19m 51s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.79%
-Nix        15m 16s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.46%
-Bash       5m 23s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.57%
+unknown    4h 21m 33s   ████████████████████░░░░░  76.83%
+C++        25m 6s       ██░░░░░░░░░░░░░░░░░░░░░░░  7.37%
+Markdown   19m 51s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.83%
+Nix        15m 16s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.48%
+Bash       5m 23s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.58%
 
 💼 Projects:
-lab-6      2h 27m 19s   ███████████░░░░░░░░░░░░░░  43.00%
-lab-7      1h 23m 9s    ███████░░░░░░░░░░░░░░░░░░  24.27%
-frc-nix    1h 0m 48s    █████░░░░░░░░░░░░░░░░░░░░  17.75%
-dots       15m 59s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.67%
-kierank    8m 12s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.39%
+lab-6      2h 27m 19s   ███████████░░░░░░░░░░░░░░  43.27%
+lab-7      1h 23m 9s    ███████░░░░░░░░░░░░░░░░░░  24.42%
+frc-nix    1h 0m 48s    █████░░░░░░░░░░░░░░░░░░░░  17.86%
+dots       15m 59s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.69%
+kierank    8m 12s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.41%
 
-Total: 5 hrs 43 mins
+Total: 5 hrs 40 mins
 ```
 
 #### 📮 Want to Contact me?
