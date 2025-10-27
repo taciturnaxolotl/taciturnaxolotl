@@ -4,12 +4,12 @@ When not doing school or working on a project, I enjoy flying drones and making 
 
 #### 👷 The latest repos I've pushed to
 
-- [`dots`](https://github.com/taciturnaxolotl/dots) - _"Kieran's opinionated (and probably slightly dumb) nix config"_ **(3 days ago)**
-- [`hackatime-bot`](https://github.com/taciturnaxolotl/hackatime-bot) - _"providing password reset services for a long while: circa 2025"_ **(6 days ago)**
+- [`dots`](https://github.com/taciturnaxolotl/dots) - _"Kieran's opinionated (and probably slightly dumb) nix config"_ **(4 days ago)**
+- [`hackatime-bot`](https://github.com/taciturnaxolotl/hackatime-bot) - _"providing password reset services for a long while: circa 2025"_ **(1 week ago)**
 - [`thyme`](https://github.com/taciturnaxolotl/thyme) - _"my custom split keyboard 🫶"_ **(1 week ago)**
 - [`cachet`](https://github.com/taciturnaxolotl/cachet) - _"a cache for slack profile pictures and emojis"_ **(1 week ago)**
 - [`scroll`](https://github.com/taciturnaxolotl/scroll) - _""_ **(2 weeks ago)**
-- [`astro-cloudinary`](https://github.com/cloudinary-community/astro-cloudinary) - _"🚀 High-performance image and video delivery and uploading at scale in Astro powered by Cloudinary."_ **(2 weeks ago)**
+- [`astro-cloudinary`](https://github.com/cloudinary-community/astro-cloudinary) - _"🚀 High-performance image and video delivery and uploading at scale in Astro powered by Cloudinary."_ **(3 weeks ago)**
 - [`zera`](https://github.com/taciturnaxolotl/zera) - _"my new site v4?"_ **(3 weeks ago)**
 - [`cv`](https://github.com/taciturnaxolotl/cv) - _"my cv powered by latex"_ **(3 weeks ago)**
 
@@ -22,7 +22,7 @@ When not doing school or working on a project, I enjoy flying drones and making 
 
 #### 🗒️ the latest posts from my [blog](https://dunkirk.sh)
 
-- [`Novel phishing tactic using github notifications`](https://dunkirk.sh/blog/github-phishing/) **(2 days ago)**
+- [`Novel phishing tactic using github notifications`](https://dunkirk.sh/blog/github-phishing/) **(3 days ago)**
 
 - [`Musings about Atuin`](https://dunkirk.sh/blog/atuin/) **(6 months ago)**
 
@@ -34,20 +34,20 @@ When not doing school or working on a project, I enjoy flying drones and making 
 
 ```text
 💾 Languages:
-unknown    3h 24m 2s    ███████████████████░░░░░░  73.01%
-C++        25m 6s       ███░░░░░░░░░░░░░░░░░░░░░░  8.98%
-Markdown   19m 51s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.10%
-Nix        15m 16s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.46%
-Makefile   4m 28s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.60%
+unknown    2h 58m 16s   ███████████████████░░░░░░  73.09%
+C++        25m 6s       ███░░░░░░░░░░░░░░░░░░░░░░  10.29%
+Nix        15m 16s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.26%
+Markdown   14m 26s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.92%
+Makefile   4m 28s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.83%
 
 💼 Projects:
-lab-6      1h 29m 54s   █████████░░░░░░░░░░░░░░░░  32.16%
-lab-7      1h 23m 9s    ████████░░░░░░░░░░░░░░░░░  29.75%
-frc-nix    1h 0m 48s    ██████░░░░░░░░░░░░░░░░░░░  21.75%
-dots       15m 59s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.72%
-kierank    8m 51s       █░░░░░░░░░░░░░░░░░░░░░░░░  3.17%
+lab-7      1h 23m 9s    █████████░░░░░░░░░░░░░░░░  34.08%
+frc-nix    1h 0m 48s    ███████░░░░░░░░░░░░░░░░░░  24.92%
+lab-6      56m 42s      ██████░░░░░░░░░░░░░░░░░░░  23.24%
+dots       15m 59s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.55%
+kierank    8m 19s       █░░░░░░░░░░░░░░░░░░░░░░░░  3.41%
 
-Total: 4 hrs 40 mins
+Total: 4 hrs 4 mins
 ```
 
 #### 📮 Want to Contact me?
