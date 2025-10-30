@@ -4,7 +4,7 @@ When not doing school or working on a project, I enjoy flying drones and making 
 
 #### 👷 The latest repos I've pushed to
 
-- [`thistle`](https://github.com/taciturnaxolotl/thistle) - _"🪻 distributed transcription service"_ **(1 day ago)**
+- [`thistle`](https://github.com/taciturnaxolotl/thistle) - _"🪻 distributed transcription service"_ **(today)**
 - [`dots`](https://github.com/taciturnaxolotl/dots) - _"Kieran's opinionated (and probably slightly dumb) nix config"_ **(2 days ago)**
 - [`hackatime-bot`](https://github.com/taciturnaxolotl/hackatime-bot) - _"providing password reset services in hc: circa 2025"_ **(1 week ago)**
 - [`thyme`](https://github.com/taciturnaxolotl/thyme) - _"my custom split keyboard 🫶"_ **(1 week ago)**
@@ -34,15 +34,15 @@ When not doing school or working on a project, I enjoy flying drones and making 
 
 ```text
 💾 Languages:
-unknown                  15m 55s   ████████████████████████░  92.90%
-Python                   1m 13s    ██░░░░░░░░░░░░░░░░░░░░░░░  7.10%
+unknown                  15m 49s   ████████████████████████░  92.86%
+Python                   1m 13s    ██░░░░░░░░░░░░░░░░░░░░░░░  7.14%
 
 💼 Projects:
-kierank                  5m 12s    ████████░░░░░░░░░░░░░░░░░  30.38%
-dots                     4m 3s     ██████░░░░░░░░░░░░░░░░░░░  23.66%
-The Princess Diaries 2   2m 31s    ████░░░░░░░░░░░░░░░░░░░░░  14.70%
-Documents                2m 6s     ████░░░░░░░░░░░░░░░░░░░░░  12.27%
-unknown                  2m 0s     ███░░░░░░░░░░░░░░░░░░░░░░  11.68%
+kierank                  7m 12s    ███████████░░░░░░░░░░░░░░  42.31%
+dots                     4m 3s     ██████░░░░░░░░░░░░░░░░░░░  23.80%
+The Princess Diaries 2   2m 31s    ████░░░░░░░░░░░░░░░░░░░░░  14.79%
+unknown                  2m 0s     ███░░░░░░░░░░░░░░░░░░░░░░  11.75%
+test.py                  1m 13s    ██░░░░░░░░░░░░░░░░░░░░░░░  7.15%
 
 Total: 0 hrs 17 mins
 ```
