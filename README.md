@@ -4,8 +4,8 @@ When not doing school or working on a project, I enjoy flying drones and making 
 
 #### 👷 The latest repos I've pushed to
 
+- [`dots`](https://github.com/taciturnaxolotl/dots) - _"Kieran's opinionated (and probably slightly dumb) nix config"_ **(today)**
 - [`thistle`](https://github.com/taciturnaxolotl/thistle) - _"🪻 distributed transcription service"_ **(today)**
-- [`dots`](https://github.com/taciturnaxolotl/dots) - _"Kieran's opinionated (and probably slightly dumb) nix config"_ **(2 days ago)**
 - [`hackatime-bot`](https://github.com/taciturnaxolotl/hackatime-bot) - _"providing password reset services in hc: circa 2025"_ **(1 week ago)**
 - [`thyme`](https://github.com/taciturnaxolotl/thyme) - _"my custom split keyboard 🫶"_ **(1 week ago)**
 - [`cachet`](https://github.com/taciturnaxolotl/cachet) - _"a cache for slack profile pictures and emojis"_ **(2 weeks ago)**
@@ -15,10 +15,10 @@ When not doing school or working on a project, I enjoy flying drones and making 
 
 #### ⌨️ My latest projects
 
+- [`murmur`](https://github.com/taciturnaxolotl/murmur) - _""_
 - [`thistle`](https://github.com/taciturnaxolotl/thistle) - _"🪻 distributed transcription service"_
 - [`scroll`](https://github.com/taciturnaxolotl/scroll) - _"anthropic sandbox for html essentially"_
 - [`cv`](https://github.com/taciturnaxolotl/cv) - _"my cv powered by latex"_
-- [`smackdown`](https://github.com/taciturnaxolotl/smackdown) - _"the game"_
 
 #### 🗒️ the latest posts from my [blog](https://dunkirk.sh)
 
