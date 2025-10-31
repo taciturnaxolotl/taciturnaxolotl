@@ -5,17 +5,17 @@ When not doing school or working on a project, I enjoy flying drones and making 
 #### 👷 The latest repos I've pushed to
 
 - [`dots`](https://github.com/taciturnaxolotl/dots) - _"Kieran's opinionated (and probably slightly dumb) nix config"_ **(1 day ago)**
+- [`murmur`](https://github.com/taciturnaxolotl/murmur) - _"murmur is a job based whisper transcription server designed for macos"_ **(1 day ago)**
 - [`thistle`](https://github.com/taciturnaxolotl/thistle) - _"🪻 distributed transcription service"_ **(1 day ago)**
 - [`hackatime-bot`](https://github.com/taciturnaxolotl/hackatime-bot) - _"providing password reset services in hc: circa 2025"_ **(1 week ago)**
 - [`thyme`](https://github.com/taciturnaxolotl/thyme) - _"my custom split keyboard 🫶"_ **(2 weeks ago)**
 - [`cachet`](https://github.com/taciturnaxolotl/cachet) - _"a cache for slack profile pictures and emojis"_ **(2 weeks ago)**
 - [`scroll`](https://github.com/taciturnaxolotl/scroll) - _"anthropic sandbox for html essentially"_ **(3 weeks ago)**
 - [`astro-cloudinary`](https://github.com/cloudinary-community/astro-cloudinary) - _"🚀 High-performance image and video delivery and uploading at scale in Astro powered by Cloudinary."_ **(3 weeks ago)**
-- [`zera`](https://github.com/taciturnaxolotl/zera) - _"my new site v4?"_ **(3 weeks ago)**
 
 #### ⌨️ My latest projects
 
-- [`murmur`](https://github.com/taciturnaxolotl/murmur) - _""_
+- [`murmur`](https://github.com/taciturnaxolotl/murmur) - _"murmur is a job based whisper transcription server designed for macos"_
 - [`thistle`](https://github.com/taciturnaxolotl/thistle) - _"🪻 distributed transcription service"_
 - [`scroll`](https://github.com/taciturnaxolotl/scroll) - _"anthropic sandbox for html essentially"_
 - [`cv`](https://github.com/taciturnaxolotl/cv) - _"my cv powered by latex"_
@@ -34,17 +34,17 @@ When not doing school or working on a project, I enjoy flying drones and making 
 
 ```text
 💾 Languages:
-unknown                  13m 49s   ███████████████████████░░  91.91%
-Python                   1m 13s    ███░░░░░░░░░░░░░░░░░░░░░░  8.09%
+unknown                  9m 46s   ███████████████████████░░  88.92%
+Python                   1m 13s   ███░░░░░░░░░░░░░░░░░░░░░░  11.08%
 
 💼 Projects:
-kierank                  5m 12s    █████████░░░░░░░░░░░░░░░░  34.63%
-dots                     4m 3s     ███████░░░░░░░░░░░░░░░░░░  26.97%
-The Princess Diaries 2   2m 31s    █████░░░░░░░░░░░░░░░░░░░░  16.76%
-unknown                  2m 0s     ████░░░░░░░░░░░░░░░░░░░░░  13.32%
-test.py                  1m 13s    ███░░░░░░░░░░░░░░░░░░░░░░  8.10%
+kierank                  5m 12s   ████████████░░░░░░░░░░░░░  47.42%
+The Princess Diaries 2   2m 31s   ██████░░░░░░░░░░░░░░░░░░░  22.95%
+unknown                  2m 0s    █████░░░░░░░░░░░░░░░░░░░░  18.24%
+test.py                  1m 13s   ███░░░░░░░░░░░░░░░░░░░░░░  11.09%
+multitime                2s       █░░░░░░░░░░░░░░░░░░░░░░░░  0.30%
 
-Total: 0 hrs 15 mins
+Total: 0 hrs 11 mins
 ```
 
 #### 📮 Want to Contact me?
