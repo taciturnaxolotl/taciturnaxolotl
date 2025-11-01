@@ -5,8 +5,8 @@ When not doing school or working on a project, I enjoy flying drones and making 
 #### 👷 The latest repos I've pushed to
 
 - [`dots`](https://github.com/taciturnaxolotl/dots) - _"Kieran's opinionated (and probably slightly dumb) nix config"_ **(today)**
-- [`murmur`](https://github.com/taciturnaxolotl/murmur) - _"murmur is a job based whisper transcription server designed for macos"_ **(today)**
 - [`thistle`](https://github.com/taciturnaxolotl/thistle) - _"🪻 distributed transcription service"_ **(today)**
+- [`murmur`](https://github.com/taciturnaxolotl/murmur) - _"murmur is a job based whisper transcription server designed for macos"_ **(today)**
 - [`hackatime-bot`](https://github.com/taciturnaxolotl/hackatime-bot) - _"providing password reset services in hc: circa 2025"_ **(1 week ago)**
 - [`thyme`](https://github.com/taciturnaxolotl/thyme) - _"my custom split keyboard 🫶"_ **(2 weeks ago)**
 - [`cachet`](https://github.com/taciturnaxolotl/cachet) - _"a cache for slack profile pictures and emojis"_ **(2 weeks ago)**
