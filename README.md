@@ -34,12 +34,10 @@ When not doing school or working on a project, I enjoy flying drones and making 
 
 ```text
 💾 Languages:
-unknown   1m 22s   █████████████████████████  100.00%
 
 💼 Projects:
-kierank   1m 22s   █████████████████████████  100.00%
 
-Total: 0 hrs 1 mins
+Total: 0 hrs 0 mins
 ```
 
 #### 📮 Want to Contact me?
