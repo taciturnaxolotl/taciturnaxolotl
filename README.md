@@ -4,11 +4,11 @@ When not doing school or working on a project, I enjoy flying drones and making 
 
 #### 👷 The latest repos I've pushed to
 
-- [`thistle`](https://github.com/taciturnaxolotl/thistle) - _"🪻 distributed transcription service"_ **(5 days ago)**
-- [`murmur`](https://github.com/taciturnaxolotl/murmur) - _"murmur is a job based whisper transcription server designed for macos"_ **(5 days ago)**
-- [`dots`](https://github.com/taciturnaxolotl/dots) - _"Kieran's opinionated (and probably slightly dumb) nix config"_ **(5 days ago)**
+- [`thistle`](https://github.com/taciturnaxolotl/thistle) - _"🪻 distributed transcription service"_ **(6 days ago)**
+- [`murmur`](https://github.com/taciturnaxolotl/murmur) - _"murmur is a job based whisper transcription server designed for macos"_ **(6 days ago)**
+- [`dots`](https://github.com/taciturnaxolotl/dots) - _"Kieran's opinionated (and probably slightly dumb) nix config"_ **(6 days ago)**
 - [`hackatime-bot`](https://github.com/taciturnaxolotl/hackatime-bot) - _"providing password reset services in hc: circa 2025"_ **(2 weeks ago)**
-- [`thyme`](https://github.com/taciturnaxolotl/thyme) - _"my custom split keyboard 🫶"_ **(2 weeks ago)**
+- [`thyme`](https://github.com/taciturnaxolotl/thyme) - _"my custom split keyboard 🫶"_ **(3 weeks ago)**
 - [`cachet`](https://github.com/taciturnaxolotl/cachet) - _"a cache for slack profile pictures and emojis"_ **(3 weeks ago)**
 - [`scroll`](https://github.com/taciturnaxolotl/scroll) - _"anthropic sandbox for html essentially"_ **(4 weeks ago)**
 - [`astro-cloudinary`](https://github.com/cloudinary-community/astro-cloudinary) - _"🚀 High-performance image and video delivery and uploading at scale in Astro powered by Cloudinary."_ **(1 month ago)**
@@ -22,7 +22,7 @@ When not doing school or working on a project, I enjoy flying drones and making 
 
 #### 🗒️ the latest posts from my [blog](https://dunkirk.sh)
 
-- [`Novel phishing tactic using github notifications`](https://dunkirk.sh/blog/github-phishing/) **(1 week ago)**
+- [`Novel phishing tactic using github notifications`](https://dunkirk.sh/blog/github-phishing/) **(2 weeks ago)**
 
 - [`Musings about Atuin`](https://dunkirk.sh/blog/atuin/) **(6 months ago)**
 
