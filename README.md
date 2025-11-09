@@ -4,9 +4,9 @@ When not doing school or working on a project, I enjoy flying drones and making 
 
 #### 👷 The latest repos I've pushed to
 
-- [`cachet`](https://github.com/taciturnaxolotl/cachet) - _"a cache for slack profile pictures and emojis"_ **(1 day ago)**
-- [`nixpkgs`](https://github.com/NixOS/nixpkgs) - _"Nix Packages collection & NixOS"_ **(6 days ago)**
-- [`thistle`](https://github.com/taciturnaxolotl/thistle) - _"🪻 distributed transcription service"_ **(1 week ago)**
+- [`thistle`](https://github.com/taciturnaxolotl/thistle) - _"🪻 distributed transcription service"_ **(1 day ago)**
+- [`cachet`](https://github.com/taciturnaxolotl/cachet) - _"a cache for slack profile pictures and emojis"_ **(2 days ago)**
+- [`nixpkgs`](https://github.com/NixOS/nixpkgs) - _"Nix Packages collection & NixOS"_ **(1 week ago)**
 - [`murmur`](https://github.com/taciturnaxolotl/murmur) - _"murmur is a job based whisper transcription server designed for macos"_ **(1 week ago)**
 - [`dots`](https://github.com/taciturnaxolotl/dots) - _"Kieran's opinionated (and probably slightly dumb) nix config"_ **(1 week ago)**
 - [`hackatime-bot`](https://github.com/taciturnaxolotl/hackatime-bot) - _"providing password reset services in hc: circa 2025"_ **(2 weeks ago)**
@@ -26,7 +26,7 @@ When not doing school or working on a project, I enjoy flying drones and making 
 
 - [`Musings about Atuin`](https://dunkirk.sh/blog/atuin/) **(6 months ago)**
 
-- [`Adding a copy code button`](https://dunkirk.sh/blog/adding-a-copy-button/) **(7 months ago)**
+- [`Adding a copy code button`](https://dunkirk.sh/blog/adding-a-copy-button/) **(8 months ago)**
 
 
 
