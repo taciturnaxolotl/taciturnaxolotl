@@ -2,23 +2,23 @@
 
 When not doing school or working on a project, I enjoy flying drones and making videos on my YouTube channel, [**_`The Wild Ramblings of Kieran`_**](https://youtube.com/@kieran.rambles).
 
-#### 🏗️  the latest repos I've pushed to
+#### 🏗️  The latest repos I've pushed to
 {{range recentContributions 8}}
 - [`{{.Repo.Name}}`]({{.Repo.URL}}) - _{{.Repo.Description}}_ **({{humanize .OccurredAt}})**
 {{- end}}
 
-#### 📦  my latest projects
+#### 📦  My latest projects
 {{range recentCreatedRepos "taciturnaxolotl" 4}}
 - [`{{.Name}}`]({{.URL}}) - _{{.Description}}_
 {{- end}}
 
-#### 🪧  the latest posts from [`dunkirk.sh`](https://dunkirk.sh)
+#### 🪧  The latest posts from [`dunkirk.sh`](https://dunkirk.sh)
 {{range rss "https://dunkirk.sh/rss.xml" 3}}
 - [`{{.Title}}`]({{.URL}}) **({{humanize .PublishedAt}})**
 {{end}}
 
 
-#### 📡  my [_`hackatime`_](https://waka.hackclub.com) stats from the last week
+#### 📡  My [_`hackatime`_](https://waka.hackclub.com) stats from the last week
 
 ```text
 {{ wakatimeDoubleCategoryBar "💾 Languages:" wakatimeData.Languages "💼 Projects:" wakatimeData.Projects 5 }}
@@ -26,7 +26,7 @@ When not doing school or working on a project, I enjoy flying drones and making 
 Total: {{ wakatimeData.HumanReadableTotal }}
 ```
 
-#### 📮  want to contact me?
+#### 📮  Want to contact me?
 
 ```text
 Email: me@dunkirk.sh
