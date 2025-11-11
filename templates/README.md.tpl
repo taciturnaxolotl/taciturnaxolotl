@@ -2,17 +2,17 @@
 
 When not doing school or working on a project, I enjoy flying drones and making videos on my YouTube channel, [**_`The Wild Ramblings of Kieran`_**](https://youtube.com/@kieran.rambles).
 
-#### 👷 The latest repos I've pushed to
+#### 🏗️ the latest repos I've pushed to
 {{range recentContributions 8}}
 - [`{{.Repo.Name}}`]({{.Repo.URL}}) - _{{.Repo.Description}}_ **({{humanize .OccurredAt}})**
 {{- end}}
 
-#### ⌨️ My latest projects
+#### 📦 my latest projects
 {{range recentCreatedRepos "taciturnaxolotl" 4}}
 - [`{{.Name}}`]({{.URL}}) - _{{.Description}}_
 {{- end}}
 
-#### 🗒️ the latest posts from my [blog](https://dunkirk.sh)
+#### 🪧 the latest posts from [`dunkirk.sh`](https://dunkirk.sh)
 {{range rss "https://dunkirk.sh/rss.xml" 3}}
 - [`{{.Title}}`]({{.URL}}) **({{humanize .PublishedAt}})**
 {{end}}
