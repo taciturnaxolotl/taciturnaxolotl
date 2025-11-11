@@ -2,25 +2,25 @@
 
 When not doing school or working on a project, I enjoy flying drones and making videos on my YouTube channel, [**_`The Wild Ramblings of Kieran`_**](https://youtube.com/@kieran.rambles).
 
-#### 👷 The latest repos I've pushed to
+#### 🏗️ the latest repos I've pushed to
 
 - [`thistle`](https://github.com/taciturnaxolotl/thistle) - _🪻 distributed transcription service_ **(3 days ago)**
 - [`cachet`](https://github.com/taciturnaxolotl/cachet) - _a cache for slack profile pictures and emojis_ **(4 days ago)**
 - [`nixpkgs`](https://github.com/NixOS/nixpkgs) - _Nix Packages collection & NixOS_ **(1 week ago)**
-- [`dots`](https://github.com/taciturnaxolotl/dots) - _Kieran's opinionated (and probably slightly dumb) nix config_ **(1 week ago)**
 - [`murmur`](https://github.com/taciturnaxolotl/murmur) - _murmur is a job based whisper transcription server designed for macos_ **(1 week ago)**
+- [`dots`](https://github.com/taciturnaxolotl/dots) - _Kieran's opinionated (and probably slightly dumb) nix config_ **(1 week ago)**
 - [`hackatime-bot`](https://github.com/taciturnaxolotl/hackatime-bot) - _providing password reset services in hc: circa 2025_ **(3 weeks ago)**
 - [`thyme`](https://github.com/taciturnaxolotl/thyme) - _my custom split keyboard 🫶_ **(3 weeks ago)**
 - [`scroll`](https://github.com/taciturnaxolotl/scroll) - _anthropic sandbox for html essentially_ **(1 month ago)**
 
-#### ⌨️ My latest projects
+#### 📦 my latest projects
 
 - [`murmur`](https://github.com/taciturnaxolotl/murmur) - _murmur is a job based whisper transcription server designed for macos_
 - [`thistle`](https://github.com/taciturnaxolotl/thistle) - _🪻 distributed transcription service_
 - [`scroll`](https://github.com/taciturnaxolotl/scroll) - _anthropic sandbox for html essentially_
 - [`cv`](https://github.com/taciturnaxolotl/cv) - _my cv powered by latex_
 
-#### 🗒️ the latest posts from my [blog](https://dunkirk.sh)
+#### 🪧 the latest posts from [`dunkirk.sh`](https://dunkirk.sh)
 
 - [`Novel phishing tactic using github notifications`](https://dunkirk.sh/blog/github-phishing/) **(2 weeks ago)**
 
