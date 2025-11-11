@@ -2,7 +2,7 @@
 
 When not doing school or working on a project, I enjoy flying drones and making videos on my YouTube channel, [**_`The Wild Ramblings of Kieran`_**](https://youtube.com/@kieran.rambles).
 
-#### 🏗️  the latest repos I've pushed to
+#### 🏗️  The latest repos I've pushed to
 
 - [`thistle`](https://github.com/taciturnaxolotl/thistle) - _🪻 distributed transcription service_ **(3 days ago)**
 - [`cachet`](https://github.com/taciturnaxolotl/cachet) - _a cache for slack profile pictures and emojis_ **(4 days ago)**
@@ -13,14 +13,14 @@ When not doing school or working on a project, I enjoy flying drones and making 
 - [`thyme`](https://github.com/taciturnaxolotl/thyme) - _my custom split keyboard 🫶_ **(3 weeks ago)**
 - [`scroll`](https://github.com/taciturnaxolotl/scroll) - _anthropic sandbox for html essentially_ **(1 month ago)**
 
-#### 📦  my latest projects
+#### 📦  My latest projects
 
 - [`murmur`](https://github.com/taciturnaxolotl/murmur) - _murmur is a job based whisper transcription server designed for macos_
 - [`thistle`](https://github.com/taciturnaxolotl/thistle) - _🪻 distributed transcription service_
 - [`scroll`](https://github.com/taciturnaxolotl/scroll) - _anthropic sandbox for html essentially_
 - [`cv`](https://github.com/taciturnaxolotl/cv) - _my cv powered by latex_
 
-#### 🪧  the latest posts from [`dunkirk.sh`](https://dunkirk.sh)
+#### 🪧  The latest posts from [`dunkirk.sh`](https://dunkirk.sh)
 
 - [`Novel phishing tactic using github notifications`](https://dunkirk.sh/blog/github-phishing/) **(2 weeks ago)**
 
@@ -30,7 +30,7 @@ When not doing school or working on a project, I enjoy flying drones and making 
 
 
 
-#### 📡  my [_`hackatime`_](https://waka.hackclub.com) stats from the last week
+#### 📡  My [_`hackatime`_](https://waka.hackclub.com) stats from the last week
 
 ```text
 💾 Languages:
@@ -50,7 +50,7 @@ nala-sources.list   6s        █░░░░░░░░░░░░░░░�
 Total: 0 hrs 27 mins
 ```
 
-#### 📮  want to contact me?
+#### 📮  Want to contact me?
 
 ```text
 Email: me@dunkirk.sh
