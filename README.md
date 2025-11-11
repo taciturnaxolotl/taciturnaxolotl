@@ -15,10 +15,10 @@ When not doing school or working on a project, I enjoy flying drones and making 
 
 #### ⌨️ My latest projects
 
-- [`murmur`](https://github.com/taciturnaxolotl/murmur) - _"murmur is a job based whisper transcription server designed for macos"_
-- [`thistle`](https://github.com/taciturnaxolotl/thistle) - _"🪻 distributed transcription service"_
-- [`scroll`](https://github.com/taciturnaxolotl/scroll) - _"anthropic sandbox for html essentially"_
-- [`cv`](https://github.com/taciturnaxolotl/cv) - _"my cv powered by latex"_
+- [`murmur`](https://github.com/taciturnaxolotl/murmur) - _murmur is a job based whisper transcription server designed for macos_
+- [`thistle`](https://github.com/taciturnaxolotl/thistle) - _🪻 distributed transcription service_
+- [`scroll`](https://github.com/taciturnaxolotl/scroll) - _anthropic sandbox for html essentially_
+- [`cv`](https://github.com/taciturnaxolotl/cv) - _my cv powered by latex_
 
 #### 🗒️ the latest posts from my [blog](https://dunkirk.sh)
 
@@ -50,7 +50,7 @@ nala-sources.list   6s        █░░░░░░░░░░░░░░░�
 Total: 0 hrs 27 mins
 ```
 
-#### 📮 Want to Contact me?
+#### 📮 Want to contact me?
 
 ```text
 Email: me@dunkirk.sh
