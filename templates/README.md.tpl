@@ -9,7 +9,7 @@ When not doing school or working on a project, I enjoy flying drones and making 
 
 #### ⌨️ My latest projects
 {{range recentCreatedRepos "taciturnaxolotl" 4}}
-- [`{{.Name}}`]({{.URL}}) - _"{{.Description}}"_
+- [`{{.Name}}`]({{.URL}}) - _{{.Description}}_
 {{- end}}
 
 #### 🗒️ the latest posts from my [blog](https://dunkirk.sh)
@@ -26,7 +26,7 @@ When not doing school or working on a project, I enjoy flying drones and making 
 Total: {{ wakatimeData.HumanReadableTotal }}
 ```
 
-#### 📮 Want to Contact me?
+#### 📮 Want to contact me?
 
 ```text
 Email: me@dunkirk.sh
