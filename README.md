@@ -4,21 +4,21 @@ When not doing school or working on a project, I enjoy flying drones and making 
 
 #### 🏗️  The latest repos I've pushed to
 
-- [`thyme`](https://github.com/taciturnaxolotl/thyme) - _my custom split keyboard 🫶_ **(today)**
+- [`homebrew-tap`](https://github.com/taciturnaxolotl/homebrew-tap) - _🍺 my projects on tap_ **(today)**
 - [`murmur`](https://github.com/taciturnaxolotl/murmur) - _murmur is a job based whisper transcription server designed for macos_ **(today)**
-- [`zera`](https://github.com/taciturnaxolotl/zera) - _my new site v4?_ **(1 day ago)**
+- [`thyme`](https://github.com/taciturnaxolotl/thyme) - _my custom split keyboard 🫶_ **(today)**
 - [`dots`](https://github.com/taciturnaxolotl/dots) - _Kieran's opinionated (and probably slightly dumb) nix config_ **(1 day ago)**
+- [`zera`](https://github.com/taciturnaxolotl/zera) - _my new site v4?_ **(1 day ago)**
 - [`cv`](https://github.com/taciturnaxolotl/cv) - _my cv powered by latex_ **(1 day ago)**
 - [`thistle`](https://github.com/taciturnaxolotl/thistle) - _🪻 distributed transcription service_ **(4 days ago)**
 - [`cachet`](https://github.com/taciturnaxolotl/cachet) - _a cache for slack profile pictures and emojis_ **(5 days ago)**
-- [`nixpkgs`](https://github.com/NixOS/nixpkgs) - _Nix Packages collection & NixOS_ **(1 week ago)**
 
 #### 📦  My latest projects
 
+- [`homebrew-tap`](https://github.com/taciturnaxolotl/homebrew-tap) - _🍺 my projects on tap_
 - [`murmur`](https://github.com/taciturnaxolotl/murmur) - _murmur is a job based whisper transcription server designed for macos_
 - [`thistle`](https://github.com/taciturnaxolotl/thistle) - _🪻 distributed transcription service_
 - [`scroll`](https://github.com/taciturnaxolotl/scroll) - _anthropic sandbox for html essentially_
-- [`cv`](https://github.com/taciturnaxolotl/cv) - _my cv powered by latex_
 
 #### 🪧  The latest posts from [`dunkirk.sh`](https://dunkirk.sh)
 
