@@ -4,10 +4,10 @@ When not doing school or working on a project, I enjoy flying drones and making 
 
 #### 🏗️  The latest repos I've pushed to
 
-- [`zera`](https://github.com/taciturnaxolotl/zera) - _my new site v4?_ **(today)**
-- [`dots`](https://github.com/taciturnaxolotl/dots) - _Kieran's opinionated (and probably slightly dumb) nix config_ **(today)**
-- [`thistle`](https://github.com/taciturnaxolotl/thistle) - _🪻 distributed transcription service_ **(3 days ago)**
-- [`cachet`](https://github.com/taciturnaxolotl/cachet) - _a cache for slack profile pictures and emojis_ **(4 days ago)**
+- [`zera`](https://github.com/taciturnaxolotl/zera) - _my new site v4?_ **(1 day ago)**
+- [`dots`](https://github.com/taciturnaxolotl/dots) - _Kieran's opinionated (and probably slightly dumb) nix config_ **(1 day ago)**
+- [`thistle`](https://github.com/taciturnaxolotl/thistle) - _🪻 distributed transcription service_ **(4 days ago)**
+- [`cachet`](https://github.com/taciturnaxolotl/cachet) - _a cache for slack profile pictures and emojis_ **(5 days ago)**
 - [`nixpkgs`](https://github.com/NixOS/nixpkgs) - _Nix Packages collection & NixOS_ **(1 week ago)**
 - [`murmur`](https://github.com/taciturnaxolotl/murmur) - _murmur is a job based whisper transcription server designed for macos_ **(1 week ago)**
 - [`hackatime-bot`](https://github.com/taciturnaxolotl/hackatime-bot) - _providing password reset services in hc: circa 2025_ **(3 weeks ago)**
