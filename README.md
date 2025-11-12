@@ -4,8 +4,8 @@ When not doing school or working on a project, I enjoy flying drones and making 
 
 #### 🏗️  The latest repos I've pushed to
 
-- [`homebrew-tap`](https://github.com/taciturnaxolotl/homebrew-tap) - _🍺 my projects on tap_ **(today)**
 - [`murmur`](https://github.com/taciturnaxolotl/murmur) - _murmur is a job based whisper transcription server designed for macos_ **(today)**
+- [`homebrew-tap`](https://github.com/taciturnaxolotl/homebrew-tap) - _🍺 my projects on tap_ **(today)**
 - [`thyme`](https://github.com/taciturnaxolotl/thyme) - _my custom split keyboard 🫶_ **(today)**
 - [`dots`](https://github.com/taciturnaxolotl/dots) - _Kieran's opinionated (and probably slightly dumb) nix config_ **(1 day ago)**
 - [`zera`](https://github.com/taciturnaxolotl/zera) - _my new site v4?_ **(1 day ago)**
