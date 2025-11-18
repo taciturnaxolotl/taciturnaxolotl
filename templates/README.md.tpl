@@ -1,6 +1,6 @@
-### ✌️ Hi! I'm a 17-year-old homeschooled programmer/wannabe hardware guy!
+### Hi! I'm a 17-year-old CE/Cyber nerd!
 
-When not doing school or working on a project, I enjoy flying drones and making videos on my YouTube channel, [**_`The Wild Ramblings of Kieran`_**](https://youtube.com/@kieran.rambles).
+When not doing school or working on a random project, I enjoy flying drones and competing in CTFs!
 
 #### 🏗️  The latest repos I've pushed to
 {{range recentContributions 8}}
