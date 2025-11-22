@@ -15,7 +15,7 @@ When not doing school or working on a random project, I enjoy flying drones and 
 #### 🪧  The latest posts from [`dunkirk.sh`](https://dunkirk.sh)
 {{range rss "https://dunkirk.sh/rss.xml" 3}}
 - [`{{.Title}}`]({{.URL}}) **({{humanize .PublishedAt}})**
-{{end}}
+{{- end}}
 
 #### 📡  My [_`hackatime`_](https://waka.hackclub.com) stats from this week
 
