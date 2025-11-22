@@ -17,7 +17,6 @@ When not doing school or working on a random project, I enjoy flying drones and 
 - [`{{.Title}}`]({{.URL}}) **({{humanize .PublishedAt}})**
 {{end}}
 
-
 #### 📡  My [_`hackatime`_](https://waka.hackclub.com) stats from this week
 
 ```text
