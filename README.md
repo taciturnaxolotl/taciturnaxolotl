@@ -4,10 +4,10 @@ When not doing school or working on a random project, I enjoy flying drones and 
 
 #### 🏗️  The latest repos I've pushed to
 
+- [`dots`](https://github.com/taciturnaxolotl/dots) - _Kieran's opinionated (and probably slightly dumb) nix config_ **(today)**
 - [`thistle`](https://github.com/taciturnaxolotl/thistle) - _🪻 distributed transcription service_ **(1 day ago)**
 - [`echelon`](https://github.com/taciturnaxolotl/echelon) - _why is there a volley ball on my head? honestly i'm asking the same question_ **(1 day ago)**
 - [`murmur`](https://github.com/taciturnaxolotl/murmur) - _murmur is a job based whisper transcription server designed for macos_ **(2 days ago)**
-- [`dots`](https://github.com/taciturnaxolotl/dots) - _Kieran's opinionated (and probably slightly dumb) nix config_ **(2 days ago)**
 - [`homebrew-tap`](https://github.com/taciturnaxolotl/homebrew-tap) - _🍺 my projects on tap_ **(2 days ago)**
 - [`zera`](https://github.com/taciturnaxolotl/zera) - _my new site v4?_ **(1 week ago)**
 - [`thyme`](https://github.com/taciturnaxolotl/thyme) - _my custom split keyboard 🫶_ **(1 week ago)**
