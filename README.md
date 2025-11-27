@@ -4,14 +4,14 @@ When not doing school or working on a random project, I enjoy flying drones and 
 
 #### 🏗️  The latest repos I've pushed to
 
-- [`irc-slack-bridge`](https://github.com/taciturnaxolotl/irc-slack-bridge) - _best bridge out there imho_ **(today)**
-- [`cachet`](https://github.com/taciturnaxolotl/cachet) - _a cache for slack profile pictures and emojis_ **(today)**
-- [`tacy-irc-bot`](https://github.com/taciturnaxolotl/tacy-irc-bot) - _the little dino terror of irc_ **(1 day ago)**
-- [`dots`](https://github.com/taciturnaxolotl/dots) - _Kieran's opinionated (and probably slightly dumb) nix config_ **(2 days ago)**
-- [`thistle`](https://github.com/taciturnaxolotl/thistle) - _🪻 distributed transcription service_ **(3 days ago)**
-- [`echelon`](https://github.com/taciturnaxolotl/echelon) - _why is there a volley ball on my head? honestly i'm asking the same question_ **(3 days ago)**
-- [`homebrew-tap`](https://github.com/taciturnaxolotl/homebrew-tap) - _🍺 my projects on tap_ **(4 days ago)**
-- [`murmur`](https://github.com/taciturnaxolotl/murmur) - _murmur is a job based whisper transcription server designed for macos_ **(4 days ago)**
+- [`irc-slack-bridge`](https://github.com/taciturnaxolotl/irc-slack-bridge) - _best bridge out there imho_ **(1 day ago)**
+- [`cachet`](https://github.com/taciturnaxolotl/cachet) - _a cache for slack profile pictures and emojis_ **(1 day ago)**
+- [`tacy-irc-bot`](https://github.com/taciturnaxolotl/tacy-irc-bot) - _the little dino terror of irc_ **(2 days ago)**
+- [`dots`](https://github.com/taciturnaxolotl/dots) - _Kieran's opinionated (and probably slightly dumb) nix config_ **(3 days ago)**
+- [`thistle`](https://github.com/taciturnaxolotl/thistle) - _🪻 distributed transcription service_ **(4 days ago)**
+- [`echelon`](https://github.com/taciturnaxolotl/echelon) - _why is there a volley ball on my head? honestly i'm asking the same question_ **(4 days ago)**
+- [`homebrew-tap`](https://github.com/taciturnaxolotl/homebrew-tap) - _🍺 my projects on tap_ **(5 days ago)**
+- [`murmur`](https://github.com/taciturnaxolotl/murmur) - _murmur is a job based whisper transcription server designed for macos_ **(5 days ago)**
 
 #### 📦  My latest projects
 
