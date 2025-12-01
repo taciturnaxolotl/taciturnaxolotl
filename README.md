@@ -4,14 +4,14 @@ When not doing school or working on a random project, I enjoy flying drones and 
 
 #### 🏗️  The latest repos I've pushed to
 
-- [`dots`](https://github.com/taciturnaxolotl/dots) - _Kieran's opinionated (and probably slightly dumb) nix config_ **(today)**
-- [`thyme-module`](https://github.com/taciturnaxolotl/thyme-module) - _the zmk module for thyme_ **(today)**
-- [`hn-alerts`](https://github.com/taciturnaxolotl/hn-alerts) - _a bot to track your hackernews posts!_ **(3 days ago)**
-- [`cachet`](https://github.com/taciturnaxolotl/cachet) - _a cache for slack profile pictures and emojis_ **(3 days ago)**
-- [`irc-slack-bridge`](https://github.com/taciturnaxolotl/irc-slack-bridge) - _best bridge out there imho_ **(4 days ago)**
-- [`tacy-irc-bot`](https://github.com/taciturnaxolotl/tacy-irc-bot) - _the little dino terror of irc_ **(5 days ago)**
+- [`dots`](https://github.com/taciturnaxolotl/dots) - _Kieran's opinionated (and probably slightly dumb) nix config_ **(1 day ago)**
+- [`thistle`](https://github.com/taciturnaxolotl/thistle) - _🪻 distributed transcription service_ **(1 day ago)**
+- [`thyme-module`](https://github.com/taciturnaxolotl/thyme-module) - _the zmk module for thyme_ **(1 day ago)**
+- [`cachet`](https://github.com/taciturnaxolotl/cachet) - _a cache for slack profile pictures and emojis_ **(4 days ago)**
+- [`hn-alerts`](https://github.com/taciturnaxolotl/hn-alerts) - _a bot to track your hackernews posts!_ **(4 days ago)**
+- [`irc-slack-bridge`](https://github.com/taciturnaxolotl/irc-slack-bridge) - _best bridge out there imho_ **(5 days ago)**
+- [`tacy-irc-bot`](https://github.com/taciturnaxolotl/tacy-irc-bot) - _the little dino terror of irc_ **(6 days ago)**
 - [`echelon`](https://github.com/taciturnaxolotl/echelon) - _why is there a volley ball on my head? honestly i'm asking the same question_ **(1 week ago)**
-- [`thistle`](https://github.com/taciturnaxolotl/thistle) - _🪻 distributed transcription service_ **(1 week ago)**
 
 #### 📦  My latest projects
 
