@@ -4,9 +4,9 @@ When not doing school or working on a random project, I enjoy flying drones and 
 
 #### 🏗️  The latest repos I've pushed to
 
-- [`battleship-arena`](https://github.com/taciturnaxolotl/battleship-arena) - __ **(today)**
 - [`dots`](https://github.com/taciturnaxolotl/dots) - _Kieran's opinionated (and probably slightly dumb) nix config_ **(today)**
 - [`aoc-2025`](https://github.com/taciturnaxolotl/aoc-2025) - _advent of code 2025 in ts and nix_ **(today)**
+- [`battleship-arena`](https://github.com/taciturnaxolotl/battleship-arena) - __ **(today)**
 - [`thistle`](https://github.com/taciturnaxolotl/thistle) - _🪻 distributed transcription service_ **(2 days ago)**
 - [`thyme-module`](https://github.com/taciturnaxolotl/thyme-module) - _the zmk module for thyme_ **(2 days ago)**
 - [`cachet`](https://github.com/taciturnaxolotl/cachet) - _a cache for slack profile pictures and emojis_ **(5 days ago)**
