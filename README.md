@@ -4,21 +4,21 @@ When not doing school or working on a random project, I enjoy flying drones and 
 
 #### 🏗️  The latest repos I've pushed to
 
-- [`aoc-2025`](https://github.com/taciturnaxolotl/aoc-2025) - _advent of code 2025 in ts and nix_ **(today)**
-- [`dots`](https://github.com/taciturnaxolotl/dots) - _Kieran's opinionated (and probably slightly dumb) nix config_ **(today)**
-- [`battleship-arena`](https://github.com/taciturnaxolotl/battleship-arena) - __ **(today)**
-- [`thyme-module`](https://github.com/taciturnaxolotl/thyme-module) - _the zmk module for thyme_ **(3 days ago)**
-- [`thistle`](https://github.com/taciturnaxolotl/thistle) - _🪻 distributed transcription service_ **(3 days ago)**
-- [`hn-alerts`](https://github.com/taciturnaxolotl/hn-alerts) - _a bot to track your hackernews posts!_ **(6 days ago)**
-- [`cachet`](https://github.com/taciturnaxolotl/cachet) - _a cache for slack profile pictures and emojis_ **(6 days ago)**
+- [`aoc-2025`](https://github.com/taciturnaxolotl/aoc-2025) - _advent of code 2025 in ts and nix_ **(1 day ago)**
+- [`dots`](https://github.com/taciturnaxolotl/dots) - _Kieran's opinionated (and probably slightly dumb) nix config_ **(1 day ago)**
+- [`battleship-arena`](https://github.com/taciturnaxolotl/battleship-arena) - __ **(1 day ago)**
+- [`thyme-module`](https://github.com/taciturnaxolotl/thyme-module) - _the zmk module for thyme_ **(4 days ago)**
+- [`thistle`](https://github.com/taciturnaxolotl/thistle) - _🪻 distributed transcription service_ **(4 days ago)**
+- [`hn-alerts`](https://github.com/taciturnaxolotl/hn-alerts) - _a bot to track your hackernews posts!_ **(1 week ago)**
+- [`cachet`](https://github.com/taciturnaxolotl/cachet) - _a cache for slack profile pictures and emojis_ **(1 week ago)**
 - [`irc-slack-bridge`](https://github.com/taciturnaxolotl/irc-slack-bridge) - _best bridge out there imho_ **(1 week ago)**
 
 #### 📦  My latest projects
 
+- [`paper-crown`](https://github.com/taciturnaxolotl/paper-crown) - __
 - [`battleship-arena`](https://github.com/taciturnaxolotl/battleship-arena) - __
 - [`aoc-2025`](https://github.com/taciturnaxolotl/aoc-2025) - _advent of code 2025 in ts and nix_
 - [`irc-slack-bridge`](https://github.com/taciturnaxolotl/irc-slack-bridge) - _best bridge out there imho_
-- [`tacy-irc-bot`](https://github.com/taciturnaxolotl/tacy-irc-bot) - _the little dino terror of irc_
 
 #### 🪧  The latest posts from [`dunkirk.sh`](https://dunkirk.sh)
 
