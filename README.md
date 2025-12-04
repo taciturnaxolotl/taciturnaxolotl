@@ -15,10 +15,10 @@ When not doing school or working on a random project, I enjoy flying drones and 
 
 #### 📦  My latest projects
 
+- [`ncae-tools`](https://github.com/taciturnaxolotl/ncae-tools) - __
 - [`paper-crown`](https://github.com/taciturnaxolotl/paper-crown) - __
 - [`battleship-arena`](https://github.com/taciturnaxolotl/battleship-arena) - __
 - [`aoc-2025`](https://github.com/taciturnaxolotl/aoc-2025) - _advent of code 2025 in ts and nix_
-- [`irc-slack-bridge`](https://github.com/taciturnaxolotl/irc-slack-bridge) - _best bridge out there imho_
 
 #### 🪧  The latest posts from [`dunkirk.sh`](https://dunkirk.sh)
 
