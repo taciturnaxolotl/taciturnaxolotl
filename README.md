@@ -4,20 +4,20 @@ When not doing school or working on a random project, I enjoy flying drones and 
 
 #### 🏗️  The latest repos I've pushed to
 
-- [`aoc-2025`](https://github.com/taciturnaxolotl/aoc-2025) - _advent of code 2025 in ts and nix_ **(1 day ago)**
 - [`dots`](https://github.com/taciturnaxolotl/dots) - _Kieran's opinionated (and probably slightly dumb) nix config_ **(1 day ago)**
-- [`ncae-tools`](https://github.com/taciturnaxolotl/ncae-tools) - __ **(1 day ago)**
-- [`paper-crown`](https://github.com/taciturnaxolotl/paper-crown) - __ **(2 days ago)**
-- [`battleship-arena`](https://github.com/taciturnaxolotl/battleship-arena) - __ **(2 days ago)**
-- [`thistle`](https://github.com/taciturnaxolotl/thistle) - _🪻 distributed transcription service_ **(5 days ago)**
+- [`aoc-2025`](https://github.com/taciturnaxolotl/aoc-2025) - _advent of code 2025 in ts and nix_ **(1 day ago)**
+- [`ncae-tools`](https://github.com/taciturnaxolotl/ncae-tools) - _writeups for ncae cybergames 2025_ **(1 day ago)**
+- [`battleship-arena`](https://github.com/taciturnaxolotl/battleship-arena) - _a geicko-2 based round robin ranking system designed to test c++ battleship submissions_ **(2 days ago)**
+- [`paper-crown`](https://github.com/taciturnaxolotl/paper-crown) - _minecraft exploit testbed_ **(2 days ago)**
 - [`thyme-module`](https://github.com/taciturnaxolotl/thyme-module) - _the zmk module for thyme_ **(5 days ago)**
+- [`thistle`](https://github.com/taciturnaxolotl/thistle) - _🪻 distributed transcription service_ **(5 days ago)**
 - [`cachet`](https://github.com/taciturnaxolotl/cachet) - _a cache for slack profile pictures and emojis_ **(1 week ago)**
 
 #### 📦  My latest projects
 
-- [`ncae-tools`](https://github.com/taciturnaxolotl/ncae-tools) - __
-- [`paper-crown`](https://github.com/taciturnaxolotl/paper-crown) - __
-- [`battleship-arena`](https://github.com/taciturnaxolotl/battleship-arena) - __
+- [`ncae-tools`](https://github.com/taciturnaxolotl/ncae-tools) - _writeups for ncae cybergames 2025_
+- [`paper-crown`](https://github.com/taciturnaxolotl/paper-crown) - _minecraft exploit testbed_
+- [`battleship-arena`](https://github.com/taciturnaxolotl/battleship-arena) - _a geicko-2 based round robin ranking system designed to test c++ battleship submissions_
 - [`aoc-2025`](https://github.com/taciturnaxolotl/aoc-2025) - _advent of code 2025 in ts and nix_
 
 #### 🪧  The latest posts from [`dunkirk.sh`](https://dunkirk.sh)
