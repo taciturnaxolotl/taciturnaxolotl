@@ -4,8 +4,8 @@ When not doing school or working on a random project, I enjoy flying drones and 
 
 #### 🏗️  The latest repos I've pushed to
 
+- [`aoc-2025`](https://github.com/taciturnaxolotl/aoc-2025) - _advent of code 2025 in ts and nix_ **(today)**
 - [`filter-college-spam`](https://github.com/taciturnaxolotl/filter-college-spam) - __ **(today)**
-- [`aoc-2025`](https://github.com/taciturnaxolotl/aoc-2025) - _advent of code 2025 in ts and nix_ **(1 day ago)**
 - [`battleship-arena`](https://github.com/taciturnaxolotl/battleship-arena) - _a geicko-2 based round robin ranking system designed to test c++ battleship submissions_ **(1 day ago)**
 - [`dots`](https://github.com/taciturnaxolotl/dots) - _Kieran's opinionated (and probably slightly dumb) nix config_ **(1 day ago)**
 - [`ncae-tools`](https://github.com/taciturnaxolotl/ncae-tools) - _writeups for ncae cybergames 2025_ **(3 days ago)**
