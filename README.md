@@ -4,9 +4,9 @@ When not doing school or working on a random project, I enjoy flying drones and 
 
 #### 🏗️  The latest repos I've pushed to
 
+- [`hop`](https://github.com/taciturnaxolotl/hop) - __ **(today)**
 - [`dots`](https://github.com/taciturnaxolotl/dots) - _Kieran's opinionated (and probably slightly dumb) nix config_ **(today)**
 - [`aoc-2025`](https://github.com/taciturnaxolotl/aoc-2025) - _advent of code 2025 in ts and nix_ **(today)**
-- [`hop`](https://github.com/taciturnaxolotl/hop) - __ **(today)**
 - [`crush`](https://github.com/charmbracelet/crush) - _The glamourous AI coding agent for your favourite terminal 💘_ **(1 day ago)**
 - [`filter-college-spam`](https://github.com/taciturnaxolotl/filter-college-spam) - __ **(1 day ago)**
 - [`zera`](https://github.com/taciturnaxolotl/zera) - _my new site v4?_ **(2 days ago)**
