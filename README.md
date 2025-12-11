@@ -4,21 +4,21 @@ When not doing school or working on a random project, I enjoy flying drones and 
 
 #### 🏗️  The latest repos I've pushed to
 
-- [`hop`](https://github.com/taciturnaxolotl/hop) - __ **(today)**
 - [`dots`](https://github.com/taciturnaxolotl/dots) - _Kieran's opinionated (and probably slightly dumb) nix config_ **(today)**
+- [`indiko`](https://github.com/taciturnaxolotl/indiko) - __ **(today)**
 - [`aoc-2025`](https://github.com/taciturnaxolotl/aoc-2025) - _advent of code 2025 in ts and nix_ **(today)**
+- [`hop`](https://github.com/taciturnaxolotl/hop) - __ **(today)**
 - [`crush`](https://github.com/charmbracelet/crush) - _The glamourous AI coding agent for your favourite terminal 💘_ **(1 day ago)**
 - [`filter-college-spam`](https://github.com/taciturnaxolotl/filter-college-spam) - __ **(1 day ago)**
-- [`zera`](https://github.com/taciturnaxolotl/zera) - _my new site v4?_ **(2 days ago)**
 - [`cachet`](https://github.com/taciturnaxolotl/cachet) - _a cache for slack profile pictures and emojis_ **(2 days ago)**
-- [`battleship-arena`](https://github.com/taciturnaxolotl/battleship-arena) - _a geicko-2 based round robin ranking system designed to test c++ battleship submissions_ **(3 days ago)**
+- [`zera`](https://github.com/taciturnaxolotl/zera) - _my new site v4?_ **(2 days ago)**
 
 #### 📦  My latest projects
 
+- [`indiko`](https://github.com/taciturnaxolotl/indiko) - __
 - [`hop`](https://github.com/taciturnaxolotl/hop) - __
 - [`filter-college-spam`](https://github.com/taciturnaxolotl/filter-college-spam) - __
 - [`ncae-tools`](https://github.com/taciturnaxolotl/ncae-tools) - _writeups for ncae cybergames 2025_
-- [`paper-crown`](https://github.com/taciturnaxolotl/paper-crown) - _minecraft exploit testbed_
 
 #### 🪧  The latest posts from [`dunkirk.sh`](https://dunkirk.sh)
 
