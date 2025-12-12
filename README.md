@@ -4,14 +4,14 @@ When not doing school or working on a random project, I enjoy flying drones and 
 
 #### 🏗️  The latest repos I've pushed to
 
-- [`dots`](https://github.com/taciturnaxolotl/dots) - _Kieran's opinionated (and probably slightly dumb) nix config_ **(today)**
-- [`indiko`](https://github.com/taciturnaxolotl/indiko) - __ **(today)**
-- [`aoc-2025`](https://github.com/taciturnaxolotl/aoc-2025) - _advent of code 2025 in ts and nix_ **(today)**
-- [`hop`](https://github.com/taciturnaxolotl/hop) - __ **(today)**
-- [`crush`](https://github.com/charmbracelet/crush) - _The glamourous AI coding agent for your favourite terminal 💘_ **(1 day ago)**
-- [`filter-college-spam`](https://github.com/taciturnaxolotl/filter-college-spam) - __ **(1 day ago)**
-- [`cachet`](https://github.com/taciturnaxolotl/cachet) - _a cache for slack profile pictures and emojis_ **(2 days ago)**
-- [`zera`](https://github.com/taciturnaxolotl/zera) - _my new site v4?_ **(2 days ago)**
+- [`dots`](https://github.com/taciturnaxolotl/dots) - _Kieran's opinionated (and probably slightly dumb) nix config_ **(1 day ago)**
+- [`indiko`](https://github.com/taciturnaxolotl/indiko) - __ **(1 day ago)**
+- [`aoc-2025`](https://github.com/taciturnaxolotl/aoc-2025) - _advent of code 2025 in ts and nix_ **(1 day ago)**
+- [`hop`](https://github.com/taciturnaxolotl/hop) - __ **(1 day ago)**
+- [`crush`](https://github.com/charmbracelet/crush) - _The glamourous AI coding agent for your favourite terminal 💘_ **(2 days ago)**
+- [`filter-college-spam`](https://github.com/taciturnaxolotl/filter-college-spam) - __ **(2 days ago)**
+- [`cachet`](https://github.com/taciturnaxolotl/cachet) - _a cache for slack profile pictures and emojis_ **(3 days ago)**
+- [`zera`](https://github.com/taciturnaxolotl/zera) - _my new site v4?_ **(3 days ago)**
 
 #### 📦  My latest projects
 
