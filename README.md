@@ -4,14 +4,14 @@ When not doing school or working on a random project, I enjoy flying drones and 
 
 #### 🏗️  The latest repos I've pushed to
 
-- [`hop`](https://github.com/taciturnaxolotl/hop) - __ **(1 day ago)**
-- [`dots`](https://github.com/taciturnaxolotl/dots) - _Kieran's opinionated (and probably slightly dumb) nix config_ **(1 day ago)**
-- [`filter-college-spam`](https://github.com/taciturnaxolotl/filter-college-spam) - __ **(1 day ago)**
-- [`tacy-stack`](https://github.com/taciturnaxolotl/tacy-stack) - __ **(2 days ago)**
-- [`aoc-2025`](https://github.com/taciturnaxolotl/aoc-2025) - _advent of code 2025 in ts and nix_ **(2 days ago)**
-- [`indiko`](https://github.com/taciturnaxolotl/indiko) - __ **(2 days ago)**
-- [`crush`](https://github.com/charmbracelet/crush) - _The glamourous AI coding agent for your favourite terminal 💘_ **(3 days ago)**
-- [`cachet`](https://github.com/taciturnaxolotl/cachet) - _a cache for slack profile pictures and emojis_ **(4 days ago)**
+- [`hop`](https://github.com/taciturnaxolotl/hop) - __ **(2 days ago)**
+- [`dots`](https://github.com/taciturnaxolotl/dots) - _Kieran's opinionated (and probably slightly dumb) nix config_ **(2 days ago)**
+- [`filter-college-spam`](https://github.com/taciturnaxolotl/filter-college-spam) - __ **(2 days ago)**
+- [`tacy-stack`](https://github.com/taciturnaxolotl/tacy-stack) - __ **(3 days ago)**
+- [`aoc-2025`](https://github.com/taciturnaxolotl/aoc-2025) - _advent of code 2025 in ts and nix_ **(3 days ago)**
+- [`indiko`](https://github.com/taciturnaxolotl/indiko) - __ **(3 days ago)**
+- [`crush`](https://github.com/charmbracelet/crush) - _The glamourous AI coding agent for your favourite terminal 💘_ **(4 days ago)**
+- [`cachet`](https://github.com/taciturnaxolotl/cachet) - _a cache for slack profile pictures and emojis_ **(5 days ago)**
 
 #### 📦  My latest projects
 
