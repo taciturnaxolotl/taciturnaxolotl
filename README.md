@@ -15,10 +15,10 @@ When not doing school or working on a random project, I enjoy flying drones and 
 
 #### 📦  My latest projects
 
+- [`haxmas-d2`](https://github.com/taciturnaxolotl/haxmas-d2) - __
 - [`haxmas-d1`](https://github.com/taciturnaxolotl/haxmas-d1) - _https://splendorous-llama-95a309.netlify.app/_
 - [`tacy-stack`](https://github.com/taciturnaxolotl/tacy-stack) - __
 - [`indiko`](https://github.com/taciturnaxolotl/indiko) - __
-- [`hop`](https://github.com/taciturnaxolotl/hop) - __
 
 #### 🪧  The latest posts from [`dunkirk.sh`](https://dunkirk.sh)
 
