@@ -4,14 +4,14 @@ When not doing school or working on a random project, I enjoy flying drones and 
 
 #### 🏗️  The latest repos I've pushed to
 
-- [`filter-college-spam`](https://github.com/taciturnaxolotl/filter-college-spam) - __ **(today)**
-- [`indiko`](https://github.com/taciturnaxolotl/indiko) - __ **(today)**
-- [`haxmas-d2`](https://github.com/taciturnaxolotl/haxmas-d2) - _a little pcb tree!_ **(1 day ago)**
-- [`haxmas-d1`](https://github.com/taciturnaxolotl/haxmas-d1) - _https://splendorous-llama-95a309.netlify.app/_ **(2 days ago)**
-- [`hop`](https://github.com/taciturnaxolotl/hop) - __ **(3 days ago)**
-- [`dots`](https://github.com/taciturnaxolotl/dots) - _Kieran's opinionated (and probably slightly dumb) nix config_ **(3 days ago)**
-- [`aoc-2025`](https://github.com/taciturnaxolotl/aoc-2025) - _advent of code 2025 in ts and nix_ **(4 days ago)**
-- [`tacy-stack`](https://github.com/taciturnaxolotl/tacy-stack) - __ **(4 days ago)**
+- [`filter-college-spam`](https://github.com/taciturnaxolotl/filter-college-spam) - __ **(1 day ago)**
+- [`indiko`](https://github.com/taciturnaxolotl/indiko) - __ **(1 day ago)**
+- [`haxmas-d2`](https://github.com/taciturnaxolotl/haxmas-d2) - _a little pcb tree!_ **(2 days ago)**
+- [`haxmas-d1`](https://github.com/taciturnaxolotl/haxmas-d1) - _https://splendorous-llama-95a309.netlify.app/_ **(3 days ago)**
+- [`hop`](https://github.com/taciturnaxolotl/hop) - __ **(4 days ago)**
+- [`dots`](https://github.com/taciturnaxolotl/dots) - _Kieran's opinionated (and probably slightly dumb) nix config_ **(4 days ago)**
+- [`aoc-2025`](https://github.com/taciturnaxolotl/aoc-2025) - _advent of code 2025 in ts and nix_ **(5 days ago)**
+- [`tacy-stack`](https://github.com/taciturnaxolotl/tacy-stack) - __ **(5 days ago)**
 
 #### 📦  My latest projects
 
