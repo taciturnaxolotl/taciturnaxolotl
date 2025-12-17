@@ -4,14 +4,14 @@ When not doing school or working on a random project, I enjoy flying drones and 
 
 #### 🏗️  The latest repos I've pushed to
 
+- [`neon`](https://github.com/taciturnaxolotl/neon) - _The bulbs glow a distinctive amber. It's like nostalgia but for something you never had. _ **(today)**
+- [`filter-college-spam`](https://github.com/taciturnaxolotl/filter-college-spam) - __ **(1 day ago)**
 - [`haxmas-d4`](https://github.com/taciturnaxolotl/haxmas-d4) - _snowflake api_ **(1 day ago)**
 - [`thistle`](https://github.com/taciturnaxolotl/thistle) - _🪻 distributed transcription service_ **(1 day ago)**
-- [`filter-college-spam`](https://github.com/taciturnaxolotl/filter-college-spam) - __ **(1 day ago)**
-- [`indiko`](https://github.com/taciturnaxolotl/indiko) - __ **(2 days ago)**
 - [`dots`](https://github.com/taciturnaxolotl/dots) - _Kieran's opinionated (and probably slightly dumb) nix config_ **(2 days ago)**
+- [`indiko`](https://github.com/taciturnaxolotl/indiko) - __ **(2 days ago)**
 - [`haxmas-d2`](https://github.com/taciturnaxolotl/haxmas-d2) - _a little pcb tree!_ **(3 days ago)**
 - [`haxmas-d1`](https://github.com/taciturnaxolotl/haxmas-d1) - _https://splendorous-llama-95a309.netlify.app/_ **(4 days ago)**
-- [`hop`](https://github.com/taciturnaxolotl/hop) - __ **(5 days ago)**
 
 #### 📦  My latest projects
 
