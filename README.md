@@ -5,7 +5,7 @@ When not doing school or working on a random project, I enjoy flying drones and 
 #### 🏗️  The latest repos I've pushed to
 
 - [`hop`](https://github.com/taciturnaxolotl/hop) - __ **(today)**
-- [`indiko`](https://github.com/taciturnaxolotl/indiko) - __ **(today)**
+- [`indiko`](https://github.com/taciturnaxolotl/indiko) - _indieauth and oauth 2.0 compatible auth server for my homelab_ **(today)**
 - [`dots`](https://github.com/taciturnaxolotl/dots) - _Kieran's opinionated (and probably slightly dumb) nix config_ **(today)**
 - [`haxmas-d5`](https://github.com/taciturnaxolotl/haxmas-d5) - _silly snowflake manager_ **(1 day ago)**
 - [`neon`](https://github.com/taciturnaxolotl/neon) - _The bulbs glow a distinctive amber. It's like nostalgia but for something you never had. _ **(1 day ago)**
