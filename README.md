@@ -5,20 +5,20 @@ When not doing school or working on a random project, I enjoy flying drones and 
 #### 🏗️  The latest repos I've pushed to
 
 - [`indiko`](https://github.com/taciturnaxolotl/indiko) - __ **(1 day ago)**
+- [`haxmas-d5`](https://github.com/taciturnaxolotl/haxmas-d5) - _silly snowflake manager_ **(1 day ago)**
 - [`neon`](https://github.com/taciturnaxolotl/neon) - _The bulbs glow a distinctive amber. It's like nostalgia but for something you never had. _ **(1 day ago)**
 - [`hop`](https://github.com/taciturnaxolotl/hop) - __ **(1 day ago)**
 - [`haxmas-d4`](https://github.com/taciturnaxolotl/haxmas-d4) - _snowflake api_ **(2 days ago)**
 - [`thistle`](https://github.com/taciturnaxolotl/thistle) - _🪻 distributed transcription service_ **(2 days ago)**
 - [`filter-college-spam`](https://github.com/taciturnaxolotl/filter-college-spam) - __ **(2 days ago)**
 - [`dots`](https://github.com/taciturnaxolotl/dots) - _Kieran's opinionated (and probably slightly dumb) nix config_ **(3 days ago)**
-- [`haxmas-d2`](https://github.com/taciturnaxolotl/haxmas-d2) - _a little pcb tree!_ **(4 days ago)**
 
 #### 📦  My latest projects
 
+- [`haxmas-d5`](https://github.com/taciturnaxolotl/haxmas-d5) - _silly snowflake manager_
 - [`haxmas-d4`](https://github.com/taciturnaxolotl/haxmas-d4) - _snowflake api_
 - [`haxmas-d2`](https://github.com/taciturnaxolotl/haxmas-d2) - _a little pcb tree!_
 - [`haxmas-d1`](https://github.com/taciturnaxolotl/haxmas-d1) - _https://splendorous-llama-95a309.netlify.app/_
-- [`tacy-stack`](https://github.com/taciturnaxolotl/tacy-stack) - __
 
 #### 🪧  The latest posts from [`dunkirk.sh`](https://dunkirk.sh)
 
