@@ -4,21 +4,21 @@ When not doing school or working on a random project, I enjoy flying drones and 
 
 #### 🏗️  The latest repos I've pushed to
 
+- [`l4`](https://github.com/taciturnaxolotl/l4) - _the l4 cache_ **(1 day ago)**
 - [`filter-college-spam`](https://github.com/taciturnaxolotl/filter-college-spam) - __ **(2 days ago)**
-- [`dots`](https://github.com/taciturnaxolotl/dots) - _Kieran's opinionated (and probably slightly dumb) nix config_ **(2 days ago)**
 - [`zera`](https://github.com/taciturnaxolotl/zera) - _my new site v4?_ **(2 days ago)**
+- [`dots`](https://github.com/taciturnaxolotl/dots) - _Kieran's opinionated (and probably slightly dumb) nix config_ **(2 days ago)**
 - [`haxmas-d8`](https://github.com/taciturnaxolotl/haxmas-d8) - _cookie clicker_ **(2 days ago)**
-- [`l4`](https://github.com/taciturnaxolotl/l4) - _the l4 cache_ **(3 days ago)**
 - [`haxmas-d7`](https://github.com/taciturnaxolotl/haxmas-d7) - __ **(3 days ago)**
-- [`paper-crown`](https://github.com/taciturnaxolotl/paper-crown) - _minecraft exploit testbed_ **(4 days ago)**
+- [`hop`](https://github.com/taciturnaxolotl/hop) - _redirect links built on cf kv_ **(4 days ago)**
 - [`battleship-arena`](https://github.com/taciturnaxolotl/battleship-arena) - _a geicko-2 based round robin ranking system designed to test c++ battleship submissions_ **(4 days ago)**
 
 #### 📦  My latest projects
 
+- [`haxmas-d9`](https://github.com/taciturnaxolotl/haxmas-d9) - __
 - [`haxmas-d8`](https://github.com/taciturnaxolotl/haxmas-d8) - _cookie clicker_
 - [`haxmas-d7`](https://github.com/taciturnaxolotl/haxmas-d7) - __
 - [`l4`](https://github.com/taciturnaxolotl/l4) - _the l4 cache_
-- [`haxmas-d5`](https://github.com/taciturnaxolotl/haxmas-d5) - _silly snowflake manager_
 
 #### 🪧  The latest posts from [`dunkirk.sh`](https://dunkirk.sh)
 
@@ -30,20 +30,20 @@ When not doing school or working on a random project, I enjoy flying drones and 
 
 ```text
 💾 Languages:
-Unknown      4h 57m 41s   ███████████████░░░░░░░░░░  58.47%
-TypeScript   49m 17s      ███░░░░░░░░░░░░░░░░░░░░░░  9.68%
-Markdown     45m 23s      ███░░░░░░░░░░░░░░░░░░░░░░  8.92%
-JavaScript   44m 20s      ███░░░░░░░░░░░░░░░░░░░░░░  8.71%
-Python       19m 30s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.83%
+Unknown      5h 3m 26s    ███████████████░░░░░░░░░░  58.20%
+TypeScript   49m 17s      ███░░░░░░░░░░░░░░░░░░░░░░  9.45%
+Markdown     45m 53s      ███░░░░░░░░░░░░░░░░░░░░░░  8.80%
+JavaScript   44m 20s      ███░░░░░░░░░░░░░░░░░░░░░░  8.51%
+Python       25m 28s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.89%
 
 💼 Projects:
-indiko       1h 50m 19s   ██████░░░░░░░░░░░░░░░░░░░  23.16%
-l4           1h 22m 24s   █████░░░░░░░░░░░░░░░░░░░░  17.30%
-dots         1h 13m 35s   ████░░░░░░░░░░░░░░░░░░░░░  15.45%
-zera         39m 57s      ███░░░░░░░░░░░░░░░░░░░░░░  8.39%
-hop          27m 11s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.71%
+indiko       1h 50m 19s   ██████░░░░░░░░░░░░░░░░░░░  22.47%
+l4           1h 23m 39s   █████░░░░░░░░░░░░░░░░░░░░  17.04%
+dots         1h 13m 35s   ████░░░░░░░░░░░░░░░░░░░░░  14.99%
+zera         39m 57s      ███░░░░░░░░░░░░░░░░░░░░░░  8.14%
+hop          27m 11s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.54%
 
-Total: 18 hrs 56 mins
+Total: 19 hrs 16 mins
 ```
 
 #### 📮  Want to contact me?
