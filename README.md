@@ -4,18 +4,18 @@ When not doing school or working on a random project, I enjoy flying drones and 
 
 #### 🏗️  The latest repos I've pushed to
 
+- [`haxmas-d9`](https://github.com/taciturnaxolotl/haxmas-d9) - _tui advent calendar_ **(1 day ago)**
 - [`l4`](https://github.com/taciturnaxolotl/l4) - _the l4 cache_ **(1 day ago)**
-- [`filter-college-spam`](https://github.com/taciturnaxolotl/filter-college-spam) - __ **(2 days ago)**
-- [`zera`](https://github.com/taciturnaxolotl/zera) - _my new site v4?_ **(2 days ago)**
 - [`dots`](https://github.com/taciturnaxolotl/dots) - _Kieran's opinionated (and probably slightly dumb) nix config_ **(2 days ago)**
+- [`zera`](https://github.com/taciturnaxolotl/zera) - _my new site v4?_ **(2 days ago)**
+- [`filter-college-spam`](https://github.com/taciturnaxolotl/filter-college-spam) - __ **(2 days ago)**
 - [`haxmas-d8`](https://github.com/taciturnaxolotl/haxmas-d8) - _cookie clicker_ **(2 days ago)**
 - [`haxmas-d7`](https://github.com/taciturnaxolotl/haxmas-d7) - __ **(3 days ago)**
 - [`hop`](https://github.com/taciturnaxolotl/hop) - _redirect links built on cf kv_ **(4 days ago)**
-- [`battleship-arena`](https://github.com/taciturnaxolotl/battleship-arena) - _a geicko-2 based round robin ranking system designed to test c++ battleship submissions_ **(4 days ago)**
 
 #### 📦  My latest projects
 
-- [`haxmas-d9`](https://github.com/taciturnaxolotl/haxmas-d9) - __
+- [`haxmas-d9`](https://github.com/taciturnaxolotl/haxmas-d9) - _tui advent calendar_
 - [`haxmas-d8`](https://github.com/taciturnaxolotl/haxmas-d8) - _cookie clicker_
 - [`haxmas-d7`](https://github.com/taciturnaxolotl/haxmas-d7) - __
 - [`l4`](https://github.com/taciturnaxolotl/l4) - _the l4 cache_
@@ -30,20 +30,20 @@ When not doing school or working on a random project, I enjoy flying drones and 
 
 ```text
 💾 Languages:
-Unknown      5h 3m 26s    ███████████████░░░░░░░░░░  58.20%
-TypeScript   49m 17s      ███░░░░░░░░░░░░░░░░░░░░░░  9.45%
-Markdown     45m 53s      ███░░░░░░░░░░░░░░░░░░░░░░  8.80%
-JavaScript   44m 20s      ███░░░░░░░░░░░░░░░░░░░░░░  8.51%
-Python       25m 28s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.89%
+Unknown      5h 13m 12s   ███████████████░░░░░░░░░░  58.76%
+TypeScript   49m 17s      ███░░░░░░░░░░░░░░░░░░░░░░  9.25%
+Markdown     45m 31s      ███░░░░░░░░░░░░░░░░░░░░░░  8.54%
+JavaScript   44m 20s      ███░░░░░░░░░░░░░░░░░░░░░░  8.32%
+Python       27m 15s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.11%
 
 💼 Projects:
-indiko       1h 50m 19s   ██████░░░░░░░░░░░░░░░░░░░  22.47%
-l4           1h 23m 39s   █████░░░░░░░░░░░░░░░░░░░░  17.04%
-dots         1h 13m 35s   ████░░░░░░░░░░░░░░░░░░░░░  14.99%
-zera         39m 57s      ███░░░░░░░░░░░░░░░░░░░░░░  8.14%
-hop          27m 11s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.54%
+indiko       1h 50m 19s   ██████░░░░░░░░░░░░░░░░░░░  21.98%
+l4           1h 23m 39s   █████░░░░░░░░░░░░░░░░░░░░  16.67%
+dots         1h 13m 35s   ████░░░░░░░░░░░░░░░░░░░░░  14.66%
+zera         39m 57s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.96%
+haxmas-d9    32m 24s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.46%
 
-Total: 19 hrs 16 mins
+Total: 19 hrs 27 mins
 ```
 
 #### 📮  Want to contact me?
