@@ -6,12 +6,12 @@ When not doing school or working on a random project, I enjoy flying drones and 
 
 - [`haxmas-d9`](https://github.com/taciturnaxolotl/haxmas-d9) - _tui advent calendar_ **(1 day ago)**
 - [`l4`](https://github.com/taciturnaxolotl/l4) - _the l4 cache_ **(1 day ago)**
-- [`dots`](https://github.com/taciturnaxolotl/dots) - _Kieran's opinionated (and probably slightly dumb) nix config_ **(2 days ago)**
-- [`zera`](https://github.com/taciturnaxolotl/zera) - _my new site v4?_ **(2 days ago)**
 - [`filter-college-spam`](https://github.com/taciturnaxolotl/filter-college-spam) - __ **(2 days ago)**
+- [`zera`](https://github.com/taciturnaxolotl/zera) - _my new site v4?_ **(2 days ago)**
+- [`dots`](https://github.com/taciturnaxolotl/dots) - _Kieran's opinionated (and probably slightly dumb) nix config_ **(2 days ago)**
 - [`haxmas-d8`](https://github.com/taciturnaxolotl/haxmas-d8) - _cookie clicker_ **(2 days ago)**
 - [`haxmas-d7`](https://github.com/taciturnaxolotl/haxmas-d7) - __ **(3 days ago)**
-- [`hop`](https://github.com/taciturnaxolotl/hop) - _redirect links built on cf kv_ **(4 days ago)**
+- [`indiko`](https://github.com/taciturnaxolotl/indiko) - _indieauth and oauth 2.0 compatible auth server for my homelab_ **(4 days ago)**
 
 #### 📦  My latest projects
 
