@@ -4,14 +4,14 @@ When not doing school or working on a random project, I enjoy flying drones and 
 
 #### 🏗️  The latest repos I've pushed to
 
+- [`indiko`](https://github.com/taciturnaxolotl/indiko) - _indieauth and oauth 2.0 compatible auth server for my homelab_ **(today)**
 - [`zera`](https://github.com/taciturnaxolotl/zera) - _my new site v4?_ **(today)**
 - [`ink`](https://github.com/taciturnaxolotl/ink) - _a simple way to log http requests_ **(today)**
+- [`dots`](https://github.com/taciturnaxolotl/dots) - _Kieran's opinionated (and probably slightly dumb) nix config_ **(today)**
 - [`l4`](https://github.com/taciturnaxolotl/l4) - _the l4 cache_ **(1 day ago)**
 - [`haxmas-d9`](https://github.com/taciturnaxolotl/haxmas-d9) - _tui advent calendar_ **(1 day ago)**
 - [`haxmas-d8`](https://github.com/taciturnaxolotl/haxmas-d8) - _cookie clicker_ **(2 days ago)**
 - [`filter-college-spam`](https://github.com/taciturnaxolotl/filter-college-spam) - __ **(2 days ago)**
-- [`dots`](https://github.com/taciturnaxolotl/dots) - _Kieran's opinionated (and probably slightly dumb) nix config_ **(2 days ago)**
-- [`haxmas-d7`](https://github.com/taciturnaxolotl/haxmas-d7) - __ **(3 days ago)**
 
 #### 📦  My latest projects
 
@@ -30,20 +30,20 @@ When not doing school or working on a random project, I enjoy flying drones and 
 
 ```text
 💾 Languages:
-Unknown      5h 32m 36s   ███████████████░░░░░░░░░░  59.06%
-JavaScript   53m 37s      ███░░░░░░░░░░░░░░░░░░░░░░  9.52%
-TypeScript   49m 17s      ███░░░░░░░░░░░░░░░░░░░░░░  8.75%
-Markdown     45m 43s      ███░░░░░░░░░░░░░░░░░░░░░░  8.12%
-Python       27m 15s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.84%
+Unknown      5h 41m 26s   ███████████████░░░░░░░░░░  59.65%
+JavaScript   53m 37s      ███░░░░░░░░░░░░░░░░░░░░░░  9.37%
+TypeScript   49m 25s      ███░░░░░░░░░░░░░░░░░░░░░░  8.63%
+Markdown     45m 58s      ███░░░░░░░░░░░░░░░░░░░░░░  8.03%
+Python       27m 15s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.76%
 
 💼 Projects:
-indiko       1h 50m 19s   ██████░░░░░░░░░░░░░░░░░░░  20.48%
-l4           1h 26m 38s   █████░░░░░░░░░░░░░░░░░░░░  16.08%
-dots         1h 19m 43s   ████░░░░░░░░░░░░░░░░░░░░░  14.80%
-zera         55m 16s      ███░░░░░░░░░░░░░░░░░░░░░░  10.26%
-haxmas-d9    32m 33s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.04%
+indiko       1h 51m 52s   ██████░░░░░░░░░░░░░░░░░░░  20.56%
+l4           1h 26m 38s   ████░░░░░░░░░░░░░░░░░░░░░  15.92%
+dots         1h 20m 8s    ████░░░░░░░░░░░░░░░░░░░░░  14.73%
+zera         57m 17s      ███░░░░░░░░░░░░░░░░░░░░░░  10.53%
+haxmas-d9    32m 33s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.98%
 
-Total: 20 hrs 32 mins
+Total: 20 hrs 55 mins
 ```
 
 #### 📮  Want to contact me?
