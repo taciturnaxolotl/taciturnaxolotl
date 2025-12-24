@@ -5,20 +5,20 @@ When not doing school or working on a random project, I enjoy flying drones and 
 #### 🏗️  The latest repos I've pushed to
 
 - [`dots`](https://github.com/taciturnaxolotl/dots) - _Kieran's opinionated (and probably slightly dumb) nix config_ **(today)**
-- [`haxmas-d10`](https://github.com/taciturnaxolotl/haxmas-d10) - __ **(1 day ago)**
 - [`zera`](https://github.com/taciturnaxolotl/zera) - _my new site v4?_ **(1 day ago)**
+- [`haxmas-d10`](https://github.com/taciturnaxolotl/haxmas-d10) - __ **(1 day ago)**
 - [`ink`](https://github.com/taciturnaxolotl/ink) - _a simple way to log http requests_ **(2 days ago)**
 - [`indiko`](https://github.com/taciturnaxolotl/indiko) - _indieauth and oauth 2.0 compatible auth server for my homelab_ **(2 days ago)**
-- [`l4`](https://github.com/taciturnaxolotl/l4) - _the l4 cache_ **(3 days ago)**
 - [`haxmas-d9`](https://github.com/taciturnaxolotl/haxmas-d9) - _tui advent calendar_ **(3 days ago)**
-- [`haxmas-d8`](https://github.com/taciturnaxolotl/haxmas-d8) - _cookie clicker_ **(4 days ago)**
+- [`l4`](https://github.com/taciturnaxolotl/l4) - _the l4 cache_ **(3 days ago)**
+- [`filter-college-spam`](https://github.com/taciturnaxolotl/filter-college-spam) - __ **(4 days ago)**
 
 #### 📦  My latest projects
 
+- [`haxmas-d12`](https://github.com/taciturnaxolotl/haxmas-d12) - __
 - [`haxmas-d11`](https://github.com/taciturnaxolotl/haxmas-d11) - __
 - [`haxmas-d10`](https://github.com/taciturnaxolotl/haxmas-d10) - __
 - [`haxmas-d9`](https://github.com/taciturnaxolotl/haxmas-d9) - _tui advent calendar_
-- [`haxmas-d8`](https://github.com/taciturnaxolotl/haxmas-d8) - _cookie clicker_
 
 #### 🪧  The latest posts from [`dunkirk.sh`](https://dunkirk.sh)
 
@@ -30,20 +30,20 @@ When not doing school or working on a random project, I enjoy flying drones and 
 
 ```text
 💾 Languages:
-Unknown      5h 58m 10s   █████████████████░░░░░░░░  65.52%
-JavaScript   45m 11s      ███░░░░░░░░░░░░░░░░░░░░░░  8.27%
-Markdown     41m 47s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.64%
-Python       27m 15s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.99%
-TypeScript   17m 42s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.24%
+Unknown      6h 4m 39s    █████████████████░░░░░░░░  65.78%
+JavaScript   45m 11s      ███░░░░░░░░░░░░░░░░░░░░░░  8.15%
+Markdown     42m 36s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.69%
+Python       27m 15s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.92%
+TypeScript   17m 42s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.19%
 
 💼 Projects:
-l4           1h 26m 38s   █████░░░░░░░░░░░░░░░░░░░░  16.93%
-dots         1h 26m 7s    █████░░░░░░░░░░░░░░░░░░░░  16.83%
-indiko       1h 5m 37s    ████░░░░░░░░░░░░░░░░░░░░░  12.82%
-zera         1h 0m 35s    ███░░░░░░░░░░░░░░░░░░░░░░  11.84%
-haxmas-d9    32m 33s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.36%
+dots         1h 31m 42s   █████░░░░░░░░░░░░░░░░░░░░  17.68%
+l4           1h 26m 38s   █████░░░░░░░░░░░░░░░░░░░░  16.70%
+indiko       1h 5m 37s    ████░░░░░░░░░░░░░░░░░░░░░  12.65%
+zera         1h 0m 35s    ███░░░░░░░░░░░░░░░░░░░░░░  11.68%
+haxmas-d9    32m 33s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.28%
 
-Total: 19 hrs 48 mins
+Total: 20 hrs 0 mins
 ```
 
 #### 📮  Want to contact me?
