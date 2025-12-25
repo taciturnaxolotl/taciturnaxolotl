@@ -4,14 +4,14 @@ When not doing school or working on a random project, I enjoy flying drones and 
 
 #### 🏗️  The latest repos I've pushed to
 
-- [`dots`](https://github.com/taciturnaxolotl/dots) - _Kieran's opinionated (and probably slightly dumb) nix config_ **(1 day ago)**
+- [`dots`](https://github.com/taciturnaxolotl/dots) - _Kieran's opinionated (and probably slightly dumb) nix config_ **(today)**
+- [`haxmas-d11`](https://github.com/taciturnaxolotl/haxmas-d11) - __ **(1 day ago)**
+- [`haxmas-d12`](https://github.com/taciturnaxolotl/haxmas-d12) - __ **(1 day ago)**
 - [`zera`](https://github.com/taciturnaxolotl/zera) - _my new site v4?_ **(2 days ago)**
 - [`haxmas-d10`](https://github.com/taciturnaxolotl/haxmas-d10) - __ **(2 days ago)**
-- [`indiko`](https://github.com/taciturnaxolotl/indiko) - _indieauth and oauth 2.0 compatible auth server for my homelab_ **(3 days ago)**
 - [`ink`](https://github.com/taciturnaxolotl/ink) - _a simple way to log http requests_ **(3 days ago)**
-- [`l4`](https://github.com/taciturnaxolotl/l4) - _the l4 cache_ **(4 days ago)**
+- [`indiko`](https://github.com/taciturnaxolotl/indiko) - _indieauth and oauth 2.0 compatible auth server for my homelab_ **(3 days ago)**
 - [`haxmas-d9`](https://github.com/taciturnaxolotl/haxmas-d9) - _tui advent calendar_ **(4 days ago)**
-- [`filter-college-spam`](https://github.com/taciturnaxolotl/filter-college-spam) - __ **(5 days ago)**
 
 #### 📦  My latest projects
 
@@ -43,7 +43,7 @@ indiko       1h 3m 7s     ████░░░░░░░░░░░░░░
 zera         1h 0m 35s    ████░░░░░░░░░░░░░░░░░░░░░  12.44%
 haxmas-d9    32m 33s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.68%
 
-Total: 18 hrs 21 mins
+Total: 18 hrs 23 mins
 ```
 
 #### 📮  Want to contact me?
