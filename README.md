@@ -4,13 +4,13 @@ When not doing school or working on a random project, I enjoy flying drones and 
 
 #### 🏗️  The latest repos I've pushed to
 
-- [`dots`](https://github.com/taciturnaxolotl/dots) - _Kieran's opinionated (and probably slightly dumb) nix config_ **(2 days ago)**
-- [`haxmas-d11`](https://github.com/taciturnaxolotl/haxmas-d11) - __ **(4 days ago)**
-- [`haxmas-d12`](https://github.com/taciturnaxolotl/haxmas-d12) - __ **(4 days ago)**
-- [`zera`](https://github.com/taciturnaxolotl/zera) - _my new site v4?_ **(5 days ago)**
-- [`haxmas-d10`](https://github.com/taciturnaxolotl/haxmas-d10) - __ **(5 days ago)**
-- [`ink`](https://github.com/taciturnaxolotl/ink) - _a simple way to log http requests_ **(6 days ago)**
-- [`indiko`](https://github.com/taciturnaxolotl/indiko) - _indieauth and oauth 2.0 compatible auth server for my homelab_ **(6 days ago)**
+- [`dots`](https://github.com/taciturnaxolotl/dots) - _Kieran's opinionated (and probably slightly dumb) nix config_ **(3 days ago)**
+- [`haxmas-d11`](https://github.com/taciturnaxolotl/haxmas-d11) - __ **(5 days ago)**
+- [`haxmas-d12`](https://github.com/taciturnaxolotl/haxmas-d12) - __ **(5 days ago)**
+- [`zera`](https://github.com/taciturnaxolotl/zera) - _my new site v4?_ **(6 days ago)**
+- [`haxmas-d10`](https://github.com/taciturnaxolotl/haxmas-d10) - __ **(6 days ago)**
+- [`ink`](https://github.com/taciturnaxolotl/ink) - _a simple way to log http requests_ **(1 week ago)**
+- [`indiko`](https://github.com/taciturnaxolotl/indiko) - _indieauth and oauth 2.0 compatible auth server for my homelab_ **(1 week ago)**
 - [`haxmas-d9`](https://github.com/taciturnaxolotl/haxmas-d9) - _tui advent calendar_ **(1 week ago)**
 
 #### 📦  My latest projects
