@@ -4,7 +4,7 @@ When not doing school or working on a random project, I enjoy flying drones and 
 
 #### 🏗️  The latest repos I've pushed to
 
-- [`dots`](https://github.com/taciturnaxolotl/dots) - _Kieran's opinionated (and probably slightly dumb) nix config_ **(2 days ago)**
+- [`dots`](https://github.com/taciturnaxolotl/dots) - _Kieran's opinionated (and probably slightly dumb) nix config_ **(today)**
 - [`control`](https://github.com/taciturnaxolotl/control) - __ **(3 days ago)**
 - [`indiko`](https://github.com/taciturnaxolotl/indiko) - _indieauth and oauth 2.0 compatible auth server for my homelab_ **(3 days ago)**
 - [`cachet`](https://github.com/taciturnaxolotl/cachet) - _a cache for slack profile pictures and emojis_ **(5 days ago)**
@@ -30,20 +30,20 @@ When not doing school or working on a random project, I enjoy flying drones and 
 
 ```text
 💾 Languages:
-Unknown      3h 55m 12s   █████████████████████░░░░  80.24%
+Unknown      3h 55m 37s   █████████████████████░░░░  80.27%
 JavaScript   15m 52s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.41%
 Markdown     12m 33s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.28%
 Bash         6m 18s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.15%
 Nix          5m 32s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.89%
 
 💼 Projects:
-dots         2h 20m 40s   █████████████░░░░░░░░░░░░  50.02%
-cachet       52m 51s      █████░░░░░░░░░░░░░░░░░░░░  18.79%
-control      23m 59s      ███░░░░░░░░░░░░░░░░░░░░░░  8.53%
-haxmas-d7    17m 44s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.31%
+dots         2h 21m 6s    █████████████░░░░░░░░░░░░  50.09%
+cachet       52m 51s      █████░░░░░░░░░░░░░░░░░░░░  18.76%
+control      23m 59s      ███░░░░░░░░░░░░░░░░░░░░░░  8.51%
+haxmas-d7    17m 44s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.30%
 kierank      9m 56s       █░░░░░░░░░░░░░░░░░░░░░░░░  3.53%
 
-Total: 8 hrs 55 mins
+Total: 8 hrs 58 mins
 ```
 
 #### 📮  Want to contact me?
