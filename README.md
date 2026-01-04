@@ -4,12 +4,12 @@ When not doing school or working on a random project, I enjoy flying drones and 
 
 #### 🏗️  The latest repos I've pushed to
 
-- [`dots`](https://github.com/taciturnaxolotl/dots) - _Kieran's opinionated (and probably slightly dumb) nix config_ **(1 day ago)**
-- [`control`](https://github.com/taciturnaxolotl/control) - __ **(2 days ago)**
-- [`indiko`](https://github.com/taciturnaxolotl/indiko) - _indieauth and oauth 2.0 compatible auth server for my homelab_ **(2 days ago)**
-- [`cachet`](https://github.com/taciturnaxolotl/cachet) - _a cache for slack profile pictures and emojis_ **(4 days ago)**
-- [`hn-alerts`](https://github.com/taciturnaxolotl/hn-alerts) - _a bot to track your hackernews posts!_ **(4 days ago)**
-- [`haxmas-d7`](https://github.com/taciturnaxolotl/haxmas-d7) - __ **(4 days ago)**
+- [`dots`](https://github.com/taciturnaxolotl/dots) - _Kieran's opinionated (and probably slightly dumb) nix config_ **(2 days ago)**
+- [`control`](https://github.com/taciturnaxolotl/control) - __ **(3 days ago)**
+- [`indiko`](https://github.com/taciturnaxolotl/indiko) - _indieauth and oauth 2.0 compatible auth server for my homelab_ **(3 days ago)**
+- [`cachet`](https://github.com/taciturnaxolotl/cachet) - _a cache for slack profile pictures and emojis_ **(5 days ago)**
+- [`hn-alerts`](https://github.com/taciturnaxolotl/hn-alerts) - _a bot to track your hackernews posts!_ **(5 days ago)**
+- [`haxmas-d7`](https://github.com/taciturnaxolotl/haxmas-d7) - __ **(5 days ago)**
 - [`haxmas-d12`](https://github.com/taciturnaxolotl/haxmas-d12) - __ **(1 week ago)**
 - [`haxmas-d11`](https://github.com/taciturnaxolotl/haxmas-d11) - __ **(1 week ago)**
 
