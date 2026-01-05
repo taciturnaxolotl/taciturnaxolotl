@@ -5,10 +5,10 @@ When not doing school or working on a random project, I enjoy flying drones and 
 #### 🏗️  The latest repos I've pushed to
 
 - [`dots`](https://github.com/taciturnaxolotl/dots) - _Kieran's opinionated (and probably slightly dumb) nix config_ **(today)**
+- [`cachet`](https://github.com/taciturnaxolotl/cachet) - _a cache for slack profile pictures and emojis_ **(today)**
 - [`personalsit.es`](https://github.com/xdesro/personalsit.es) - _📇 A little directory of people's personal sites_ **(4 days ago)**
 - [`control`](https://github.com/taciturnaxolotl/control) - __ **(4 days ago)**
 - [`indiko`](https://github.com/taciturnaxolotl/indiko) - _indieauth and oauth 2.0 compatible auth server for my homelab_ **(4 days ago)**
-- [`cachet`](https://github.com/taciturnaxolotl/cachet) - _a cache for slack profile pictures and emojis_ **(6 days ago)**
 - [`hn-alerts`](https://github.com/taciturnaxolotl/hn-alerts) - _a bot to track your hackernews posts!_ **(6 days ago)**
 - [`haxmas-d7`](https://github.com/taciturnaxolotl/haxmas-d7) - __ **(6 days ago)**
 - [`haxmas-d10`](https://github.com/taciturnaxolotl/haxmas-d10) - __ **(1 week ago)**
@@ -30,20 +30,20 @@ When not doing school or working on a random project, I enjoy flying drones and 
 
 ```text
 💾 Languages:
-Unknown      4h 0m 41s    █████████████████████░░░░  81.17%
-JavaScript   15m 52s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.35%
-Markdown     10m 0s       █░░░░░░░░░░░░░░░░░░░░░░░░  3.37%
-Bash         6m 18s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.13%
-Nix          6m 1s        █░░░░░░░░░░░░░░░░░░░░░░░░  2.03%
+Unknown      4h 4m 13s    █████████████████████░░░░  81.39%
+JavaScript   15m 52s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.29%
+Markdown     10m 0s       █░░░░░░░░░░░░░░░░░░░░░░░░  3.33%
+Bash         6m 18s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.10%
+Nix          6m 1s        █░░░░░░░░░░░░░░░░░░░░░░░░  2.01%
 
 💼 Projects:
-dots         2h 27m 49s   ██████████████░░░░░░░░░░░  52.47%
-cachet       52m 51s      █████░░░░░░░░░░░░░░░░░░░░  18.76%
-control      23m 59s      ███░░░░░░░░░░░░░░░░░░░░░░  8.51%
-haxmas-d7    17m 44s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.29%
-kierank      9m 56s       █░░░░░░░░░░░░░░░░░░░░░░░░  3.53%
+dots         2h 27m 49s   ██████████████░░░░░░░░░░░  52.13%
+cachet       54m 40s      █████░░░░░░░░░░░░░░░░░░░░  19.28%
+control      23m 59s      ███░░░░░░░░░░░░░░░░░░░░░░  8.46%
+haxmas-d7    17m 44s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.25%
+kierank      9m 56s       █░░░░░░░░░░░░░░░░░░░░░░░░  3.51%
 
-Total: 9 hrs 4 mins
+Total: 9 hrs 19 mins
 ```
 
 #### 📮  Want to contact me?
