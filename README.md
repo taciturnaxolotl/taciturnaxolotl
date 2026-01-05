@@ -4,21 +4,21 @@ When not doing school or working on a random project, I enjoy flying drones and 
 
 #### 🏗️  The latest repos I've pushed to
 
-- [`dots`](https://github.com/taciturnaxolotl/dots) - _Kieran's opinionated (and probably slightly dumb) nix config_ **(today)**
 - [`cachet`](https://github.com/taciturnaxolotl/cachet) - _a cache for slack profile pictures and emojis_ **(today)**
-- [`personalsit.es`](https://github.com/xdesro/personalsit.es) - _📇 A little directory of people's personal sites_ **(4 days ago)**
-- [`control`](https://github.com/taciturnaxolotl/control) - __ **(4 days ago)**
+- [`dots`](https://github.com/taciturnaxolotl/dots) - _Kieran's opinionated (and probably slightly dumb) nix config_ **(today)**
+- [`zera`](https://github.com/taciturnaxolotl/zera) - _my new site v4?_ **(today)**
+- [`pbnj`](https://github.com/taciturnaxolotl/pbnj) - __ **(today)**
 - [`indiko`](https://github.com/taciturnaxolotl/indiko) - _indieauth and oauth 2.0 compatible auth server for my homelab_ **(4 days ago)**
+- [`control`](https://github.com/taciturnaxolotl/control) - __ **(4 days ago)**
+- [`personalsit.es`](https://github.com/xdesro/personalsit.es) - _📇 A little directory of people's personal sites_ **(4 days ago)**
 - [`hn-alerts`](https://github.com/taciturnaxolotl/hn-alerts) - _a bot to track your hackernews posts!_ **(6 days ago)**
-- [`haxmas-d7`](https://github.com/taciturnaxolotl/haxmas-d7) - __ **(6 days ago)**
-- [`haxmas-d10`](https://github.com/taciturnaxolotl/haxmas-d10) - __ **(1 week ago)**
 
 #### 📦  My latest projects
 
+- [`pbnj`](https://github.com/taciturnaxolotl/pbnj) - __
 - [`control`](https://github.com/taciturnaxolotl/control) - __
 - [`haxmas-d12`](https://github.com/taciturnaxolotl/haxmas-d12) - __
 - [`haxmas-d11`](https://github.com/taciturnaxolotl/haxmas-d11) - __
-- [`haxmas-d10`](https://github.com/taciturnaxolotl/haxmas-d10) - __
 
 #### 🪧  The latest posts from [`dunkirk.sh`](https://dunkirk.sh)
 
@@ -30,20 +30,20 @@ When not doing school or working on a random project, I enjoy flying drones and 
 
 ```text
 💾 Languages:
-Unknown      4h 4m 13s    █████████████████████░░░░  81.39%
-JavaScript   15m 52s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.29%
-Markdown     10m 0s       █░░░░░░░░░░░░░░░░░░░░░░░░  3.33%
-Bash         6m 18s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.10%
-Nix          6m 1s        █░░░░░░░░░░░░░░░░░░░░░░░░  2.01%
+Unknown      4h 8m 4s     █████████████████████░░░░  81.63%
+JavaScript   15m 52s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.22%
+Markdown     10m 0s       █░░░░░░░░░░░░░░░░░░░░░░░░  3.29%
+Bash         6m 18s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.08%
+Nix          6m 1s        █░░░░░░░░░░░░░░░░░░░░░░░░  1.98%
 
 💼 Projects:
-dots         2h 27m 49s   ██████████████░░░░░░░░░░░  52.13%
-cachet       54m 40s      █████░░░░░░░░░░░░░░░░░░░░  19.28%
-control      23m 59s      ███░░░░░░░░░░░░░░░░░░░░░░  8.46%
-haxmas-d7    17m 44s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.25%
-kierank      9m 56s       █░░░░░░░░░░░░░░░░░░░░░░░░  3.51%
+dots         2h 29m 53s   ██████████████░░░░░░░░░░░  52.23%
+cachet       55m 1s       █████░░░░░░░░░░░░░░░░░░░░  19.18%
+control      23m 59s      ███░░░░░░░░░░░░░░░░░░░░░░  8.36%
+haxmas-d7    17m 44s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.18%
+kierank      9m 56s       █░░░░░░░░░░░░░░░░░░░░░░░░  3.46%
 
-Total: 9 hrs 19 mins
+Total: 9 hrs 39 mins
 ```
 
 #### 📮  Want to contact me?
