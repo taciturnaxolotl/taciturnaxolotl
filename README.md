@@ -4,14 +4,14 @@ When not doing school or working on a random project, I enjoy flying drones and 
 
 #### 🏗️  The latest repos I've pushed to
 
-- [`cedrus`](https://github.com/taciturnaxolotl/cedrus) - _downloads cedarville publishing books as pdf_ **(1 day ago)**
-- [`dots`](https://github.com/taciturnaxolotl/dots) - _Kieran's opinionated (and probably slightly dumb) nix config_ **(2 days ago)**
-- [`indiko`](https://github.com/taciturnaxolotl/indiko) - _indieauth and oauth 2.0 compatible auth server for my homelab_ **(2 days ago)**
-- [`zera`](https://github.com/taciturnaxolotl/zera) - _my new site v4?_ **(2 days ago)**
-- [`pipes`](https://github.com/taciturnaxolotl/pipes) - __ **(2 days ago)**
-- [`2026-rebuilt`](https://github.com/df1317/2026-rebuilt) - _pyramid scheme_ **(2 days ago)**
-- [`cachet`](https://github.com/taciturnaxolotl/cachet) - _a cache for slack profile pictures and emojis_ **(2 days ago)**
-- [`pbnj`](https://github.com/taciturnaxolotl/pbnj) - __ **(2 days ago)**
+- [`cedrus`](https://github.com/taciturnaxolotl/cedrus) - _downloads cedarville publishing books as pdf_ **(2 days ago)**
+- [`dots`](https://github.com/taciturnaxolotl/dots) - _Kieran's opinionated (and probably slightly dumb) nix config_ **(3 days ago)**
+- [`indiko`](https://github.com/taciturnaxolotl/indiko) - _indieauth and oauth 2.0 compatible auth server for my homelab_ **(3 days ago)**
+- [`zera`](https://github.com/taciturnaxolotl/zera) - _my new site v4?_ **(3 days ago)**
+- [`pipes`](https://github.com/taciturnaxolotl/pipes) - __ **(3 days ago)**
+- [`2026-rebuilt`](https://github.com/df1317/2026-rebuilt) - _pyramid scheme_ **(3 days ago)**
+- [`cachet`](https://github.com/taciturnaxolotl/cachet) - _a cache for slack profile pictures and emojis_ **(3 days ago)**
+- [`pbnj`](https://github.com/taciturnaxolotl/pbnj) - __ **(3 days ago)**
 
 #### 📦  My latest projects
 
@@ -22,7 +22,7 @@ When not doing school or working on a random project, I enjoy flying drones and 
 
 #### 🪧  The latest posts from [`dunkirk.sh`](https://dunkirk.sh)
 
-- [`Homelab tour`](https://dunkirk.sh/blog/homelab-tour/) **(2 weeks ago)**
+- [`Homelab tour`](https://dunkirk.sh/blog/homelab-tour/) **(3 weeks ago)**
 - [`Novel phishing tactic using github notifications`](https://dunkirk.sh/blog/github-phishing/) **(2 months ago)**
 - [`Musings about Atuin`](https://dunkirk.sh/blog/atuin/) **(8 months ago)**
 
