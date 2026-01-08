@@ -4,14 +4,14 @@ When not doing school or working on a random project, I enjoy flying drones and 
 
 #### 🏗️  The latest repos I've pushed to
 
+- [`ncae-tools`](https://github.com/taciturnaxolotl/ncae-tools) - _writeups for ncae cybergames 2025_ **(1 day ago)**
 - [`cedrus`](https://github.com/taciturnaxolotl/cedrus) - _downloads cedarville publishing books as pdf_ **(2 days ago)**
-- [`dots`](https://github.com/taciturnaxolotl/dots) - _Kieran's opinionated (and probably slightly dumb) nix config_ **(3 days ago)**
-- [`indiko`](https://github.com/taciturnaxolotl/indiko) - _indieauth and oauth 2.0 compatible auth server for my homelab_ **(3 days ago)**
-- [`zera`](https://github.com/taciturnaxolotl/zera) - _my new site v4?_ **(3 days ago)**
-- [`pipes`](https://github.com/taciturnaxolotl/pipes) - __ **(3 days ago)**
-- [`2026-rebuilt`](https://github.com/df1317/2026-rebuilt) - _pyramid scheme_ **(3 days ago)**
 - [`cachet`](https://github.com/taciturnaxolotl/cachet) - _a cache for slack profile pictures and emojis_ **(3 days ago)**
+- [`zera`](https://github.com/taciturnaxolotl/zera) - _my new site v4?_ **(3 days ago)**
+- [`2026-rebuilt`](https://github.com/df1317/2026-rebuilt) - _pyramid scheme_ **(3 days ago)**
 - [`pbnj`](https://github.com/taciturnaxolotl/pbnj) - __ **(3 days ago)**
+- [`indiko`](https://github.com/taciturnaxolotl/indiko) - _indieauth and oauth 2.0 compatible auth server for my homelab_ **(3 days ago)**
+- [`pipes`](https://github.com/taciturnaxolotl/pipes) - __ **(3 days ago)**
 
 #### 📦  My latest projects
 
@@ -30,20 +30,20 @@ When not doing school or working on a random project, I enjoy flying drones and 
 
 ```text
 💾 Languages:
-Unknown        2h 58m 1s   ███████████████████░░░░░░  73.72%
-Markdown       20m 4s      ███░░░░░░░░░░░░░░░░░░░░░░  8.31%
-TypeScript     15m 22s     ██░░░░░░░░░░░░░░░░░░░░░░░  6.37%
-JavaScript     7m 53s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.27%
-Nix            5m 35s      █░░░░░░░░░░░░░░░░░░░░░░░░  2.31%
+Unknown        2h 59m 16s   ███████████████████░░░░░░  73.26%
+Markdown       20m 4s       ███░░░░░░░░░░░░░░░░░░░░░░  8.20%
+TypeScript     15m 22s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.28%
+JavaScript     7m 53s       █░░░░░░░░░░░░░░░░░░░░░░░░  3.22%
+Nix            5m 35s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.28%
 
 💼 Projects:
-dots           1h 37m 8s   ███████████░░░░░░░░░░░░░░  41.13%
-pipes          29m 32s     ████░░░░░░░░░░░░░░░░░░░░░  12.51%
-control        23m 59s     ███░░░░░░░░░░░░░░░░░░░░░░  10.16%
-2026-rebuilt   21m 28s     ███░░░░░░░░░░░░░░░░░░░░░░  9.09%
-cedrus         13m 42s     ██░░░░░░░░░░░░░░░░░░░░░░░  5.81%
+dots           1h 37m 8s    ███████████░░░░░░░░░░░░░░  40.41%
+pipes          29m 32s      ████░░░░░░░░░░░░░░░░░░░░░  12.29%
+control        23m 59s      ███░░░░░░░░░░░░░░░░░░░░░░  9.98%
+2026-rebuilt   21m 28s      ███░░░░░░░░░░░░░░░░░░░░░░  8.94%
+cedrus         13m 42s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.70%
 
-Total: 9 hrs 8 mins
+Total: 9 hrs 17 mins
 ```
 
 #### 📮  Want to contact me?
