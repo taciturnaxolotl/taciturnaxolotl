@@ -4,8 +4,8 @@ When not doing school or working on a random project, I enjoy flying drones and 
 
 #### 🏗️  The latest repos I've pushed to
 
-- [`herald`](https://github.com/taciturnaxolotl/herald) - _rss email digests over ssh because you're a cool kid_ **(1 day ago)**
-- [`dots`](https://github.com/taciturnaxolotl/dots) - _Kieran's opinionated (and probably slightly dumb) nix config_ **(1 day ago)**
+- [`herald`](https://github.com/taciturnaxolotl/herald) - _rss email digests over ssh because you're a cool kid_ **(today)**
+- [`dots`](https://github.com/taciturnaxolotl/dots) - _Kieran's opinionated (and probably slightly dumb) nix config_ **(today)**
 - [`zera`](https://github.com/taciturnaxolotl/zera) - _my new site v4?_ **(2 days ago)**
 - [`ncae-tools`](https://github.com/taciturnaxolotl/ncae-tools) - _writeups for ncae cybergames 2025_ **(3 days ago)**
 - [`cachet`](https://github.com/taciturnaxolotl/cachet) - _a cache for slack profile pictures and emojis_ **(5 days ago)**
@@ -30,20 +30,20 @@ When not doing school or working on a random project, I enjoy flying drones and 
 
 ```text
 💾 Languages:
-Unknown        3h 31m 37s   ███████████████████░░░░░░  73.06%
-Markdown       19m 38s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.78%
-Go             17m 38s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.09%
-TypeScript     13m 30s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.66%
-YAML           7m 17s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.52%
+Unknown        3h 41m 5s   ███████████████████░░░░░░  73.07%
+Markdown       19m 48s     ██░░░░░░░░░░░░░░░░░░░░░░░  6.55%
+Go             17m 38s     ██░░░░░░░░░░░░░░░░░░░░░░░  5.83%
+TypeScript     13m 30s     ██░░░░░░░░░░░░░░░░░░░░░░░  4.46%
+YAML           7m 17s      █░░░░░░░░░░░░░░░░░░░░░░░░  2.41%
 
 💼 Projects:
-herald         2h 6m 36s    ███████████░░░░░░░░░░░░░░  40.50%
-pipes          29m 32s      ███░░░░░░░░░░░░░░░░░░░░░░  9.45%
-Documents      25m 3s       ███░░░░░░░░░░░░░░░░░░░░░░  8.02%
-dots           23m 39s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.57%
-2026-rebuilt   21m 28s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.87%
+herald         2h 12m 0s   ███████████░░░░░░░░░░░░░░  40.91%
+pipes          29m 32s     ███░░░░░░░░░░░░░░░░░░░░░░  9.16%
+dots           28m 18s     ███░░░░░░░░░░░░░░░░░░░░░░  8.77%
+Documents      25m 3s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.77%
+2026-rebuilt   21m 28s     ██░░░░░░░░░░░░░░░░░░░░░░░  6.66%
 
-Total: 9 hrs 56 mins
+Total: 10 hrs 25 mins
 ```
 
 #### 📮  Want to contact me?
