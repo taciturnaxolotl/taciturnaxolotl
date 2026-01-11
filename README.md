@@ -4,14 +4,14 @@ When not doing school or working on a random project, I enjoy flying drones and 
 
 #### 🏗️  The latest repos I've pushed to
 
+- [`indiko`](https://github.com/taciturnaxolotl/indiko) - _indieauth and oauth 2.0 compatible auth server for my homelab_ **(1 day ago)**
+- [`dots`](https://github.com/taciturnaxolotl/dots) - _Kieran's opinionated (and probably slightly dumb) nix config_ **(1 day ago)**
 - [`pipes`](https://github.com/taciturnaxolotl/pipes) - __ **(1 day ago)**
 - [`herald`](https://github.com/taciturnaxolotl/herald) - _rss email digests over ssh because you're a cool kid_ **(1 day ago)**
-- [`dots`](https://github.com/taciturnaxolotl/dots) - _Kieran's opinionated (and probably slightly dumb) nix config_ **(1 day ago)**
-- [`indiko`](https://github.com/taciturnaxolotl/indiko) - _indieauth and oauth 2.0 compatible auth server for my homelab_ **(1 day ago)**
 - [`zera`](https://github.com/taciturnaxolotl/zera) - _my new site v4?_ **(3 days ago)**
 - [`ncae-tools`](https://github.com/taciturnaxolotl/ncae-tools) - _writeups for ncae cybergames 2025_ **(4 days ago)**
-- [`cachet`](https://github.com/taciturnaxolotl/cachet) - _a cache for slack profile pictures and emojis_ **(6 days ago)**
 - [`2026-rebuilt`](https://github.com/df1317/2026-rebuilt) - _pyramid scheme_ **(6 days ago)**
+- [`cachet`](https://github.com/taciturnaxolotl/cachet) - _a cache for slack profile pictures and emojis_ **(6 days ago)**
 
 #### 📦  My latest projects
 
@@ -43,7 +43,7 @@ dots         38m 4s       ███░░░░░░░░░░░░░░░
 Documents    25m 36s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.82%
 frc-nix      24m 13s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.45%
 
-Total: 12 hrs 42 mins
+Total: 12 hrs 48 mins
 ```
 
 #### 📮  Want to contact me?
