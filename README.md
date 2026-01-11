@@ -4,13 +4,13 @@ When not doing school or working on a random project, I enjoy flying drones and 
 
 #### 🏗️  The latest repos I've pushed to
 
-- [`herald`](https://github.com/taciturnaxolotl/herald) - _rss email digests over ssh because you're a cool kid_ **(today)**
-- [`dots`](https://github.com/taciturnaxolotl/dots) - _Kieran's opinionated (and probably slightly dumb) nix config_ **(today)**
-- [`zera`](https://github.com/taciturnaxolotl/zera) - _my new site v4?_ **(2 days ago)**
-- [`ncae-tools`](https://github.com/taciturnaxolotl/ncae-tools) - _writeups for ncae cybergames 2025_ **(3 days ago)**
-- [`cachet`](https://github.com/taciturnaxolotl/cachet) - _a cache for slack profile pictures and emojis_ **(5 days ago)**
-- [`indiko`](https://github.com/taciturnaxolotl/indiko) - _indieauth and oauth 2.0 compatible auth server for my homelab_ **(5 days ago)**
-- [`2026-rebuilt`](https://github.com/df1317/2026-rebuilt) - _pyramid scheme_ **(5 days ago)**
+- [`herald`](https://github.com/taciturnaxolotl/herald) - _rss email digests over ssh because you're a cool kid_ **(1 day ago)**
+- [`dots`](https://github.com/taciturnaxolotl/dots) - _Kieran's opinionated (and probably slightly dumb) nix config_ **(1 day ago)**
+- [`zera`](https://github.com/taciturnaxolotl/zera) - _my new site v4?_ **(3 days ago)**
+- [`ncae-tools`](https://github.com/taciturnaxolotl/ncae-tools) - _writeups for ncae cybergames 2025_ **(4 days ago)**
+- [`cachet`](https://github.com/taciturnaxolotl/cachet) - _a cache for slack profile pictures and emojis_ **(6 days ago)**
+- [`indiko`](https://github.com/taciturnaxolotl/indiko) - _indieauth and oauth 2.0 compatible auth server for my homelab_ **(6 days ago)**
+- [`2026-rebuilt`](https://github.com/df1317/2026-rebuilt) - _pyramid scheme_ **(6 days ago)**
 - [`control`](https://github.com/taciturnaxolotl/control) - __ **(1 week ago)**
 
 #### 📦  My latest projects
@@ -30,20 +30,20 @@ When not doing school or working on a random project, I enjoy flying drones and 
 
 ```text
 💾 Languages:
-Unknown        4h 7m 32s   ███████████████████░░░░░░  74.95%
-Markdown       19m 48s     ██░░░░░░░░░░░░░░░░░░░░░░░  6.00%
-Go             17m 38s     ██░░░░░░░░░░░░░░░░░░░░░░░  5.34%
-TypeScript     13m 30s     ██░░░░░░░░░░░░░░░░░░░░░░░  4.09%
-YAML           7m 17s      █░░░░░░░░░░░░░░░░░░░░░░░░  2.21%
+Unknown        4h 18m 39s   ███████████████████░░░░░░  75.61%
+Markdown       19m 48s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.79%
+Go             17m 38s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.16%
+TypeScript     13m 30s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.95%
+YAML           7m 17s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.13%
 
 💼 Projects:
-herald         2h 13m 8s   ██████████░░░░░░░░░░░░░░░  37.90%
-pipes          46m 30s     ████░░░░░░░░░░░░░░░░░░░░░  13.24%
-dots           35m 50s     ███░░░░░░░░░░░░░░░░░░░░░░  10.21%
-Documents      25m 36s     ██░░░░░░░░░░░░░░░░░░░░░░░  7.29%
-2026-rebuilt   21m 28s     ██░░░░░░░░░░░░░░░░░░░░░░░  6.11%
+herald         2h 13m 8s    ██████████░░░░░░░░░░░░░░░  36.72%
+pipes          46m 30s      ████░░░░░░░░░░░░░░░░░░░░░  12.83%
+dots           35m 50s      ███░░░░░░░░░░░░░░░░░░░░░░  9.89%
+Documents      25m 36s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.06%
+2026-rebuilt   21m 28s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.92%
 
-Total: 11 hrs 25 mins
+Total: 11 hrs 56 mins
 ```
 
 #### 📮  Want to contact me?
