@@ -4,11 +4,11 @@ When not doing school or working on a random project, I enjoy flying drones and 
 
 #### 🏗️  The latest repos I've pushed to
 
+- [`dots`](https://github.com/taciturnaxolotl/dots) - _Kieran's opinionated (and probably slightly dumb) nix config_ **(today)**
+- [`zera`](https://github.com/taciturnaxolotl/zera) - _my new site v4?_ **(today)**
+- [`herald`](https://github.com/taciturnaxolotl/herald) - _rss email digests over ssh because you're a cool kid_ **(today)**
 - [`indiko`](https://github.com/taciturnaxolotl/indiko) - _indieauth and oauth 2.0 compatible auth server for my homelab_ **(1 day ago)**
-- [`dots`](https://github.com/taciturnaxolotl/dots) - _Kieran's opinionated (and probably slightly dumb) nix config_ **(1 day ago)**
 - [`pipes`](https://github.com/taciturnaxolotl/pipes) - __ **(1 day ago)**
-- [`herald`](https://github.com/taciturnaxolotl/herald) - _rss email digests over ssh because you're a cool kid_ **(1 day ago)**
-- [`zera`](https://github.com/taciturnaxolotl/zera) - _my new site v4?_ **(3 days ago)**
 - [`ncae-tools`](https://github.com/taciturnaxolotl/ncae-tools) - _writeups for ncae cybergames 2025_ **(4 days ago)**
 - [`2026-rebuilt`](https://github.com/df1317/2026-rebuilt) - _pyramid scheme_ **(6 days ago)**
 - [`cachet`](https://github.com/taciturnaxolotl/cachet) - _a cache for slack profile pictures and emojis_ **(6 days ago)**
@@ -22,28 +22,28 @@ When not doing school or working on a random project, I enjoy flying drones and 
 
 #### 🪧  The latest posts from [`dunkirk.sh`](https://dunkirk.sh)
 
+- [`FRC REBUILT Points Calculator`](https://dunkirk.sh/blog/frc-rebuilt-calculator/) **(today)**
 - [`Homelab tour`](https://dunkirk.sh/blog/homelab-tour/) **(3 weeks ago)**
 - [`Novel phishing tactic using github notifications`](https://dunkirk.sh/blog/github-phishing/) **(2 months ago)**
-- [`Musings about Atuin`](https://dunkirk.sh/blog/atuin/) **(8 months ago)**
 
 #### 📡  My [_`hackatime`_](https://waka.hackclub.com) stats from this week
 
 ```text
 💾 Languages:
-Unknown      4h 39m 27s   ████████████████████░░░░░  76.42%
-Markdown     19m 48s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.42%
-Go           17m 38s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.83%
-TypeScript   13m 30s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.69%
-YAML         7m 17s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.99%
+Unknown      4h 44m 7s   ████████████████████░░░░░  76.71%
+Markdown     19m 52s     ██░░░░░░░░░░░░░░░░░░░░░░░  5.36%
+Go           17m 38s     ██░░░░░░░░░░░░░░░░░░░░░░░  4.76%
+TypeScript   13m 30s     █░░░░░░░░░░░░░░░░░░░░░░░░  3.65%
+YAML         7m 17s      █░░░░░░░░░░░░░░░░░░░░░░░░  1.97%
 
 💼 Projects:
-herald       2h 13m 8s    █████████░░░░░░░░░░░░░░░░  35.44%
-pipes        51m 51s      ████░░░░░░░░░░░░░░░░░░░░░  13.80%
-dots         38m 4s       ███░░░░░░░░░░░░░░░░░░░░░░  10.14%
-Documents    25m 36s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.82%
-frc-nix      24m 13s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.45%
+herald       2h 13m 8s   █████████░░░░░░░░░░░░░░░░  35.15%
+pipes        51m 51s     ████░░░░░░░░░░░░░░░░░░░░░  13.69%
+dots         38m 22s     ███░░░░░░░░░░░░░░░░░░░░░░  10.13%
+Documents    25m 36s     ██░░░░░░░░░░░░░░░░░░░░░░░  6.76%
+frc-nix      24m 13s     ██░░░░░░░░░░░░░░░░░░░░░░░  6.40%
 
-Total: 12 hrs 58 mins
+Total: 13 hrs 15 mins
 ```
 
 #### 📮  Want to contact me?
