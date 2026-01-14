@@ -4,11 +4,11 @@ When not doing school or working on a random project, I enjoy flying drones and 
 
 #### 🏗️  The latest repos I've pushed to
 
+- [`herald`](https://github.com/taciturnaxolotl/herald) - _rss email digests over ssh because you're a cool kid_ **(today)**
 - [`dots`](https://github.com/taciturnaxolotl/dots) - _Kieran's opinionated (and probably slightly dumb) nix config_ **(today)**
 - [`strings`](https://github.com/jaspermayone/strings) - _simple strings server for the wentworth coding club_ **(1 day ago)**
 - [`zera`](https://github.com/taciturnaxolotl/zera) - _my new site v4?_ **(1 day ago)**
 - [`pipes`](https://github.com/taciturnaxolotl/pipes) - __ **(3 days ago)**
-- [`herald`](https://github.com/taciturnaxolotl/herald) - _rss email digests over ssh because you're a cool kid_ **(3 days ago)**
 - [`indiko`](https://github.com/taciturnaxolotl/indiko) - _indieauth and oauth 2.0 compatible auth server for my homelab_ **(4 days ago)**
 - [`ncae-tools`](https://github.com/taciturnaxolotl/ncae-tools) - _writeups for ncae cybergames 2025_ **(1 week ago)**
 - [`cedrus`](https://github.com/taciturnaxolotl/cedrus) - _downloads cedarville publishing books as pdf_ **(1 week ago)**
@@ -43,7 +43,7 @@ Documents    26m 9s       ██░░░░░░░░░░░░░░░░
 dots         25m 16s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.56%
 pipes        24m 28s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.32%
 
-Total: 11 hrs 35 mins
+Total: 11 hrs 47 mins
 ```
 
 #### 📮  Want to contact me?
