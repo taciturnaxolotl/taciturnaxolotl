@@ -4,13 +4,13 @@ When not doing school or working on a random project, I enjoy flying drones and 
 
 #### 🏗️  The latest repos I've pushed to
 
-- [`zera`](https://github.com/taciturnaxolotl/zera) - _my new site v4?_ **(today)**
-- [`strings`](https://github.com/jaspermayone/strings) - _simple strings server for the wentworth coding club_ **(today)**
-- [`dots`](https://github.com/taciturnaxolotl/dots) - _Kieran's opinionated (and probably slightly dumb) nix config_ **(2 days ago)**
-- [`pipes`](https://github.com/taciturnaxolotl/pipes) - __ **(2 days ago)**
-- [`herald`](https://github.com/taciturnaxolotl/herald) - _rss email digests over ssh because you're a cool kid_ **(2 days ago)**
-- [`indiko`](https://github.com/taciturnaxolotl/indiko) - _indieauth and oauth 2.0 compatible auth server for my homelab_ **(3 days ago)**
-- [`ncae-tools`](https://github.com/taciturnaxolotl/ncae-tools) - _writeups for ncae cybergames 2025_ **(6 days ago)**
+- [`zera`](https://github.com/taciturnaxolotl/zera) - _my new site v4?_ **(1 day ago)**
+- [`strings`](https://github.com/jaspermayone/strings) - _simple strings server for the wentworth coding club_ **(1 day ago)**
+- [`dots`](https://github.com/taciturnaxolotl/dots) - _Kieran's opinionated (and probably slightly dumb) nix config_ **(3 days ago)**
+- [`pipes`](https://github.com/taciturnaxolotl/pipes) - __ **(3 days ago)**
+- [`herald`](https://github.com/taciturnaxolotl/herald) - _rss email digests over ssh because you're a cool kid_ **(3 days ago)**
+- [`indiko`](https://github.com/taciturnaxolotl/indiko) - _indieauth and oauth 2.0 compatible auth server for my homelab_ **(4 days ago)**
+- [`ncae-tools`](https://github.com/taciturnaxolotl/ncae-tools) - _writeups for ncae cybergames 2025_ **(1 week ago)**
 - [`cedrus`](https://github.com/taciturnaxolotl/cedrus) - _downloads cedarville publishing books as pdf_ **(1 week ago)**
 
 #### 📦  My latest projects
@@ -22,7 +22,7 @@ When not doing school or working on a random project, I enjoy flying drones and 
 
 #### 🪧  The latest posts from [`dunkirk.sh`](https://dunkirk.sh)
 
-- [`FRC REBUILT Points Calculator`](https://dunkirk.sh/blog/frc-rebuilt-calculator/) **(2 days ago)**
+- [`FRC REBUILT Points Calculator`](https://dunkirk.sh/blog/frc-rebuilt-calculator/) **(3 days ago)**
 - [`Homelab tour`](https://dunkirk.sh/blog/homelab-tour/) **(3 weeks ago)**
 - [`Novel phishing tactic using github notifications`](https://dunkirk.sh/blog/github-phishing/) **(2 months ago)**
 
@@ -43,7 +43,7 @@ pipes        25m 59s      ██░░░░░░░░░░░░░░░░
 Documents    25m 58s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.44%
 dots         21m 42s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.22%
 
-Total: 12 hrs 14 mins
+Total: 12 hrs 16 mins
 ```
 
 #### 📮  Want to contact me?
