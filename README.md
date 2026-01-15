@@ -4,10 +4,10 @@ When not doing school or working on a random project, I enjoy flying drones and 
 
 #### 🏗️  The latest repos I've pushed to
 
+- [`dots`](https://github.com/taciturnaxolotl/dots) - _Kieran's opinionated (and probably slightly dumb) nix config_ **(today)**
 - [`herald`](https://github.com/taciturnaxolotl/herald) - _rss email digests over ssh because you're a cool kid_ **(1 day ago)**
-- [`dots`](https://github.com/taciturnaxolotl/dots) - _Kieran's opinionated (and probably slightly dumb) nix config_ **(1 day ago)**
-- [`strings`](https://github.com/jaspermayone/strings) - _simple strings server for the wentworth coding club_ **(2 days ago)**
 - [`zera`](https://github.com/taciturnaxolotl/zera) - _my new site v4?_ **(2 days ago)**
+- [`strings`](https://github.com/jaspermayone/strings) - _simple strings server for the wentworth coding club_ **(2 days ago)**
 - [`pipes`](https://github.com/taciturnaxolotl/pipes) - __ **(4 days ago)**
 - [`indiko`](https://github.com/taciturnaxolotl/indiko) - _indieauth and oauth 2.0 compatible auth server for my homelab_ **(5 days ago)**
 - [`ncae-tools`](https://github.com/taciturnaxolotl/ncae-tools) - _writeups for ncae cybergames 2025_ **(1 week ago)**
@@ -30,20 +30,20 @@ When not doing school or working on a random project, I enjoy flying drones and 
 
 ```text
 💾 Languages:
-Unknown      4h 44m 42s   ███████████████████░░░░░░  75.48%
-Go           17m 38s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.68%
-Markdown     14m 1s       █░░░░░░░░░░░░░░░░░░░░░░░░  3.72%
-JavaScript   13m 1s       █░░░░░░░░░░░░░░░░░░░░░░░░  3.45%
-YAML         7m 20s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.95%
+Unknown      4h 53m 6s   ███████████████████░░░░░░  75.94%
+Go           17m 38s     ██░░░░░░░░░░░░░░░░░░░░░░░  4.57%
+Markdown     14m 1s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.63%
+JavaScript   13m 1s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.37%
+YAML         7m 20s      █░░░░░░░░░░░░░░░░░░░░░░░░  1.90%
 
 💼 Projects:
-herald       2h 16m 0s    ██████████░░░░░░░░░░░░░░░  37.42%
-dots         35m 55s      ███░░░░░░░░░░░░░░░░░░░░░░  9.88%
-frc-nix      34m 46s      ███░░░░░░░░░░░░░░░░░░░░░░  9.57%
-Documents    26m 9s       ██░░░░░░░░░░░░░░░░░░░░░░░  7.20%
-pipes        24m 28s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.74%
+herald       2h 16m 0s   ██████████░░░░░░░░░░░░░░░  36.19%
+dots         41m 1s      ███░░░░░░░░░░░░░░░░░░░░░░  10.92%
+frc-nix      37m 29s     ███░░░░░░░░░░░░░░░░░░░░░░  9.97%
+Documents    26m 9s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.96%
+pipes        24m 28s     ██░░░░░░░░░░░░░░░░░░░░░░░  6.51%
 
-Total: 12 hrs 43 mins
+Total: 12 hrs 58 mins
 ```
 
 #### 📮  Want to contact me?
