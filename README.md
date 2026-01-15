@@ -4,6 +4,7 @@ When not doing school or working on a random project, I enjoy flying drones and 
 
 #### 🏗️  The latest repos I've pushed to
 
+- [`nur`](https://github.com/charmbracelet/nur) - __ **(today)**
 - [`dots`](https://github.com/taciturnaxolotl/dots) - _Kieran's opinionated (and probably slightly dumb) nix config_ **(today)**
 - [`herald`](https://github.com/taciturnaxolotl/herald) - _rss email digests over ssh because you're a cool kid_ **(1 day ago)**
 - [`zera`](https://github.com/taciturnaxolotl/zera) - _my new site v4?_ **(2 days ago)**
@@ -11,7 +12,6 @@ When not doing school or working on a random project, I enjoy flying drones and 
 - [`pipes`](https://github.com/taciturnaxolotl/pipes) - __ **(4 days ago)**
 - [`indiko`](https://github.com/taciturnaxolotl/indiko) - _indieauth and oauth 2.0 compatible auth server for my homelab_ **(5 days ago)**
 - [`ncae-tools`](https://github.com/taciturnaxolotl/ncae-tools) - _writeups for ncae cybergames 2025_ **(1 week ago)**
-- [`cedrus`](https://github.com/taciturnaxolotl/cedrus) - _downloads cedarville publishing books as pdf_ **(1 week ago)**
 
 #### 📦  My latest projects
 
