@@ -4,14 +4,14 @@ When not doing school or working on a random project, I enjoy flying drones and 
 
 #### 🏗️  The latest repos I've pushed to
 
-- [`nur`](https://github.com/charmbracelet/nur) - __ **(today)**
-- [`dots`](https://github.com/taciturnaxolotl/dots) - _Kieran's opinionated (and probably slightly dumb) nix config_ **(today)**
-- [`herald`](https://github.com/taciturnaxolotl/herald) - _rss email digests over ssh because you're a cool kid_ **(1 day ago)**
-- [`zera`](https://github.com/taciturnaxolotl/zera) - _my new site v4?_ **(2 days ago)**
-- [`strings`](https://github.com/jaspermayone/strings) - _simple strings server for the wentworth coding club_ **(2 days ago)**
-- [`pipes`](https://github.com/taciturnaxolotl/pipes) - __ **(4 days ago)**
-- [`indiko`](https://github.com/taciturnaxolotl/indiko) - _indieauth and oauth 2.0 compatible auth server for my homelab_ **(5 days ago)**
-- [`ncae-tools`](https://github.com/taciturnaxolotl/ncae-tools) - _writeups for ncae cybergames 2025_ **(1 week ago)**
+- [`2026-rebuilt`](https://github.com/df1317/2026-rebuilt) - _pyramid scheme_ **(1 day ago)**
+- [`nur`](https://github.com/charmbracelet/nur) - __ **(1 day ago)**
+- [`dots`](https://github.com/taciturnaxolotl/dots) - _Kieran's opinionated (and probably slightly dumb) nix config_ **(1 day ago)**
+- [`herald`](https://github.com/taciturnaxolotl/herald) - _rss email digests over ssh because you're a cool kid_ **(2 days ago)**
+- [`strings`](https://github.com/jaspermayone/strings) - _simple strings server for the wentworth coding club_ **(3 days ago)**
+- [`zera`](https://github.com/taciturnaxolotl/zera) - _my new site v4?_ **(3 days ago)**
+- [`pipes`](https://github.com/taciturnaxolotl/pipes) - __ **(5 days ago)**
+- [`indiko`](https://github.com/taciturnaxolotl/indiko) - _indieauth and oauth 2.0 compatible auth server for my homelab_ **(6 days ago)**
 
 #### 📦  My latest projects
 
@@ -22,7 +22,7 @@ When not doing school or working on a random project, I enjoy flying drones and 
 
 #### 🪧  The latest posts from [`dunkirk.sh`](https://dunkirk.sh)
 
-- [`FRC REBUILT Points Calculator`](https://dunkirk.sh/blog/frc-rebuilt-calculator/) **(4 days ago)**
+- [`FRC REBUILT Points Calculator`](https://dunkirk.sh/blog/frc-rebuilt-calculator/) **(5 days ago)**
 - [`Homelab tour`](https://dunkirk.sh/blog/homelab-tour/) **(4 weeks ago)**
 - [`Novel phishing tactic using github notifications`](https://dunkirk.sh/blog/github-phishing/) **(2 months ago)**
 
@@ -30,20 +30,20 @@ When not doing school or working on a random project, I enjoy flying drones and 
 
 ```text
 💾 Languages:
-Unknown                      4h 59m 32s   ███████████████████░░░░░░  72.46%
-Markdown                     25m 42s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.22%
-Go                           17m 38s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.27%
-JavaScript                   13m 1s       █░░░░░░░░░░░░░░░░░░░░░░░░  3.15%
-YAML                         7m 20s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.78%
+Unknown                      5h 8m 47s   ███████████████████░░░░░░  72.73%
+Markdown                     25m 42s     ██░░░░░░░░░░░░░░░░░░░░░░░  6.06%
+Go                           17m 38s     ██░░░░░░░░░░░░░░░░░░░░░░░  4.16%
+JavaScript                   13m 1s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.07%
+YAML                         7m 20s      █░░░░░░░░░░░░░░░░░░░░░░░░  1.73%
 
 💼 Projects:
-herald                       2h 16m 0s    █████████░░░░░░░░░░░░░░░░  33.89%
-dots                         41m 1s       ███░░░░░░░░░░░░░░░░░░░░░░  10.22%
-frc-nix                      38m 29s      ███░░░░░░░░░░░░░░░░░░░░░░  9.59%
-2026-ectf-insecure-example   30m 59s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.72%
-Documents                    26m 9s       ██░░░░░░░░░░░░░░░░░░░░░░░  6.52%
+herald                       2h 16m 0s   █████████░░░░░░░░░░░░░░░░  32.75%
+dots                         43m 11s     ███░░░░░░░░░░░░░░░░░░░░░░  10.40%
+frc-nix                      38m 29s     ███░░░░░░░░░░░░░░░░░░░░░░  9.27%
+2026-ectf-insecure-example   30m 59s     ██░░░░░░░░░░░░░░░░░░░░░░░  7.46%
+Documents                    26m 9s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.30%
 
-Total: 14 hrs 27 mins
+Total: 14 hrs 59 mins
 ```
 
 #### 📮  Want to contact me?
