@@ -4,9 +4,9 @@ When not doing school or working on a random project, I enjoy flying drones and 
 
 #### 🏗️  The latest repos I've pushed to
 
+- [`2026-rebuilt`](https://github.com/df1317/2026-rebuilt) - _pyramid scheme_ **(1 day ago)**
 - [`dots`](https://github.com/taciturnaxolotl/dots) - _Kieran's opinionated (and probably slightly dumb) nix config_ **(1 day ago)**
 - [`herald`](https://github.com/taciturnaxolotl/herald) - _rss email digests over ssh because you're a cool kid_ **(1 day ago)**
-- [`2026-rebuilt`](https://github.com/df1317/2026-rebuilt) - _pyramid scheme_ **(2 days ago)**
 - [`nur`](https://github.com/charmbracelet/nur) - __ **(2 days ago)**
 - [`zera`](https://github.com/taciturnaxolotl/zera) - _my new site v4?_ **(4 days ago)**
 - [`strings`](https://github.com/jaspermayone/strings) - _simple strings server for the wentworth coding club_ **(4 days ago)**
@@ -30,20 +30,20 @@ When not doing school or working on a random project, I enjoy flying drones and 
 
 ```text
 💾 Languages:
-Unknown                      5h 43m 7s    ███████████████████░░░░░░  73.15%
-Markdown                     25m 53s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.52%
-Go                           17m 20s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.70%
-JavaScript                   13m 1s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.78%
-C++                          10m 15s      █░░░░░░░░░░░░░░░░░░░░░░░░  2.19%
+Unknown                      4h 18m 38s   ██████████████████░░░░░░░  71.84%
+Markdown                     22m 22s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.22%
+JavaScript                   13m 1s       █░░░░░░░░░░░░░░░░░░░░░░░░  3.62%
+C++                          10m 15s      █░░░░░░░░░░░░░░░░░░░░░░░░  2.85%
+Nix                          6m 26s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.79%
 
 💼 Projects:
-herald                       2h 17m 20s   ████████░░░░░░░░░░░░░░░░░  30.21%
-2026-ectf-insecure-example   56m 42s      ████░░░░░░░░░░░░░░░░░░░░░  12.48%
-dots                         43m 48s      ███░░░░░░░░░░░░░░░░░░░░░░  9.64%
-frc-nix                      39m 22s      ███░░░░░░░░░░░░░░░░░░░░░░  8.66%
-Documents                    26m 9s       ██░░░░░░░░░░░░░░░░░░░░░░░  5.75%
+herald                       1h 8m 44s    █████░░░░░░░░░░░░░░░░░░░░  19.30%
+2026-ectf-insecure-example   56m 42s      ████░░░░░░░░░░░░░░░░░░░░░  15.92%
+dots                         39m 17s      ███░░░░░░░░░░░░░░░░░░░░░░  11.03%
+frc-nix                      35m 32s      ███░░░░░░░░░░░░░░░░░░░░░░  9.98%
+pipes                        24m 28s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.87%
 
-Total: 16 hrs 50 mins
+Total: 13 hrs 56 mins
 ```
 
 #### 📮  Want to contact me?
