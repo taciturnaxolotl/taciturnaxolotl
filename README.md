@@ -4,13 +4,13 @@ When not doing school or working on a random project, I enjoy flying drones and 
 
 #### 🏗️  The latest repos I've pushed to
 
+- [`dots`](https://github.com/taciturnaxolotl/dots) - _Kieran's opinionated (and ever expanding) nix config_ **(1 day ago)**
+- [`herald`](https://github.com/taciturnaxolotl/herald) - _rss email digests over ssh because you're a cool kid_ **(1 day ago)**
 - [`2026-rebuilt`](https://github.com/df1317/2026-rebuilt) - _pyramid scheme_ **(2 days ago)**
-- [`dots`](https://github.com/taciturnaxolotl/dots) - _Kieran's opinionated (and probably slightly dumb) nix config_ **(2 days ago)**
 - [`indiko`](https://github.com/taciturnaxolotl/indiko) - _indieauth and oauth 2.0 compatible auth server for my homelab_ **(2 days ago)**
-- [`herald`](https://github.com/taciturnaxolotl/herald) - _rss email digests over ssh because you're a cool kid_ **(3 days ago)**
 - [`nur`](https://github.com/charmbracelet/nur) - __ **(4 days ago)**
-- [`zera`](https://github.com/taciturnaxolotl/zera) - _my new site v4?_ **(6 days ago)**
 - [`strings`](https://github.com/jaspermayone/strings) - _simple strings server for the wentworth coding club_ **(6 days ago)**
+- [`zera`](https://github.com/taciturnaxolotl/zera) - _my new site v4?_ **(6 days ago)**
 - [`pipes`](https://github.com/taciturnaxolotl/pipes) - __ **(1 week ago)**
 
 #### 📦  My latest projects
@@ -30,20 +30,20 @@ When not doing school or working on a random project, I enjoy flying drones and 
 
 ```text
 💾 Languages:
-Unknown                      2h 42m 2s   █████████████████░░░░░░░░  65.08%
-Markdown                     20m 41s     ███░░░░░░░░░░░░░░░░░░░░░░  8.31%
-JavaScript                   13m 2s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.24%
-C++                          10m 15s     ██░░░░░░░░░░░░░░░░░░░░░░░  4.12%
-C/c++                        6m 5s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.45%
+Unknown                      2h 43m 42s   █████████████████░░░░░░░░  64.80%
+Markdown                     20m 41s      ███░░░░░░░░░░░░░░░░░░░░░░  8.19%
+JavaScript                   13m 2s       ██░░░░░░░░░░░░░░░░░░░░░░░  5.16%
+C++                          10m 15s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.06%
+C/c++                        6m 5s        █░░░░░░░░░░░░░░░░░░░░░░░░  2.41%
 
 💼 Projects:
-2026-ectf-insecure-example   56m 42s     ██████░░░░░░░░░░░░░░░░░░░  23.82%
-dots                         39m 26s     █████░░░░░░░░░░░░░░░░░░░░  16.57%
-cs1220                       22m 13s     ███░░░░░░░░░░░░░░░░░░░░░░  9.34%
-2026-rebuilt                 20m 39s     ███░░░░░░░░░░░░░░░░░░░░░░  8.68%
-frc-nix                      18m 7s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.62%
+2026-ectf-insecure-example   56m 42s      ██████░░░░░░░░░░░░░░░░░░░  23.67%
+dots                         39m 55s      █████░░░░░░░░░░░░░░░░░░░░  16.67%
+cs1220                       22m 13s      ███░░░░░░░░░░░░░░░░░░░░░░  9.28%
+2026-rebuilt                 20m 39s      ███░░░░░░░░░░░░░░░░░░░░░░  8.63%
+frc-nix                      18m 7s       ██░░░░░░░░░░░░░░░░░░░░░░░  7.57%
 
-Total: 10 hrs 44 mins
+Total: 10 hrs 52 mins
 ```
 
 #### 📮  Want to contact me?
