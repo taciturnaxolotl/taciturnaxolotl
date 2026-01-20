@@ -4,13 +4,13 @@ When not doing school or working on a random project, I enjoy flying drones and 
 
 #### 🏗️  The latest repos I've pushed to
 
-- [`2026-rebuilt`](https://github.com/df1317/2026-rebuilt) - _pyramid scheme_ **(today)**
-- [`dots`](https://github.com/taciturnaxolotl/dots) - _Kieran's opinionated (and ever expanding) nix config_ **(today)**
-- [`herald`](https://github.com/taciturnaxolotl/herald) - _rss email digests over ssh because you're a cool kid_ **(1 day ago)**
-- [`indiko`](https://github.com/taciturnaxolotl/indiko) - _indieauth and oauth 2.0 compatible auth server for my homelab_ **(2 days ago)**
-- [`nur`](https://github.com/charmbracelet/nur) - __ **(4 days ago)**
-- [`strings`](https://github.com/jaspermayone/strings) - _simple strings server for the wentworth coding club_ **(6 days ago)**
-- [`zera`](https://github.com/taciturnaxolotl/zera) - _my new site v4?_ **(6 days ago)**
+- [`2026-rebuilt`](https://github.com/df1317/2026-rebuilt) - _pyramid scheme_ **(1 day ago)**
+- [`dots`](https://github.com/taciturnaxolotl/dots) - _Kieran's opinionated (and ever expanding) nix config_ **(1 day ago)**
+- [`herald`](https://github.com/taciturnaxolotl/herald) - _rss email digests over ssh because you're a cool kid_ **(2 days ago)**
+- [`indiko`](https://github.com/taciturnaxolotl/indiko) - _indieauth and oauth 2.0 compatible auth server for my homelab_ **(3 days ago)**
+- [`nur`](https://github.com/charmbracelet/nur) - __ **(5 days ago)**
+- [`strings`](https://github.com/jaspermayone/strings) - _simple strings server for the wentworth coding club_ **(1 week ago)**
+- [`zera`](https://github.com/taciturnaxolotl/zera) - _my new site v4?_ **(1 week ago)**
 - [`pipes`](https://github.com/taciturnaxolotl/pipes) - __ **(1 week ago)**
 
 #### 📦  My latest projects
@@ -37,13 +37,13 @@ C++                          10m 15s      ██░░░░░░░░░░�
 C/c++                        6m 5s        █░░░░░░░░░░░░░░░░░░░░░░░░  2.45%
 
 💼 Projects:
-2026-ectf-insecure-example   56m 42s      ██████░░░░░░░░░░░░░░░░░░░  23.64%
-dots                         49m 26s      ██████░░░░░░░░░░░░░░░░░░░  20.61%
-2026-rebuilt                 23m 51s      ███░░░░░░░░░░░░░░░░░░░░░░  9.95%
-cs1220                       22m 13s      ███░░░░░░░░░░░░░░░░░░░░░░  9.27%
-frc-nix                      13m 52s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.79%
+2026-ectf-insecure-example   56m 42s      ██████░░░░░░░░░░░░░░░░░░░  23.44%
+dots                         51m 29s      ██████░░░░░░░░░░░░░░░░░░░  21.28%
+2026-rebuilt                 23m 51s      ███░░░░░░░░░░░░░░░░░░░░░░  9.86%
+cs1220                       22m 13s      ███░░░░░░░░░░░░░░░░░░░░░░  9.19%
+frc-nix                      13m 52s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.74%
 
-Total: 10 hrs 1 mins
+Total: 10 hrs 3 mins
 ```
 
 #### 📮  Want to contact me?
