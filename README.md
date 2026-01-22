@@ -4,11 +4,11 @@ When not doing school or working on a random project, I enjoy flying drones and 
 
 #### 🏗️  The latest repos I've pushed to
 
-- [`dots`](https://github.com/taciturnaxolotl/dots) - _Kieran's opinionated (and ever expanding) nix config_ **(1 day ago)**
-- [`2026-rebuilt`](https://github.com/df1317/2026-rebuilt) - _pyramid scheme_ **(2 days ago)**
-- [`herald`](https://github.com/taciturnaxolotl/herald) - _rss email digests over ssh because you're a cool kid_ **(3 days ago)**
-- [`indiko`](https://github.com/taciturnaxolotl/indiko) - _indieauth and oauth 2.0 compatible auth server for my homelab_ **(4 days ago)**
-- [`nur`](https://github.com/charmbracelet/nur) - __ **(6 days ago)**
+- [`dots`](https://github.com/taciturnaxolotl/dots) - _Kieran's opinionated (and ever expanding) nix config_ **(2 days ago)**
+- [`2026-rebuilt`](https://github.com/df1317/2026-rebuilt) - _pyramid scheme_ **(3 days ago)**
+- [`herald`](https://github.com/taciturnaxolotl/herald) - _rss email digests over ssh because you're a cool kid_ **(4 days ago)**
+- [`indiko`](https://github.com/taciturnaxolotl/indiko) - _indieauth and oauth 2.0 compatible auth server for my homelab_ **(5 days ago)**
+- [`nur`](https://github.com/charmbracelet/nur) - __ **(1 week ago)**
 - [`zera`](https://github.com/taciturnaxolotl/zera) - _my new site v4?_ **(1 week ago)**
 - [`strings`](https://github.com/jaspermayone/strings) - _simple strings server for the wentworth coding club_ **(1 week ago)**
 - [`pipes`](https://github.com/taciturnaxolotl/pipes) - __ **(1 week ago)**
@@ -24,26 +24,26 @@ When not doing school or working on a random project, I enjoy flying drones and 
 
 - [`FRC REBUILT Points Calculator`](https://dunkirk.sh/blog/frc-rebuilt-calculator/) **(1 week ago)**
 - [`Homelab tour`](https://dunkirk.sh/blog/homelab-tour/) **(1 month ago)**
-- [`Novel phishing tactic using github notifications`](https://dunkirk.sh/blog/github-phishing/) **(2 months ago)**
+- [`Novel phishing tactic using github notifications`](https://dunkirk.sh/blog/github-phishing/) **(3 months ago)**
 
 #### 📡  My [_`hackatime`_](https://waka.hackclub.com) stats from this week
 
 ```text
 💾 Languages:
-Unknown                      3h 13m 17s   ████████████████░░░░░░░░░  62.90%
-Markdown                     23m 51s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.76%
-C                            11m 34s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.76%
-C++                          10m 15s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.34%
-C/c++                        10m 6s       █░░░░░░░░░░░░░░░░░░░░░░░░  3.29%
+Unknown                      3h 59m 43s   █████████████████░░░░░░░░  67.32%
+Markdown                     23m 55s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.72%
+C                            11m 34s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.25%
+C++                          10m 15s      █░░░░░░░░░░░░░░░░░░░░░░░░  2.88%
+C/c++                        10m 7s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.84%
 
 💼 Projects:
-dots                         1h 7m 43s    ██████░░░░░░░░░░░░░░░░░░░  23.38%
-2026-ectf                    1h 2m 3s     ██████░░░░░░░░░░░░░░░░░░░  21.42%
-2026-ectf-insecure-example   56m 42s      █████░░░░░░░░░░░░░░░░░░░░  19.58%
-2026-rebuilt                 23m 55s      ███░░░░░░░░░░░░░░░░░░░░░░  8.26%
-cs1220                       22m 13s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.67%
+2026-ectf                    2h 0m 13s    █████████░░░░░░░░░░░░░░░░  34.56%
+dots                         1h 7m 43s    █████░░░░░░░░░░░░░░░░░░░░  19.47%
+2026-ectf-insecure-example   56m 42s      █████░░░░░░░░░░░░░░░░░░░░  16.30%
+2026-rebuilt                 23m 55s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.88%
+cs1220                       22m 13s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.39%
 
-Total: 12 hrs 2 mins
+Total: 13 hrs 28 mins
 ```
 
 #### 📮  Want to contact me?
