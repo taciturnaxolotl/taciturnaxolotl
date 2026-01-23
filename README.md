@@ -4,9 +4,9 @@ When not doing school or working on a random project, I enjoy flying drones and 
 
 #### 🏗️  The latest repos I've pushed to
 
-- [`dots`](https://github.com/taciturnaxolotl/dots) - _Kieran's opinionated (and ever expanding) nix config_ **(3 days ago)**
+- [`herald`](https://github.com/taciturnaxolotl/herald) - _rss email digests over ssh because you're a cool kid_ **(1 day ago)**
+- [`dots`](https://github.com/taciturnaxolotl/dots) - _Kieran's opinionated (and ever expanding) nix config_ **(1 day ago)**
 - [`2026-rebuilt`](https://github.com/df1317/2026-rebuilt) - _pyramid scheme_ **(4 days ago)**
-- [`herald`](https://github.com/taciturnaxolotl/herald) - _rss email digests over ssh because you're a cool kid_ **(5 days ago)**
 - [`indiko`](https://github.com/taciturnaxolotl/indiko) - _indieauth and oauth 2.0 compatible auth server for my homelab_ **(6 days ago)**
 - [`nur`](https://github.com/charmbracelet/nur) - __ **(1 week ago)**
 - [`zera`](https://github.com/taciturnaxolotl/zera) - _my new site v4?_ **(1 week ago)**
@@ -30,20 +30,20 @@ When not doing school or working on a random project, I enjoy flying drones and 
 
 ```text
 💾 Languages:
-Unknown                      4h 0m 45s    ██████████████████░░░░░░░  69.92%
-Markdown                     18m 12s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.29%
-C                            11m 34s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.36%
-C/c++                        8m 52s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.58%
-C++                          7m 12s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.09%
+Unknown                      4h 23m 49s   ██████████████████░░░░░░░  71.81%
+Markdown                     18m 12s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.96%
+C                            11m 34s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.15%
+C/c++                        8m 52s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.42%
+C++                          7m 12s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.96%
 
 💼 Projects:
-2026-ectf                    2h 34m 38s   ████████████░░░░░░░░░░░░░  45.11%
-dots                         54m 27s      ████░░░░░░░░░░░░░░░░░░░░░  15.88%
-2026-ectf-insecure-example   50m 20s      ████░░░░░░░░░░░░░░░░░░░░░  14.69%
-2026-rebuilt                 23m 55s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.98%
-cs1220                       8m 39s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.52%
+2026-ectf                    2h 54m 53s   ████████████░░░░░░░░░░░░░  47.82%
+dots                         54m 45s      ████░░░░░░░░░░░░░░░░░░░░░  14.97%
+2026-ectf-insecure-example   50m 20s      ████░░░░░░░░░░░░░░░░░░░░░  13.77%
+2026-rebuilt                 23m 55s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.54%
+frc-nix                      10m 46s      █░░░░░░░░░░░░░░░░░░░░░░░░  2.95%
 
-Total: 12 hrs 16 mins
+Total: 12 hrs 48 mins
 ```
 
 #### 📮  Want to contact me?
