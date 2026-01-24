@@ -4,10 +4,10 @@ When not doing school or working on a random project, I enjoy flying drones and 
 
 #### 🏗️  The latest repos I've pushed to
 
-- [`dots`](https://github.com/taciturnaxolotl/dots) - _Kieran's opinionated (and ever expanding) nix config_ **(today)**
-- [`herald`](https://github.com/taciturnaxolotl/herald) - _rss email digests over ssh because you're a cool kid_ **(1 day ago)**
-- [`2026-rebuilt`](https://github.com/df1317/2026-rebuilt) - _pyramid scheme_ **(4 days ago)**
-- [`indiko`](https://github.com/taciturnaxolotl/indiko) - _indieauth and oauth 2.0 compatible auth server for my homelab_ **(6 days ago)**
+- [`dots`](https://github.com/taciturnaxolotl/dots) - _Kieran's opinionated (and ever expanding) nix config_ **(1 day ago)**
+- [`herald`](https://github.com/taciturnaxolotl/herald) - _rss email digests over ssh because you're a cool kid_ **(2 days ago)**
+- [`2026-rebuilt`](https://github.com/df1317/2026-rebuilt) - _pyramid scheme_ **(5 days ago)**
+- [`indiko`](https://github.com/taciturnaxolotl/indiko) - _indieauth and oauth 2.0 compatible auth server for my homelab_ **(1 week ago)**
 - [`nur`](https://github.com/charmbracelet/nur) - __ **(1 week ago)**
 - [`zera`](https://github.com/taciturnaxolotl/zera) - _my new site v4?_ **(1 week ago)**
 - [`strings`](https://github.com/jaspermayone/strings) - _simple strings server for the wentworth coding club_ **(1 week ago)**
@@ -30,20 +30,20 @@ When not doing school or working on a random project, I enjoy flying drones and 
 
 ```text
 💾 Languages:
-Unknown                      5h 23m 23s   ████████████████████░░░░░  78.13%
-C/c++                        8m 52s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.15%
-C                            8m 49s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.13%
-Markdown                     8m 29s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.05%
-C++                          7m 12s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.74%
+Unknown                      5h 30m 2s    ████████████████████░░░░░  78.42%
+C/c++                        8m 52s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.11%
+C                            8m 49s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.10%
+Markdown                     8m 29s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.02%
+C++                          7m 12s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.71%
 
 💼 Projects:
-2026-ectf                    3h 6m 42s    ████████████░░░░░░░░░░░░░  45.54%
-nocturn                      1h 15m 22s   █████░░░░░░░░░░░░░░░░░░░░  18.38%
-dots                         56m 25s      ████░░░░░░░░░░░░░░░░░░░░░  13.76%
-2026-ectf-insecure-example   27m 43s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.76%
-2026-rebuilt                 12m 3s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.94%
+2026-ectf                    3h 6m 42s    ████████████░░░░░░░░░░░░░  44.58%
+nocturn                      1h 24m 10s   ██████░░░░░░░░░░░░░░░░░░░  20.10%
+dots                         56m 25s      ████░░░░░░░░░░░░░░░░░░░░░  13.47%
+2026-ectf-insecure-example   27m 43s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.62%
+2026-rebuilt                 12m 3s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.88%
 
-Total: 14 hrs 19 mins
+Total: 14 hrs 58 mins
 ```
 
 #### 📮  Want to contact me?
