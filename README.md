@@ -4,14 +4,14 @@ When not doing school or working on a random project, I enjoy flying drones and 
 
 #### 🏗️  The latest repos I've pushed to
 
+- [`cachet`](https://github.com/taciturnaxolotl/cachet) - _a cache for slack profile pictures and emojis_ **(today)**
 - [`2026-rebuilt`](https://github.com/df1317/2026-rebuilt) - _pyramid scheme_ **(1 day ago)**
-- [`dots`](https://github.com/taciturnaxolotl/dots) - _Kieran's opinionated (and ever expanding) nix config_ **(1 day ago)**
 - [`herald`](https://github.com/taciturnaxolotl/herald) - _rss email digests over ssh because you're a cool kid_ **(1 day ago)**
+- [`dots`](https://github.com/taciturnaxolotl/dots) - _Kieran's opinionated (and ever expanding) nix config_ **(1 day ago)**
 - [`indiko`](https://github.com/taciturnaxolotl/indiko) - _indieauth and oauth 2.0 compatible auth server for my homelab_ **(1 week ago)**
 - [`nur`](https://github.com/charmbracelet/nur) - __ **(1 week ago)**
-- [`zera`](https://github.com/taciturnaxolotl/zera) - _my new site v4?_ **(1 week ago)**
 - [`strings`](https://github.com/jaspermayone/strings) - _simple strings server for the wentworth coding club_ **(1 week ago)**
-- [`pipes`](https://github.com/taciturnaxolotl/pipes) - __ **(2 weeks ago)**
+- [`zera`](https://github.com/taciturnaxolotl/zera) - _my new site v4?_ **(1 week ago)**
 
 #### 📦  My latest projects
 
@@ -30,20 +30,20 @@ When not doing school or working on a random project, I enjoy flying drones and 
 
 ```text
 💾 Languages:
-Unknown        6h 8m 4s     █████████████████████░░░░  82.43%
-C              8m 49s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.98%
-Markdown       8m 9s        █░░░░░░░░░░░░░░░░░░░░░░░░  1.83%
-C/c++          6m 2s        █░░░░░░░░░░░░░░░░░░░░░░░░  1.35%
-Zig            5m 51s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.31%
+Unknown        6h 20m 33s   █████████████████████░░░░  82.90%
+C              8m 49s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.92%
+Markdown       8m 9s        █░░░░░░░░░░░░░░░░░░░░░░░░  1.78%
+C/c++          6m 2s        █░░░░░░░░░░░░░░░░░░░░░░░░  1.31%
+Zig            5m 51s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.28%
 
 💼 Projects:
-2026-ectf      3h 42m 48s   █████████████░░░░░░░░░░░░  49.99%
-nocturn        1h 45m 17s   ██████░░░░░░░░░░░░░░░░░░░  23.62%
-dots           45m 13s      ███░░░░░░░░░░░░░░░░░░░░░░  10.15%
-2026-rebuilt   12m 55s      █░░░░░░░░░░░░░░░░░░░░░░░░  2.90%
-emojibot       6m 42s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.50%
+2026-ectf      3h 54m 38s   █████████████░░░░░░░░░░░░  51.04%
+nocturn        1h 45m 17s   ██████░░░░░░░░░░░░░░░░░░░  22.90%
+dots           45m 13s      ███░░░░░░░░░░░░░░░░░░░░░░  9.84%
+2026-rebuilt   12m 55s      █░░░░░░░░░░░░░░░░░░░░░░░░  2.81%
+emojibot       6m 42s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.46%
 
-Total: 16 hrs 45 mins
+Total: 17 hrs 8 mins
 ```
 
 #### 📮  Want to contact me?
