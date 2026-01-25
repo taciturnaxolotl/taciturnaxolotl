@@ -5,12 +5,12 @@ When not doing school or working on a random project, I enjoy flying drones and 
 #### 🏗️  The latest repos I've pushed to
 
 - [`2026-rebuilt`](https://github.com/df1317/2026-rebuilt) - _pyramid scheme_ **(1 day ago)**
-- [`dots`](https://github.com/taciturnaxolotl/dots) - _Kieran's opinionated (and ever expanding) nix config_ **(2 days ago)**
-- [`herald`](https://github.com/taciturnaxolotl/herald) - _rss email digests over ssh because you're a cool kid_ **(3 days ago)**
+- [`dots`](https://github.com/taciturnaxolotl/dots) - _Kieran's opinionated (and ever expanding) nix config_ **(1 day ago)**
+- [`herald`](https://github.com/taciturnaxolotl/herald) - _rss email digests over ssh because you're a cool kid_ **(1 day ago)**
 - [`indiko`](https://github.com/taciturnaxolotl/indiko) - _indieauth and oauth 2.0 compatible auth server for my homelab_ **(1 week ago)**
 - [`nur`](https://github.com/charmbracelet/nur) - __ **(1 week ago)**
-- [`strings`](https://github.com/jaspermayone/strings) - _simple strings server for the wentworth coding club_ **(1 week ago)**
 - [`zera`](https://github.com/taciturnaxolotl/zera) - _my new site v4?_ **(1 week ago)**
+- [`strings`](https://github.com/jaspermayone/strings) - _simple strings server for the wentworth coding club_ **(1 week ago)**
 - [`pipes`](https://github.com/taciturnaxolotl/pipes) - __ **(2 weeks ago)**
 
 #### 📦  My latest projects
@@ -30,20 +30,20 @@ When not doing school or working on a random project, I enjoy flying drones and 
 
 ```text
 💾 Languages:
-Unknown        5h 31m 52s   █████████████████████░░░░  80.62%
-C              8m 49s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.15%
-Markdown       8m 9s        █░░░░░░░░░░░░░░░░░░░░░░░░  1.98%
-C/c++          6m 2s        █░░░░░░░░░░░░░░░░░░░░░░░░  1.47%
-Zig            5m 51s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.42%
+Unknown        5h 55m 24s   █████████████████████░░░░  81.46%
+C              8m 49s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.02%
+Markdown       8m 9s        █░░░░░░░░░░░░░░░░░░░░░░░░  1.87%
+C/c++          6m 2s        █░░░░░░░░░░░░░░░░░░░░░░░░  1.38%
+Zig            5m 51s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.34%
 
 💼 Projects:
-2026-ectf      3h 6m 15s    ████████████░░░░░░░░░░░░░  44.39%
-nocturn        1h 45m 17s   ███████░░░░░░░░░░░░░░░░░░  25.10%
-dots           55m 48s      ████░░░░░░░░░░░░░░░░░░░░░  13.30%
-2026-rebuilt   16m 50s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.01%
-frc-nix        6m 10s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.47%
+2026-ectf      3h 12m 36s   ███████████░░░░░░░░░░░░░░  43.90%
+nocturn        1h 45m 17s   ██████░░░░░░░░░░░░░░░░░░░  24.00%
+dots           58m 51s      ████░░░░░░░░░░░░░░░░░░░░░  13.42%
+2026-rebuilt   16m 50s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.84%
+herald         6m 42s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.53%
 
-Total: 16 hrs 14 mins
+Total: 17 hrs 15 mins
 ```
 
 #### 📮  Want to contact me?
