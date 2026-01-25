@@ -4,14 +4,14 @@ When not doing school or working on a random project, I enjoy flying drones and 
 
 #### 🏗️  The latest repos I've pushed to
 
-- [`dots`](https://github.com/taciturnaxolotl/dots) - _Kieran's opinionated (and ever expanding) nix config_ **(1 day ago)**
-- [`herald`](https://github.com/taciturnaxolotl/herald) - _rss email digests over ssh because you're a cool kid_ **(2 days ago)**
-- [`2026-rebuilt`](https://github.com/df1317/2026-rebuilt) - _pyramid scheme_ **(5 days ago)**
+- [`2026-rebuilt`](https://github.com/df1317/2026-rebuilt) - _pyramid scheme_ **(1 day ago)**
+- [`dots`](https://github.com/taciturnaxolotl/dots) - _Kieran's opinionated (and ever expanding) nix config_ **(2 days ago)**
+- [`herald`](https://github.com/taciturnaxolotl/herald) - _rss email digests over ssh because you're a cool kid_ **(3 days ago)**
 - [`indiko`](https://github.com/taciturnaxolotl/indiko) - _indieauth and oauth 2.0 compatible auth server for my homelab_ **(1 week ago)**
 - [`nur`](https://github.com/charmbracelet/nur) - __ **(1 week ago)**
-- [`zera`](https://github.com/taciturnaxolotl/zera) - _my new site v4?_ **(1 week ago)**
 - [`strings`](https://github.com/jaspermayone/strings) - _simple strings server for the wentworth coding club_ **(1 week ago)**
-- [`pipes`](https://github.com/taciturnaxolotl/pipes) - __ **(1 week ago)**
+- [`zera`](https://github.com/taciturnaxolotl/zera) - _my new site v4?_ **(1 week ago)**
+- [`pipes`](https://github.com/taciturnaxolotl/pipes) - __ **(2 weeks ago)**
 
 #### 📦  My latest projects
 
@@ -22,7 +22,7 @@ When not doing school or working on a random project, I enjoy flying drones and 
 
 #### 🪧  The latest posts from [`dunkirk.sh`](https://dunkirk.sh)
 
-- [`FRC REBUILT Points Calculator`](https://dunkirk.sh/blog/frc-rebuilt-calculator/) **(1 week ago)**
+- [`FRC REBUILT Points Calculator`](https://dunkirk.sh/blog/frc-rebuilt-calculator/) **(2 weeks ago)**
 - [`Homelab tour`](https://dunkirk.sh/blog/homelab-tour/) **(1 month ago)**
 - [`Novel phishing tactic using github notifications`](https://dunkirk.sh/blog/github-phishing/) **(3 months ago)**
 
@@ -30,20 +30,20 @@ When not doing school or working on a random project, I enjoy flying drones and 
 
 ```text
 💾 Languages:
-Unknown        5h 28m 56s   █████████████████████░░░░  80.49%
-C              8m 49s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.16%
-Markdown       8m 9s        █░░░░░░░░░░░░░░░░░░░░░░░░  2.00%
-C/c++          6m 2s        █░░░░░░░░░░░░░░░░░░░░░░░░  1.48%
-Zig            5m 51s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.43%
+Unknown        5h 31m 52s   █████████████████████░░░░  80.62%
+C              8m 49s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.15%
+Markdown       8m 9s        █░░░░░░░░░░░░░░░░░░░░░░░░  1.98%
+C/c++          6m 2s        █░░░░░░░░░░░░░░░░░░░░░░░░  1.47%
+Zig            5m 51s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.42%
 
 💼 Projects:
-2026-ectf      3h 6m 15s    ████████████░░░░░░░░░░░░░  44.88%
-nocturn        1h 45m 17s   ███████░░░░░░░░░░░░░░░░░░  25.37%
-dots           55m 48s      ████░░░░░░░░░░░░░░░░░░░░░  13.45%
-2026-rebuilt   15m 32s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.75%
-frc-nix        6m 10s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.49%
+2026-ectf      3h 6m 15s    ████████████░░░░░░░░░░░░░  44.39%
+nocturn        1h 45m 17s   ███████░░░░░░░░░░░░░░░░░░  25.10%
+dots           55m 48s      ████░░░░░░░░░░░░░░░░░░░░░  13.30%
+2026-rebuilt   16m 50s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.01%
+frc-nix        6m 10s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.47%
 
-Total: 15 hrs 59 mins
+Total: 16 hrs 14 mins
 ```
 
 #### 📮  Want to contact me?
