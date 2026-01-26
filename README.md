@@ -6,19 +6,19 @@ When not doing school or working on a random project, I enjoy flying drones and 
 
 - [`dots`](https://github.com/taciturnaxolotl/dots) - _Kieran's opinionated (and ever expanding) nix config_ **(today)**
 - [`l4`](https://github.com/taciturnaxolotl/l4) - _the l4 cache_ **(1 day ago)**
-- [`cachet`](https://github.com/taciturnaxolotl/cachet) - _a cache for slack profile pictures and emojis_ **(1 day ago)**
 - [`img`](https://github.com/taciturnaxolotl/img) - _lightweight image tools_ **(1 day ago)**
-- [`herald`](https://github.com/taciturnaxolotl/herald) - _rss email digests over ssh because you're a cool kid_ **(2 days ago)**
+- [`cachet`](https://github.com/taciturnaxolotl/cachet) - _a cache for slack profile pictures and emojis_ **(1 day ago)**
 - [`2026-rebuilt`](https://github.com/df1317/2026-rebuilt) - _pyramid scheme_ **(2 days ago)**
-- [`nocturn`](https://github.com/taciturnaxolotl/nocturn) - _a very neat project_ **(3 days ago)**
+- [`herald`](https://github.com/taciturnaxolotl/herald) - _rss email digests over ssh because you're a cool kid_ **(2 days ago)**
 - [`indiko`](https://github.com/taciturnaxolotl/indiko) - _indieauth and oauth 2.0 compatible auth server for my homelab_ **(1 week ago)**
+- [`nur`](https://github.com/charmbracelet/nur) - __ **(1 week ago)**
 
 #### 📦  My latest projects
 
 - [`img`](https://github.com/taciturnaxolotl/img) - _lightweight image tools_
-- [`nocturn`](https://github.com/taciturnaxolotl/nocturn) - _a very neat project_
 - [`herald`](https://github.com/taciturnaxolotl/herald) - _rss email digests over ssh because you're a cool kid_
 - [`garden`](https://github.com/taciturnaxolotl/garden) - _my hashcards repo_
+- [`cedrus`](https://github.com/taciturnaxolotl/cedrus) - _downloads cedarville publishing books as pdf_
 
 #### 🪧  The latest posts from [`dunkirk.sh`](https://dunkirk.sh)
 
@@ -30,20 +30,20 @@ When not doing school or working on a random project, I enjoy flying drones and 
 
 ```text
 💾 Languages:
-Unknown        8h 10m 55s   ██████████████████████░░░  84.90%
-Markdown       9m 36s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.66%
-C              8m 49s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.53%
-C/c++          6m 2s        █░░░░░░░░░░░░░░░░░░░░░░░░  1.04%
-JavaScript     5m 58s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.03%
+Unknown        8h 14m 41s   ██████████████████████░░░  84.71%
+Markdown       9m 36s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.65%
+C              8m 49s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.51%
+C/c++          6m 2s        █░░░░░░░░░░░░░░░░░░░░░░░░  1.03%
+JavaScript     5m 58s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.02%
 
 💼 Projects:
-2026-ectf      4h 49m 36s   █████████████░░░░░░░░░░░░  50.17%
-nocturn        1h 46m 27s   █████░░░░░░░░░░░░░░░░░░░░  18.44%
-dots           1h 1m 7s     ███░░░░░░░░░░░░░░░░░░░░░░  10.59%
-2026-rebuilt   12m 55s      █░░░░░░░░░░░░░░░░░░░░░░░░  2.24%
-img            11m 27s      █░░░░░░░░░░░░░░░░░░░░░░░░  1.99%
+2026-ectf      4h 49m 36s   █████████████░░░░░░░░░░░░  49.60%
+nocturn        1h 46m 51s   █████░░░░░░░░░░░░░░░░░░░░  18.30%
+dots           1h 1m 7s     ███░░░░░░░░░░░░░░░░░░░░░░  10.47%
+2026-rebuilt   12m 55s      █░░░░░░░░░░░░░░░░░░░░░░░░  2.21%
+img            11m 27s      █░░░░░░░░░░░░░░░░░░░░░░░░  1.96%
 
-Total: 21 hrs 12 mins
+Total: 21 hrs 26 mins
 ```
 
 #### 📮  Want to contact me?
