@@ -4,21 +4,21 @@ When not doing school or working on a random project, I enjoy flying drones and 
 
 #### 🏗️  The latest repos I've pushed to
 
-- [`cachet`](https://github.com/taciturnaxolotl/cachet) - _a cache for slack profile pictures and emojis_ **(today)**
-- [`2026-rebuilt`](https://github.com/df1317/2026-rebuilt) - _pyramid scheme_ **(1 day ago)**
-- [`herald`](https://github.com/taciturnaxolotl/herald) - _rss email digests over ssh because you're a cool kid_ **(1 day ago)**
-- [`dots`](https://github.com/taciturnaxolotl/dots) - _Kieran's opinionated (and ever expanding) nix config_ **(1 day ago)**
+- [`cachet`](https://github.com/taciturnaxolotl/cachet) - _a cache for slack profile pictures and emojis_ **(1 day ago)**
+- [`2026-rebuilt`](https://github.com/df1317/2026-rebuilt) - _pyramid scheme_ **(2 days ago)**
+- [`dots`](https://github.com/taciturnaxolotl/dots) - _Kieran's opinionated (and ever expanding) nix config_ **(2 days ago)**
+- [`herald`](https://github.com/taciturnaxolotl/herald) - _rss email digests over ssh because you're a cool kid_ **(2 days ago)**
+- [`nocturn`](https://github.com/taciturnaxolotl/nocturn) - _a very neat project_ **(3 days ago)**
 - [`indiko`](https://github.com/taciturnaxolotl/indiko) - _indieauth and oauth 2.0 compatible auth server for my homelab_ **(1 week ago)**
 - [`nur`](https://github.com/charmbracelet/nur) - __ **(1 week ago)**
-- [`strings`](https://github.com/jaspermayone/strings) - _simple strings server for the wentworth coding club_ **(1 week ago)**
 - [`zera`](https://github.com/taciturnaxolotl/zera) - _my new site v4?_ **(1 week ago)**
 
 #### 📦  My latest projects
 
+- [`nocturn`](https://github.com/taciturnaxolotl/nocturn) - _a very neat project_
 - [`herald`](https://github.com/taciturnaxolotl/herald) - _rss email digests over ssh because you're a cool kid_
 - [`garden`](https://github.com/taciturnaxolotl/garden) - _my hashcards repo_
 - [`cedrus`](https://github.com/taciturnaxolotl/cedrus) - _downloads cedarville publishing books as pdf_
-- [`pipes`](https://github.com/taciturnaxolotl/pipes) - __
 
 #### 🪧  The latest posts from [`dunkirk.sh`](https://dunkirk.sh)
 
@@ -30,20 +30,20 @@ When not doing school or working on a random project, I enjoy flying drones and 
 
 ```text
 💾 Languages:
-Unknown        7h 14m 46s   ██████████████████████░░░  84.71%
-C              8m 49s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.72%
-Markdown       8m 9s        █░░░░░░░░░░░░░░░░░░░░░░░░  1.59%
-C/c++          6m 2s        █░░░░░░░░░░░░░░░░░░░░░░░░  1.18%
-Zig            5m 51s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.14%
+Unknown        7h 25m 3s    ██████████████████████░░░  85.01%
+C              8m 49s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.69%
+Markdown       8m 9s        █░░░░░░░░░░░░░░░░░░░░░░░░  1.56%
+C/c++          6m 2s        █░░░░░░░░░░░░░░░░░░░░░░░░  1.15%
+Zig            5m 51s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.12%
 
 💼 Projects:
-2026-ectf      4h 48m 50s   ███████████████░░░░░░░░░░  56.20%
-nocturn        1h 45m 17s   ██████░░░░░░░░░░░░░░░░░░░  20.49%
-dots           45m 13s      ███░░░░░░░░░░░░░░░░░░░░░░  8.80%
-2026-rebuilt   12m 55s      █░░░░░░░░░░░░░░░░░░░░░░░░  2.51%
-herald         6m 42s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.31%
+2026-ectf      4h 49m 36s   ██████████████░░░░░░░░░░░  55.37%
+nocturn        1h 46m 27s   ██████░░░░░░░░░░░░░░░░░░░  20.36%
+dots           49m 49s      ███░░░░░░░░░░░░░░░░░░░░░░  9.53%
+2026-rebuilt   12m 55s      █░░░░░░░░░░░░░░░░░░░░░░░░  2.47%
+emojibot       6m 42s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.28%
 
-Total: 18 hrs 38 mins
+Total: 19 hrs 13 mins
 ```
 
 #### 📮  Want to contact me?
