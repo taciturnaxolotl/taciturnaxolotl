@@ -4,12 +4,12 @@ When not doing school or working on a random project, I enjoy flying drones and 
 
 #### 🏗️  The latest repos I've pushed to
 
-- [`ennote`](https://github.com/taciturnaxolotl/ennote) - _the best notes app for me_ **(today)**
-- [`cachet`](https://github.com/taciturnaxolotl/cachet) - _a cache for slack profile pictures and emojis_ **(today)**
 - [`2026-ectf-insecure-example`](https://github.com/ectfmitre/2026-ectf-insecure-example) - __ **(today)**
+- [`cachet`](https://github.com/taciturnaxolotl/cachet) - _a cache for slack profile pictures and emojis_ **(today)**
+- [`ennote`](https://github.com/taciturnaxolotl/ennote) - _the best notes app for me_ **(today)**
 - [`dots`](https://github.com/taciturnaxolotl/dots) - _Kieran's opinionated (and ever expanding) nix config_ **(1 day ago)**
-- [`img`](https://github.com/taciturnaxolotl/img) - _lightweight image tools_ **(2 days ago)**
 - [`l4`](https://github.com/taciturnaxolotl/l4) - _the l4 cache_ **(2 days ago)**
+- [`img`](https://github.com/taciturnaxolotl/img) - _lightweight image tools_ **(2 days ago)**
 - [`herald`](https://github.com/taciturnaxolotl/herald) - _rss email digests over ssh because you're a cool kid_ **(3 days ago)**
 - [`2026-rebuilt`](https://github.com/df1317/2026-rebuilt) - _pyramid scheme_ **(3 days ago)**
 
@@ -30,20 +30,20 @@ When not doing school or working on a random project, I enjoy flying drones and 
 
 ```text
 💾 Languages:
-Unknown      8h 44m 42s   █████████████████████░░░░  83.49%
-Go           14m 42s      █░░░░░░░░░░░░░░░░░░░░░░░░  2.34%
-C            8m 49s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.41%
+Unknown      8h 46m 18s   █████████████████████░░░░  83.54%
+Go           14m 42s      █░░░░░░░░░░░░░░░░░░░░░░░░  2.33%
+C            8m 49s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.40%
 Markdown     7m 29s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.19%
 JavaScript   7m 3s        █░░░░░░░░░░░░░░░░░░░░░░░░  1.12%
 
 💼 Projects:
-2026-ectf    4h 49m 36s   ████████████░░░░░░░░░░░░░  46.46%
-nocturn      1h 46m 51s   █████░░░░░░░░░░░░░░░░░░░░  17.14%
-dots         56m 1s       ███░░░░░░░░░░░░░░░░░░░░░░  8.99%
-crush        51m 3s       ███░░░░░░░░░░░░░░░░░░░░░░  8.19%
+2026-ectf    4h 49m 36s   ████████████░░░░░░░░░░░░░  46.35%
+nocturn      1h 46m 51s   █████░░░░░░░░░░░░░░░░░░░░  17.10%
+dots         56m 1s       ███░░░░░░░░░░░░░░░░░░░░░░  8.97%
+crush        52m 17s      ███░░░░░░░░░░░░░░░░░░░░░░  8.37%
 img          11m 27s      █░░░░░░░░░░░░░░░░░░░░░░░░  1.84%
 
-Total: 23 hrs 16 mins
+Total: 23 hrs 28 mins
 ```
 
 #### 📮  Want to contact me?
