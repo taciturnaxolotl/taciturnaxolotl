@@ -4,14 +4,14 @@ When not doing school or working on a random project, I enjoy flying drones and 
 
 #### 🏗️  The latest repos I've pushed to
 
+- [`2026-ectf-insecure-example`](https://github.com/ectfmitre/2026-ectf-insecure-example) - __ **(today)**
+- [`cachet`](https://github.com/taciturnaxolotl/cachet) - _a cache for slack profile pictures and emojis_ **(1 day ago)**
 - [`dots`](https://github.com/taciturnaxolotl/dots) - _Kieran's opinionated (and ever expanding) nix config_ **(1 day ago)**
 - [`ennote`](https://github.com/taciturnaxolotl/ennote) - _the best notes app for me_ **(1 day ago)**
-- [`cachet`](https://github.com/taciturnaxolotl/cachet) - _a cache for slack profile pictures and emojis_ **(1 day ago)**
-- [`l4`](https://github.com/taciturnaxolotl/l4) - _the l4 cache_ **(2 days ago)**
 - [`img`](https://github.com/taciturnaxolotl/img) - _lightweight image tools_ **(2 days ago)**
-- [`herald`](https://github.com/taciturnaxolotl/herald) - _rss email digests over ssh because you're a cool kid_ **(3 days ago)**
+- [`l4`](https://github.com/taciturnaxolotl/l4) - _the l4 cache_ **(2 days ago)**
 - [`2026-rebuilt`](https://github.com/df1317/2026-rebuilt) - _pyramid scheme_ **(3 days ago)**
-- [`indiko`](https://github.com/taciturnaxolotl/indiko) - _indieauth and oauth 2.0 compatible auth server for my homelab_ **(1 week ago)**
+- [`herald`](https://github.com/taciturnaxolotl/herald) - _rss email digests over ssh because you're a cool kid_ **(3 days ago)**
 
 #### 📦  My latest projects
 
