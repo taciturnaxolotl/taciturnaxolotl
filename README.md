@@ -4,12 +4,12 @@ When not doing school or working on a random project, I enjoy flying drones and 
 
 #### 🏗️  The latest repos I've pushed to
 
-- [`dots`](https://github.com/taciturnaxolotl/dots) - _Kieran's opinionated (and ever expanding) nix config_ **(2 days ago)**
+- [`img`](https://github.com/taciturnaxolotl/img) - _lightweight image tools_ **(1 day ago)**
 - [`2026-ectf-insecure-example`](https://github.com/ectfmitre/2026-ectf-insecure-example) - __ **(2 days ago)**
-- [`cachet`](https://github.com/taciturnaxolotl/cachet) - _a cache for slack profile pictures and emojis_ **(2 days ago)**
 - [`ennote`](https://github.com/taciturnaxolotl/ennote) - _the best notes app for me_ **(2 days ago)**
+- [`cachet`](https://github.com/taciturnaxolotl/cachet) - _a cache for slack profile pictures and emojis_ **(2 days ago)**
+- [`dots`](https://github.com/taciturnaxolotl/dots) - _Kieran's opinionated (and ever expanding) nix config_ **(2 days ago)**
 - [`2026-rebuilt`](https://github.com/df1317/2026-rebuilt) - _pyramid scheme_ **(4 days ago)**
-- [`img`](https://github.com/taciturnaxolotl/img) - _lightweight image tools_ **(4 days ago)**
 - [`l4`](https://github.com/taciturnaxolotl/l4) - _the l4 cache_ **(4 days ago)**
 - [`herald`](https://github.com/taciturnaxolotl/herald) - _rss email digests over ssh because you're a cool kid_ **(5 days ago)**
 
@@ -30,20 +30,20 @@ When not doing school or working on a random project, I enjoy flying drones and 
 
 ```text
 💾 Languages:
-Unknown      8h 27m 21s   ██████████████████████░░░  86.84%
-Go           14m 42s      █░░░░░░░░░░░░░░░░░░░░░░░░  2.52%
-Bash         7m 13s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.24%
-JavaScript   7m 3s        █░░░░░░░░░░░░░░░░░░░░░░░░  1.21%
-Zig          5m 51s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.00%
+Unknown      8h 38m 3s    ██████████████████████░░░  87.08%
+Go           14m 42s      █░░░░░░░░░░░░░░░░░░░░░░░░  2.47%
+Bash         7m 13s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.21%
+JavaScript   7m 3s        █░░░░░░░░░░░░░░░░░░░░░░░░  1.19%
+Zig          5m 51s       █░░░░░░░░░░░░░░░░░░░░░░░░  0.98%
 
 💼 Projects:
-2026-ectf    4h 17m 36s   ████████████░░░░░░░░░░░░░  44.58%
-nocturn      1h 46m 51s   █████░░░░░░░░░░░░░░░░░░░░  18.49%
-crush        55m 22s      ███░░░░░░░░░░░░░░░░░░░░░░  9.58%
-dots         44m 19s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.67%
-img          11m 27s      █░░░░░░░░░░░░░░░░░░░░░░░░  1.98%
+2026-ectf    4h 17m 36s   ████████████░░░░░░░░░░░░░  44.01%
+nocturn      1h 46m 51s   █████░░░░░░░░░░░░░░░░░░░░  18.26%
+crush        59m 31s      ███░░░░░░░░░░░░░░░░░░░░░░  10.17%
+dots         44m 19s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.57%
+img          13m 15s      █░░░░░░░░░░░░░░░░░░░░░░░░  2.27%
 
-Total: 22 hrs 42 mins
+Total: 23 hrs 19 mins
 ```
 
 #### 📮  Want to contact me?
