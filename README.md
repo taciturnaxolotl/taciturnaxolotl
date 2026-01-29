@@ -4,14 +4,14 @@ When not doing school or working on a random project, I enjoy flying drones and 
 
 #### 🏗️  The latest repos I've pushed to
 
-- [`dots`](https://github.com/taciturnaxolotl/dots) - _Kieran's opinionated (and ever expanding) nix config_ **(1 day ago)**
-- [`2026-ectf-insecure-example`](https://github.com/ectfmitre/2026-ectf-insecure-example) - __ **(1 day ago)**
-- [`cachet`](https://github.com/taciturnaxolotl/cachet) - _a cache for slack profile pictures and emojis_ **(1 day ago)**
-- [`ennote`](https://github.com/taciturnaxolotl/ennote) - _the best notes app for me_ **(1 day ago)**
-- [`2026-rebuilt`](https://github.com/df1317/2026-rebuilt) - _pyramid scheme_ **(3 days ago)**
-- [`img`](https://github.com/taciturnaxolotl/img) - _lightweight image tools_ **(3 days ago)**
-- [`l4`](https://github.com/taciturnaxolotl/l4) - _the l4 cache_ **(3 days ago)**
-- [`herald`](https://github.com/taciturnaxolotl/herald) - _rss email digests over ssh because you're a cool kid_ **(4 days ago)**
+- [`dots`](https://github.com/taciturnaxolotl/dots) - _Kieran's opinionated (and ever expanding) nix config_ **(2 days ago)**
+- [`2026-ectf-insecure-example`](https://github.com/ectfmitre/2026-ectf-insecure-example) - __ **(2 days ago)**
+- [`cachet`](https://github.com/taciturnaxolotl/cachet) - _a cache for slack profile pictures and emojis_ **(2 days ago)**
+- [`ennote`](https://github.com/taciturnaxolotl/ennote) - _the best notes app for me_ **(2 days ago)**
+- [`2026-rebuilt`](https://github.com/df1317/2026-rebuilt) - _pyramid scheme_ **(4 days ago)**
+- [`img`](https://github.com/taciturnaxolotl/img) - _lightweight image tools_ **(4 days ago)**
+- [`l4`](https://github.com/taciturnaxolotl/l4) - _the l4 cache_ **(4 days ago)**
+- [`herald`](https://github.com/taciturnaxolotl/herald) - _rss email digests over ssh because you're a cool kid_ **(5 days ago)**
 
 #### 📦  My latest projects
 
@@ -43,7 +43,7 @@ crush        55m 22s      ███░░░░░░░░░░░░░░░
 dots         44m 19s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.67%
 img          11m 27s      █░░░░░░░░░░░░░░░░░░░░░░░░  1.98%
 
-Total: 22 hrs 40 mins
+Total: 22 hrs 42 mins
 ```
 
 #### 📮  Want to contact me?
