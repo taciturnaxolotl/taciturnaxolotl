@@ -4,8 +4,8 @@ When not doing school or working on a random project, I enjoy flying drones and 
 
 #### 🏗️  The latest repos I've pushed to
 
-- [`wasup-chucks`](https://github.com/taciturnaxolotl/wasup-chucks) - _ios widget showing what is available at chucks_ **(1 day ago)**
 - [`dots`](https://github.com/taciturnaxolotl/dots) - _Kieran's opinionated (and ever expanding) nix config_ **(1 day ago)**
+- [`wasup-chucks`](https://github.com/taciturnaxolotl/wasup-chucks) - _ios widget showing what is available at chucks_ **(1 day ago)**
 - [`ennote`](https://github.com/taciturnaxolotl/ennote) - _the best notes app for me_ **(1 day ago)**
 - [`cachet`](https://github.com/taciturnaxolotl/cachet) - _a cache for slack profile pictures and emojis_ **(2 days ago)**
 - [`img`](https://github.com/taciturnaxolotl/img) - _lightweight image tools_ **(3 days ago)**
@@ -30,20 +30,20 @@ When not doing school or working on a random project, I enjoy flying drones and 
 
 ```text
 💾 Languages:
-Unknown      9h 22m 22s   ██████████████████████░░░  85.62%
-Go           41m 6s       ██░░░░░░░░░░░░░░░░░░░░░░░  6.26%
-Bash         7m 13s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.10%
-JavaScript   7m 3s        █░░░░░░░░░░░░░░░░░░░░░░░░  1.07%
-Markdown     6m 12s       █░░░░░░░░░░░░░░░░░░░░░░░░  0.95%
+Unknown        7h 38m 38s   ██████████████████████░░░  84.29%
+Go             41m 6s       ██░░░░░░░░░░░░░░░░░░░░░░░  7.56%
+JavaScript     7m 3s        █░░░░░░░░░░░░░░░░░░░░░░░░  1.30%
+Bash           5m 37s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.03%
+Nix            4m 55s       █░░░░░░░░░░░░░░░░░░░░░░░░  0.91%
 
 💼 Projects:
-crush        2h 18m 22s   ██████░░░░░░░░░░░░░░░░░░░  22.39%
-2026-ectf    2h 7m 57s    ██████░░░░░░░░░░░░░░░░░░░  20.70%
-nocturn      1h 46m 51s   █████░░░░░░░░░░░░░░░░░░░░  17.29%
-dots         1h 18m 22s   ████░░░░░░░░░░░░░░░░░░░░░  12.68%
-kierank      18m 16s      █░░░░░░░░░░░░░░░░░░░░░░░░  2.96%
+crush          2h 18m 22s   ███████░░░░░░░░░░░░░░░░░░  27.55%
+2026-ectf      2h 2m 15s    ███████░░░░░░░░░░░░░░░░░░  24.34%
+dots           1h 8m 29s    ████░░░░░░░░░░░░░░░░░░░░░  13.64%
+kierank        18m 16s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.64%
+2026-rebuilt   15m 45s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.14%
 
-Total: 25 hrs 50 mins
+Total: 19 hrs 54 mins
 ```
 
 #### 📮  Want to contact me?
