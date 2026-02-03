@@ -4,8 +4,8 @@ When not doing school or working on a random project, I enjoy flying drones and 
 
 #### 🏗️  The latest repos I've pushed to
 
-- [`wasup-chucks`](https://github.com/taciturnaxolotl/wasup-chucks) - _ios widget showing what is available at chucks_ **(1 day ago)**
 - [`dots`](https://github.com/taciturnaxolotl/dots) - _Kieran's opinionated (and ever expanding) nix config_ **(1 day ago)**
+- [`wasup-chucks`](https://github.com/taciturnaxolotl/wasup-chucks) - _ios widget showing what is available at chucks_ **(1 day ago)**
 - [`zera`](https://github.com/taciturnaxolotl/zera) - _my new site v4?_ **(3 days ago)**
 - [`ennote`](https://github.com/taciturnaxolotl/ennote) - _the best notes app for me_ **(4 days ago)**
 - [`cachet`](https://github.com/taciturnaxolotl/cachet) - _a cache for slack profile pictures and emojis_ **(5 days ago)**
@@ -30,20 +30,20 @@ When not doing school or working on a random project, I enjoy flying drones and 
 
 ```text
 💾 Languages:
-Unknown        4h 37m 19s   ███████████████████░░░░░░  75.89%
-Go             38m 6s       ███░░░░░░░░░░░░░░░░░░░░░░  10.43%
-C++            9m 22s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.56%
-Nix            4m 55s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.35%
-JavaScript     4m 38s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.27%
+Unknown        4h 39m 47s   ████████████████████░░░░░  76.05%
+Go             38m 6s       ███░░░░░░░░░░░░░░░░░░░░░░  10.36%
+C++            9m 22s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.55%
+Nix            4m 55s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.34%
+JavaScript     4m 38s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.26%
 
 💼 Projects:
-crush          1h 47m 17s   █████████░░░░░░░░░░░░░░░░  32.81%
-dots           47m 31s      ████░░░░░░░░░░░░░░░░░░░░░  14.53%
-kierank        31m 23s      ███░░░░░░░░░░░░░░░░░░░░░░  9.60%
-2026-ectf      18m 55s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.79%
-wasup-chucks   18m 12s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.57%
+crush          1h 47m 17s   █████████░░░░░░░░░░░░░░░░  32.56%
+dots           47m 31s      ████░░░░░░░░░░░░░░░░░░░░░  14.42%
+kierank        31m 25s      ███░░░░░░░░░░░░░░░░░░░░░░  9.54%
+wasup-chucks   20m 41s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.28%
+2026-ectf      18m 55s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.74%
 
-Total: 13 hrs 38 mins
+Total: 13 hrs 45 mins
 ```
 
 #### 📮  Want to contact me?
