@@ -4,21 +4,21 @@ When not doing school or working on a random project, I enjoy flying drones and 
 
 #### 🏗️  The latest repos I've pushed to
 
+- [`wasup-chucks`](https://github.com/taciturnaxolotl/wasup-chucks) - _ios widget showing what is available at chucks_ **(today)**
+- [`bcd-optimization`](https://github.com/taciturnaxolotl/bcd-optimization) - _optimizing a gate level bcm to the end of the earth and back_ **(today)**
 - [`dots`](https://github.com/taciturnaxolotl/dots) - _Kieran's opinionated (and ever expanding) nix config_ **(1 day ago)**
-- [`wasup-chucks`](https://github.com/taciturnaxolotl/wasup-chucks) - _ios widget showing what is available at chucks_ **(1 day ago)**
 - [`zera`](https://github.com/taciturnaxolotl/zera) - _my new site v4?_ **(3 days ago)**
 - [`ennote`](https://github.com/taciturnaxolotl/ennote) - _the best notes app for me_ **(4 days ago)**
 - [`cachet`](https://github.com/taciturnaxolotl/cachet) - _a cache for slack profile pictures and emojis_ **(5 days ago)**
 - [`img`](https://github.com/taciturnaxolotl/img) - _lightweight image tools_ **(6 days ago)**
 - [`2026-ectf-insecure-example`](https://github.com/ectfmitre/2026-ectf-insecure-example) - __ **(1 week ago)**
-- [`2026-rebuilt`](https://github.com/df1317/2026-rebuilt) - _pyramid scheme_ **(1 week ago)**
 
 #### 📦  My latest projects
 
+- [`bcd-optimization`](https://github.com/taciturnaxolotl/bcd-optimization) - _optimizing a gate level bcm to the end of the earth and back_
 - [`wasup-chucks`](https://github.com/taciturnaxolotl/wasup-chucks) - _ios widget showing what is available at chucks_
 - [`ennote`](https://github.com/taciturnaxolotl/ennote) - _the best notes app for me_
 - [`img`](https://github.com/taciturnaxolotl/img) - _lightweight image tools_
-- [`herald`](https://github.com/taciturnaxolotl/herald) - _rss email digests over ssh because you're a cool kid_
 
 #### 🪧  The latest posts from [`dunkirk.sh`](https://dunkirk.sh)
 
@@ -30,20 +30,20 @@ When not doing school or working on a random project, I enjoy flying drones and 
 
 ```text
 💾 Languages:
-Unknown        4h 40m 11s   ████████████████████░░░░░  76.07%
-Go             38m 6s       ███░░░░░░░░░░░░░░░░░░░░░░  10.35%
-C++            9m 22s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.54%
-Nix            4m 55s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.34%
-JavaScript     4m 38s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.26%
+Unknown        4h 41m 54s   ████████████████████░░░░░  76.18%
+Go             38m 6s       ███░░░░░░░░░░░░░░░░░░░░░░  10.30%
+C++            9m 22s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.53%
+Nix            4m 55s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.33%
+JavaScript     4m 38s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.25%
 
 💼 Projects:
-crush          1h 47m 17s   █████████░░░░░░░░░░░░░░░░  32.52%
-dots           47m 31s      ████░░░░░░░░░░░░░░░░░░░░░  14.40%
-kierank        31m 25s      ███░░░░░░░░░░░░░░░░░░░░░░  9.53%
-wasup-chucks   21m 4s       ██░░░░░░░░░░░░░░░░░░░░░░░  6.39%
-2026-ectf      18m 55s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.73%
+crush          1h 47m 17s   █████████░░░░░░░░░░░░░░░░  32.26%
+dots           47m 31s      ████░░░░░░░░░░░░░░░░░░░░░  14.29%
+kierank        31m 25s      ███░░░░░░░░░░░░░░░░░░░░░░  9.45%
+wasup-chucks   21m 45s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.54%
+2026-ectf      18m 55s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.69%
 
-Total: 13 hrs 53 mins
+Total: 14 hrs 3 mins
 ```
 
 #### 📮  Want to contact me?
