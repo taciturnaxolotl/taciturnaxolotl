@@ -4,12 +4,12 @@ When not doing school or working on a random project, I enjoy flying drones and 
 
 #### 🏗️  The latest repos I've pushed to
 
-- [`wasup-chucks`](https://github.com/taciturnaxolotl/wasup-chucks) - _ios widget showing what is available at chucks_ **(today)**
-- [`zera`](https://github.com/taciturnaxolotl/zera) - _my new site v4?_ **(1 day ago)**
-- [`bcd-optimization`](https://github.com/taciturnaxolotl/bcd-optimization) - _optimizing a gate level bcm to the end of the earth and back_ **(1 day ago)**
-- [`dots`](https://github.com/taciturnaxolotl/dots) - _Kieran's opinionated (and ever expanding) nix config_ **(1 day ago)**
-- [`pinecilTime`](https://github.com/taciturnaxolotl/pinecilTime) - _wakatime on a pinecil / a nice native ios app for ironOS_ **(1 day ago)**
-- [`ennote`](https://github.com/taciturnaxolotl/ennote) - _the best notes app for me_ **(6 days ago)**
+- [`wasup-chucks`](https://github.com/taciturnaxolotl/wasup-chucks) - _ios widget showing what is available at chucks_ **(1 day ago)**
+- [`zera`](https://github.com/taciturnaxolotl/zera) - _my new site v4?_ **(2 days ago)**
+- [`bcd-optimization`](https://github.com/taciturnaxolotl/bcd-optimization) - _optimizing a gate level bcm to the end of the earth and back_ **(2 days ago)**
+- [`dots`](https://github.com/taciturnaxolotl/dots) - _Kieran's opinionated (and ever expanding) nix config_ **(2 days ago)**
+- [`pinecilTime`](https://github.com/taciturnaxolotl/pinecilTime) - _wakatime on a pinecil / a nice native ios app for ironOS_ **(2 days ago)**
+- [`ennote`](https://github.com/taciturnaxolotl/ennote) - _the best notes app for me_ **(1 week ago)**
 - [`cachet`](https://github.com/taciturnaxolotl/cachet) - _a cache for slack profile pictures and emojis_ **(1 week ago)**
 - [`img`](https://github.com/taciturnaxolotl/img) - _lightweight image tools_ **(1 week ago)**
 
@@ -30,20 +30,20 @@ When not doing school or working on a random project, I enjoy flying drones and 
 
 ```text
 💾 Languages:
-Unknown        5h 14m 35s   ████████████████████░░░░░  77.04%
-Go             28m 24s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.96%
-Python         13m 31s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.31%
-C++            9m 22s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.30%
-Nix            6m 55s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.69%
+Unknown        5h 25m 18s   ████████████████████░░░░░  77.09%
+Go             28m 24s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.73%
+Python         13m 31s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.21%
+C++            9m 22s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.22%
+Nix            6m 55s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.64%
 
 💼 Projects:
-crush          1h 18m 28s   ██████░░░░░░░░░░░░░░░░░░░  21.19%
-dots           50m 27s      ████░░░░░░░░░░░░░░░░░░░░░  13.63%
-kierank        30m 28s      ███░░░░░░░░░░░░░░░░░░░░░░  8.23%
-wasup-chucks   23m 57s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.47%
-2026-ectf      21m 50s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.90%
+crush          1h 18m 28s   ██████░░░░░░░░░░░░░░░░░░░  20.31%
+dots           50m 27s      ████░░░░░░░░░░░░░░░░░░░░░  13.06%
+kierank        30m 28s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.89%
+wasup-chucks   23m 57s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.20%
+2026-ectf      21m 50s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.65%
 
-Total: 15 hrs 44 mins
+Total: 16 hrs 7 mins
 ```
 
 #### 📮  Want to contact me?
