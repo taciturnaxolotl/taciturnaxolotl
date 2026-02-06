@@ -4,14 +4,14 @@ When not doing school or working on a random project, I enjoy flying drones and 
 
 #### 🏗️  The latest repos I've pushed to
 
+- [`img`](https://github.com/taciturnaxolotl/img) - _lightweight image tools_ **(today)**
 - [`dots`](https://github.com/taciturnaxolotl/dots) - _Kieran's opinionated (and ever expanding) nix config_ **(today)**
+- [`wasup-chucks`](https://github.com/taciturnaxolotl/wasup-chucks) - _ios widget showing what is available at chucks_ **(today)**
 - [`zera`](https://github.com/taciturnaxolotl/zera) - _my new site v4?_ **(1 day ago)**
-- [`wasup-chucks`](https://github.com/taciturnaxolotl/wasup-chucks) - _ios widget showing what is available at chucks_ **(1 day ago)**
 - [`bcd-optimization`](https://github.com/taciturnaxolotl/bcd-optimization) - _optimizing a gate level bcm to the end of the earth and back_ **(2 days ago)**
-- [`pinecilTime`](https://github.com/taciturnaxolotl/pinecilTime) - _wakatime on a pinecil / a nice native ios app for ironOS_ **(2 days ago)**
 - [`ennote`](https://github.com/taciturnaxolotl/ennote) - _the best notes app for me_ **(1 week ago)**
 - [`cachet`](https://github.com/taciturnaxolotl/cachet) - _a cache for slack profile pictures and emojis_ **(1 week ago)**
-- [`img`](https://github.com/taciturnaxolotl/img) - _lightweight image tools_ **(1 week ago)**
+- [`2026-rebuilt`](https://github.com/df1317/2026-rebuilt) - _pyramid scheme_ **(1 week ago)**
 
 #### 📦  My latest projects
 
@@ -30,20 +30,20 @@ When not doing school or working on a random project, I enjoy flying drones and 
 
 ```text
 💾 Languages:
-Unknown        5h 8m 35s   ███████████████████░░░░░░  75.04%
-Go             20m 55s     ██░░░░░░░░░░░░░░░░░░░░░░░  5.09%
-Python         13m 31s     █░░░░░░░░░░░░░░░░░░░░░░░░  3.29%
-C++            9m 22s      █░░░░░░░░░░░░░░░░░░░░░░░░  2.28%
-TypeScript     6m 58s      █░░░░░░░░░░░░░░░░░░░░░░░░  1.70%
+Unknown        5h 24m 17s   ███████████████████░░░░░░  75.59%
+Go             23m 1s       ██░░░░░░░░░░░░░░░░░░░░░░░  5.37%
+Python         13m 31s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.15%
+C++            9m 22s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.18%
+TypeScript     6m 58s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.63%
 
 💼 Projects:
-crush          55m 34s     ████░░░░░░░░░░░░░░░░░░░░░  14.49%
-dots           54m 45s     ████░░░░░░░░░░░░░░░░░░░░░  14.28%
-kierank        30m 28s     ██░░░░░░░░░░░░░░░░░░░░░░░  7.94%
-wasup-chucks   23m 57s     ██░░░░░░░░░░░░░░░░░░░░░░░  6.24%
-cedarlogic     22m 13s     ██░░░░░░░░░░░░░░░░░░░░░░░  5.79%
+crush          1h 10m 19s   █████░░░░░░░░░░░░░░░░░░░░  17.60%
+dots           54m 45s      ████░░░░░░░░░░░░░░░░░░░░░  13.70%
+kierank        30m 28s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.63%
+wasup-chucks   23m 57s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.00%
+cedarlogic     22m 13s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.56%
 
-Total: 15 hrs 58 mins
+Total: 16 hrs 37 mins
 ```
 
 #### 📮  Want to contact me?
