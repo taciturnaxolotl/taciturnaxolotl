@@ -4,7 +4,7 @@ When not doing school or working on a random project, I enjoy flying drones and 
 
 #### 🏗️  The latest repos I've pushed to
 
-- [`Cyber-Games`](https://github.com/CedarvilleCyber/Cyber-Games) - _Official NCAE Cyber Games Repo of the Cedarville Cyber Team_ **(1 day ago)**
+- [`Cyber-Games`](https://github.com/CedarvilleCyber/Cyber-Games) - _Official NCAE Cyber Games Repo of the Cedarville Cyber Team_ **(today)**
 - [`img`](https://github.com/taciturnaxolotl/img) - _lightweight image tools_ **(1 day ago)**
 - [`dots`](https://github.com/taciturnaxolotl/dots) - _Kieran's opinionated (and ever expanding) nix config_ **(1 day ago)**
 - [`wasup-chucks`](https://github.com/taciturnaxolotl/wasup-chucks) - _ios widget showing what is available at chucks_ **(1 day ago)**
@@ -30,8 +30,8 @@ When not doing school or working on a random project, I enjoy flying drones and 
 
 ```text
 💾 Languages:
-Unknown        4h 20m 23s   ███████████████████░░░░░░  74.59%
-Python         13m 31s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.88%
+Unknown        4h 20m 31s   ███████████████████░░░░░░  74.60%
+Python         13m 31s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.87%
 Go             11m 42s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.35%
 C++            9m 22s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.68%
 TypeScript     6m 58s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.00%
@@ -43,7 +43,7 @@ cedarlogic     22m 13s      ██░░░░░░░░░░░░░░░�
 2026-ectf      21m 50s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.48%
 wasup-chucks   21m 18s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.32%
 
-Total: 14 hrs 40 mins
+Total: 14 hrs 46 mins
 ```
 
 #### 📮  Want to contact me?
