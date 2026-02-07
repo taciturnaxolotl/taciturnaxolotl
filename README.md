@@ -6,8 +6,8 @@ When not doing school or working on a random project, I enjoy flying drones and 
 
 - [`Cyber-Games`](https://github.com/CedarvilleCyber/Cyber-Games) - _Official NCAE Cyber Games Repo of the Cedarville Cyber Team_ **(today)**
 - [`dots`](https://github.com/taciturnaxolotl/dots) - _Kieran's opinionated (and ever expanding) nix config_ **(today)**
-- [`img`](https://github.com/taciturnaxolotl/img) - _lightweight image tools_ **(1 day ago)**
 - [`wasup-chucks`](https://github.com/taciturnaxolotl/wasup-chucks) - _ios widget showing what is available at chucks_ **(1 day ago)**
+- [`img`](https://github.com/taciturnaxolotl/img) - _lightweight image tools_ **(1 day ago)**
 - [`zera`](https://github.com/taciturnaxolotl/zera) - _my new site v4?_ **(2 days ago)**
 - [`bcd-optimization`](https://github.com/taciturnaxolotl/bcd-optimization) - _optimizing a gate level bcm to the end of the earth and back_ **(3 days ago)**
 - [`ennote`](https://github.com/taciturnaxolotl/ennote) - _the best notes app for me_ **(1 week ago)**
@@ -30,20 +30,20 @@ When not doing school or working on a random project, I enjoy flying drones and 
 
 ```text
 💾 Languages:
-Unknown        4h 24m 39s   ███████████████████░░░░░░  74.50%
-Python         13m 31s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.81%
-Go             11m 42s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.30%
-C++            9m 22s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.64%
-Nix            8m 22s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.36%
+Unknown       4h 25m 57s   ███████████████████░░░░░░  72.90%
+Python        13m 31s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.71%
+Go            11m 42s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.21%
+Bash          11m 20s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.11%
+C++           9m 22s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.57%
 
 💼 Projects:
-crush          46m 53s      ████░░░░░░░░░░░░░░░░░░░░░  13.73%
-dots           29m 26s      ███░░░░░░░░░░░░░░░░░░░░░░  8.63%
-cedarlogic     22m 13s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.51%
-2026-ectf      21m 50s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.40%
-wasup-chucks   21m 18s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.24%
+crush         46m 53s      ████░░░░░░░░░░░░░░░░░░░░░  13.44%
+dots          29m 26s      ███░░░░░░░░░░░░░░░░░░░░░░  8.44%
+Cyber-Games   24m 51s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.13%
+cedarlogic    22m 13s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.37%
+2026-ectf     21m 50s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.26%
 
-Total: 14 hrs 58 mins
+Total: 15 hrs 21 mins
 ```
 
 #### 📮  Want to contact me?
