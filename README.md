@@ -4,14 +4,14 @@ When not doing school or working on a random project, I enjoy flying drones and 
 
 #### 🏗️  The latest repos I've pushed to
 
-- [`img`](https://github.com/taciturnaxolotl/img) - _lightweight image tools_ **(1 day ago)**
 - [`dots`](https://github.com/taciturnaxolotl/dots) - _Kieran's opinionated (and ever expanding) nix config_ **(1 day ago)**
+- [`Cyber-Games`](https://github.com/CedarvilleCyber/Cyber-Games) - _Official NCAE Cyber Games Repo of the Cedarville Cyber Team_ **(1 day ago)**
+- [`img`](https://github.com/taciturnaxolotl/img) - _lightweight image tools_ **(1 day ago)**
 - [`wasup-chucks`](https://github.com/taciturnaxolotl/wasup-chucks) - _ios widget showing what is available at chucks_ **(1 day ago)**
 - [`zera`](https://github.com/taciturnaxolotl/zera) - _my new site v4?_ **(2 days ago)**
 - [`bcd-optimization`](https://github.com/taciturnaxolotl/bcd-optimization) - _optimizing a gate level bcm to the end of the earth and back_ **(3 days ago)**
 - [`ennote`](https://github.com/taciturnaxolotl/ennote) - _the best notes app for me_ **(1 week ago)**
 - [`cachet`](https://github.com/taciturnaxolotl/cachet) - _a cache for slack profile pictures and emojis_ **(1 week ago)**
-- [`2026-rebuilt`](https://github.com/df1317/2026-rebuilt) - _pyramid scheme_ **(1 week ago)**
 
 #### 📦  My latest projects
 
@@ -30,20 +30,20 @@ When not doing school or working on a random project, I enjoy flying drones and 
 
 ```text
 💾 Languages:
-Unknown        5h 53m 21s   ███████████████████░░░░░░  75.78%
-Go             30m 38s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.57%
-Python         13m 31s      █░░░░░░░░░░░░░░░░░░░░░░░░  2.90%
-C++            9m 22s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.01%
-Nix            7m 20s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.57%
+Unknown        6h 17m 14s   ████████████████████░░░░░  76.55%
+Go             30m 38s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.22%
+Python         13m 31s      █░░░░░░░░░░░░░░░░░░░░░░░░  2.75%
+C++            9m 22s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.90%
+Nix            9m 16s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.88%
 
 💼 Projects:
-crush          1h 37m 28s   ██████░░░░░░░░░░░░░░░░░░░  22.53%
-dots           54m 49s      ████░░░░░░░░░░░░░░░░░░░░░  12.67%
-kierank        30m 28s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.04%
-wasup-chucks   24m 2s       ██░░░░░░░░░░░░░░░░░░░░░░░  5.55%
-cedarlogic     22m 13s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.14%
+crush          1h 37m 28s   ██████░░░░░░░░░░░░░░░░░░░  21.12%
+dots           59m 37s      ████░░░░░░░░░░░░░░░░░░░░░  12.92%
+kierank        30m 28s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.60%
+wasup-chucks   24m 2s       ██░░░░░░░░░░░░░░░░░░░░░░░  5.21%
+cedarlogic     22m 13s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.81%
 
-Total: 17 hrs 54 mins
+Total: 18 hrs 50 mins
 ```
 
 #### 📮  Want to contact me?
