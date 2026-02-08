@@ -4,11 +4,11 @@ When not doing school or working on a random project, I enjoy flying drones and 
 
 #### 🏗️  The latest repos I've pushed to
 
-- [`tinkcil`](https://github.com/taciturnaxolotl/tinkcil) - _ironOS native ios app_ **(1 day ago)**
-- [`dots`](https://github.com/taciturnaxolotl/dots) - _Kieran's opinionated (and ever expanding) nix config_ **(1 day ago)**
+- [`tinkcil`](https://github.com/taciturnaxolotl/tinkcil) - _ironOS native ios app_ **(today)**
 - [`Cyber-Games`](https://github.com/CedarvilleCyber/Cyber-Games) - _Official NCAE Cyber Games Repo of the Cedarville Cyber Team_ **(1 day ago)**
-- [`wasup-chucks`](https://github.com/taciturnaxolotl/wasup-chucks) - _ios widget showing what is available at chucks_ **(2 days ago)**
+- [`dots`](https://github.com/taciturnaxolotl/dots) - _Kieran's opinionated (and ever expanding) nix config_ **(1 day ago)**
 - [`img`](https://github.com/taciturnaxolotl/img) - _lightweight image tools_ **(2 days ago)**
+- [`wasup-chucks`](https://github.com/taciturnaxolotl/wasup-chucks) - _ios widget showing what is available at chucks_ **(2 days ago)**
 - [`zera`](https://github.com/taciturnaxolotl/zera) - _my new site v4?_ **(3 days ago)**
 - [`bcd-optimization`](https://github.com/taciturnaxolotl/bcd-optimization) - _optimizing a gate level bcm to the end of the earth and back_ **(4 days ago)**
 - [`ennote`](https://github.com/taciturnaxolotl/ennote) - _the best notes app for me_ **(1 week ago)**
@@ -30,20 +30,20 @@ When not doing school or working on a random project, I enjoy flying drones and 
 
 ```text
 💾 Languages:
-Unknown       5h 4m 59s   ███████████████████░░░░░░  72.85%
-Nix           16m 37s     █░░░░░░░░░░░░░░░░░░░░░░░░  3.97%
-Python        13m 31s     █░░░░░░░░░░░░░░░░░░░░░░░░  3.23%
-Go            11m 42s     █░░░░░░░░░░░░░░░░░░░░░░░░  2.80%
-Bash          11m 20s     █░░░░░░░░░░░░░░░░░░░░░░░░  2.71%
+Unknown       5h 5m 6s   ███████████████████░░░░░░  72.86%
+Nix           16m 37s    █░░░░░░░░░░░░░░░░░░░░░░░░  3.97%
+Python        13m 31s    █░░░░░░░░░░░░░░░░░░░░░░░░  3.23%
+Go            11m 42s    █░░░░░░░░░░░░░░░░░░░░░░░░  2.80%
+Bash          11m 20s    █░░░░░░░░░░░░░░░░░░░░░░░░  2.71%
 
 💼 Projects:
-dots          50m 48s     ████░░░░░░░░░░░░░░░░░░░░░  13.10%
-crush         44m 59s     ███░░░░░░░░░░░░░░░░░░░░░░  11.60%
-Cyber-Games   42m 30s     ███░░░░░░░░░░░░░░░░░░░░░░  10.96%
-cedarlogic    22m 13s     ██░░░░░░░░░░░░░░░░░░░░░░░  5.73%
-2026-ectf     21m 50s     ██░░░░░░░░░░░░░░░░░░░░░░░  5.63%
+dots          50m 48s    ████░░░░░░░░░░░░░░░░░░░░░  13.09%
+crush         44m 59s    ███░░░░░░░░░░░░░░░░░░░░░░  11.60%
+Cyber-Games   42m 30s    ███░░░░░░░░░░░░░░░░░░░░░░  10.95%
+cedarlogic    22m 13s    ██░░░░░░░░░░░░░░░░░░░░░░░  5.73%
+2026-ectf     21m 50s    ██░░░░░░░░░░░░░░░░░░░░░░░  5.63%
 
-Total: 17 hrs 2 mins
+Total: 17 hrs 4 mins
 ```
 
 #### 📮  Want to contact me?
