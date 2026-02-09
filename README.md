@@ -4,13 +4,13 @@ When not doing school or working on a random project, I enjoy flying drones and 
 
 #### 🏗️  The latest repos I've pushed to
 
-- [`tinkcil`](https://github.com/taciturnaxolotl/tinkcil) - _ironOS native ios app_ **(today)**
-- [`Cyber-Games`](https://github.com/CedarvilleCyber/Cyber-Games) - _Official NCAE Cyber Games Repo of the Cedarville Cyber Team_ **(1 day ago)**
-- [`dots`](https://github.com/taciturnaxolotl/dots) - _Kieran's opinionated (and ever expanding) nix config_ **(1 day ago)**
-- [`img`](https://github.com/taciturnaxolotl/img) - _lightweight image tools_ **(2 days ago)**
-- [`wasup-chucks`](https://github.com/taciturnaxolotl/wasup-chucks) - _ios widget showing what is available at chucks_ **(2 days ago)**
-- [`zera`](https://github.com/taciturnaxolotl/zera) - _my new site v4?_ **(3 days ago)**
-- [`bcd-optimization`](https://github.com/taciturnaxolotl/bcd-optimization) - _optimizing a gate level bcm to the end of the earth and back_ **(4 days ago)**
+- [`tinkcil`](https://github.com/taciturnaxolotl/tinkcil) - _ironOS native ios app_ **(1 day ago)**
+- [`Cyber-Games`](https://github.com/CedarvilleCyber/Cyber-Games) - _Official NCAE Cyber Games Repo of the Cedarville Cyber Team_ **(2 days ago)**
+- [`dots`](https://github.com/taciturnaxolotl/dots) - _Kieran's opinionated (and ever expanding) nix config_ **(2 days ago)**
+- [`img`](https://github.com/taciturnaxolotl/img) - _lightweight image tools_ **(3 days ago)**
+- [`wasup-chucks`](https://github.com/taciturnaxolotl/wasup-chucks) - _ios widget showing what is available at chucks_ **(3 days ago)**
+- [`zera`](https://github.com/taciturnaxolotl/zera) - _my new site v4?_ **(4 days ago)**
+- [`bcd-optimization`](https://github.com/taciturnaxolotl/bcd-optimization) - _optimizing a gate level bcm to the end of the earth and back_ **(5 days ago)**
 - [`ennote`](https://github.com/taciturnaxolotl/ennote) - _the best notes app for me_ **(1 week ago)**
 
 #### 📦  My latest projects
