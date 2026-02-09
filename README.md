@@ -4,10 +4,10 @@ When not doing school or working on a random project, I enjoy flying drones and 
 
 #### 🏗️  The latest repos I've pushed to
 
-- [`traverse`](https://github.com/taciturnaxolotl/traverse) - _snatching amp walkthrough for my own purposes mwhahahaha_ **(today)**
+- [`dots`](https://github.com/taciturnaxolotl/dots) - _Kieran's opinionated (and ever expanding) nix config_ **(today)**
 - [`tinkcil`](https://github.com/taciturnaxolotl/tinkcil) - _ironOS native ios app_ **(today)**
+- [`traverse`](https://github.com/taciturnaxolotl/traverse) - _snatching amp walkthrough for my own purposes mwhahahaha_ **(today)**
 - [`Cyber-Games`](https://github.com/CedarvilleCyber/Cyber-Games) - _Official NCAE Cyber Games Repo of the Cedarville Cyber Team_ **(2 days ago)**
-- [`dots`](https://github.com/taciturnaxolotl/dots) - _Kieran's opinionated (and ever expanding) nix config_ **(2 days ago)**
 - [`img`](https://github.com/taciturnaxolotl/img) - _lightweight image tools_ **(3 days ago)**
 - [`wasup-chucks`](https://github.com/taciturnaxolotl/wasup-chucks) - _ios widget showing what is available at chucks_ **(3 days ago)**
 - [`zera`](https://github.com/taciturnaxolotl/zera) - _my new site v4?_ **(4 days ago)**
@@ -30,20 +30,20 @@ When not doing school or working on a random project, I enjoy flying drones and 
 
 ```text
 💾 Languages:
-Unknown       5h 0m 53s   █████████████████░░░░░░░░  65.87%
-C++           30m 4s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.58%
-Markdown      20m 21s     ██░░░░░░░░░░░░░░░░░░░░░░░  4.46%
-Nix           16m 37s     █░░░░░░░░░░░░░░░░░░░░░░░░  3.64%
-Python        13m 31s     █░░░░░░░░░░░░░░░░░░░░░░░░  2.96%
+Unknown       5h 7m 33s   █████████████████░░░░░░░░  65.86%
+C++           30m 4s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.44%
+Markdown      20m 21s     ██░░░░░░░░░░░░░░░░░░░░░░░  4.36%
+Nix           16m 56s     █░░░░░░░░░░░░░░░░░░░░░░░░  3.63%
+Python        13m 31s     █░░░░░░░░░░░░░░░░░░░░░░░░  2.90%
 
 💼 Projects:
-cs1220        1h 1m 27s   ████░░░░░░░░░░░░░░░░░░░░░  14.14%
-dots          50m 48s     ███░░░░░░░░░░░░░░░░░░░░░░  11.69%
-crush         44m 59s     ███░░░░░░░░░░░░░░░░░░░░░░  10.35%
-Cyber-Games   42m 30s     ███░░░░░░░░░░░░░░░░░░░░░░  9.78%
-cedarlogic    22m 13s     ██░░░░░░░░░░░░░░░░░░░░░░░  5.11%
+cs1220        1h 1m 27s   ████░░░░░░░░░░░░░░░░░░░░░  13.76%
+dots          54m 58s     ████░░░░░░░░░░░░░░░░░░░░░  12.31%
+crush         44m 59s     ███░░░░░░░░░░░░░░░░░░░░░░  10.07%
+Cyber-Games   42m 30s     ███░░░░░░░░░░░░░░░░░░░░░░  9.51%
+cedarlogic    22m 13s     ██░░░░░░░░░░░░░░░░░░░░░░░  4.97%
 
-Total: 18 hrs 36 mins
+Total: 18 hrs 54 mins
 ```
 
 #### 📮  Want to contact me?
