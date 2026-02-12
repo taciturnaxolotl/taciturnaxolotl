@@ -4,14 +4,14 @@ When not doing school or working on a random project, I enjoy flying drones and 
 
 #### 🏗️  The latest repos I've pushed to
 
-- [`ennote`](https://github.com/taciturnaxolotl/ennote) - _the best notes app for me_ **(today)**
-- [`dots`](https://github.com/taciturnaxolotl/dots) - _Kieran's opinionated (and ever expanding) nix config_ **(1 day ago)**
-- [`tinkcil`](https://github.com/taciturnaxolotl/tinkcil) - _ironOS native ios app_ **(2 days ago)**
-- [`zera`](https://github.com/taciturnaxolotl/zera) - _my new site v4?_ **(2 days ago)**
-- [`bcd-optimization`](https://github.com/taciturnaxolotl/bcd-optimization) - _optimizing a gate level bcm to the end of the earth and back_ **(2 days ago)**
-- [`traverse`](https://github.com/taciturnaxolotl/traverse) - _snatching amp walkthrough for my own purposes mwhahahaha_ **(2 days ago)**
-- [`Cyber-Games`](https://github.com/CedarvilleCyber/Cyber-Games) - _Official NCAE Cyber Games Repo of the Cedarville Cyber Team_ **(4 days ago)**
-- [`img`](https://github.com/taciturnaxolotl/img) - _lightweight image tools_ **(5 days ago)**
+- [`ennote`](https://github.com/taciturnaxolotl/ennote) - _the best notes app for me_ **(1 day ago)**
+- [`dots`](https://github.com/taciturnaxolotl/dots) - _Kieran's opinionated (and ever expanding) nix config_ **(2 days ago)**
+- [`tinkcil`](https://github.com/taciturnaxolotl/tinkcil) - _ironOS native ios app_ **(3 days ago)**
+- [`zera`](https://github.com/taciturnaxolotl/zera) - _my new site v4?_ **(3 days ago)**
+- [`bcd-optimization`](https://github.com/taciturnaxolotl/bcd-optimization) - _optimizing a gate level bcm to the end of the earth and back_ **(3 days ago)**
+- [`traverse`](https://github.com/taciturnaxolotl/traverse) - _snatching amp walkthrough for my own purposes mwhahahaha_ **(3 days ago)**
+- [`Cyber-Games`](https://github.com/CedarvilleCyber/Cyber-Games) - _Official NCAE Cyber Games Repo of the Cedarville Cyber Team_ **(5 days ago)**
+- [`img`](https://github.com/taciturnaxolotl/img) - _lightweight image tools_ **(6 days ago)**
 
 #### 📦  My latest projects
 
@@ -30,20 +30,20 @@ When not doing school or working on a random project, I enjoy flying drones and 
 
 ```text
 💾 Languages:
-Unknown       16h 49m 10s   █████████████████░░░░░░░░  67.32%
-Markdown      1h 13m 52s    ██░░░░░░░░░░░░░░░░░░░░░░░  4.93%
-C++           1h 6m 4s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.41%
-Go            45m 43s       █░░░░░░░░░░░░░░░░░░░░░░░░  3.05%
-JavaScript    43m 20s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.89%
+Unknown       17h 48m 9s   █████████████████░░░░░░░░  65.62%
+Markdown      1h 13m 52s   ██░░░░░░░░░░░░░░░░░░░░░░░  4.54%
+C++           1h 6m 4s     ██░░░░░░░░░░░░░░░░░░░░░░░  4.06%
+C             51m 47s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.18%
+Python        47m 12s      █░░░░░░░░░░░░░░░░░░░░░░░░  2.90%
 
 💼 Projects:
-cedarlogic    2h 34m 53s    ███░░░░░░░░░░░░░░░░░░░░░░  11.51%
-Cyber-Games   2h 30m 30s    ███░░░░░░░░░░░░░░░░░░░░░░  11.18%
-2026-ectf     2h 23m 11s    ███░░░░░░░░░░░░░░░░░░░░░░  10.64%
-dots          1h 58m 50s    ███░░░░░░░░░░░░░░░░░░░░░░  8.83%
-traverse      1h 55m 20s    ███░░░░░░░░░░░░░░░░░░░░░░  8.57%
+2026-ectf     3h 43m 1s    ████░░░░░░░░░░░░░░░░░░░░░  15.65%
+cedarlogic    2h 34m 53s   ███░░░░░░░░░░░░░░░░░░░░░░  10.87%
+Cyber-Games   2h 30m 30s   ███░░░░░░░░░░░░░░░░░░░░░░  10.56%
+dots          1h 58m 50s   ███░░░░░░░░░░░░░░░░░░░░░░  8.34%
+traverse      1h 55m 20s   ███░░░░░░░░░░░░░░░░░░░░░░  8.09%
 
-Total: 20 hrs 23 mins
+Total: 21 hrs 44 mins
 ```
 
 #### 📮  Want to contact me?
