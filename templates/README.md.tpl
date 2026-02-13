@@ -25,10 +25,10 @@ When not doing school or working on a random project, I enjoy flying drones and 
 Total: {{ wakatimeData.HumanReadableTotal }}
 ```
 
-#### 📮  Want to contact me?
+#### 📮  Want to say hi?
 
 ```text
-Email: me@dunkirk.sh
+Email: kieran@dunkirk.sh
 Slack: @krn (hackclub.com/slack)
 ```
 
