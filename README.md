@@ -4,14 +4,14 @@ When not doing school or working on a random project, I enjoy flying drones and 
 
 #### 🏗️  The latest repos I've pushed to
 
-- [`traverse`](https://github.com/taciturnaxolotl/traverse) - _snatching amp walkthrough for my own purposes mwhahahaha_ **(today)**
-- [`dots`](https://github.com/taciturnaxolotl/dots) - _Kieran's opinionated (and ever expanding) nix config_ **(1 day ago)**
-- [`herald`](https://github.com/taciturnaxolotl/herald) - _rss email digests over ssh because you're a cool kid_ **(1 day ago)**
-- [`ennote`](https://github.com/taciturnaxolotl/ennote) - _the best notes app for me_ **(2 days ago)**
-- [`tinkcil`](https://github.com/taciturnaxolotl/tinkcil) - _ironOS native ios app_ **(4 days ago)**
-- [`zera`](https://github.com/taciturnaxolotl/zera) - _my new site v4?_ **(4 days ago)**
-- [`bcd-optimization`](https://github.com/taciturnaxolotl/bcd-optimization) - _optimizing a gate level bcm to the end of the earth and back_ **(4 days ago)**
-- [`Cyber-Games`](https://github.com/CedarvilleCyber/Cyber-Games) - _Official NCAE Cyber Games Repo of the Cedarville Cyber Team_ **(6 days ago)**
+- [`zera`](https://github.com/taciturnaxolotl/zera) - _my new site v4?_ **(1 day ago)**
+- [`traverse`](https://github.com/taciturnaxolotl/traverse) - _snatching amp walkthrough for my own purposes mwhahahaha_ **(1 day ago)**
+- [`dots`](https://github.com/taciturnaxolotl/dots) - _Kieran's opinionated (and ever expanding) nix config_ **(2 days ago)**
+- [`herald`](https://github.com/taciturnaxolotl/herald) - _rss email digests over ssh because you're a cool kid_ **(2 days ago)**
+- [`ennote`](https://github.com/taciturnaxolotl/ennote) - _the best notes app for me_ **(3 days ago)**
+- [`tinkcil`](https://github.com/taciturnaxolotl/tinkcil) - _ironOS native ios app_ **(5 days ago)**
+- [`bcd-optimization`](https://github.com/taciturnaxolotl/bcd-optimization) - _optimizing a gate level bcm to the end of the earth and back_ **(5 days ago)**
+- [`Cyber-Games`](https://github.com/CedarvilleCyber/Cyber-Games) - _Official NCAE Cyber Games Repo of the Cedarville Cyber Team_ **(1 week ago)**
 
 #### 📦  My latest projects
 
@@ -30,20 +30,20 @@ When not doing school or working on a random project, I enjoy flying drones and 
 
 ```text
 💾 Languages:
-Unknown       15h 20m 13s   ████████████████░░░░░░░░░  63.57%
-JavaScript    1h 11m 25s    ██░░░░░░░░░░░░░░░░░░░░░░░  4.93%
-Markdown      1h 9m 41s     ██░░░░░░░░░░░░░░░░░░░░░░░  4.81%
-C++           1h 6m 4s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.56%
-C             51m 47s       █░░░░░░░░░░░░░░░░░░░░░░░░  3.58%
+Unknown       15h 28m 33s   ████████████████░░░░░░░░░  63.78%
+JavaScript    1h 11m 25s    ██░░░░░░░░░░░░░░░░░░░░░░░  4.91%
+Markdown      1h 9m 41s     ██░░░░░░░░░░░░░░░░░░░░░░░  4.79%
+C++           1h 6m 4s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.54%
+C             51m 47s       █░░░░░░░░░░░░░░░░░░░░░░░░  3.56%
 
 💼 Projects:
-2026-ectf     3h 12m 26s    ████░░░░░░░░░░░░░░░░░░░░░  15.46%
-Cyber-Games   2h 30m 30s    ████░░░░░░░░░░░░░░░░░░░░░  12.09%
-cedarlogic    2h 8m 26s     ███░░░░░░░░░░░░░░░░░░░░░░  10.32%
-traverse      2h 0m 47s     ███░░░░░░░░░░░░░░░░░░░░░░  9.70%
-dots          1h 52m 25s    ███░░░░░░░░░░░░░░░░░░░░░░  9.03%
+2026-ectf     3h 12m 26s    ████░░░░░░░░░░░░░░░░░░░░░  15.36%
+Cyber-Games   2h 30m 30s    ████░░░░░░░░░░░░░░░░░░░░░  12.01%
+cedarlogic    2h 8m 26s     ███░░░░░░░░░░░░░░░░░░░░░░  10.25%
+traverse      2h 0m 47s     ███░░░░░░░░░░░░░░░░░░░░░░  9.64%
+dots          1h 52m 25s    ███░░░░░░░░░░░░░░░░░░░░░░  8.97%
 
-Total: 19 hrs 6 mins
+Total: 19 hrs 14 mins
 ```
 
 #### 📮  Want to say hi?
