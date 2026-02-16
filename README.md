@@ -9,9 +9,9 @@ When not doing school or working on a random project, I enjoy flying drones and 
 - [`dots`](https://github.com/taciturnaxolotl/dots) - _Kieran's opinionated (and ever expanding) nix config_ **(2 days ago)**
 - [`herald`](https://github.com/taciturnaxolotl/herald) - _rss email digests over ssh because you're a cool kid_ **(4 days ago)**
 - [`ennote`](https://github.com/taciturnaxolotl/ennote) - _the best notes app for me_ **(5 days ago)**
-- [`tinkcil`](https://github.com/taciturnaxolotl/tinkcil) - _ironOS native ios app_ **(1 week ago)**
-- [`zera`](https://github.com/taciturnaxolotl/zera) - _my new site v4?_ **(1 week ago)**
 - [`bcd-optimization`](https://github.com/taciturnaxolotl/bcd-optimization) - _optimizing a gate level bcm to the end of the earth and back_ **(1 week ago)**
+- [`zera`](https://github.com/taciturnaxolotl/zera) - _my new site v4?_ **(1 week ago)**
+- [`tinkcil`](https://github.com/taciturnaxolotl/tinkcil) - _ironOS native ios app_ **(1 week ago)**
 
 #### 📦  My latest projects
 
@@ -30,20 +30,20 @@ When not doing school or working on a random project, I enjoy flying drones and 
 
 ```text
 💾 Languages:
-Unknown       10h 34m 3s   ████████████████░░░░░░░░░  63.48%
-JavaScript    1h 56m 43s   ███░░░░░░░░░░░░░░░░░░░░░░  11.69%
-Markdown      1h 13m 10s   ██░░░░░░░░░░░░░░░░░░░░░░░  7.33%
-C             51m 47s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.18%
-C/c++         19m 16s      █░░░░░░░░░░░░░░░░░░░░░░░░  1.93%
+Unknown       10h 49m 28s   ████████████████░░░░░░░░░  63.91%
+JavaScript    1h 58m 43s    ███░░░░░░░░░░░░░░░░░░░░░░  11.68%
+Markdown      1h 13m 10s    ██░░░░░░░░░░░░░░░░░░░░░░░  7.20%
+C             51m 47s       ██░░░░░░░░░░░░░░░░░░░░░░░  5.10%
+C/c++         19m 16s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.90%
 
 💼 Projects:
-2026-ectf     3h 25m 42s   ███████░░░░░░░░░░░░░░░░░░  24.68%
-traverse      2h 8m 38s    ████░░░░░░░░░░░░░░░░░░░░░  15.43%
-cedarlogic    1h 52m 25s   ████░░░░░░░░░░░░░░░░░░░░░  13.49%
-cl-vtambucs   1h 13m 21s   ███░░░░░░░░░░░░░░░░░░░░░░  8.80%
-cachet        1h 4m 5s     ██░░░░░░░░░░░░░░░░░░░░░░░  7.69%
+2026-ectf     3h 25m 42s    ███████░░░░░░░░░░░░░░░░░░  24.23%
+traverse      2h 8m 38s     ████░░░░░░░░░░░░░░░░░░░░░  15.15%
+cedarlogic    1h 52m 25s    ████░░░░░░░░░░░░░░░░░░░░░  13.24%
+cl-vtambucs   1h 28m 48s    ███░░░░░░░░░░░░░░░░░░░░░░  10.46%
+cachet        1h 4m 5s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.55%
 
-Total: 13 hrs 21 mins
+Total: 13 hrs 37 mins
 ```
 
 #### 📮  Want to say hi?
