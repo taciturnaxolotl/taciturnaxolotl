@@ -4,14 +4,14 @@ When not doing school or working on a random project, I enjoy flying drones and 
 
 #### 🏗️  The latest repos I've pushed to
 
-- [`canvas-mcp`](https://github.com/taciturnaxolotl/canvas-mcp) - _a fancy canvas mcp server!_ **(1 day ago)**
 - [`dots`](https://github.com/taciturnaxolotl/dots) - _Kieran's opinionated (and ever expanding) nix config_ **(1 day ago)**
+- [`canvas-mcp`](https://github.com/taciturnaxolotl/canvas-mcp) - _a fancy canvas mcp server!_ **(1 day ago)**
 - [`traverse`](https://github.com/taciturnaxolotl/traverse) - _snatching amp walkthrough for my own purposes mwhahahaha_ **(2 days ago)**
 - [`cachet`](https://github.com/taciturnaxolotl/cachet) - _a cache for slack profile pictures and emojis_ **(3 days ago)**
 - [`herald`](https://github.com/taciturnaxolotl/herald) - _rss email digests over ssh because you're a cool kid_ **(5 days ago)**
 - [`ennote`](https://github.com/taciturnaxolotl/ennote) - _the best notes app for me_ **(6 days ago)**
 - [`bcd-optimization`](https://github.com/taciturnaxolotl/bcd-optimization) - _optimizing a gate level bcm to the end of the earth and back_ **(1 week ago)**
-- [`zera`](https://github.com/taciturnaxolotl/zera) - _my new site v4?_ **(1 week ago)**
+- [`tinkcil`](https://github.com/taciturnaxolotl/tinkcil) - _ironOS native ios app_ **(1 week ago)**
 
 #### 📦  My latest projects
 
@@ -30,20 +30,20 @@ When not doing school or working on a random project, I enjoy flying drones and 
 
 ```text
 💾 Languages:
-Unknown       11h 22m 31s   ████████████████░░░░░░░░░  62.79%
-JavaScript    2h 29m 35s    ████░░░░░░░░░░░░░░░░░░░░░  13.76%
-Markdown      1h 13m 10s    ██░░░░░░░░░░░░░░░░░░░░░░░  6.73%
-C             51m 47s       ██░░░░░░░░░░░░░░░░░░░░░░░  4.76%
-C/c++         19m 16s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.77%
+Unknown       8h 54m 4s    ████████████████░░░░░░░░░  62.54%
+JavaScript    2h 56m 12s   ██████░░░░░░░░░░░░░░░░░░░  20.63%
+C             51m 47s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.06%
+Python        15m 40s      █░░░░░░░░░░░░░░░░░░░░░░░░  1.83%
+Cmake         11m 35s      █░░░░░░░░░░░░░░░░░░░░░░░░  1.36%
 
 💼 Projects:
-2026-ectf     3h 27m 42s    ██████░░░░░░░░░░░░░░░░░░░  22.98%
-traverse      2h 8m 38s     ████░░░░░░░░░░░░░░░░░░░░░  14.23%
-cedarlogic    1h 52m 25s    ████░░░░░░░░░░░░░░░░░░░░░  12.44%
-cl-vtambucs   1h 30m 48s    ███░░░░░░░░░░░░░░░░░░░░░░  10.05%
-cachet        1h 7m 51s     ██░░░░░░░░░░░░░░░░░░░░░░░  7.51%
+2026-ectf     3h 27m 42s   ████████░░░░░░░░░░░░░░░░░  29.78%
+cl-vtambucs   1h 32m 53s   ████░░░░░░░░░░░░░░░░░░░░░  13.32%
+canvas-mcp    1h 24m 13s   ████░░░░░░░░░░░░░░░░░░░░░  12.07%
+cedarlogic    1h 9m 47s    ███░░░░░░░░░░░░░░░░░░░░░░  10.00%
+cachet        1h 7m 51s    ███░░░░░░░░░░░░░░░░░░░░░░  9.73%
 
-Total: 14 hrs 31 mins
+Total: 11 hrs 19 mins
 ```
 
 #### 📮  Want to say hi?
