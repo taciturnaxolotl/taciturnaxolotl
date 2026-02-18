@@ -4,13 +4,13 @@ When not doing school or working on a random project, I enjoy flying drones and 
 
 #### 🏗️  The latest repos I've pushed to
 
-- [`wasup-chucks`](https://github.com/taciturnaxolotl/wasup-chucks) - _ios widget showing what is available at chucks_ **(today)**
-- [`canvas-mcp`](https://github.com/taciturnaxolotl/canvas-mcp) - _a fancy canvas mcp server!_ **(today)**
-- [`dots`](https://github.com/taciturnaxolotl/dots) - _Kieran's opinionated (and ever expanding) nix config_ **(1 day ago)**
-- [`traverse`](https://github.com/taciturnaxolotl/traverse) - _snatching amp walkthrough for my own purposes mwhahahaha_ **(2 days ago)**
-- [`cachet`](https://github.com/taciturnaxolotl/cachet) - _a cache for slack profile pictures and emojis_ **(3 days ago)**
-- [`herald`](https://github.com/taciturnaxolotl/herald) - _rss email digests over ssh because you're a cool kid_ **(5 days ago)**
-- [`ennote`](https://github.com/taciturnaxolotl/ennote) - _the best notes app for me_ **(6 days ago)**
+- [`canvas-mcp`](https://github.com/taciturnaxolotl/canvas-mcp) - _a fancy canvas mcp server!_ **(1 day ago)**
+- [`traverse`](https://github.com/taciturnaxolotl/traverse) - _snatching amp walkthrough for my own purposes mwhahahaha_ **(1 day ago)**
+- [`wasup-chucks`](https://github.com/taciturnaxolotl/wasup-chucks) - _ios widget showing what is available at chucks_ **(1 day ago)**
+- [`dots`](https://github.com/taciturnaxolotl/dots) - _Kieran's opinionated (and ever expanding) nix config_ **(2 days ago)**
+- [`cachet`](https://github.com/taciturnaxolotl/cachet) - _a cache for slack profile pictures and emojis_ **(4 days ago)**
+- [`herald`](https://github.com/taciturnaxolotl/herald) - _rss email digests over ssh because you're a cool kid_ **(6 days ago)**
+- [`ennote`](https://github.com/taciturnaxolotl/ennote) - _the best notes app for me_ **(1 week ago)**
 - [`bcd-optimization`](https://github.com/taciturnaxolotl/bcd-optimization) - _optimizing a gate level bcm to the end of the earth and back_ **(1 week ago)**
 
 #### 📦  My latest projects
@@ -30,20 +30,20 @@ When not doing school or working on a random project, I enjoy flying drones and 
 
 ```text
 💾 Languages:
-Unknown       10h 41m 39s   ████████████████░░░░░░░░░  63.75%
-JavaScript    3h 8m 58s     █████░░░░░░░░░░░░░░░░░░░░  18.77%
-C             51m 47s       ██░░░░░░░░░░░░░░░░░░░░░░░  5.14%
-Nix           19m 38s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.95%
-Python        15m 40s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.56%
+Unknown       11h 40m 7s   ████████████████░░░░░░░░░  63.98%
+JavaScript    3h 27m 56s   █████░░░░░░░░░░░░░░░░░░░░  19.00%
+C             51m 47s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.73%
+Nix           19m 38s      █░░░░░░░░░░░░░░░░░░░░░░░░  1.79%
+JSON          16m 45s      █░░░░░░░░░░░░░░░░░░░░░░░░  1.53%
 
 💼 Projects:
-2026-ectf     3h 39m 2s     ███████░░░░░░░░░░░░░░░░░░  26.26%
-canvas-mcp    2h 24m 25s    █████░░░░░░░░░░░░░░░░░░░░  17.31%
-cl-vtambucs   1h 32m 53s    ███░░░░░░░░░░░░░░░░░░░░░░  11.13%
-dots          1h 20m 56s    ███░░░░░░░░░░░░░░░░░░░░░░  9.70%
-cedarlogic    1h 9m 47s     ███░░░░░░░░░░░░░░░░░░░░░░  8.36%
+2026-ectf     3h 57m 46s   ███████░░░░░░░░░░░░░░░░░░  26.20%
+canvas-mcp    2h 24m 25s   ████░░░░░░░░░░░░░░░░░░░░░  15.91%
+cl-vtambucs   1h 32m 53s   ███░░░░░░░░░░░░░░░░░░░░░░  10.23%
+dots          1h 24m 50s   ███░░░░░░░░░░░░░░░░░░░░░░  9.35%
+cedarlogic    1h 9m 47s    ██░░░░░░░░░░░░░░░░░░░░░░░  7.69%
 
-Total: 13 hrs 12 mins
+Total: 14 hrs 17 mins
 ```
 
 #### 📮  Want to say hi?
