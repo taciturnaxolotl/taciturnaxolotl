@@ -4,11 +4,11 @@ When not doing school or working on a random project, I enjoy flying drones and 
 
 #### 🏗️  The latest repos I've pushed to
 
-- [`canvas-mcp`](https://github.com/taciturnaxolotl/canvas-mcp) - _a fancy canvas mcp server!_ **(2 days ago)**
-- [`traverse`](https://github.com/taciturnaxolotl/traverse) - _snatching amp walkthrough for my own purposes mwhahahaha_ **(2 days ago)**
-- [`wasup-chucks`](https://github.com/taciturnaxolotl/wasup-chucks) - _ios widget showing what is available at chucks_ **(2 days ago)**
-- [`dots`](https://github.com/taciturnaxolotl/dots) - _Kieran's opinionated (and ever expanding) nix config_ **(3 days ago)**
-- [`cachet`](https://github.com/taciturnaxolotl/cachet) - _a cache for slack profile pictures and emojis_ **(5 days ago)**
+- [`canvas-mcp`](https://github.com/taciturnaxolotl/canvas-mcp) - _a fancy canvas mcp server!_ **(3 days ago)**
+- [`traverse`](https://github.com/taciturnaxolotl/traverse) - _snatching amp walkthrough for my own purposes mwhahahaha_ **(3 days ago)**
+- [`wasup-chucks`](https://github.com/taciturnaxolotl/wasup-chucks) - _ios widget showing what is available at chucks_ **(3 days ago)**
+- [`dots`](https://github.com/taciturnaxolotl/dots) - _Kieran's opinionated (and ever expanding) nix config_ **(4 days ago)**
+- [`cachet`](https://github.com/taciturnaxolotl/cachet) - _a cache for slack profile pictures and emojis_ **(6 days ago)**
 - [`herald`](https://github.com/taciturnaxolotl/herald) - _rss email digests over ssh because you're a cool kid_ **(1 week ago)**
 - [`ennote`](https://github.com/taciturnaxolotl/ennote) - _the best notes app for me_ **(1 week ago)**
 - [`tinkcil`](https://github.com/taciturnaxolotl/tinkcil) - _ironOS native ios app_ **(1 week ago)**
@@ -30,20 +30,20 @@ When not doing school or working on a random project, I enjoy flying drones and 
 
 ```text
 💾 Languages:
-Unknown       9h 24m 56s   ██████████████░░░░░░░░░░░  52.56%
-JavaScript    3h 43m 10s   ██████░░░░░░░░░░░░░░░░░░░  20.76%
-C++           1h 58m 40s   ███░░░░░░░░░░░░░░░░░░░░░░  11.04%
-C/c++         1h 10m 28s   ██░░░░░░░░░░░░░░░░░░░░░░░  6.56%
-JSON          16m 45s      █░░░░░░░░░░░░░░░░░░░░░░░░  1.56%
+Unknown       10h 1m 19s   ██████████████░░░░░░░░░░░  53.34%
+JavaScript    3h 47m 10s   ██████░░░░░░░░░░░░░░░░░░░  20.15%
+C++           1h 58m 40s   ███░░░░░░░░░░░░░░░░░░░░░░  10.53%
+C/c++         1h 10m 28s   ██░░░░░░░░░░░░░░░░░░░░░░░  6.25%
+JSON          16m 45s      █░░░░░░░░░░░░░░░░░░░░░░░░  1.49%
 
 💼 Projects:
-canvas-mcp    2h 24m 25s   █████░░░░░░░░░░░░░░░░░░░░  16.99%
-cs1220        2h 7m 38s    ████░░░░░░░░░░░░░░░░░░░░░  15.02%
-cl-vtambucs   1h 28m 16s   ███░░░░░░░░░░░░░░░░░░░░░░  10.38%
-cedarlogic    1h 19m 33s   ███░░░░░░░░░░░░░░░░░░░░░░  9.36%
-dots          1h 9m 38s    ███░░░░░░░░░░░░░░░░░░░░░░  8.19%
+canvas-mcp    2h 24m 25s   ████░░░░░░░░░░░░░░░░░░░░░  15.93%
+cs1220        2h 7m 38s    ████░░░░░░░░░░░░░░░░░░░░░  14.08%
+cedarlogic    1h 38m 19s   ███░░░░░░░░░░░░░░░░░░░░░░  10.84%
+cl-vtambucs   1h 28m 16s   ███░░░░░░░░░░░░░░░░░░░░░░  9.73%
+web           1h 12m 22s   ██░░░░░░░░░░░░░░░░░░░░░░░  7.98%
 
-Total: 13 hrs 30 mins
+Total: 14 hrs 8 mins
 ```
 
 #### 📮  Want to say hi?
