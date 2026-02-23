@@ -8,9 +8,9 @@ When not doing school or working on a random project, I enjoy flying drones and 
 - [`ennote`](https://github.com/taciturnaxolotl/ennote) - _the best notes app for me_ **(2 days ago)**
 - [`freeflow`](https://github.com/zachlatta/freeflow) - _Free and open source alternative to Wispr Flow / Superwhisper / Monologue / etc_ **(3 days ago)**
 - [`dots`](https://github.com/taciturnaxolotl/dots) - _Kieran's opinionated (and ever expanding) nix config_ **(4 days ago)**
+- [`traverse`](https://github.com/taciturnaxolotl/traverse) - _snatching amp walkthrough for my own purposes mwhahahaha_ **(6 days ago)**
 - [`wasup-chucks`](https://github.com/taciturnaxolotl/wasup-chucks) - _ios widget showing what is available at chucks_ **(6 days ago)**
 - [`canvas-mcp`](https://github.com/taciturnaxolotl/canvas-mcp) - _a fancy canvas mcp server!_ **(6 days ago)**
-- [`traverse`](https://github.com/taciturnaxolotl/traverse) - _snatching amp walkthrough for my own purposes mwhahahaha_ **(6 days ago)**
 - [`cachet`](https://github.com/taciturnaxolotl/cachet) - _a cache for slack profile pictures and emojis_ **(1 week ago)**
 
 #### 📦  My latest projects
@@ -30,20 +30,20 @@ When not doing school or working on a random project, I enjoy flying drones and 
 
 ```text
 💾 Languages:
-Unknown      10h 40m 54s   ███████████████░░░░░░░░░░  57.86%
-JavaScript   2h 34m 40s    ████░░░░░░░░░░░░░░░░░░░░░  13.96%
-C++          2h 6m 10s     ███░░░░░░░░░░░░░░░░░░░░░░  11.39%
-C/c++        1h 19m 26s    ██░░░░░░░░░░░░░░░░░░░░░░░  7.17%
+Unknown      10h 40m 54s   ███████████████░░░░░░░░░░  57.76%
+JavaScript   2h 34m 40s    ████░░░░░░░░░░░░░░░░░░░░░  13.94%
+C++          2h 6m 10s     ███░░░░░░░░░░░░░░░░░░░░░░  11.37%
+C/c++        1h 19m 26s    ██░░░░░░░░░░░░░░░░░░░░░░░  7.16%
 Markdown     19m 9s        █░░░░░░░░░░░░░░░░░░░░░░░░  1.73%
 
 💼 Projects:
-canvas-mcp   2h 24m 25s    ████░░░░░░░░░░░░░░░░░░░░░  15.69%
-cs1220       2h 18m 52s    ████░░░░░░░░░░░░░░░░░░░░░  15.09%
-cedarlogic   1h 55m 58s    ████░░░░░░░░░░░░░░░░░░░░░  12.60%
-web          1h 55m 43s    ████░░░░░░░░░░░░░░░░░░░░░  12.57%
-dots         1h 27m 38s    ███░░░░░░░░░░░░░░░░░░░░░░  9.52%
+canvas-mcp   2h 24m 25s    ████░░░░░░░░░░░░░░░░░░░░░  15.66%
+cs1220       2h 18m 52s    ████░░░░░░░░░░░░░░░░░░░░░  15.06%
+cedarlogic   1h 55m 58s    ████░░░░░░░░░░░░░░░░░░░░░  12.57%
+web          1h 55m 43s    ████░░░░░░░░░░░░░░░░░░░░░  12.55%
+dots         1h 27m 38s    ███░░░░░░░░░░░░░░░░░░░░░░  9.50%
 
-Total: 14 hrs 9 mins
+Total: 14 hrs 11 mins
 ```
 
 #### 📮  Want to say hi?
