@@ -4,14 +4,14 @@ When not doing school or working on a random project, I enjoy flying drones and 
 
 #### 🏗️  The latest repos I've pushed to
 
-- [`blinkenberry`](https://github.com/taciturnaxolotl/blinkenberry) - _rp2350 based devboard with an esp32-c6 sidecar & blinkenlights_ **(1 day ago)**
+- [`cv`](https://github.com/taciturnaxolotl/cv) - _my cv powered by latex_ **(today)**
 - [`dots`](https://github.com/taciturnaxolotl/dots) - _Kieran's opinionated (and ever expanding) nix config_ **(1 day ago)**
+- [`blinkenberry`](https://github.com/taciturnaxolotl/blinkenberry) - _rp2350 based devboard with an esp32-c6 sidecar & blinkenlights_ **(1 day ago)**
 - [`pirateship-api`](https://github.com/taciturnaxolotl/pirateship-api) - _the pirateship api - typed_ **(2 days ago)**
 - [`ennote`](https://github.com/taciturnaxolotl/ennote) - _the best notes app for me_ **(4 days ago)**
 - [`freeflow`](https://github.com/zachlatta/freeflow) - _Free and open source alternative to Wispr Flow / Superwhisper / Monologue / etc_ **(5 days ago)**
-- [`traverse`](https://github.com/taciturnaxolotl/traverse) - _snatching amp walkthrough for my own purposes mwhahahaha_ **(1 week ago)**
 - [`canvas-mcp`](https://github.com/taciturnaxolotl/canvas-mcp) - _a fancy canvas mcp server!_ **(1 week ago)**
-- [`wasup-chucks`](https://github.com/taciturnaxolotl/wasup-chucks) - _ios widget showing what is available at chucks_ **(1 week ago)**
+- [`traverse`](https://github.com/taciturnaxolotl/traverse) - _snatching amp walkthrough for my own purposes mwhahahaha_ **(1 week ago)**
 
 #### 📦  My latest projects
 
@@ -30,20 +30,20 @@ When not doing school or working on a random project, I enjoy flying drones and 
 
 ```text
 💾 Languages:
-unknown      8h 24m 18s   ████████████████░░░░░░░░░  61.56%
-C++          2h 6m 10s    ████░░░░░░░░░░░░░░░░░░░░░  15.40%
-C/C++        1h 19m 26s   ███░░░░░░░░░░░░░░░░░░░░░░  9.70%
-JavaScript   42m 5s       ██░░░░░░░░░░░░░░░░░░░░░░░  5.14%
-Markdown     22m 11s      █░░░░░░░░░░░░░░░░░░░░░░░░  2.71%
+unknown      8h 30m 37s   ████████████████░░░░░░░░░  61.85%
+C++          2h 6m 10s    ████░░░░░░░░░░░░░░░░░░░░░  15.28%
+C/C++        1h 19m 26s   ███░░░░░░░░░░░░░░░░░░░░░░  9.62%
+JavaScript   42m 5s       ██░░░░░░░░░░░░░░░░░░░░░░░  5.10%
+Markdown     22m 11s      █░░░░░░░░░░░░░░░░░░░░░░░░  2.69%
 
 💼 Projects:
-web          2h 19m 9s    █████░░░░░░░░░░░░░░░░░░░░  19.28%
-cs1220       2h 18m 26s   █████░░░░░░░░░░░░░░░░░░░░  19.18%
-cedarlogic   2h 14m 1s    █████░░░░░░░░░░░░░░░░░░░░  18.57%
-2026-ectf    1h 7m 33s    ███░░░░░░░░░░░░░░░░░░░░░░  9.36%
-dots         43m 51s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.08%
+web          2h 19m 9s    █████░░░░░░░░░░░░░░░░░░░░  19.17%
+cs1220       2h 18m 26s   █████░░░░░░░░░░░░░░░░░░░░  19.07%
+cedarlogic   2h 14m 1s    █████░░░░░░░░░░░░░░░░░░░░  18.46%
+2026-ectf    1h 7m 33s    ███░░░░░░░░░░░░░░░░░░░░░░  9.30%
+dots         43m 51s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.04%
 
-Total: 10 hrs 56 mins
+Total: 11 hrs 2 mins
 ```
 
 #### 📮  Want to say hi?
