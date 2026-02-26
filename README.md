@@ -5,9 +5,9 @@ When not doing school or working on a random project, I enjoy flying drones and 
 #### 🏗️  The latest repos I've pushed to
 
 - [`cv`](https://github.com/taciturnaxolotl/cv) - _my cv powered by latex_ **(1 day ago)**
-- [`dots`](https://github.com/taciturnaxolotl/dots) - _Kieran's opinionated (and ever expanding) nix config_ **(1 day ago)**
 - [`homebrew-tap`](https://github.com/taciturnaxolotl/homebrew-tap) - _🍺 my projects on tap_ **(1 day ago)**
 - [`rust-ectf-tools`](https://github.com/taciturnaxolotl/rust-ectf-tools) - _ectf tools rebuilt in rust_ **(1 day ago)**
+- [`dots`](https://github.com/taciturnaxolotl/dots) - _Kieran's opinionated (and ever expanding) nix config_ **(1 day ago)**
 - [`blinkenberry`](https://github.com/taciturnaxolotl/blinkenberry) - _rp2350 based devboard with an esp32-c6 sidecar & blinkenlights_ **(2 days ago)**
 - [`pirateship-api`](https://github.com/taciturnaxolotl/pirateship-api) - _the pirateship api - typed_ **(3 days ago)**
 - [`ennote`](https://github.com/taciturnaxolotl/ennote) - _the best notes app for me_ **(5 days ago)**
@@ -30,20 +30,20 @@ When not doing school or working on a random project, I enjoy flying drones and 
 
 ```text
 💾 Languages:
-unknown           10h 25m 48s   █████████████████░░░░░░░░  65.57%
-C++               2h 6m 10s     ████░░░░░░░░░░░░░░░░░░░░░  13.22%
-C/C++             1h 19m 26s    ███░░░░░░░░░░░░░░░░░░░░░░  8.32%
-JavaScript        42m 5s        ██░░░░░░░░░░░░░░░░░░░░░░░  4.41%
-Markdown          26m 36s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.79%
+unknown           9h 55m 25s   █████████████████████░░░░  83.32%
+JavaScript        38m 5s       ██░░░░░░░░░░░░░░░░░░░░░░░  5.33%
+Markdown          26m 36s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.72%
+TypeScript        10m 43s      █░░░░░░░░░░░░░░░░░░░░░░░░  1.50%
+C++               8m 43s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.22%
 
 💼 Projects:
-cedarlogic        2h 19m 19s    ████░░░░░░░░░░░░░░░░░░░░░  15.96%
-web               2h 19m 9s     ████░░░░░░░░░░░░░░░░░░░░░  15.94%
-cs1220            2h 18m 26s    ████░░░░░░░░░░░░░░░░░░░░░  15.86%
-2026-ectf         2h 7m 1s      ████░░░░░░░░░░░░░░░░░░░░░  14.55%
-rust-ectf-tools   1h 1m 41s     ██░░░░░░░░░░░░░░░░░░░░░░░  7.07%
+web               2h 19m 9s    █████░░░░░░░░░░░░░░░░░░░░  19.14%
+2026-ectf         2h 9m 36s    █████░░░░░░░░░░░░░░░░░░░░  17.83%
+rust-ectf-tools   1h 35m 53s   ████░░░░░░░░░░░░░░░░░░░░░  13.19%
+cedarlogic        1h 35m 38s   ████░░░░░░░░░░░░░░░░░░░░░  13.15%
+dots              46m 10s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.35%
 
-Total: 12 hrs 57 mins
+Total: 10 hrs 37 mins
 ```
 
 #### 📮  Want to say hi?
