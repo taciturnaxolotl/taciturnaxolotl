@@ -4,12 +4,12 @@ When not doing school or working on a random project, I enjoy flying drones and 
 
 #### 🏗️  The latest repos I've pushed to
 
+- [`pirateship-api`](https://github.com/taciturnaxolotl/pirateship-api) - _the pirateship api - typed_ **(today)**
 - [`homebrew-tap`](https://github.com/taciturnaxolotl/homebrew-tap) - _🍺 my projects on tap_ **(today)**
-- [`dots`](https://github.com/taciturnaxolotl/dots) - _Kieran's opinionated (and ever expanding) nix config_ **(1 day ago)**
 - [`cv`](https://github.com/taciturnaxolotl/cv) - _my cv powered by latex_ **(1 day ago)**
+- [`dots`](https://github.com/taciturnaxolotl/dots) - _Kieran's opinionated (and ever expanding) nix config_ **(1 day ago)**
 - [`rust-ectf-tools`](https://github.com/taciturnaxolotl/rust-ectf-tools) - _ectf tools rebuilt in rust_ **(1 day ago)**
 - [`blinkenberry`](https://github.com/taciturnaxolotl/blinkenberry) - _rp2350 based devboard with an esp32-c6 sidecar & blinkenlights_ **(2 days ago)**
-- [`pirateship-api`](https://github.com/taciturnaxolotl/pirateship-api) - _the pirateship api - typed_ **(3 days ago)**
 - [`ennote`](https://github.com/taciturnaxolotl/ennote) - _the best notes app for me_ **(5 days ago)**
 - [`freeflow`](https://github.com/zachlatta/freeflow) - _Free and open source alternative to Wispr Flow / Superwhisper / Monologue / etc_ **(6 days ago)**
 
@@ -30,20 +30,20 @@ When not doing school or working on a random project, I enjoy flying drones and 
 
 ```text
 💾 Languages:
-unknown           10h 8m 11s   █████████████████████░░░░  83.37%
-JavaScript        38m 5s       ██░░░░░░░░░░░░░░░░░░░░░░░  5.22%
-Markdown          26m 36s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.65%
+unknown           10h 9m 36s   █████████████████████░░░░  83.41%
+JavaScript        38m 5s       ██░░░░░░░░░░░░░░░░░░░░░░░  5.21%
+Markdown          26m 36s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.64%
 TypeScript        10m 43s      █░░░░░░░░░░░░░░░░░░░░░░░░  1.47%
 C++               8m 43s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.19%
 
 💼 Projects:
-web               2h 19m 9s    █████░░░░░░░░░░░░░░░░░░░░  18.67%
-2026-ectf         2h 13m 36s   █████░░░░░░░░░░░░░░░░░░░░  17.93%
-rust-ectf-tools   1h 35m 53s   ████░░░░░░░░░░░░░░░░░░░░░  12.87%
-cedarlogic        1h 35m 38s   ████░░░░░░░░░░░░░░░░░░░░░  12.83%
-dots              46m 10s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.20%
+web               2h 19m 9s    █████░░░░░░░░░░░░░░░░░░░░  18.64%
+2026-ectf         2h 13m 36s   █████░░░░░░░░░░░░░░░░░░░░  17.90%
+rust-ectf-tools   1h 35m 53s   ████░░░░░░░░░░░░░░░░░░░░░  12.84%
+cedarlogic        1h 35m 38s   ████░░░░░░░░░░░░░░░░░░░░░  12.81%
+Downloads         46m 56s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.29%
 
-Total: 10 hrs 50 mins
+Total: 10 hrs 51 mins
 ```
 
 #### 📮  Want to say hi?
