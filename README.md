@@ -4,10 +4,10 @@ When not doing school or working on a random project, I enjoy flying drones and 
 
 #### 🏗️  The latest repos I've pushed to
 
-- [`cv`](https://github.com/taciturnaxolotl/cv) - _my cv powered by latex_ **(1 day ago)**
-- [`homebrew-tap`](https://github.com/taciturnaxolotl/homebrew-tap) - _🍺 my projects on tap_ **(1 day ago)**
-- [`rust-ectf-tools`](https://github.com/taciturnaxolotl/rust-ectf-tools) - _ectf tools rebuilt in rust_ **(1 day ago)**
+- [`homebrew-tap`](https://github.com/taciturnaxolotl/homebrew-tap) - _🍺 my projects on tap_ **(today)**
 - [`dots`](https://github.com/taciturnaxolotl/dots) - _Kieran's opinionated (and ever expanding) nix config_ **(1 day ago)**
+- [`cv`](https://github.com/taciturnaxolotl/cv) - _my cv powered by latex_ **(1 day ago)**
+- [`rust-ectf-tools`](https://github.com/taciturnaxolotl/rust-ectf-tools) - _ectf tools rebuilt in rust_ **(1 day ago)**
 - [`blinkenberry`](https://github.com/taciturnaxolotl/blinkenberry) - _rp2350 based devboard with an esp32-c6 sidecar & blinkenlights_ **(2 days ago)**
 - [`pirateship-api`](https://github.com/taciturnaxolotl/pirateship-api) - _the pirateship api - typed_ **(3 days ago)**
 - [`ennote`](https://github.com/taciturnaxolotl/ennote) - _the best notes app for me_ **(5 days ago)**
