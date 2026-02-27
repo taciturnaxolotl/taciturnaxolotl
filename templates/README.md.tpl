@@ -1,6 +1,6 @@
 ### Hi! I'm a 17-year-old CE/Cyber nerd!
 
-When not doing school or working on a random project, I enjoy flying drones and competing in CTFs!
+When not doing school or working on a random project, I enjoy flying drones and competing in CTFs.
 
 #### 🏗️  The latest repos I've pushed to
 {{range recentContributions 8}}
