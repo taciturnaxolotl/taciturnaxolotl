@@ -1,14 +1,14 @@
 ### Hi! I'm a 17-year-old CE/Cyber nerd!
 
-When not doing school or working on a random project, I enjoy flying drones and competing in CTFs!
+When not doing school or working on a random project, I enjoy flying drones and competing in CTFs.
 
 #### 🏗️  The latest repos I've pushed to
 
 - [`homebrew-tap`](https://github.com/taciturnaxolotl/homebrew-tap) - _🍺 my projects on tap_ **(1 day ago)**
 - [`pirateship-api`](https://github.com/taciturnaxolotl/pirateship-api) - _the pirateship api - typed_ **(1 day ago)**
-- [`dots`](https://github.com/taciturnaxolotl/dots) - _Kieran's opinionated (and ever expanding) nix config_ **(2 days ago)**
-- [`rust-ectf-tools`](https://github.com/taciturnaxolotl/rust-ectf-tools) - _ectf tools rebuilt in rust_ **(2 days ago)**
 - [`cv`](https://github.com/taciturnaxolotl/cv) - _my cv powered by latex_ **(2 days ago)**
+- [`rust-ectf-tools`](https://github.com/taciturnaxolotl/rust-ectf-tools) - _ectf tools rebuilt in rust_ **(2 days ago)**
+- [`dots`](https://github.com/taciturnaxolotl/dots) - _Kieran's opinionated (and ever expanding) nix config_ **(2 days ago)**
 - [`blinkenberry`](https://github.com/taciturnaxolotl/blinkenberry) - _rp2350 based devboard with an esp32-c6 sidecar & blinkenlights_ **(3 days ago)**
 - [`ennote`](https://github.com/taciturnaxolotl/ennote) - _the best notes app for me_ **(6 days ago)**
 - [`freeflow`](https://github.com/zachlatta/freeflow) - _Free and open source alternative to Wispr Flow / Superwhisper / Monologue / etc_ **(1 week ago)**
@@ -30,20 +30,20 @@ When not doing school or working on a random project, I enjoy flying drones and 
 
 ```text
 💾 Languages:
-unknown           8h 55m 52s   ████████████████████░░░░░  79.28%
-JavaScript        47m 47s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.07%
-Markdown          33m 59s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.03%
-C++               10m 43s      █░░░░░░░░░░░░░░░░░░░░░░░░  1.59%
-TypeScript        10m 43s      █░░░░░░░░░░░░░░░░░░░░░░░░  1.59%
+unknown           9h 0m 7s     ████████████████████░░░░░  77.58%
+JavaScript        47m 47s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.86%
+Markdown          45m 59s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.60%
+C++               14m 43s      █░░░░░░░░░░░░░░░░░░░░░░░░  2.11%
+TypeScript        10m 43s      █░░░░░░░░░░░░░░░░░░░░░░░░  1.54%
 
 💼 Projects:
-2026-ectf         2h 17m 9s    ██████░░░░░░░░░░░░░░░░░░░  21.11%
-rust-ectf-tools   1h 35m 53s   ████░░░░░░░░░░░░░░░░░░░░░  14.76%
-web               1h 2m 47s    ███░░░░░░░░░░░░░░░░░░░░░░  9.66%
-cedarlogic        57m 37s      ███░░░░░░░░░░░░░░░░░░░░░░  8.87%
-2026-rebuilt      40m 8s       ██░░░░░░░░░░░░░░░░░░░░░░░  6.18%
+2026-ectf         2h 17m 9s    ██████░░░░░░░░░░░░░░░░░░░  20.65%
+rust-ectf-tools   1h 35m 53s   ████░░░░░░░░░░░░░░░░░░░░░  14.44%
+web               1h 2m 47s    ███░░░░░░░░░░░░░░░░░░░░░░  9.45%
+cedarlogic        57m 37s      ███░░░░░░░░░░░░░░░░░░░░░░  8.68%
+2026-rebuilt      40m 8s       ██░░░░░░░░░░░░░░░░░░░░░░░  6.04%
 
-Total: 9 hrs 50 mins
+Total: 10 hrs 5 mins
 ```
 
 #### 📮  Want to say hi?
