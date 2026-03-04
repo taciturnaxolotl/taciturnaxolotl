@@ -5,13 +5,13 @@ When not doing school or working on a random project, I enjoy flying drones and 
 #### 🏗️  The latest repos I've pushed to
 
 - [`rust-ectf-tools`](https://github.com/taciturnaxolotl/rust-ectf-tools) - _ectf tools rebuilt in rust_ **(today)**
+- [`homebrew-tap`](https://github.com/taciturnaxolotl/homebrew-tap) - _🍺 my projects on tap_ **(today)**
 - [`dots`](https://github.com/taciturnaxolotl/dots) - _Kieran's opinionated (and ever expanding) nix config_ **(1 day ago)**
-- [`zera`](https://github.com/taciturnaxolotl/zera) - _my new site v4?_ **(2 days ago)**
 - [`livepfp`](https://github.com/taciturnaxolotl/livepfp) - _live pfps_ **(2 days ago)**
+- [`zera`](https://github.com/taciturnaxolotl/zera) - _my new site v4?_ **(2 days ago)**
 - [`blinkenberry`](https://github.com/taciturnaxolotl/blinkenberry) - _rp2350 based devboard with an esp32-c6 sidecar & blinkenlights_ **(3 days ago)**
 - [`sleek`](https://github.com/totallynotinteresting/sleek) - _sleek - a vencord clone for slack, probably_ **(5 days ago)**
 - [`pirateship-api`](https://github.com/taciturnaxolotl/pirateship-api) - _the pirateship api - typed_ **(6 days ago)**
-- [`homebrew-tap`](https://github.com/taciturnaxolotl/homebrew-tap) - _🍺 my projects on tap_ **(6 days ago)**
 
 #### 📦  My latest projects
 
@@ -30,20 +30,20 @@ When not doing school or working on a random project, I enjoy flying drones and 
 
 ```text
 💾 Languages:
-unknown           9h 58m 28s   █████████████████████░░░░  82.17%
-JavaScript        41m 39s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.72%
-Markdown          23m 48s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.27%
-Shell             10m 47s      █░░░░░░░░░░░░░░░░░░░░░░░░  1.48%
-C++               8m 29s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.16%
+unknown           10h 16m 11s   █████████████████████░░░░  82.59%
+JavaScript        41m 39s       ██░░░░░░░░░░░░░░░░░░░░░░░  5.58%
+Markdown          23m 48s       █░░░░░░░░░░░░░░░░░░░░░░░░  3.19%
+Shell             10m 47s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.45%
+C++               8m 29s        █░░░░░░░░░░░░░░░░░░░░░░░░  1.14%
 
 💼 Projects:
-2026-ectf         4h 37m 16s   ██████████░░░░░░░░░░░░░░░  38.39%
-rust-ectf-tools   2h 38m 57s   ██████░░░░░░░░░░░░░░░░░░░  22.01%
-2026-rebuilt      36m 37s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.07%
-sleek             31m 16s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.33%
-blinkenberry      27m 24s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.79%
+2026-ectf         4h 48m 28s    ██████████░░░░░░░░░░░░░░░  38.79%
+rust-ectf-tools   2h 49m 15s    ██████░░░░░░░░░░░░░░░░░░░  22.76%
+2026-rebuilt      36m 37s       ██░░░░░░░░░░░░░░░░░░░░░░░  4.92%
+sleek             31m 16s       ██░░░░░░░░░░░░░░░░░░░░░░░  4.20%
+blinkenberry      27m 24s       █░░░░░░░░░░░░░░░░░░░░░░░░  3.68%
 
-Total: 10 hrs 50 mins
+Total: 11 hrs 8 mins
 ```
 
 #### 📮  Want to say hi?
