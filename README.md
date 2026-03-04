@@ -5,8 +5,8 @@ When not doing school or working on a random project, I enjoy flying drones and 
 #### 🏗️  The latest repos I've pushed to
 
 - [`dots`](https://github.com/taciturnaxolotl/dots) - _Kieran's opinionated (and ever expanding) nix config_ **(1 day ago)**
-- [`livepfp`](https://github.com/taciturnaxolotl/livepfp) - _live pfps_ **(2 days ago)**
 - [`zera`](https://github.com/taciturnaxolotl/zera) - _my new site v4?_ **(2 days ago)**
+- [`livepfp`](https://github.com/taciturnaxolotl/livepfp) - _live pfps_ **(2 days ago)**
 - [`blinkenberry`](https://github.com/taciturnaxolotl/blinkenberry) - _rp2350 based devboard with an esp32-c6 sidecar & blinkenlights_ **(3 days ago)**
 - [`sleek`](https://github.com/totallynotinteresting/sleek) - _sleek - a vencord clone for slack, probably_ **(5 days ago)**
 - [`pirateship-api`](https://github.com/taciturnaxolotl/pirateship-api) - _the pirateship api - typed_ **(6 days ago)**
@@ -30,20 +30,20 @@ When not doing school or working on a random project, I enjoy flying drones and 
 
 ```text
 💾 Languages:
-unknown           8h 56m 52s   ████████████████████░░░░░  78.03%
-JavaScript        43m 39s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.34%
-Markdown          37m 34s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.46%
-Shell             10m 47s      █░░░░░░░░░░░░░░░░░░░░░░░░  1.57%
-Git Config        10m 0s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.45%
+unknown           7h 18m 41s   ████████████████████░░░░░  77.77%
+JavaScript        41m 39s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.38%
+Markdown          23m 48s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.22%
+Shell             10m 47s      █░░░░░░░░░░░░░░░░░░░░░░░░  1.91%
+C++               8m 29s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.50%
 
 💼 Projects:
-2026-ectf         3h 14m 26s   ████████░░░░░░░░░░░░░░░░░  29.72%
-rust-ectf-tools   1h 35m 53s   ████░░░░░░░░░░░░░░░░░░░░░  14.66%
-blinkenberry      47m 43s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.29%
-2026-rebuilt      45m 13s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.91%
-sleek             31m 16s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.78%
+2026-ectf         2h 24m 19s   ███████░░░░░░░░░░░░░░░░░░  27.43%
+rust-ectf-tools   1h 35m 53s   █████░░░░░░░░░░░░░░░░░░░░  18.22%
+2026-rebuilt      36m 37s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.96%
+sleek             31m 16s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.94%
+blinkenberry      27m 24s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.21%
 
-Total: 9 hrs 54 mins
+Total: 8 hrs 10 mins
 ```
 
 #### 📮  Want to say hi?
