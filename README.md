@@ -4,21 +4,21 @@ When not doing school or working on a random project, I enjoy flying drones and 
 
 #### 🏗️  The latest repos I've pushed to
 
+- [`status`](https://github.com/taciturnaxolotl/status) - _my own status page_ **(today)**
+- [`dots`](https://github.com/taciturnaxolotl/dots) - _Kieran's opinionated (and ever expanding) nix config_ **(today)**
+- [`control`](https://github.com/taciturnaxolotl/control) - __ **(today)**
+- [`cachet`](https://github.com/taciturnaxolotl/cachet) - _a cache for slack profile pictures and emojis_ **(today)**
+- [`canvas-mcp`](https://github.com/taciturnaxolotl/canvas-mcp) - _a fancy canvas mcp server!_ **(today)**
+- [`indiko`](https://github.com/taciturnaxolotl/indiko) - _indieauth and oauth 2.0 compatible auth server for my homelab_ **(today)**
 - [`hn-alerts`](https://github.com/taciturnaxolotl/hn-alerts) - _a bot to track your hackernews posts!_ **(today)**
 - [`traverse`](https://github.com/taciturnaxolotl/traverse) - _snatching amp walkthrough for my own purposes mwhahahaha_ **(today)**
-- [`l4`](https://github.com/taciturnaxolotl/l4) - _the l4 cache_ **(today)**
-- [`canvas-mcp`](https://github.com/taciturnaxolotl/canvas-mcp) - _a fancy canvas mcp server!_ **(today)**
-- [`dots`](https://github.com/taciturnaxolotl/dots) - _Kieran's opinionated (and ever expanding) nix config_ **(today)**
-- [`cachet`](https://github.com/taciturnaxolotl/cachet) - _a cache for slack profile pictures and emojis_ **(today)**
-- [`control`](https://github.com/taciturnaxolotl/control) - __ **(today)**
-- [`indiko`](https://github.com/taciturnaxolotl/indiko) - _indieauth and oauth 2.0 compatible auth server for my homelab_ **(today)**
 
 #### 📦  My latest projects
 
+- [`status`](https://github.com/taciturnaxolotl/status) - _my own status page_
 - [`livepfp`](https://github.com/taciturnaxolotl/livepfp) - _live pfps_
 - [`rust-ectf-tools`](https://github.com/taciturnaxolotl/rust-ectf-tools) - _ectf tools rebuilt in rust_
 - [`blinkenberry`](https://github.com/taciturnaxolotl/blinkenberry) - _rp2350 based devboard with an esp32-c6 sidecar & blinkenlights_
-- [`canvas-mcp`](https://github.com/taciturnaxolotl/canvas-mcp) - _a fancy canvas mcp server!_
 
 #### 🪧  The latest posts from [`dunkirk.sh`](https://dunkirk.sh)
 
@@ -30,20 +30,20 @@ When not doing school or working on a random project, I enjoy flying drones and 
 
 ```text
 💾 Languages:
-unknown           8h 7m 23s    ██████████████████████░░░  85.67%
-Markdown          21m 44s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.82%
-Shell             10m 47s      █░░░░░░░░░░░░░░░░░░░░░░░░  1.90%
-JavaScript        10m 43s      █░░░░░░░░░░░░░░░░░░░░░░░░  1.88%
-C++               8m 29s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.49%
+unknown           8h 17m 32s   ██████████████████████░░░  84.35%
+Markdown          30m 31s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.17%
+Shell             10m 47s      █░░░░░░░░░░░░░░░░░░░░░░░░  1.83%
+JavaScript        10m 43s      █░░░░░░░░░░░░░░░░░░░░░░░░  1.82%
+C++               8m 29s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.44%
 
 💼 Projects:
-2026-ectf         3h 38m 52s   ██████████░░░░░░░░░░░░░░░  39.35%
-rust-ectf-tools   1h 13m 22s   ████░░░░░░░░░░░░░░░░░░░░░  13.19%
-dots              54m 25s      ███░░░░░░░░░░░░░░░░░░░░░░  9.78%
-2026-rebuilt      36m 37s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.58%
-cedarlogic        27m 43s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.98%
+2026-ectf         3h 38m 52s   ██████████░░░░░░░░░░░░░░░  38.15%
+rust-ectf-tools   1h 13m 22s   ████░░░░░░░░░░░░░░░░░░░░░  12.79%
+dots              56m 37s      ███░░░░░░░░░░░░░░░░░░░░░░  9.87%
+zera              37m 8s       ██░░░░░░░░░░░░░░░░░░░░░░░  6.47%
+2026-rebuilt      36m 37s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.38%
 
-Total: 8 hrs 37 mins
+Total: 8 hrs 54 mins
 ```
 
 #### 📮  Want to say hi?
