@@ -4,14 +4,14 @@ When not doing school or working on a random project, I enjoy flying drones and 
 
 #### 🏗️  The latest repos I've pushed to
 
-- [`zera`](https://github.com/taciturnaxolotl/zera) - _my new site v4?_ **(2 days ago)**
-- [`rust-ectf-tools`](https://github.com/taciturnaxolotl/rust-ectf-tools) - _ectf tools rebuilt in rust_ **(2 days ago)**
-- [`homebrew-tap`](https://github.com/taciturnaxolotl/homebrew-tap) - _🍺 my projects on tap_ **(2 days ago)**
-- [`dots`](https://github.com/taciturnaxolotl/dots) - _Kieran's opinionated (and ever expanding) nix config_ **(3 days ago)**
-- [`livepfp`](https://github.com/taciturnaxolotl/livepfp) - _live pfps_ **(4 days ago)**
-- [`blinkenberry`](https://github.com/taciturnaxolotl/blinkenberry) - _rp2350 based devboard with an esp32-c6 sidecar & blinkenlights_ **(5 days ago)**
-- [`sleek`](https://github.com/totallynotinteresting/sleek) - _sleek - a vencord clone for slack, probably_ **(1 week ago)**
-- [`pirateship-api`](https://github.com/taciturnaxolotl/pirateship-api) - _the pirateship api - typed_ **(1 week ago)**
+- [`hn-alerts`](https://github.com/taciturnaxolotl/hn-alerts) - _a bot to track your hackernews posts!_ **(today)**
+- [`traverse`](https://github.com/taciturnaxolotl/traverse) - _snatching amp walkthrough for my own purposes mwhahahaha_ **(today)**
+- [`l4`](https://github.com/taciturnaxolotl/l4) - _the l4 cache_ **(today)**
+- [`canvas-mcp`](https://github.com/taciturnaxolotl/canvas-mcp) - _a fancy canvas mcp server!_ **(today)**
+- [`dots`](https://github.com/taciturnaxolotl/dots) - _Kieran's opinionated (and ever expanding) nix config_ **(today)**
+- [`cachet`](https://github.com/taciturnaxolotl/cachet) - _a cache for slack profile pictures and emojis_ **(today)**
+- [`control`](https://github.com/taciturnaxolotl/control) - __ **(today)**
+- [`indiko`](https://github.com/taciturnaxolotl/indiko) - _indieauth and oauth 2.0 compatible auth server for my homelab_ **(today)**
 
 #### 📦  My latest projects
 
@@ -30,20 +30,20 @@ When not doing school or working on a random project, I enjoy flying drones and 
 
 ```text
 💾 Languages:
-unknown           7h 33m 33s   ██████████████████████░░░  85.87%
-Markdown          16m 50s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.19%
-Shell             10m 47s      █░░░░░░░░░░░░░░░░░░░░░░░░  2.04%
-JavaScript        10m 43s      █░░░░░░░░░░░░░░░░░░░░░░░░  2.03%
-C++               8m 29s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.61%
+unknown           8h 7m 23s    ██████████████████████░░░  85.67%
+Markdown          21m 44s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.82%
+Shell             10m 47s      █░░░░░░░░░░░░░░░░░░░░░░░░  1.90%
+JavaScript        10m 43s      █░░░░░░░░░░░░░░░░░░░░░░░░  1.88%
+C++               8m 29s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.49%
 
 💼 Projects:
-2026-ectf         3h 38m 52s   ███████████░░░░░░░░░░░░░░  42.25%
-rust-ectf-tools   1h 13m 22s   ████░░░░░░░░░░░░░░░░░░░░░  14.16%
-2026-rebuilt      36m 37s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.07%
-zera              26m 23s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.09%
-cs1220            25m 43s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.96%
+2026-ectf         3h 38m 52s   ██████████░░░░░░░░░░░░░░░  39.35%
+rust-ectf-tools   1h 13m 22s   ████░░░░░░░░░░░░░░░░░░░░░  13.19%
+dots              54m 25s      ███░░░░░░░░░░░░░░░░░░░░░░  9.78%
+2026-rebuilt      36m 37s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.58%
+cedarlogic        27m 43s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.98%
 
-Total: 8 hrs 4 mins
+Total: 8 hrs 37 mins
 ```
 
 #### 📮  Want to say hi?
