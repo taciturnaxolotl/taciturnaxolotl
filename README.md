@@ -4,11 +4,11 @@ When not doing school or working on a random project, I enjoy flying drones and 
 
 #### 🏗️  The latest repos I've pushed to
 
-- [`status`](https://github.com/taciturnaxolotl/status) - _my own status page_ **(today)**
 - [`dots`](https://github.com/taciturnaxolotl/dots) - _Kieran's opinionated (and ever expanding) nix config_ **(today)**
-- [`control`](https://github.com/taciturnaxolotl/control) - __ **(today)**
-- [`cachet`](https://github.com/taciturnaxolotl/cachet) - _a cache for slack profile pictures and emojis_ **(today)**
 - [`canvas-mcp`](https://github.com/taciturnaxolotl/canvas-mcp) - _a fancy canvas mcp server!_ **(today)**
+- [`control`](https://github.com/taciturnaxolotl/control) - __ **(today)**
+- [`zera`](https://github.com/taciturnaxolotl/zera) - _my new site v4?_ **(today)**
+- [`cachet`](https://github.com/taciturnaxolotl/cachet) - _a cache for slack profile pictures and emojis_ **(today)**
 - [`indiko`](https://github.com/taciturnaxolotl/indiko) - _indieauth and oauth 2.0 compatible auth server for my homelab_ **(today)**
 - [`hn-alerts`](https://github.com/taciturnaxolotl/hn-alerts) - _a bot to track your hackernews posts!_ **(today)**
 - [`traverse`](https://github.com/taciturnaxolotl/traverse) - _snatching amp walkthrough for my own purposes mwhahahaha_ **(today)**
@@ -30,20 +30,20 @@ When not doing school or working on a random project, I enjoy flying drones and 
 
 ```text
 💾 Languages:
-unknown           8h 35m 18s   ██████████████████████░░░  84.81%
-Markdown          30m 31s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.02%
-Shell             10m 47s      █░░░░░░░░░░░░░░░░░░░░░░░░  1.77%
-JavaScript        10m 43s      █░░░░░░░░░░░░░░░░░░░░░░░░  1.76%
-C++               8m 29s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.40%
+unknown           9h 3m 13s    █████████████████████░░░░  83.28%
+Markdown          34m 35s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.30%
+JavaScript        18m 6s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.78%
+Shell             10m 47s      █░░░░░░░░░░░░░░░░░░░░░░░░  1.65%
+C++               8m 29s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.30%
 
 💼 Projects:
-2026-ectf         3h 38m 52s   ██████████░░░░░░░░░░░░░░░  37.01%
-dots              1h 14m 23s   ████░░░░░░░░░░░░░░░░░░░░░  12.58%
-rust-ectf-tools   1h 13m 22s   ████░░░░░░░░░░░░░░░░░░░░░  12.41%
-zera              37m 8s       ██░░░░░░░░░░░░░░░░░░░░░░░  6.28%
-2026-rebuilt      36m 37s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.19%
+2026-ectf         3h 38m 52s   █████████░░░░░░░░░░░░░░░░  33.87%
+dots              1h 32m 20s   ████░░░░░░░░░░░░░░░░░░░░░  14.29%
+rust-ectf-tools   1h 13m 22s   ███░░░░░░░░░░░░░░░░░░░░░░  11.35%
+zera              47m 11s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.30%
+2026-rebuilt      36m 37s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.67%
 
-Total: 9 hrs 12 mins
+Total: 9 hrs 50 mins
 ```
 
 #### 📮  Want to say hi?
