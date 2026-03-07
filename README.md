@@ -4,14 +4,14 @@ When not doing school or working on a random project, I enjoy flying drones and 
 
 #### 🏗️  The latest repos I've pushed to
 
-- [`control`](https://github.com/taciturnaxolotl/control) - __ **(1 day ago)**
-- [`canvas-mcp`](https://github.com/taciturnaxolotl/canvas-mcp) - _a fancy canvas mcp server!_ **(1 day ago)**
-- [`traverse`](https://github.com/taciturnaxolotl/traverse) - _snatching amp walkthrough for my own purposes mwhahahaha_ **(1 day ago)**
-- [`zera`](https://github.com/taciturnaxolotl/zera) - _my new site v4?_ **(1 day ago)**
-- [`l4`](https://github.com/taciturnaxolotl/l4) - _the l4 cache_ **(1 day ago)**
-- [`cachet`](https://github.com/taciturnaxolotl/cachet) - _a cache for slack profile pictures and emojis_ **(1 day ago)**
+- [`zera`](https://github.com/taciturnaxolotl/zera) - _my new site v4?_ **(today)**
+- [`dots`](https://github.com/taciturnaxolotl/dots) - _Kieran's opinionated (and ever expanding) nix config_ **(today)**
+- [`l4`](https://github.com/taciturnaxolotl/l4) - _the l4 cache_ **(today)**
 - [`status`](https://github.com/taciturnaxolotl/status) - _my own status page_ **(1 day ago)**
+- [`cachet`](https://github.com/taciturnaxolotl/cachet) - _a cache for slack profile pictures and emojis_ **(1 day ago)**
 - [`indiko`](https://github.com/taciturnaxolotl/indiko) - _indieauth and oauth 2.0 compatible auth server for my homelab_ **(1 day ago)**
+- [`hn-alerts`](https://github.com/taciturnaxolotl/hn-alerts) - _a bot to track your hackernews posts!_ **(1 day ago)**
+- [`canvas-mcp`](https://github.com/taciturnaxolotl/canvas-mcp) - _a fancy canvas mcp server!_ **(1 day ago)**
 
 #### 📦  My latest projects
 
