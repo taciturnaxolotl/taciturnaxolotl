@@ -5,20 +5,20 @@ When not doing school or working on a random project, I enjoy flying drones and 
 #### 🏗️  The latest repos I've pushed to
 
 - [`dots`](https://github.com/taciturnaxolotl/dots) - _Kieran's opinionated (and ever expanding) nix config_ **(today)**
-- [`cachet`](https://github.com/taciturnaxolotl/cachet) - _a cache for slack profile pictures and emojis_ **(today)**
 - [`status`](https://github.com/taciturnaxolotl/status) - _my own status page_ **(today)**
+- [`screentime`](https://github.com/taciturnaxolotl/screentime) - _fancy screentime bruteforce_ **(today)**
+- [`cachet`](https://github.com/taciturnaxolotl/cachet) - _a cache for slack profile pictures and emojis_ **(today)**
 - [`l4`](https://github.com/taciturnaxolotl/l4) - _the l4 cache_ **(1 day ago)**
 - [`zera`](https://github.com/taciturnaxolotl/zera) - _my new site v4?_ **(1 day ago)**
 - [`control`](https://github.com/taciturnaxolotl/control) - __ **(2 days ago)**
 - [`canvas-mcp`](https://github.com/taciturnaxolotl/canvas-mcp) - _a fancy canvas mcp server!_ **(2 days ago)**
-- [`indiko`](https://github.com/taciturnaxolotl/indiko) - _indieauth and oauth 2.0 compatible auth server for my homelab_ **(2 days ago)**
 
 #### 📦  My latest projects
 
+- [`screentime`](https://github.com/taciturnaxolotl/screentime) - _fancy screentime bruteforce_
 - [`status`](https://github.com/taciturnaxolotl/status) - _my own status page_
 - [`livepfp`](https://github.com/taciturnaxolotl/livepfp) - _live pfps_
 - [`rust-ectf-tools`](https://github.com/taciturnaxolotl/rust-ectf-tools) - _ectf tools rebuilt in rust_
-- [`blinkenberry`](https://github.com/taciturnaxolotl/blinkenberry) - _rp2350 based devboard with an esp32-c6 sidecar & blinkenlights_
 
 #### 🪧  The latest posts from [`dunkirk.sh`](https://dunkirk.sh)
 
