@@ -4,14 +4,14 @@ When not doing school or working on a random project, I enjoy flying drones and 
 
 #### 🏗️  The latest repos I've pushed to
 
-- [`dots`](https://github.com/taciturnaxolotl/dots) - _Kieran's opinionated (and ever expanding) nix config_ **(today)**
 - [`pstream-ng`](https://github.com/taciturnaxolotl/pstream-ng) - _pstream is dead; long live pstream_ **(today)**
 - [`status`](https://github.com/taciturnaxolotl/status) - _my own status page_ **(today)**
+- [`dots`](https://github.com/taciturnaxolotl/dots) - _Kieran's opinionated (and ever expanding) nix config_ **(today)**
 - [`zera`](https://github.com/taciturnaxolotl/zera) - _my new site v4?_ **(today)**
+- [`cv`](https://github.com/taciturnaxolotl/cv) - _my cv powered by latex_ **(today)**
 - [`cachet`](https://github.com/taciturnaxolotl/cachet) - _a cache for slack profile pictures and emojis_ **(1 day ago)**
 - [`l4`](https://github.com/taciturnaxolotl/l4) - _the l4 cache_ **(2 days ago)**
-- [`traverse`](https://github.com/taciturnaxolotl/traverse) - _snatching amp walkthrough for my own purposes mwhahahaha_ **(3 days ago)**
-- [`hn-alerts`](https://github.com/taciturnaxolotl/hn-alerts) - _a bot to track your hackernews posts!_ **(3 days ago)**
+- [`canvas-mcp`](https://github.com/taciturnaxolotl/canvas-mcp) - _a fancy canvas mcp server!_ **(3 days ago)**
 
 #### 📦  My latest projects
 
@@ -30,20 +30,20 @@ When not doing school or working on a random project, I enjoy flying drones and 
 
 ```text
 💾 Languages:
-unknown           15h 20m 46s   █████████████████████░░░░  80.23%
-Markdown          1h 50m 5s     ███░░░░░░░░░░░░░░░░░░░░░░  9.59%
-JavaScript        1h 0m 26s     ██░░░░░░░░░░░░░░░░░░░░░░░  5.27%
-Shell             24m 17s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.12%
-gitcommit         12m 55s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.13%
+unknown           15h 30m 9s   ████████████████████░░░░░  79.68%
+Markdown          1h 50m 5s    ███░░░░░░░░░░░░░░░░░░░░░░  9.43%
+JavaScript        1h 2m 26s    ██░░░░░░░░░░░░░░░░░░░░░░░  5.35%
+Shell             24m 17s      █░░░░░░░░░░░░░░░░░░░░░░░░  2.08%
+gitcommit         12m 55s      █░░░░░░░░░░░░░░░░░░░░░░░░  1.11%
 
 💼 Projects:
-2026-ectf         3h 54m 26s    ██████░░░░░░░░░░░░░░░░░░░  20.05%
-dots              3h 1m 53s     ████░░░░░░░░░░░░░░░░░░░░░  15.55%
-zera              2h 55m 53s    ████░░░░░░░░░░░░░░░░░░░░░  15.04%
-status            2h 46m 45s    ████░░░░░░░░░░░░░░░░░░░░░  14.26%
-rust-ectf-tools   1h 13m 22s    ██░░░░░░░░░░░░░░░░░░░░░░░  6.27%
+2026-ectf         3h 54m 26s   █████░░░░░░░░░░░░░░░░░░░░  19.78%
+dots              3h 1m 53s    ████░░░░░░░░░░░░░░░░░░░░░  15.35%
+zera              2h 58m 6s    ████░░░░░░░░░░░░░░░░░░░░░  15.03%
+status            2h 46m 45s   ████░░░░░░░░░░░░░░░░░░░░░  14.07%
+rust-ectf-tools   1h 13m 22s   ██░░░░░░░░░░░░░░░░░░░░░░░  6.19%
 
-Total: 17 hrs 3 mins
+Total: 17 hrs 18 mins
 ```
 
 #### 📮  Want to say hi?
