@@ -22,28 +22,28 @@ When not doing school or working on a random project, I enjoy flying drones and 
 
 #### 🪧  The latest posts from [`dunkirk.sh`](https://dunkirk.sh)
 
+- [`Bruteforcing the macOS Screen Time pin for fun and profit`](https://dunkirk.sh/blog/screentime/) **(1 day ago)**
 - [`FRC REBUILT Points Calculator`](https://dunkirk.sh/blog/frc-rebuilt-calculator/) **(1 month ago)**
 - [`Homelab tour`](https://dunkirk.sh/blog/homelab-tour/) **(2 months ago)**
-- [`Novel phishing tactic using github notifications`](https://dunkirk.sh/blog/github-phishing/) **(4 months ago)**
 
 #### 📡  My [_`hackatime`_](https://waka.hackclub.com) stats from this week
 
 ```text
 💾 Languages:
-unknown           14h 19m 25s   █████████████████████░░░░  81.07%
-Markdown          1h 29m 58s    ███░░░░░░░░░░░░░░░░░░░░░░  8.49%
-JavaScript        56m 22s       ██░░░░░░░░░░░░░░░░░░░░░░░  5.32%
-Shell             24m 17s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.29%
-gitcommit         12m 55s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.22%
+unknown           14h 26m 55s   █████████████████████░░░░  80.09%
+Markdown          1h 44m 47s    ███░░░░░░░░░░░░░░░░░░░░░░  9.68%
+JavaScript        56m 22s       ██░░░░░░░░░░░░░░░░░░░░░░░  5.21%
+Shell             24m 17s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.24%
+gitcommit         12m 55s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.19%
 
 💼 Projects:
-2026-ectf         3h 47m 45s    ██████░░░░░░░░░░░░░░░░░░░  20.86%
-dots              2h 49m 21s    ████░░░░░░░░░░░░░░░░░░░░░  15.51%
-status            2h 46m 45s    ████░░░░░░░░░░░░░░░░░░░░░  15.27%
-zera              2h 17m 24s    ████░░░░░░░░░░░░░░░░░░░░░  12.58%
-rust-ectf-tools   1h 13m 22s    ██░░░░░░░░░░░░░░░░░░░░░░░  6.72%
+2026-ectf         3h 47m 45s    ██████░░░░░░░░░░░░░░░░░░░  20.51%
+dots              2h 49m 21s    ████░░░░░░░░░░░░░░░░░░░░░  15.25%
+status            2h 46m 45s    ████░░░░░░░░░░░░░░░░░░░░░  15.01%
+zera              2h 35m 38s    ████░░░░░░░░░░░░░░░░░░░░░  14.01%
+rust-ectf-tools   1h 13m 22s    ██░░░░░░░░░░░░░░░░░░░░░░░  6.61%
 
-Total: 15 hrs 50 mins
+Total: 16 hrs 9 mins
 ```
 
 #### 📮  Want to say hi?
