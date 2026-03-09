@@ -4,14 +4,14 @@ When not doing school or working on a random project, I enjoy flying drones and 
 
 #### 🏗️  The latest repos I've pushed to
 
-- [`dots`](https://github.com/taciturnaxolotl/dots) - _Kieran's opinionated (and ever expanding) nix config_ **(today)**
-- [`status`](https://github.com/taciturnaxolotl/status) - _my own status page_ **(today)**
-- [`screentime`](https://github.com/taciturnaxolotl/screentime) - _fancy screentime bruteforce_ **(today)**
-- [`cachet`](https://github.com/taciturnaxolotl/cachet) - _a cache for slack profile pictures and emojis_ **(today)**
-- [`l4`](https://github.com/taciturnaxolotl/l4) - _the l4 cache_ **(1 day ago)**
-- [`zera`](https://github.com/taciturnaxolotl/zera) - _my new site v4?_ **(1 day ago)**
-- [`control`](https://github.com/taciturnaxolotl/control) - __ **(2 days ago)**
-- [`canvas-mcp`](https://github.com/taciturnaxolotl/canvas-mcp) - _a fancy canvas mcp server!_ **(2 days ago)**
+- [`status`](https://github.com/taciturnaxolotl/status) - _my own status page_ **(1 day ago)**
+- [`dots`](https://github.com/taciturnaxolotl/dots) - _Kieran's opinionated (and ever expanding) nix config_ **(1 day ago)**
+- [`screentime`](https://github.com/taciturnaxolotl/screentime) - _fancy screentime bruteforce_ **(1 day ago)**
+- [`cachet`](https://github.com/taciturnaxolotl/cachet) - _a cache for slack profile pictures and emojis_ **(1 day ago)**
+- [`zera`](https://github.com/taciturnaxolotl/zera) - _my new site v4?_ **(2 days ago)**
+- [`l4`](https://github.com/taciturnaxolotl/l4) - _the l4 cache_ **(2 days ago)**
+- [`indiko`](https://github.com/taciturnaxolotl/indiko) - _indieauth and oauth 2.0 compatible auth server for my homelab_ **(3 days ago)**
+- [`hn-alerts`](https://github.com/taciturnaxolotl/hn-alerts) - _a bot to track your hackernews posts!_ **(3 days ago)**
 
 #### 📦  My latest projects
 
