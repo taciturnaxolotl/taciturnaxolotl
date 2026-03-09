@@ -4,19 +4,19 @@ When not doing school or working on a random project, I enjoy flying drones and 
 
 #### 🏗️  The latest repos I've pushed to
 
-- [`status`](https://github.com/taciturnaxolotl/status) - _my own status page_ **(today)**
+- [`screentime`](https://github.com/taciturnaxolotl/screentime) - _screentime reverse engineering_ **(today)**
 - [`pstream-ng`](https://github.com/taciturnaxolotl/pstream-ng) - _pstream is dead; long live pstream_ **(today)**
+- [`status`](https://github.com/taciturnaxolotl/status) - _my own status page_ **(today)**
 - [`dots`](https://github.com/taciturnaxolotl/dots) - _Kieran's opinionated (and ever expanding) nix config_ **(1 day ago)**
 - [`cachet`](https://github.com/taciturnaxolotl/cachet) - _a cache for slack profile pictures and emojis_ **(1 day ago)**
-- [`screentime`](https://github.com/taciturnaxolotl/screentime) - _fancy screentime bruteforce_ **(1 day ago)**
-- [`l4`](https://github.com/taciturnaxolotl/l4) - _the l4 cache_ **(2 days ago)**
 - [`zera`](https://github.com/taciturnaxolotl/zera) - _my new site v4?_ **(2 days ago)**
-- [`traverse`](https://github.com/taciturnaxolotl/traverse) - _snatching amp walkthrough for my own purposes mwhahahaha_ **(3 days ago)**
+- [`l4`](https://github.com/taciturnaxolotl/l4) - _the l4 cache_ **(2 days ago)**
+- [`indiko`](https://github.com/taciturnaxolotl/indiko) - _indieauth and oauth 2.0 compatible auth server for my homelab_ **(3 days ago)**
 
 #### 📦  My latest projects
 
 - [`pstream-ng`](https://github.com/taciturnaxolotl/pstream-ng) - _pstream is dead; long live pstream_
-- [`screentime`](https://github.com/taciturnaxolotl/screentime) - _fancy screentime bruteforce_
+- [`screentime`](https://github.com/taciturnaxolotl/screentime) - _screentime reverse engineering_
 - [`status`](https://github.com/taciturnaxolotl/status) - _my own status page_
 - [`livepfp`](https://github.com/taciturnaxolotl/livepfp) - _live pfps_
 
@@ -30,20 +30,20 @@ When not doing school or working on a random project, I enjoy flying drones and 
 
 ```text
 💾 Languages:
-unknown           14h 10m 38s   █████████████████████░░░░  82.54%
-Markdown          1h 9m 16s     ██░░░░░░░░░░░░░░░░░░░░░░░  6.72%
-JavaScript        56m 22s       ██░░░░░░░░░░░░░░░░░░░░░░░  5.47%
-Shell             24m 17s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.36%
-gitcommit         12m 55s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.25%
+unknown           14h 13m 25s   █████████████████████░░░░  80.96%
+Markdown          1h 29m 56s    ███░░░░░░░░░░░░░░░░░░░░░░  8.53%
+JavaScript        56m 22s       ██░░░░░░░░░░░░░░░░░░░░░░░  5.35%
+Shell             24m 17s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.30%
+gitcommit         12m 55s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.23%
 
 💼 Projects:
-2026-ectf         3h 47m 45s    ██████░░░░░░░░░░░░░░░░░░░  21.44%
-dots              2h 49m 21s    ████░░░░░░░░░░░░░░░░░░░░░  15.94%
-status            2h 44m 23s    ████░░░░░░░░░░░░░░░░░░░░░  15.47%
-zera              1h 54m 49s    ███░░░░░░░░░░░░░░░░░░░░░░  10.81%
-rust-ectf-tools   1h 13m 22s    ██░░░░░░░░░░░░░░░░░░░░░░░  6.91%
+2026-ectf         3h 47m 45s    ██████░░░░░░░░░░░░░░░░░░░  20.94%
+dots              2h 49m 21s    ████░░░░░░░░░░░░░░░░░░░░░  15.57%
+status            2h 46m 45s    ████░░░░░░░░░░░░░░░░░░░░░  15.33%
+zera              2h 15m 2s     ████░░░░░░░░░░░░░░░░░░░░░  12.41%
+rust-ectf-tools   1h 13m 22s    ██░░░░░░░░░░░░░░░░░░░░░░░  6.75%
 
-Total: 15 hrs 25 mins
+Total: 15 hrs 46 mins
 ```
 
 #### 📮  Want to say hi?
