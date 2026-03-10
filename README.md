@@ -4,14 +4,14 @@ When not doing school or working on a random project, I enjoy flying drones and 
 
 #### 🏗️  The latest repos I've pushed to
 
-- [`pstream-ng`](https://github.com/taciturnaxolotl/pstream-ng) - _pstream is dead; long live pstream_ **(today)**
-- [`status`](https://github.com/taciturnaxolotl/status) - _my own status page_ **(today)**
-- [`dots`](https://github.com/taciturnaxolotl/dots) - _Kieran's opinionated (and ever expanding) nix config_ **(today)**
-- [`zera`](https://github.com/taciturnaxolotl/zera) - _my new site v4?_ **(today)**
-- [`cv`](https://github.com/taciturnaxolotl/cv) - _my cv powered by latex_ **(today)**
-- [`cachet`](https://github.com/taciturnaxolotl/cachet) - _a cache for slack profile pictures and emojis_ **(1 day ago)**
-- [`l4`](https://github.com/taciturnaxolotl/l4) - _the l4 cache_ **(2 days ago)**
-- [`canvas-mcp`](https://github.com/taciturnaxolotl/canvas-mcp) - _a fancy canvas mcp server!_ **(3 days ago)**
+- [`pstream-ng`](https://github.com/taciturnaxolotl/pstream-ng) - _pstream is dead; long live pstream_ **(1 day ago)**
+- [`status`](https://github.com/taciturnaxolotl/status) - _my own status page_ **(1 day ago)**
+- [`dots`](https://github.com/taciturnaxolotl/dots) - _Kieran's opinionated (and ever expanding) nix config_ **(1 day ago)**
+- [`zera`](https://github.com/taciturnaxolotl/zera) - _my new site v4?_ **(1 day ago)**
+- [`cv`](https://github.com/taciturnaxolotl/cv) - _my cv powered by latex_ **(1 day ago)**
+- [`cachet`](https://github.com/taciturnaxolotl/cachet) - _a cache for slack profile pictures and emojis_ **(2 days ago)**
+- [`l4`](https://github.com/taciturnaxolotl/l4) - _the l4 cache_ **(3 days ago)**
+- [`canvas-mcp`](https://github.com/taciturnaxolotl/canvas-mcp) - _a fancy canvas mcp server!_ **(4 days ago)**
 
 #### 📦  My latest projects
 
@@ -30,20 +30,20 @@ When not doing school or working on a random project, I enjoy flying drones and 
 
 ```text
 💾 Languages:
-unknown           15h 38m 51s   ████████████████████░░░░░  78.97%
-Markdown          1h 50m 5s     ███░░░░░░░░░░░░░░░░░░░░░░  9.26%
-JavaScript        1h 2m 26s     ██░░░░░░░░░░░░░░░░░░░░░░░  5.25%
-Shell             24m 17s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.04%
-TeX               17m 7s        █░░░░░░░░░░░░░░░░░░░░░░░░  1.44%
+unknown           15h 57m 31s   ████████████████████░░░░░  79.30%
+Markdown          1h 50m 5s     ███░░░░░░░░░░░░░░░░░░░░░░  9.12%
+JavaScript        1h 2m 26s     ██░░░░░░░░░░░░░░░░░░░░░░░  5.17%
+Shell             24m 17s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.01%
+TeX               17m 7s        █░░░░░░░░░░░░░░░░░░░░░░░░  1.42%
 
 💼 Projects:
-2026-ectf         3h 54m 26s    █████░░░░░░░░░░░░░░░░░░░░  19.50%
-dots              3h 1m 53s     ████░░░░░░░░░░░░░░░░░░░░░  15.13%
-zera              2h 58m 6s     ████░░░░░░░░░░░░░░░░░░░░░  14.81%
-status            2h 46m 45s    ████░░░░░░░░░░░░░░░░░░░░░  13.87%
-rust-ectf-tools   1h 13m 22s    ██░░░░░░░░░░░░░░░░░░░░░░░  6.10%
+2026-ectf         3h 54m 26s    █████░░░░░░░░░░░░░░░░░░░░  19.17%
+dots              3h 8m 19s     ████░░░░░░░░░░░░░░░░░░░░░  15.40%
+zera              2h 58m 6s     ████░░░░░░░░░░░░░░░░░░░░░  14.57%
+status            2h 48m 55s    ████░░░░░░░░░░░░░░░░░░░░░  13.82%
+rust-ectf-tools   1h 13m 22s    ██░░░░░░░░░░░░░░░░░░░░░░░  6.00%
 
-Total: 17 hrs 38 mins
+Total: 17 hrs 56 mins
 ```
 
 #### 📮  Want to say hi?
