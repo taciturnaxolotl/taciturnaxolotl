@@ -4,14 +4,14 @@ When not doing school or working on a random project, I enjoy flying drones and 
 
 #### 🏗️  The latest repos I've pushed to
 
+- [`zera`](https://github.com/taciturnaxolotl/zera) - _my new site v4?_ **(today)**
 - [`pstream-ng`](https://github.com/taciturnaxolotl/pstream-ng) - _pstream is dead; long live pstream_ **(2 days ago)**
 - [`status`](https://github.com/taciturnaxolotl/status) - _my own status page_ **(2 days ago)**
 - [`dots`](https://github.com/taciturnaxolotl/dots) - _Kieran's opinionated (and ever expanding) nix config_ **(2 days ago)**
-- [`zera`](https://github.com/taciturnaxolotl/zera) - _my new site v4?_ **(2 days ago)**
 - [`cv`](https://github.com/taciturnaxolotl/cv) - _my cv powered by latex_ **(2 days ago)**
 - [`cachet`](https://github.com/taciturnaxolotl/cachet) - _a cache for slack profile pictures and emojis_ **(3 days ago)**
 - [`l4`](https://github.com/taciturnaxolotl/l4) - _the l4 cache_ **(4 days ago)**
-- [`canvas-mcp`](https://github.com/taciturnaxolotl/canvas-mcp) - _a fancy canvas mcp server!_ **(5 days ago)**
+- [`indiko`](https://github.com/taciturnaxolotl/indiko) - _indieauth and oauth 2.0 compatible auth server for my homelab_ **(5 days ago)**
 
 #### 📦  My latest projects
 
@@ -30,20 +30,20 @@ When not doing school or working on a random project, I enjoy flying drones and 
 
 ```text
 💾 Languages:
-unknown           15h 2m 6s    █████████████████████░░░░  80.28%
-Markdown          1h 50m 5s    ███░░░░░░░░░░░░░░░░░░░░░░  9.80%
-JavaScript        49m 44s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.43%
-TeX               17m 7s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.52%
-gitcommit         16m 55s      █░░░░░░░░░░░░░░░░░░░░░░░░  1.51%
+unknown           15h 27m 7s   █████████████████████░░░░  80.32%
+Markdown          1h 50m 5s    ███░░░░░░░░░░░░░░░░░░░░░░  9.54%
+JavaScript        55m 10s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.78%
+TeX               17m 7s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.48%
+gitcommit         16m 55s      █░░░░░░░░░░░░░░░░░░░░░░░░  1.47%
 
 💼 Projects:
-2026-ectf         3h 27m 30s   █████░░░░░░░░░░░░░░░░░░░░  18.03%
-dots              2h 50m 16s   ████░░░░░░░░░░░░░░░░░░░░░  14.80%
-status            2h 48m 55s   ████░░░░░░░░░░░░░░░░░░░░░  14.68%
-zera              2h 33m 34s   ████░░░░░░░░░░░░░░░░░░░░░  13.35%
-rust-ectf-tools   1h 13m 22s   ██░░░░░░░░░░░░░░░░░░░░░░░  6.38%
+2026-ectf         3h 27m 30s   █████░░░░░░░░░░░░░░░░░░░░  17.65%
+dots              2h 50m 16s   ████░░░░░░░░░░░░░░░░░░░░░  14.49%
+status            2h 48m 55s   ████░░░░░░░░░░░░░░░░░░░░░  14.37%
+zera              2h 40m 4s    ████░░░░░░░░░░░░░░░░░░░░░  13.62%
+rust-ectf-tools   1h 13m 22s   ██░░░░░░░░░░░░░░░░░░░░░░░  6.24%
 
-Total: 16 hrs 55 mins
+Total: 17 hrs 21 mins
 ```
 
 #### 📮  Want to say hi?
