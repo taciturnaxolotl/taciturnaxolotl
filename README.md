@@ -4,21 +4,21 @@ When not doing school or working on a random project, I enjoy flying drones and 
 
 #### 🏗️  The latest repos I've pushed to
 
+- [`cedarstalk-raycast`](https://github.com/taciturnaxolotl/cedarstalk-raycast) - _cedarstalking with keyboard shortcuts_ **(today)**
 - [`zera`](https://github.com/taciturnaxolotl/zera) - _my new site v4?_ **(today)**
 - [`pstream-ng`](https://github.com/taciturnaxolotl/pstream-ng) - _pstream is dead; long live pstream_ **(2 days ago)**
+- [`cv`](https://github.com/taciturnaxolotl/cv) - _my cv powered by latex_ **(2 days ago)**
 - [`status`](https://github.com/taciturnaxolotl/status) - _my own status page_ **(2 days ago)**
 - [`dots`](https://github.com/taciturnaxolotl/dots) - _Kieran's opinionated (and ever expanding) nix config_ **(2 days ago)**
-- [`cv`](https://github.com/taciturnaxolotl/cv) - _my cv powered by latex_ **(2 days ago)**
 - [`cachet`](https://github.com/taciturnaxolotl/cachet) - _a cache for slack profile pictures and emojis_ **(3 days ago)**
 - [`l4`](https://github.com/taciturnaxolotl/l4) - _the l4 cache_ **(4 days ago)**
-- [`indiko`](https://github.com/taciturnaxolotl/indiko) - _indieauth and oauth 2.0 compatible auth server for my homelab_ **(5 days ago)**
 
 #### 📦  My latest projects
 
+- [`cedarstalk-raycast`](https://github.com/taciturnaxolotl/cedarstalk-raycast) - _cedarstalking with keyboard shortcuts_
 - [`pstream-ng`](https://github.com/taciturnaxolotl/pstream-ng) - _pstream is dead; long live pstream_
 - [`status`](https://github.com/taciturnaxolotl/status) - _my own status page_
 - [`livepfp`](https://github.com/taciturnaxolotl/livepfp) - _live pfps_
-- [`rust-ectf-tools`](https://github.com/taciturnaxolotl/rust-ectf-tools) - _ectf tools rebuilt in rust_
 
 #### 🪧  The latest posts from [`dunkirk.sh`](https://dunkirk.sh)
 
@@ -30,20 +30,20 @@ When not doing school or working on a random project, I enjoy flying drones and 
 
 ```text
 💾 Languages:
-unknown           15h 35m 2s   █████████████████████░░░░  80.34%
-Markdown          1h 50m 5s    ███░░░░░░░░░░░░░░░░░░░░░░  9.46%
-JavaScript        55m 10s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.74%
-TeX               17m 7s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.47%
-gitcommit         16m 55s      █░░░░░░░░░░░░░░░░░░░░░░░░  1.45%
+unknown           16h 16m 53s   █████████████████████░░░░  80.46%
+Markdown          1h 50m 5s     ███░░░░░░░░░░░░░░░░░░░░░░  9.07%
+JavaScript        57m 10s       ██░░░░░░░░░░░░░░░░░░░░░░░  4.71%
+gitcommit         18m 55s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.56%
+TeX               17m 7s        █░░░░░░░░░░░░░░░░░░░░░░░░  1.41%
 
 💼 Projects:
-2026-ectf         3h 27m 30s   █████░░░░░░░░░░░░░░░░░░░░  17.48%
-dots              2h 50m 16s   ████░░░░░░░░░░░░░░░░░░░░░  14.34%
-status            2h 48m 55s   ████░░░░░░░░░░░░░░░░░░░░░  14.23%
-zera              2h 42m 4s    ████░░░░░░░░░░░░░░░░░░░░░  13.65%
-rust-ectf-tools   1h 13m 22s   ██░░░░░░░░░░░░░░░░░░░░░░░  6.18%
+2026-ectf         4h 5m 16s     █████░░░░░░░░░░░░░░░░░░░░  19.86%
+dots              2h 50m 16s    ████░░░░░░░░░░░░░░░░░░░░░  13.79%
+status            2h 48m 55s    ████░░░░░░░░░░░░░░░░░░░░░  13.68%
+zera              2h 42m 4s     ████░░░░░░░░░░░░░░░░░░░░░  13.12%
+rust-ectf-tools   1h 16m 57s    ██░░░░░░░░░░░░░░░░░░░░░░░  6.23%
 
-Total: 17 hrs 29 mins
+Total: 18 hrs 11 mins
 ```
 
 #### 📮  Want to say hi?
