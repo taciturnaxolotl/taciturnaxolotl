@@ -4,14 +4,14 @@ When not doing school or working on a random project, I enjoy flying drones and 
 
 #### 🏗️  The latest repos I've pushed to
 
-- [`dots`](https://github.com/taciturnaxolotl/dots) - _Kieran's opinionated (and ever expanding) nix config_ **(1 day ago)**
 - [`rust-ectf-tools`](https://github.com/taciturnaxolotl/rust-ectf-tools) - _ectf tools rebuilt in rust_ **(1 day ago)**
+- [`dots`](https://github.com/taciturnaxolotl/dots) - _Kieran's opinionated (and ever expanding) nix config_ **(1 day ago)**
 - [`zera`](https://github.com/taciturnaxolotl/zera) - _my new site v4?_ **(1 day ago)**
 - [`homebrew-tap`](https://github.com/taciturnaxolotl/homebrew-tap) - _🍺 my projects on tap_ **(1 day ago)**
 - [`cedarstalk-raycast`](https://github.com/taciturnaxolotl/cedarstalk-raycast) - _cedarstalking with keyboard shortcuts_ **(1 day ago)**
-- [`pstream-ng`](https://github.com/taciturnaxolotl/pstream-ng) - _pstream is dead; long live pstream_ **(3 days ago)**
-- [`cv`](https://github.com/taciturnaxolotl/cv) - _my cv powered by latex_ **(3 days ago)**
 - [`status`](https://github.com/taciturnaxolotl/status) - _my own status page_ **(3 days ago)**
+- [`cv`](https://github.com/taciturnaxolotl/cv) - _my cv powered by latex_ **(3 days ago)**
+- [`pstream-ng`](https://github.com/taciturnaxolotl/pstream-ng) - _pstream is dead; long live pstream_ **(3 days ago)**
 
 #### 📦  My latest projects
 
@@ -30,20 +30,20 @@ When not doing school or working on a random project, I enjoy flying drones and 
 
 ```text
 💾 Languages:
-unknown      14h 28m 6s   ████████████████████░░░░░  77.93%
-Markdown     1h 53m 59s   ███░░░░░░░░░░░░░░░░░░░░░░  10.23%
-JavaScript   59m 10s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.31%
-TeX          17m 7s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.54%
-gitcommit    16m 55s      █░░░░░░░░░░░░░░░░░░░░░░░░  1.52%
+unknown      14h 39m 11s   ████████████████████░░░░░  77.60%
+Markdown     1h 53m 59s    ███░░░░░░░░░░░░░░░░░░░░░░  10.06%
+JavaScript   1h 7m 10s     ██░░░░░░░░░░░░░░░░░░░░░░░  5.93%
+TeX          17m 7s        █░░░░░░░░░░░░░░░░░░░░░░░░  1.51%
+gitcommit    16m 55s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.49%
 
 💼 Projects:
-dots         2h 54m 3s    ████░░░░░░░░░░░░░░░░░░░░░  15.75%
-status       2h 48m 55s   ████░░░░░░░░░░░░░░░░░░░░░  15.28%
-zera         2h 38m 12s   ████░░░░░░░░░░░░░░░░░░░░░  14.31%
-2026-ectf    2h 15m 5s    ████░░░░░░░░░░░░░░░░░░░░░  12.22%
-screentime   1h 11m 9s    ██░░░░░░░░░░░░░░░░░░░░░░░  6.44%
+dots         2h 54m 3s     ████░░░░░░░░░░░░░░░░░░░░░  15.55%
+status       2h 48m 55s    ████░░░░░░░░░░░░░░░░░░░░░  15.09%
+zera         2h 38m 12s    ████░░░░░░░░░░░░░░░░░░░░░  14.14%
+2026-ectf    2h 15m 5s     ████░░░░░░░░░░░░░░░░░░░░░  12.07%
+screentime   1h 11m 9s     ██░░░░░░░░░░░░░░░░░░░░░░░  6.36%
 
-Total: 16 hrs 27 mins
+Total: 16 hrs 41 mins
 ```
 
 #### 📮  Want to say hi?
