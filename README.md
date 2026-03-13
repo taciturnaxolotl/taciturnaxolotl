@@ -4,14 +4,14 @@ When not doing school or working on a random project, I enjoy flying drones and 
 
 #### 🏗️  The latest repos I've pushed to
 
-- [`cv`](https://github.com/taciturnaxolotl/cv) - _my cv powered by latex_ **(today)**
-- [`cedarstalk-raycast`](https://github.com/taciturnaxolotl/cedarstalk-raycast) - _cedarstalking with keyboard shortcuts_ **(today)**
-- [`rust-ectf-tools`](https://github.com/taciturnaxolotl/rust-ectf-tools) - _ectf tools rebuilt in rust_ **(1 day ago)**
-- [`zera`](https://github.com/taciturnaxolotl/zera) - _my new site v4?_ **(1 day ago)**
-- [`homebrew-tap`](https://github.com/taciturnaxolotl/homebrew-tap) - _🍺 my projects on tap_ **(1 day ago)**
-- [`dots`](https://github.com/taciturnaxolotl/dots) - _Kieran's opinionated (and ever expanding) nix config_ **(1 day ago)**
-- [`pstream-ng`](https://github.com/taciturnaxolotl/pstream-ng) - _pstream is dead; long live pstream_ **(3 days ago)**
-- [`status`](https://github.com/taciturnaxolotl/status) - _my own status page_ **(3 days ago)**
+- [`cv`](https://github.com/taciturnaxolotl/cv) - _my cv powered by latex_ **(1 day ago)**
+- [`cedarstalk-raycast`](https://github.com/taciturnaxolotl/cedarstalk-raycast) - _cedarstalking with keyboard shortcuts_ **(1 day ago)**
+- [`rust-ectf-tools`](https://github.com/taciturnaxolotl/rust-ectf-tools) - _ectf tools rebuilt in rust_ **(2 days ago)**
+- [`zera`](https://github.com/taciturnaxolotl/zera) - _my new site v4?_ **(2 days ago)**
+- [`homebrew-tap`](https://github.com/taciturnaxolotl/homebrew-tap) - _🍺 my projects on tap_ **(2 days ago)**
+- [`dots`](https://github.com/taciturnaxolotl/dots) - _Kieran's opinionated (and ever expanding) nix config_ **(2 days ago)**
+- [`pstream-ng`](https://github.com/taciturnaxolotl/pstream-ng) - _pstream is dead; long live pstream_ **(4 days ago)**
+- [`status`](https://github.com/taciturnaxolotl/status) - _my own status page_ **(4 days ago)**
 
 #### 📦  My latest projects
 
@@ -30,20 +30,20 @@ When not doing school or working on a random project, I enjoy flying drones and 
 
 ```text
 💾 Languages:
-unknown              15h 38m 11s   ████████████████████░░░░░  76.27%
-Markdown             2h 1m 58s     ███░░░░░░░░░░░░░░░░░░░░░░  9.92%
-JavaScript           1h 29m 51s    ██░░░░░░░░░░░░░░░░░░░░░░░  7.30%
-TeX                  22m 30s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.83%
-gitcommit            16m 55s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.38%
+unknown        16h 3m 31s   ████████████████████░░░░░  76.63%
+Markdown       2h 1m 58s    ███░░░░░░░░░░░░░░░░░░░░░░  9.70%
+JavaScript     1h 29m 51s   ██░░░░░░░░░░░░░░░░░░░░░░░  7.15%
+TeX            22m 30s      █░░░░░░░░░░░░░░░░░░░░░░░░  1.79%
+gitcommit      18m 55s      █░░░░░░░░░░░░░░░░░░░░░░░░  1.50%
 
 💼 Projects:
-dots                 2h 54m 3s     ████░░░░░░░░░░░░░░░░░░░░░  14.63%
-status               2h 48m 55s    ████░░░░░░░░░░░░░░░░░░░░░  14.19%
-zera                 2h 46m 9s     ████░░░░░░░░░░░░░░░░░░░░░  13.96%
-2026-ectf            2h 15m 5s     ███░░░░░░░░░░░░░░░░░░░░░░  11.35%
-cedarstalk-raycast   1h 29m 22s    ██░░░░░░░░░░░░░░░░░░░░░░░  7.51%
+dots           2h 54m 3s    ████░░░░░░░░░░░░░░░░░░░░░  14.32%
+status         2h 48m 55s   ████░░░░░░░░░░░░░░░░░░░░░  13.90%
+zera           2h 46m 9s    ████░░░░░░░░░░░░░░░░░░░░░  13.67%
+2026-ectf      2h 15m 5s    ███░░░░░░░░░░░░░░░░░░░░░░  11.11%
+2026-rebuilt   1h 31m 22s   ██░░░░░░░░░░░░░░░░░░░░░░░  7.52%
 
-Total: 17 hrs 50 mins
+Total: 18 hrs 15 mins
 ```
 
 #### 📮  Want to say hi?
