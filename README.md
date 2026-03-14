@@ -4,14 +4,14 @@ When not doing school or working on a random project, I enjoy flying drones and 
 
 #### 🏗️  The latest repos I've pushed to
 
-- [`cv`](https://github.com/taciturnaxolotl/cv) - _my cv powered by latex_ **(2 days ago)**
+- [`maypad-frc`](https://github.com/df1317/maypad-frc) - _our custom macro pad as a joystick because wpilib is annoying_ **(today)**
 - [`cedarstalk-raycast`](https://github.com/taciturnaxolotl/cedarstalk-raycast) - _cedarstalking with keyboard shortcuts_ **(2 days ago)**
-- [`zera`](https://github.com/taciturnaxolotl/zera) - _my new site v4?_ **(3 days ago)**
+- [`cv`](https://github.com/taciturnaxolotl/cv) - _my cv powered by latex_ **(2 days ago)**
 - [`dots`](https://github.com/taciturnaxolotl/dots) - _Kieran's opinionated (and ever expanding) nix config_ **(3 days ago)**
-- [`homebrew-tap`](https://github.com/taciturnaxolotl/homebrew-tap) - _🍺 my projects on tap_ **(3 days ago)**
+- [`zera`](https://github.com/taciturnaxolotl/zera) - _my new site v4?_ **(3 days ago)**
 - [`rust-ectf-tools`](https://github.com/taciturnaxolotl/rust-ectf-tools) - _ectf tools rebuilt in rust_ **(3 days ago)**
+- [`homebrew-tap`](https://github.com/taciturnaxolotl/homebrew-tap) - _🍺 my projects on tap_ **(3 days ago)**
 - [`pstream-ng`](https://github.com/taciturnaxolotl/pstream-ng) - _pstream is dead; long live pstream_ **(5 days ago)**
-- [`status`](https://github.com/taciturnaxolotl/status) - _my own status page_ **(5 days ago)**
 
 #### 📦  My latest projects
 
@@ -30,20 +30,20 @@ When not doing school or working on a random project, I enjoy flying drones and 
 
 ```text
 💾 Languages:
-unknown              13h 36m 54s   ██████████████████░░░░░░░  69.93%
-Markdown             1h 55m 42s    ███░░░░░░░░░░░░░░░░░░░░░░  9.90%
-JavaScript           1h 8m 27s     ██░░░░░░░░░░░░░░░░░░░░░░░  5.86%
-TeX                  38m 37s       █░░░░░░░░░░░░░░░░░░░░░░░░  3.31%
-C++                  33m 11s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.84%
+unknown              13h 46m 57s   ██████████████████░░░░░░░  70.04%
+Markdown             1h 58m 11s    ███░░░░░░░░░░░░░░░░░░░░░░  10.01%
+JavaScript           1h 8m 27s     ██░░░░░░░░░░░░░░░░░░░░░░░  5.80%
+TeX                  38m 37s       █░░░░░░░░░░░░░░░░░░░░░░░░  3.27%
+C++                  33m 11s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.81%
 
 💼 Projects:
-2026-rebuilt         2h 39m 34s    ████░░░░░░░░░░░░░░░░░░░░░  14.92%
-2026-ectf            2h 15m 5s     ████░░░░░░░░░░░░░░░░░░░░░  12.63%
-zera                 2h 9m 49s     ████░░░░░░░░░░░░░░░░░░░░░  12.14%
-cedarstalk-raycast   1h 29m 22s    ███░░░░░░░░░░░░░░░░░░░░░░  8.36%
-screentime           1h 17m 58s    ██░░░░░░░░░░░░░░░░░░░░░░░  7.29%
+2026-rebuilt         2h 47m 38s    ████░░░░░░░░░░░░░░░░░░░░░  15.54%
+2026-ectf            2h 15m 5s     ████░░░░░░░░░░░░░░░░░░░░░  12.53%
+zera                 2h 9m 49s     ████░░░░░░░░░░░░░░░░░░░░░  12.04%
+cedarstalk-raycast   1h 29m 22s    ███░░░░░░░░░░░░░░░░░░░░░░  8.29%
+screentime           1h 17m 58s    ██░░░░░░░░░░░░░░░░░░░░░░░  7.23%
 
-Total: 16 hrs 9 mins
+Total: 16 hrs 20 mins
 ```
 
 #### 📮  Want to say hi?
