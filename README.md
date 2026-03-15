@@ -5,13 +5,13 @@ When not doing school or working on a random project, I enjoy flying drones and 
 #### 🏗️  The latest repos I've pushed to
 
 - [`dots`](https://github.com/taciturnaxolotl/dots) - _Kieran's opinionated (and ever expanding) nix config_ **(today)**
+- [`frc-macos-ds`](https://github.com/taciturnaxolotl/frc-macos-ds) - _swift ui driver station_ **(today)**
 - [`maypad-frc`](https://github.com/df1317/maypad-frc) - _our custom macro pad as a joystick because wpilib is annoying_ **(1 day ago)**
-- [`cv`](https://github.com/taciturnaxolotl/cv) - _my cv powered by latex_ **(3 days ago)**
 - [`cedarstalk-raycast`](https://github.com/taciturnaxolotl/cedarstalk-raycast) - _cedarstalking with keyboard shortcuts_ **(3 days ago)**
-- [`rust-ectf-tools`](https://github.com/taciturnaxolotl/rust-ectf-tools) - _ectf tools rebuilt in rust_ **(4 days ago)**
+- [`cv`](https://github.com/taciturnaxolotl/cv) - _my cv powered by latex_ **(3 days ago)**
 - [`zera`](https://github.com/taciturnaxolotl/zera) - _my new site v4?_ **(4 days ago)**
+- [`rust-ectf-tools`](https://github.com/taciturnaxolotl/rust-ectf-tools) - _ectf tools rebuilt in rust_ **(4 days ago)**
 - [`homebrew-tap`](https://github.com/taciturnaxolotl/homebrew-tap) - _🍺 my projects on tap_ **(4 days ago)**
-- [`pstream-ng`](https://github.com/taciturnaxolotl/pstream-ng) - _pstream is dead; long live pstream_ **(6 days ago)**
 
 #### 📦  My latest projects
 
@@ -30,20 +30,20 @@ When not doing school or working on a random project, I enjoy flying drones and 
 
 ```text
 💾 Languages:
-unknown              14h 53m 33s   ██████████████████░░░░░░░  71.89%
-Markdown             1h 58m 11s    ███░░░░░░░░░░░░░░░░░░░░░░  9.51%
-JavaScript           1h 4m 27s     ██░░░░░░░░░░░░░░░░░░░░░░░  5.19%
-TeX                  38m 37s       █░░░░░░░░░░░░░░░░░░░░░░░░  3.11%
-C++                  33m 11s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.67%
+unknown              15h 4m 17s   ███████████████████░░░░░░  72.13%
+Markdown             1h 58m 11s   ███░░░░░░░░░░░░░░░░░░░░░░  9.43%
+JavaScript           1h 4m 27s    ██░░░░░░░░░░░░░░░░░░░░░░░  5.14%
+TeX                  38m 37s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.08%
+C++                  33m 11s      █░░░░░░░░░░░░░░░░░░░░░░░░  2.65%
 
 💼 Projects:
-2026-rebuilt         3h 26m 27s    █████░░░░░░░░░░░░░░░░░░░░  18.20%
-2026-ectf            2h 12m 1s     ███░░░░░░░░░░░░░░░░░░░░░░  11.64%
-zera                 2h 0m 4s      ███░░░░░░░░░░░░░░░░░░░░░░  10.59%
-cedarstalk-raycast   1h 29m 22s    ██░░░░░░░░░░░░░░░░░░░░░░░  7.88%
-screentime           1h 17m 58s    ██░░░░░░░░░░░░░░░░░░░░░░░  6.87%
+2026-rebuilt         3h 30m 27s   █████░░░░░░░░░░░░░░░░░░░░  18.34%
+2026-ectf            2h 12m 1s    ███░░░░░░░░░░░░░░░░░░░░░░  11.50%
+zera                 2h 0m 4s     ███░░░░░░░░░░░░░░░░░░░░░░  10.46%
+cedarstalk-raycast   1h 29m 22s   ██░░░░░░░░░░░░░░░░░░░░░░░  7.79%
+dots                 1h 20m 12s   ██░░░░░░░░░░░░░░░░░░░░░░░  6.99%
 
-Total: 17 hrs 23 mins
+Total: 17 hrs 34 mins
 ```
 
 #### 📮  Want to say hi?
