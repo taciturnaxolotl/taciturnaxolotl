@@ -30,20 +30,20 @@ When not doing school or working on a random project, I enjoy flying drones and 
 
 ```text
 💾 Languages:
-unknown              13h 53m 48s   ██████████████████░░░░░░░  70.47%
-Markdown             1h 58m 11s    ███░░░░░░░░░░░░░░░░░░░░░░  9.99%
-JavaScript           1h 4m 27s     ██░░░░░░░░░░░░░░░░░░░░░░░  5.45%
+unknown              13h 56m 53s   ██████████████████░░░░░░░  70.55%
+Markdown             1h 58m 11s    ███░░░░░░░░░░░░░░░░░░░░░░  9.96%
+JavaScript           1h 4m 27s     ██░░░░░░░░░░░░░░░░░░░░░░░  5.43%
 TeX                  38m 37s       █░░░░░░░░░░░░░░░░░░░░░░░░  3.26%
 C++                  33m 11s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.80%
 
 💼 Projects:
-2026-rebuilt         3h 21m 13s    █████░░░░░░░░░░░░░░░░░░░░  18.86%
-2026-ectf            2h 6m 12s     ███░░░░░░░░░░░░░░░░░░░░░░  11.83%
-zera                 2h 0m 4s      ███░░░░░░░░░░░░░░░░░░░░░░  11.26%
-cedarstalk-raycast   1h 29m 22s    ███░░░░░░░░░░░░░░░░░░░░░░  8.38%
-screentime           1h 17m 58s    ██░░░░░░░░░░░░░░░░░░░░░░░  7.31%
+2026-rebuilt         3h 24m 18s    █████░░░░░░░░░░░░░░░░░░░░  19.10%
+2026-ectf            2h 6m 12s     ███░░░░░░░░░░░░░░░░░░░░░░  11.80%
+zera                 2h 0m 4s      ███░░░░░░░░░░░░░░░░░░░░░░  11.22%
+cedarstalk-raycast   1h 29m 22s    ███░░░░░░░░░░░░░░░░░░░░░░  8.35%
+screentime           1h 17m 58s    ██░░░░░░░░░░░░░░░░░░░░░░░  7.29%
 
-Total: 16 hrs 24 mins
+Total: 16 hrs 27 mins
 ```
 
 #### 📮  Want to say hi?
