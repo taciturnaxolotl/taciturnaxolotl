@@ -4,9 +4,9 @@ When not doing school or working on a random project, I enjoy flying drones and 
 
 #### 🏗️  The latest repos I've pushed to
 
+- [`frc-macos-ds`](https://github.com/taciturnaxolotl/frc-macos-ds) - _swift ui driver station_ **(today)**
 - [`herald`](https://github.com/taciturnaxolotl/herald) - _rss email digests over ssh because you're a cool kid_ **(today)**
 - [`status`](https://github.com/taciturnaxolotl/status) - _my own status page_ **(today)**
-- [`frc-macos-ds`](https://github.com/taciturnaxolotl/frc-macos-ds) - _swift ui driver station_ **(1 day ago)**
 - [`zera`](https://github.com/taciturnaxolotl/zera) - _my new site v4?_ **(3 days ago)**
 - [`dots`](https://github.com/taciturnaxolotl/dots) - _Kieran's opinionated (and ever expanding) nix config_ **(3 days ago)**
 - [`maypad-frc`](https://github.com/df1317/maypad-frc) - _our custom macro pad as a joystick because wpilib is annoying_ **(4 days ago)**
@@ -30,20 +30,20 @@ When not doing school or working on a random project, I enjoy flying drones and 
 
 ```text
 💾 Languages:
-unknown              12h 54m 30s   ███████████████████░░░░░░  74.79%
-C++                  55m 17s       ██░░░░░░░░░░░░░░░░░░░░░░░  5.34%
-Markdown             45m 50s       ██░░░░░░░░░░░░░░░░░░░░░░░  4.43%
-JavaScript           44m 7s        ██░░░░░░░░░░░░░░░░░░░░░░░  4.26%
-C/C++ Header         34m 7s        █░░░░░░░░░░░░░░░░░░░░░░░░  3.29%
+unknown              13h 1m 41s   ███████████████████░░░░░░  74.82%
+C++                  57m 17s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.48%
+Markdown             45m 50s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.39%
+JavaScript           44m 7s       ██░░░░░░░░░░░░░░░░░░░░░░░  4.22%
+C/C++ Header         34m 7s       █░░░░░░░░░░░░░░░░░░░░░░░░  3.27%
 
 💼 Projects:
-2026-rebuilt         5h 12m 43s    █████████░░░░░░░░░░░░░░░░  33.92%
-2026-ectf            1h 35m 0s     ███░░░░░░░░░░░░░░░░░░░░░░  10.30%
-cedarstalk-raycast   1h 29m 22s    ███░░░░░░░░░░░░░░░░░░░░░░  9.69%
-cs1220               1h 12m 12s    ██░░░░░░░░░░░░░░░░░░░░░░░  7.83%
-frc-macos-ds         1h 10m 39s    ██░░░░░░░░░░░░░░░░░░░░░░░  7.66%
+2026-rebuilt         5h 17m 1s    █████████░░░░░░░░░░░░░░░░  34.05%
+2026-ectf            1h 35m 0s    ███░░░░░░░░░░░░░░░░░░░░░░  10.20%
+cedarstalk-raycast   1h 29m 22s   ███░░░░░░░░░░░░░░░░░░░░░░  9.60%
+cs1220               1h 14m 12s   ██░░░░░░░░░░░░░░░░░░░░░░░  7.97%
+frc-macos-ds         1h 13m 33s   ██░░░░░░░░░░░░░░░░░░░░░░░  7.90%
 
-Total: 14 hrs 24 mins
+Total: 14 hrs 33 mins
 ```
 
 #### 📮  Want to say hi?
