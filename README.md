@@ -4,14 +4,14 @@ When not doing school or working on a random project, I enjoy flying drones and 
 
 #### 🏗️  The latest repos I've pushed to
 
+- [`herald`](https://github.com/taciturnaxolotl/herald) - _rss email digests over ssh because you're a cool kid_ **(today)**
+- [`status`](https://github.com/taciturnaxolotl/status) - _my own status page_ **(today)**
 - [`frc-macos-ds`](https://github.com/taciturnaxolotl/frc-macos-ds) - _swift ui driver station_ **(1 day ago)**
-- [`dots`](https://github.com/taciturnaxolotl/dots) - _Kieran's opinionated (and ever expanding) nix config_ **(3 days ago)**
 - [`zera`](https://github.com/taciturnaxolotl/zera) - _my new site v4?_ **(3 days ago)**
-- [`status`](https://github.com/taciturnaxolotl/status) - _my own status page_ **(3 days ago)**
+- [`dots`](https://github.com/taciturnaxolotl/dots) - _Kieran's opinionated (and ever expanding) nix config_ **(3 days ago)**
 - [`maypad-frc`](https://github.com/df1317/maypad-frc) - _our custom macro pad as a joystick because wpilib is annoying_ **(4 days ago)**
 - [`cedarstalk-raycast`](https://github.com/taciturnaxolotl/cedarstalk-raycast) - _cedarstalking with keyboard shortcuts_ **(6 days ago)**
 - [`cv`](https://github.com/taciturnaxolotl/cv) - _my cv powered by latex_ **(6 days ago)**
-- [`rust-ectf-tools`](https://github.com/taciturnaxolotl/rust-ectf-tools) - _ectf tools rebuilt in rust_ **(1 week ago)**
 
 #### 📦  My latest projects
 
@@ -30,20 +30,20 @@ When not doing school or working on a random project, I enjoy flying drones and 
 
 ```text
 💾 Languages:
-unknown              12h 21m 59s   ████████████████████░░░░░  76.79%
-JavaScript           44m 7s        ██░░░░░░░░░░░░░░░░░░░░░░░  4.57%
-C++                  42m 18s       ██░░░░░░░░░░░░░░░░░░░░░░░  4.38%
-Markdown             41m 40s       ██░░░░░░░░░░░░░░░░░░░░░░░  4.31%
-C/C++ Header         31m 45s       █░░░░░░░░░░░░░░░░░░░░░░░░  3.29%
+unknown              12h 39m 27s   ████████████████████░░░░░  76.86%
+JavaScript           44m 7s        ██░░░░░░░░░░░░░░░░░░░░░░░  4.46%
+C++                  42m 18s       ██░░░░░░░░░░░░░░░░░░░░░░░  4.28%
+Markdown             41m 40s       ██░░░░░░░░░░░░░░░░░░░░░░░  4.22%
+C/C++ Header         31m 45s       █░░░░░░░░░░░░░░░░░░░░░░░░  3.21%
 
 💼 Projects:
-2026-rebuilt         5h 1m 24s     █████████░░░░░░░░░░░░░░░░  34.86%
-2026-ectf            1h 35m 0s     ███░░░░░░░░░░░░░░░░░░░░░░  10.99%
-cedarstalk-raycast   1h 29m 22s    ███░░░░░░░░░░░░░░░░░░░░░░  10.34%
-frc-macos-ds         1h 10m 39s    ███░░░░░░░░░░░░░░░░░░░░░░  8.17%
-cs1220               50m 35s       ██░░░░░░░░░░░░░░░░░░░░░░░  5.85%
+2026-rebuilt         5h 5m 41s     █████████░░░░░░░░░░░░░░░░  34.38%
+2026-ectf            1h 35m 0s     ███░░░░░░░░░░░░░░░░░░░░░░  10.69%
+cedarstalk-raycast   1h 29m 22s    ███░░░░░░░░░░░░░░░░░░░░░░  10.05%
+frc-macos-ds         1h 10m 39s    ██░░░░░░░░░░░░░░░░░░░░░░░  7.95%
+cs1220               50m 35s       ██░░░░░░░░░░░░░░░░░░░░░░░  5.69%
 
-Total: 13 hrs 39 mins
+Total: 13 hrs 58 mins
 ```
 
 #### 📮  Want to say hi?
