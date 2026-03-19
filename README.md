@@ -4,14 +4,14 @@ When not doing school or working on a random project, I enjoy flying drones and 
 
 #### 🏗️  The latest repos I've pushed to
 
-- [`frc-macos-ds`](https://github.com/taciturnaxolotl/frc-macos-ds) - _swift ui driver station_ **(today)**
-- [`herald`](https://github.com/taciturnaxolotl/herald) - _rss email digests over ssh because you're a cool kid_ **(today)**
-- [`status`](https://github.com/taciturnaxolotl/status) - _my own status page_ **(today)**
-- [`zera`](https://github.com/taciturnaxolotl/zera) - _my new site v4?_ **(3 days ago)**
-- [`dots`](https://github.com/taciturnaxolotl/dots) - _Kieran's opinionated (and ever expanding) nix config_ **(3 days ago)**
-- [`maypad-frc`](https://github.com/df1317/maypad-frc) - _our custom macro pad as a joystick because wpilib is annoying_ **(4 days ago)**
-- [`cedarstalk-raycast`](https://github.com/taciturnaxolotl/cedarstalk-raycast) - _cedarstalking with keyboard shortcuts_ **(6 days ago)**
-- [`cv`](https://github.com/taciturnaxolotl/cv) - _my cv powered by latex_ **(6 days ago)**
+- [`herald`](https://github.com/taciturnaxolotl/herald) - _rss email digests over ssh because you're a cool kid_ **(1 day ago)**
+- [`2026-rebuilt`](https://github.com/df1317/2026-rebuilt) - _pyramid scheme_ **(1 day ago)**
+- [`frc-macos-ds`](https://github.com/taciturnaxolotl/frc-macos-ds) - _swift ui driver station_ **(1 day ago)**
+- [`status`](https://github.com/taciturnaxolotl/status) - _my own status page_ **(1 day ago)**
+- [`zera`](https://github.com/taciturnaxolotl/zera) - _my new site v4?_ **(4 days ago)**
+- [`dots`](https://github.com/taciturnaxolotl/dots) - _Kieran's opinionated (and ever expanding) nix config_ **(4 days ago)**
+- [`maypad-frc`](https://github.com/df1317/maypad-frc) - _our custom macro pad as a joystick because wpilib is annoying_ **(5 days ago)**
+- [`cedarstalk-raycast`](https://github.com/taciturnaxolotl/cedarstalk-raycast) - _cedarstalking with keyboard shortcuts_ **(1 week ago)**
 
 #### 📦  My latest projects
 
@@ -30,20 +30,20 @@ When not doing school or working on a random project, I enjoy flying drones and 
 
 ```text
 💾 Languages:
-unknown              13h 12m 5s   ███████████████████░░░░░░  75.06%
-C++                  57m 17s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.43%
-Markdown             45m 50s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.34%
-JavaScript           44m 7s       ██░░░░░░░░░░░░░░░░░░░░░░░  4.18%
-C/C++ Header         34m 7s       █░░░░░░░░░░░░░░░░░░░░░░░░  3.23%
+unknown              13h 22m 43s   ███████████████████░░░░░░  75.31%
+C++                  57m 17s       ██░░░░░░░░░░░░░░░░░░░░░░░  5.37%
+Markdown             45m 50s       ██░░░░░░░░░░░░░░░░░░░░░░░  4.30%
+JavaScript           44m 7s        ██░░░░░░░░░░░░░░░░░░░░░░░  4.14%
+C/C++ Header         34m 7s        █░░░░░░░░░░░░░░░░░░░░░░░░  3.20%
 
 💼 Projects:
-2026-rebuilt         5h 17m 1s    █████████░░░░░░░░░░░░░░░░  33.67%
-2026-ectf            1h 35m 0s    ███░░░░░░░░░░░░░░░░░░░░░░  10.09%
-cedarstalk-raycast   1h 29m 22s   ███░░░░░░░░░░░░░░░░░░░░░░  9.49%
-frc-macos-ds         1h 15m 33s   ███░░░░░░░░░░░░░░░░░░░░░░  8.02%
-cs1220               1h 14m 12s   ██░░░░░░░░░░░░░░░░░░░░░░░  7.88%
+2026-rebuilt         5h 24m 18s    █████████░░░░░░░░░░░░░░░░  34.06%
+2026-ectf            1h 35m 0s     ███░░░░░░░░░░░░░░░░░░░░░░  9.98%
+cedarstalk-raycast   1h 29m 22s    ███░░░░░░░░░░░░░░░░░░░░░░  9.39%
+frc-macos-ds         1h 18m 54s    ███░░░░░░░░░░░░░░░░░░░░░░  8.29%
+cs1220               1h 14m 12s    ██░░░░░░░░░░░░░░░░░░░░░░░  7.79%
 
-Total: 14 hrs 44 mins
+Total: 14 hrs 54 mins
 ```
 
 #### 📮  Want to say hi?
