@@ -8,8 +8,8 @@ When not doing school or working on a random project, I enjoy flying drones and 
 - [`2026-rebuilt`](https://github.com/df1317/2026-rebuilt) - _pyramid scheme_ **(3 days ago)**
 - [`sem`](https://github.com/Ataraxy-Labs/sem) - _Semantic version control CLI. Entity-level diff, blame, graph, and impact analysis for code. 21 languages via tree-sitter._ **(5 days ago)**
 - [`frc-macos-ds`](https://github.com/taciturnaxolotl/frc-macos-ds) - _swift ui driver station_ **(5 days ago)**
-- [`herald`](https://github.com/taciturnaxolotl/herald) - _rss email digests over ssh because you're a cool kid_ **(6 days ago)**
 - [`status`](https://github.com/taciturnaxolotl/status) - _my own status page_ **(6 days ago)**
+- [`herald`](https://github.com/taciturnaxolotl/herald) - _rss email digests over ssh because you're a cool kid_ **(6 days ago)**
 - [`zera`](https://github.com/taciturnaxolotl/zera) - _my new site v4?_ **(1 week ago)**
 - [`dots`](https://github.com/taciturnaxolotl/dots) - _Kieran's opinionated (and ever expanding) nix config_ **(1 week ago)**
 
@@ -30,20 +30,20 @@ When not doing school or working on a random project, I enjoy flying drones and 
 
 ```text
 💾 Languages:
-unknown        7h 41m 45s   ██████████░░░░░░░░░░░░░░░  39.03%
-C++            3h 38m 35s   █████░░░░░░░░░░░░░░░░░░░░  18.48%
-C/C++          2h 55m 35s   ████░░░░░░░░░░░░░░░░░░░░░  14.84%
-Markdown       2h 54m 48s   ████░░░░░░░░░░░░░░░░░░░░░  14.77%
-C/C++ Header   1h 54m 49s   ███░░░░░░░░░░░░░░░░░░░░░░  9.70%
+unknown        7h 48m 31s   ██████████░░░░░░░░░░░░░░░  39.38%
+C++            3h 38m 35s   █████░░░░░░░░░░░░░░░░░░░░  18.37%
+C/C++          2h 55m 35s   ████░░░░░░░░░░░░░░░░░░░░░  14.76%
+Markdown       2h 54m 48s   ████░░░░░░░░░░░░░░░░░░░░░  14.69%
+C/C++ Header   1h 54m 49s   ███░░░░░░░░░░░░░░░░░░░░░░  9.65%
 
 💼 Projects:
-2026-rebuilt   4h 40m 42s   █████████░░░░░░░░░░░░░░░░  32.94%
-cs1220         4h 36m 55s   █████████░░░░░░░░░░░░░░░░  32.49%
-unknown        2h 49m 36s   █████░░░░░░░░░░░░░░░░░░░░  19.90%
-cull           49m 47s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.84%
-frc-macos-ds   28m 56s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.39%
+2026-rebuilt   4h 43m 28s   █████████░░░░░░░░░░░░░░░░  33.00%
+cs1220         4h 36m 55s   █████████░░░░░░░░░░░░░░░░  32.24%
+unknown        2h 49m 36s   █████░░░░░░░░░░░░░░░░░░░░  19.74%
+cull           53m 47s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.26%
+frc-macos-ds   28m 56s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.37%
 
-Total: 11 hrs 19 mins
+Total: 11 hrs 26 mins
 ```
 
 #### 📮  Want to say hi?
