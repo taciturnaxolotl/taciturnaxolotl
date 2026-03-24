@@ -4,14 +4,14 @@ When not doing school or working on a random project, I enjoy flying drones and 
 
 #### 🏗️  The latest repos I've pushed to
 
+- [`cull`](https://github.com/taciturnaxolotl/cull) - _as the title says; culls raw photos_ **(1 day ago)**
 - [`2026-rebuilt`](https://github.com/df1317/2026-rebuilt) - _pyramid scheme_ **(3 days ago)**
-- [`sem`](https://github.com/Ataraxy-Labs/sem) - _Semantic version control CLI. Entity-level diff, blame, graph, and impact analysis for code. 21 languages via tree-sitter._ **(5 days ago)**
 - [`frc-macos-ds`](https://github.com/taciturnaxolotl/frc-macos-ds) - _swift ui driver station_ **(5 days ago)**
+- [`sem`](https://github.com/Ataraxy-Labs/sem) - _Semantic version control CLI. Entity-level diff, blame, graph, and impact analysis for code. 21 languages via tree-sitter._ **(5 days ago)**
 - [`status`](https://github.com/taciturnaxolotl/status) - _my own status page_ **(6 days ago)**
 - [`herald`](https://github.com/taciturnaxolotl/herald) - _rss email digests over ssh because you're a cool kid_ **(6 days ago)**
 - [`zera`](https://github.com/taciturnaxolotl/zera) - _my new site v4?_ **(1 week ago)**
 - [`dots`](https://github.com/taciturnaxolotl/dots) - _Kieran's opinionated (and ever expanding) nix config_ **(1 week ago)**
-- [`maypad-frc`](https://github.com/df1317/maypad-frc) - _our custom macro pad as a joystick because wpilib is annoying_ **(1 week ago)**
 
 #### 📦  My latest projects
 
@@ -30,20 +30,20 @@ When not doing school or working on a random project, I enjoy flying drones and 
 
 ```text
 💾 Languages:
-unknown        7h 32m 6s    ██████████░░░░░░░░░░░░░░░  37.89%
-C++            3h 47m 42s   █████░░░░░░░░░░░░░░░░░░░░  19.08%
-C/C++          2h 59m 7s    ████░░░░░░░░░░░░░░░░░░░░░  15.01%
-Markdown       2h 54m 48s   ████░░░░░░░░░░░░░░░░░░░░░  14.65%
-C/C++ Header   2h 2m 1s     ███░░░░░░░░░░░░░░░░░░░░░░  10.23%
+unknown        7h 2m 46s    ██████████░░░░░░░░░░░░░░░  36.95%
+C++            3h 38m 35s   █████░░░░░░░░░░░░░░░░░░░░  19.11%
+C/C++          2h 55m 35s   ████░░░░░░░░░░░░░░░░░░░░░  15.35%
+Markdown       2h 54m 48s   ████░░░░░░░░░░░░░░░░░░░░░  15.28%
+C/C++ Header   1h 54m 49s   ███░░░░░░░░░░░░░░░░░░░░░░  10.04%
 
 💼 Projects:
-2026-rebuilt   5h 2m 9s     █████████░░░░░░░░░░░░░░░░  35.48%
-cs1220         4h 49m 3s    █████████░░░░░░░░░░░░░░░░  33.95%
-unknown        2h 49m 36s   █████░░░░░░░░░░░░░░░░░░░░  19.92%
-frc-macos-ds   28m 56s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.40%
-sem            15m 35s      █░░░░░░░░░░░░░░░░░░░░░░░░  1.83%
+2026-rebuilt   4h 38m 42s   █████████░░░░░░░░░░░░░░░░  34.27%
+cs1220         4h 36m 55s   █████████░░░░░░░░░░░░░░░░  34.05%
+unknown        2h 49m 36s   ██████░░░░░░░░░░░░░░░░░░░  20.85%
+frc-macos-ds   28m 56s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.56%
+sem            13m 35s      █░░░░░░░░░░░░░░░░░░░░░░░░  1.67%
 
-Total: 11 hrs 15 mins
+Total: 10 hrs 40 mins
 ```
 
 #### 📮  Want to say hi?
