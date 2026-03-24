@@ -6,10 +6,10 @@ When not doing school or working on a random project, I enjoy flying drones and 
 
 - [`cull`](https://github.com/taciturnaxolotl/cull) - _as the title says; culls raw photos_ **(today)**
 - [`2026-rebuilt`](https://github.com/df1317/2026-rebuilt) - _pyramid scheme_ **(3 days ago)**
-- [`frc-macos-ds`](https://github.com/taciturnaxolotl/frc-macos-ds) - _swift ui driver station_ **(5 days ago)**
 - [`sem`](https://github.com/Ataraxy-Labs/sem) - _Semantic version control CLI. Entity-level diff, blame, graph, and impact analysis for code. 21 languages via tree-sitter._ **(5 days ago)**
-- [`status`](https://github.com/taciturnaxolotl/status) - _my own status page_ **(6 days ago)**
+- [`frc-macos-ds`](https://github.com/taciturnaxolotl/frc-macos-ds) - _swift ui driver station_ **(5 days ago)**
 - [`herald`](https://github.com/taciturnaxolotl/herald) - _rss email digests over ssh because you're a cool kid_ **(6 days ago)**
+- [`status`](https://github.com/taciturnaxolotl/status) - _my own status page_ **(6 days ago)**
 - [`zera`](https://github.com/taciturnaxolotl/zera) - _my new site v4?_ **(1 week ago)**
 - [`dots`](https://github.com/taciturnaxolotl/dots) - _Kieran's opinionated (and ever expanding) nix config_ **(1 week ago)**
 
@@ -30,20 +30,20 @@ When not doing school or working on a random project, I enjoy flying drones and 
 
 ```text
 💾 Languages:
-unknown        7h 37m 33s   ██████████░░░░░░░░░░░░░░░  38.81%
-C++            3h 38m 35s   █████░░░░░░░░░░░░░░░░░░░░  18.54%
-C/C++          2h 55m 35s   ████░░░░░░░░░░░░░░░░░░░░░  14.89%
-Markdown       2h 54m 48s   ████░░░░░░░░░░░░░░░░░░░░░  14.83%
-C/C++ Header   1h 54m 49s   ███░░░░░░░░░░░░░░░░░░░░░░  9.74%
+unknown        7h 41m 45s   ██████████░░░░░░░░░░░░░░░  39.03%
+C++            3h 38m 35s   █████░░░░░░░░░░░░░░░░░░░░  18.48%
+C/C++          2h 55m 35s   ████░░░░░░░░░░░░░░░░░░░░░  14.84%
+Markdown       2h 54m 48s   ████░░░░░░░░░░░░░░░░░░░░░  14.77%
+C/C++ Header   1h 54m 49s   ███░░░░░░░░░░░░░░░░░░░░░░  9.70%
 
 💼 Projects:
-2026-rebuilt   4h 40m 42s   █████████░░░░░░░░░░░░░░░░  33.10%
-cs1220         4h 36m 55s   █████████░░░░░░░░░░░░░░░░  32.65%
-unknown        2h 49m 36s   █████░░░░░░░░░░░░░░░░░░░░  20.00%
-cull           45m 36s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.38%
-frc-macos-ds   28m 56s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.41%
+2026-rebuilt   4h 40m 42s   █████████░░░░░░░░░░░░░░░░  32.94%
+cs1220         4h 36m 55s   █████████░░░░░░░░░░░░░░░░  32.49%
+unknown        2h 49m 36s   █████░░░░░░░░░░░░░░░░░░░░  19.90%
+cull           49m 47s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.84%
+frc-macos-ds   28m 56s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.39%
 
-Total: 11 hrs 15 mins
+Total: 11 hrs 19 mins
 ```
 
 #### 📮  Want to say hi?
