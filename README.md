@@ -4,14 +4,14 @@ When not doing school or working on a random project, I enjoy flying drones and 
 
 #### 🏗️  The latest repos I've pushed to
 
-- [`rust-ectf-tools`](https://github.com/taciturnaxolotl/rust-ectf-tools) - _ectf tools rebuilt in rust_ **(1 day ago)**
+- [`homebrew-tap`](https://github.com/taciturnaxolotl/homebrew-tap) - _🍺 my projects on tap_ **(today)**
+- [`rust-ectf-tools`](https://github.com/taciturnaxolotl/rust-ectf-tools) - _ectf tools rebuilt in rust_ **(today)**
 - [`cull`](https://github.com/taciturnaxolotl/cull) - _as the title says; culls raw photos_ **(1 day ago)**
 - [`2026-rebuilt`](https://github.com/df1317/2026-rebuilt) - _pyramid scheme_ **(4 days ago)**
 - [`sem`](https://github.com/Ataraxy-Labs/sem) - _Semantic version control CLI. Entity-level diff, blame, graph, and impact analysis for code. 21 languages via tree-sitter._ **(6 days ago)**
 - [`frc-macos-ds`](https://github.com/taciturnaxolotl/frc-macos-ds) - _swift ui driver station_ **(6 days ago)**
 - [`status`](https://github.com/taciturnaxolotl/status) - _my own status page_ **(1 week ago)**
 - [`herald`](https://github.com/taciturnaxolotl/herald) - _rss email digests over ssh because you're a cool kid_ **(1 week ago)**
-- [`zera`](https://github.com/taciturnaxolotl/zera) - _my new site v4?_ **(1 week ago)**
 
 #### 📦  My latest projects
 
@@ -30,20 +30,20 @@ When not doing school or working on a random project, I enjoy flying drones and 
 
 ```text
 💾 Languages:
-unknown        7h 49m 35s   ██████████░░░░░░░░░░░░░░░  38.23%
-C++            3h 40m 35s   █████░░░░░░░░░░░░░░░░░░░░  17.96%
-C/C++          3h 1m 42s    ████░░░░░░░░░░░░░░░░░░░░░  14.79%
-Markdown       2h 58m 48s   ████░░░░░░░░░░░░░░░░░░░░░  14.56%
-C/C++ Header   1h 56m 52s   ███░░░░░░░░░░░░░░░░░░░░░░  9.51%
+unknown           7h 53m 35s   ██████████░░░░░░░░░░░░░░░  38.43%
+C++               3h 40m 35s   █████░░░░░░░░░░░░░░░░░░░░  17.90%
+C/C++             3h 1m 42s    ████░░░░░░░░░░░░░░░░░░░░░  14.74%
+Markdown          2h 58m 48s   ████░░░░░░░░░░░░░░░░░░░░░  14.51%
+C/C++ Header      1h 56m 52s   ███░░░░░░░░░░░░░░░░░░░░░░  9.48%
 
 💼 Projects:
-cs1220         4h 40m 3s    ████████░░░░░░░░░░░░░░░░░  31.86%
-2026-rebuilt   3h 51m 16s   ███████░░░░░░░░░░░░░░░░░░  26.31%
-unknown        2h 51m 36s   █████░░░░░░░░░░░░░░░░░░░░  19.52%
-cull           1h 5m 27s    ██░░░░░░░░░░░░░░░░░░░░░░░  7.45%
-frc-macos-ds   21m 20s      █░░░░░░░░░░░░░░░░░░░░░░░░  2.43%
+cs1220            4h 40m 3s    ████████░░░░░░░░░░░░░░░░░  31.79%
+2026-rebuilt      3h 51m 16s   ███████░░░░░░░░░░░░░░░░░░  26.25%
+unknown           2h 51m 36s   █████░░░░░░░░░░░░░░░░░░░░  19.48%
+cull              1h 5m 27s    ██░░░░░░░░░░░░░░░░░░░░░░░  7.43%
+rust-ectf-tools   21m 59s      █░░░░░░░░░░░░░░░░░░░░░░░░  2.50%
 
-Total: 11 hrs 49 mins
+Total: 11 hrs 53 mins
 ```
 
 #### 📮  Want to say hi?
