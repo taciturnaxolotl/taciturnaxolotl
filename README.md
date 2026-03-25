@@ -4,13 +4,13 @@ When not doing school or working on a random project, I enjoy flying drones and 
 
 #### 🏗️  The latest repos I've pushed to
 
-- [`rust-ectf-tools`](https://github.com/taciturnaxolotl/rust-ectf-tools) - _ectf tools rebuilt in rust_ **(today)**
-- [`cull`](https://github.com/taciturnaxolotl/cull) - _as the title says; culls raw photos_ **(today)**
-- [`2026-rebuilt`](https://github.com/df1317/2026-rebuilt) - _pyramid scheme_ **(3 days ago)**
-- [`sem`](https://github.com/Ataraxy-Labs/sem) - _Semantic version control CLI. Entity-level diff, blame, graph, and impact analysis for code. 21 languages via tree-sitter._ **(5 days ago)**
-- [`frc-macos-ds`](https://github.com/taciturnaxolotl/frc-macos-ds) - _swift ui driver station_ **(5 days ago)**
-- [`status`](https://github.com/taciturnaxolotl/status) - _my own status page_ **(6 days ago)**
-- [`herald`](https://github.com/taciturnaxolotl/herald) - _rss email digests over ssh because you're a cool kid_ **(6 days ago)**
+- [`rust-ectf-tools`](https://github.com/taciturnaxolotl/rust-ectf-tools) - _ectf tools rebuilt in rust_ **(1 day ago)**
+- [`cull`](https://github.com/taciturnaxolotl/cull) - _as the title says; culls raw photos_ **(1 day ago)**
+- [`2026-rebuilt`](https://github.com/df1317/2026-rebuilt) - _pyramid scheme_ **(4 days ago)**
+- [`sem`](https://github.com/Ataraxy-Labs/sem) - _Semantic version control CLI. Entity-level diff, blame, graph, and impact analysis for code. 21 languages via tree-sitter._ **(6 days ago)**
+- [`frc-macos-ds`](https://github.com/taciturnaxolotl/frc-macos-ds) - _swift ui driver station_ **(6 days ago)**
+- [`status`](https://github.com/taciturnaxolotl/status) - _my own status page_ **(1 week ago)**
+- [`herald`](https://github.com/taciturnaxolotl/herald) - _rss email digests over ssh because you're a cool kid_ **(1 week ago)**
 - [`zera`](https://github.com/taciturnaxolotl/zera) - _my new site v4?_ **(1 week ago)**
 
 #### 📦  My latest projects
@@ -30,20 +30,20 @@ When not doing school or working on a random project, I enjoy flying drones and 
 
 ```text
 💾 Languages:
-unknown        8h 49m 23s   ███████████░░░░░░░░░░░░░░  41.42%
-C++            3h 38m 35s   █████░░░░░░░░░░░░░░░░░░░░  17.10%
-C/C++          2h 59m 41s   ████░░░░░░░░░░░░░░░░░░░░░  14.06%
-Markdown       2h 56m 48s   ████░░░░░░░░░░░░░░░░░░░░░  13.83%
-C/C++ Header   1h 54m 49s   ███░░░░░░░░░░░░░░░░░░░░░░  8.98%
+unknown        8h 49m 23s   ███████████░░░░░░░░░░░░░░  41.09%
+C++            3h 40m 35s   █████░░░░░░░░░░░░░░░░░░░░  17.12%
+C/C++          3h 1m 42s    ████░░░░░░░░░░░░░░░░░░░░░  14.10%
+Markdown       2h 58m 48s   ████░░░░░░░░░░░░░░░░░░░░░  13.88%
+C/C++ Header   1h 56m 52s   ███░░░░░░░░░░░░░░░░░░░░░░  9.07%
 
 💼 Projects:
-2026-rebuilt   4h 43m 28s   ████████░░░░░░░░░░░░░░░░░  30.29%
-cs1220         4h 36m 55s   ████████░░░░░░░░░░░░░░░░░  29.59%
-unknown        2h 51m 36s   █████░░░░░░░░░░░░░░░░░░░░  18.34%
-cull           1h 5m 27s    ██░░░░░░░░░░░░░░░░░░░░░░░  6.99%
-frc-macos-ds   28m 56s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.09%
+2026-rebuilt   4h 43m 28s   ████████░░░░░░░░░░░░░░░░░  30.19%
+cs1220         4h 40m 3s    ████████░░░░░░░░░░░░░░░░░  29.83%
+unknown        2h 51m 36s   █████░░░░░░░░░░░░░░░░░░░░  18.28%
+cull           1h 5m 27s    ██░░░░░░░░░░░░░░░░░░░░░░░  6.97%
+frc-macos-ds   28m 56s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.08%
 
-Total: 12 hrs 46 mins
+Total: 12 hrs 49 mins
 ```
 
 #### 📮  Want to say hi?
