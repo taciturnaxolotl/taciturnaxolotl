@@ -4,14 +4,14 @@ When not doing school or working on a random project, I enjoy flying drones and 
 
 #### 🏗️  The latest repos I've pushed to
 
-- [`cedarstalk-raycast`](https://github.com/taciturnaxolotl/cedarstalk-raycast) - _cedarstalking with keyboard shortcuts_ **(today)**
+- [`dots`](https://github.com/taciturnaxolotl/dots) - _Kieran's opinionated (and ever expanding) nix config_ **(today)**
 - [`cull`](https://github.com/taciturnaxolotl/cull) - _as the title says; culls raw photos_ **(today)**
+- [`gastrack`](https://github.com/taciturnaxolotl/gastrack) - _gas tracking without the ads_ **(today)**
+- [`cedarstalk-raycast`](https://github.com/taciturnaxolotl/cedarstalk-raycast) - _cedarstalking with keyboard shortcuts_ **(today)**
 - [`rust-ectf-tools`](https://github.com/taciturnaxolotl/rust-ectf-tools) - _ectf tools rebuilt in rust_ **(1 day ago)**
-- [`homebrew-tap`](https://github.com/taciturnaxolotl/homebrew-tap) - _🍺 my projects on tap_ **(1 day ago)**
 - [`flea`](https://github.com/taciturnaxolotl/flea) - _bouncy fpga game_ **(1 day ago)**
+- [`homebrew-tap`](https://github.com/taciturnaxolotl/homebrew-tap) - _🍺 my projects on tap_ **(1 day ago)**
 - [`2026-rebuilt`](https://github.com/df1317/2026-rebuilt) - _pyramid scheme_ **(5 days ago)**
-- [`sem`](https://github.com/Ataraxy-Labs/sem) - _Semantic version control CLI. Entity-level diff, blame, graph, and impact analysis for code. 21 languages via tree-sitter._ **(1 week ago)**
-- [`frc-macos-ds`](https://github.com/taciturnaxolotl/frc-macos-ds) - _swift ui driver station_ **(1 week ago)**
 
 #### 📦  My latest projects
 
@@ -30,20 +30,20 @@ When not doing school or working on a random project, I enjoy flying drones and 
 
 ```text
 💾 Languages:
-unknown         8h 28m 17s   ███████████░░░░░░░░░░░░░░  40.85%
-C++             3h 25m 36s   █████░░░░░░░░░░░░░░░░░░░░  16.52%
-Markdown        2h 54m 38s   ████░░░░░░░░░░░░░░░░░░░░░  14.03%
-C/C++           2h 53m 12s   ████░░░░░░░░░░░░░░░░░░░░░  13.92%
-C/C++ Header    1h 54m 31s   ███░░░░░░░░░░░░░░░░░░░░░░  9.20%
+unknown         8h 46m 52s   ███████████░░░░░░░░░░░░░░  40.53%
+C++             3h 25m 36s   ████░░░░░░░░░░░░░░░░░░░░░  15.82%
+Markdown        2h 54m 38s   ████░░░░░░░░░░░░░░░░░░░░░  13.44%
+C/C++           2h 53m 12s   ████░░░░░░░░░░░░░░░░░░░░░  13.33%
+C/C++ Header    1h 54m 31s   ███░░░░░░░░░░░░░░░░░░░░░░  8.81%
 
 💼 Projects:
-cs1220          4h 16m 27s   ████████░░░░░░░░░░░░░░░░░  28.30%
-2026-rebuilt    3h 26m 17s   ██████░░░░░░░░░░░░░░░░░░░  22.76%
-unknown         2h 47m 27s   █████░░░░░░░░░░░░░░░░░░░░  18.48%
-cull            1h 10m 58s   ██░░░░░░░░░░░░░░░░░░░░░░░  7.83%
-Quartus Files   33m 40s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.72%
+cs1220          4h 16m 27s   ███████░░░░░░░░░░░░░░░░░░  26.69%
+2026-rebuilt    3h 26m 17s   ██████░░░░░░░░░░░░░░░░░░░  21.47%
+unknown         2h 47m 27s   █████░░░░░░░░░░░░░░░░░░░░  17.43%
+cull            1h 10m 58s   ██░░░░░░░░░░░░░░░░░░░░░░░  7.39%
+Quartus Files   33m 40s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.50%
 
-Total: 12 hrs 23 mins
+Total: 13 hrs 8 mins
 ```
 
 #### 📮  Want to say hi?
