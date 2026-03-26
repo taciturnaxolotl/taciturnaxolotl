@@ -4,8 +4,8 @@ When not doing school or working on a random project, I enjoy flying drones and 
 
 #### 🏗️  The latest repos I've pushed to
 
-- [`cull`](https://github.com/taciturnaxolotl/cull) - _as the title says; culls raw photos_ **(today)**
 - [`cedarstalk-raycast`](https://github.com/taciturnaxolotl/cedarstalk-raycast) - _cedarstalking with keyboard shortcuts_ **(today)**
+- [`cull`](https://github.com/taciturnaxolotl/cull) - _as the title says; culls raw photos_ **(today)**
 - [`rust-ectf-tools`](https://github.com/taciturnaxolotl/rust-ectf-tools) - _ectf tools rebuilt in rust_ **(1 day ago)**
 - [`homebrew-tap`](https://github.com/taciturnaxolotl/homebrew-tap) - _🍺 my projects on tap_ **(1 day ago)**
 - [`flea`](https://github.com/taciturnaxolotl/flea) - _bouncy fpga game_ **(1 day ago)**
@@ -15,10 +15,10 @@ When not doing school or working on a random project, I enjoy flying drones and 
 
 #### 📦  My latest projects
 
+- [`gastrack`](https://github.com/taciturnaxolotl/gastrack) - _gas tracking without the ads_
 - [`flea`](https://github.com/taciturnaxolotl/flea) - _bouncy fpga game_
 - [`cull`](https://github.com/taciturnaxolotl/cull) - _as the title says; culls raw photos_
 - [`frc-macos-ds`](https://github.com/taciturnaxolotl/frc-macos-ds) - _swift ui driver station_
-- [`cedarstalk-raycast`](https://github.com/taciturnaxolotl/cedarstalk-raycast) - _cedarstalking with keyboard shortcuts_
 
 #### 🪧  The latest posts from [`dunkirk.sh`](https://dunkirk.sh)
 
@@ -30,20 +30,20 @@ When not doing school or working on a random project, I enjoy flying drones and 
 
 ```text
 💾 Languages:
-unknown         8h 16m 11s   ███████████░░░░░░░░░░░░░░  40.67%
-C++             3h 25m 36s   █████░░░░░░░░░░░░░░░░░░░░  16.85%
-Markdown        2h 54m 38s   ████░░░░░░░░░░░░░░░░░░░░░  14.31%
-C/C++           2h 53m 12s   ████░░░░░░░░░░░░░░░░░░░░░  14.19%
-C/C++ Header    1h 54m 31s   ███░░░░░░░░░░░░░░░░░░░░░░  9.39%
+unknown         8h 28m 17s   ███████████░░░░░░░░░░░░░░  40.85%
+C++             3h 25m 36s   █████░░░░░░░░░░░░░░░░░░░░  16.52%
+Markdown        2h 54m 38s   ████░░░░░░░░░░░░░░░░░░░░░  14.03%
+C/C++           2h 53m 12s   ████░░░░░░░░░░░░░░░░░░░░░  13.92%
+C/C++ Header    1h 54m 31s   ███░░░░░░░░░░░░░░░░░░░░░░  9.20%
 
 💼 Projects:
-cs1220          4h 16m 27s   ████████░░░░░░░░░░░░░░░░░  28.98%
-2026-rebuilt    3h 26m 17s   ██████░░░░░░░░░░░░░░░░░░░  23.31%
-unknown         2h 47m 27s   █████░░░░░░░░░░░░░░░░░░░░  18.92%
-cull            1h 10m 58s   ███░░░░░░░░░░░░░░░░░░░░░░  8.02%
-Quartus Files   33m 40s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.80%
+cs1220          4h 16m 27s   ████████░░░░░░░░░░░░░░░░░  28.30%
+2026-rebuilt    3h 26m 17s   ██████░░░░░░░░░░░░░░░░░░░  22.76%
+unknown         2h 47m 27s   █████░░░░░░░░░░░░░░░░░░░░  18.48%
+cull            1h 10m 58s   ██░░░░░░░░░░░░░░░░░░░░░░░  7.83%
+Quartus Files   33m 40s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.72%
 
-Total: 12 hrs 4 mins
+Total: 12 hrs 23 mins
 ```
 
 #### 📮  Want to say hi?
