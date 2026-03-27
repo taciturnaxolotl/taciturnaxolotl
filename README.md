@@ -8,9 +8,9 @@ When not doing school or working on a random project, I enjoy flying drones and 
 - [`dots`](https://github.com/taciturnaxolotl/dots) - _Kieran's opinionated (and ever expanding) nix config_ **(today)**
 - [`cedarstalk-raycast`](https://github.com/taciturnaxolotl/cedarstalk-raycast) - _cedarstalking with keyboard shortcuts_ **(1 day ago)**
 - [`cull`](https://github.com/taciturnaxolotl/cull) - _as the title says; culls raw photos_ **(1 day ago)**
-- [`rust-ectf-tools`](https://github.com/taciturnaxolotl/rust-ectf-tools) - _ectf tools rebuilt in rust_ **(2 days ago)**
 - [`homebrew-tap`](https://github.com/taciturnaxolotl/homebrew-tap) - _🍺 my projects on tap_ **(2 days ago)**
 - [`flea`](https://github.com/taciturnaxolotl/flea) - _bouncy fpga game_ **(2 days ago)**
+- [`rust-ectf-tools`](https://github.com/taciturnaxolotl/rust-ectf-tools) - _ectf tools rebuilt in rust_ **(2 days ago)**
 - [`2026-rebuilt`](https://github.com/df1317/2026-rebuilt) - _pyramid scheme_ **(6 days ago)**
 
 #### 📦  My latest projects
@@ -30,20 +30,20 @@ When not doing school or working on a random project, I enjoy flying drones and 
 
 ```text
 💾 Languages:
-unknown        8h 31m 27s   ██████████░░░░░░░░░░░░░░░  39.47%
-C++            3h 25m 36s   ████░░░░░░░░░░░░░░░░░░░░░  15.87%
-C/C++          2h 53m 12s   ████░░░░░░░░░░░░░░░░░░░░░  13.37%
-Markdown       2h 52m 5s    ████░░░░░░░░░░░░░░░░░░░░░  13.28%
-C/C++ Header   1h 54m 31s   ███░░░░░░░░░░░░░░░░░░░░░░  8.84%
+unknown        8h 39m 40s   ██████████░░░░░░░░░░░░░░░  39.85%
+C++            3h 25m 36s   ████░░░░░░░░░░░░░░░░░░░░░  15.77%
+C/C++          2h 53m 12s   ████░░░░░░░░░░░░░░░░░░░░░  13.28%
+Markdown       2h 52m 5s    ████░░░░░░░░░░░░░░░░░░░░░  13.20%
+C/C++ Header   1h 54m 31s   ███░░░░░░░░░░░░░░░░░░░░░░  8.78%
 
 💼 Projects:
-cs1220         4h 16m 27s   ███████░░░░░░░░░░░░░░░░░░  26.83%
-unknown        2h 49m 27s   █████░░░░░░░░░░░░░░░░░░░░  17.73%
-2026-rebuilt   1h 56m 10s   ████░░░░░░░░░░░░░░░░░░░░░  12.15%
-cull           1h 10m 58s   ██░░░░░░░░░░░░░░░░░░░░░░░  7.42%
-gastrack       50m 12s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.25%
+cs1220         4h 16m 27s   ███████░░░░░░░░░░░░░░░░░░  26.66%
+unknown        2h 49m 27s   █████░░░░░░░░░░░░░░░░░░░░  17.61%
+2026-rebuilt   1h 56m 10s   ████░░░░░░░░░░░░░░░░░░░░░  12.07%
+cull           1h 10m 58s   ██░░░░░░░░░░░░░░░░░░░░░░░  7.38%
+gastrack       52m 24s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.45%
 
-Total: 12 hrs 52 mins
+Total: 13 hrs 0 mins
 ```
 
 #### 📮  Want to say hi?
