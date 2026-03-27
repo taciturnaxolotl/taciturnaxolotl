@@ -4,14 +4,14 @@ When not doing school or working on a random project, I enjoy flying drones and 
 
 #### 🏗️  The latest repos I've pushed to
 
-- [`dots`](https://github.com/taciturnaxolotl/dots) - _Kieran's opinionated (and ever expanding) nix config_ **(today)**
-- [`cull`](https://github.com/taciturnaxolotl/cull) - _as the title says; culls raw photos_ **(today)**
-- [`gastrack`](https://github.com/taciturnaxolotl/gastrack) - _gas tracking without the ads_ **(today)**
-- [`cedarstalk-raycast`](https://github.com/taciturnaxolotl/cedarstalk-raycast) - _cedarstalking with keyboard shortcuts_ **(today)**
-- [`flea`](https://github.com/taciturnaxolotl/flea) - _bouncy fpga game_ **(1 day ago)**
-- [`rust-ectf-tools`](https://github.com/taciturnaxolotl/rust-ectf-tools) - _ectf tools rebuilt in rust_ **(1 day ago)**
-- [`homebrew-tap`](https://github.com/taciturnaxolotl/homebrew-tap) - _🍺 my projects on tap_ **(1 day ago)**
-- [`2026-rebuilt`](https://github.com/df1317/2026-rebuilt) - _pyramid scheme_ **(5 days ago)**
+- [`cedarstalk-raycast`](https://github.com/taciturnaxolotl/cedarstalk-raycast) - _cedarstalking with keyboard shortcuts_ **(1 day ago)**
+- [`gastrack`](https://github.com/taciturnaxolotl/gastrack) - _gas tracking without the ads_ **(1 day ago)**
+- [`cull`](https://github.com/taciturnaxolotl/cull) - _as the title says; culls raw photos_ **(1 day ago)**
+- [`dots`](https://github.com/taciturnaxolotl/dots) - _Kieran's opinionated (and ever expanding) nix config_ **(1 day ago)**
+- [`homebrew-tap`](https://github.com/taciturnaxolotl/homebrew-tap) - _🍺 my projects on tap_ **(2 days ago)**
+- [`rust-ectf-tools`](https://github.com/taciturnaxolotl/rust-ectf-tools) - _ectf tools rebuilt in rust_ **(2 days ago)**
+- [`flea`](https://github.com/taciturnaxolotl/flea) - _bouncy fpga game_ **(2 days ago)**
+- [`2026-rebuilt`](https://github.com/df1317/2026-rebuilt) - _pyramid scheme_ **(6 days ago)**
 
 #### 📦  My latest projects
 
@@ -30,20 +30,20 @@ When not doing school or working on a random project, I enjoy flying drones and 
 
 ```text
 💾 Languages:
-unknown         9h 4m 9s     ███████████░░░░░░░░░░░░░░  41.13%
-C++             3h 25m 36s   ████░░░░░░░░░░░░░░░░░░░░░  15.54%
-Markdown        2h 54m 38s   ████░░░░░░░░░░░░░░░░░░░░░  13.20%
-C/C++           2h 53m 12s   ████░░░░░░░░░░░░░░░░░░░░░  13.09%
-C/C++ Header    1h 54m 31s   ███░░░░░░░░░░░░░░░░░░░░░░  8.66%
+unknown              9h 27m 27s   ███████████░░░░░░░░░░░░░░  41.67%
+C++                  3h 25m 36s   ████░░░░░░░░░░░░░░░░░░░░░  15.10%
+Markdown             2h 57m 18s   ████░░░░░░░░░░░░░░░░░░░░░  13.02%
+C/C++                2h 53m 12s   ████░░░░░░░░░░░░░░░░░░░░░  12.72%
+C/C++ Header         1h 54m 31s   ███░░░░░░░░░░░░░░░░░░░░░░  8.41%
 
 💼 Projects:
-cs1220          4h 16m 27s   ███████░░░░░░░░░░░░░░░░░░  26.11%
-2026-rebuilt    3h 26m 17s   ██████░░░░░░░░░░░░░░░░░░░  21.00%
-unknown         2h 47m 27s   █████░░░░░░░░░░░░░░░░░░░░  17.05%
-cull            1h 10m 58s   ██░░░░░░░░░░░░░░░░░░░░░░░  7.22%
-Quartus Files   33m 40s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.43%
+cs1220               4h 16m 27s   ███████░░░░░░░░░░░░░░░░░░  25.45%
+2026-rebuilt         3h 26m 17s   ██████░░░░░░░░░░░░░░░░░░░  20.47%
+unknown              2h 47m 27s   █████░░░░░░░░░░░░░░░░░░░░  16.62%
+cull                 1h 10m 58s   ██░░░░░░░░░░░░░░░░░░░░░░░  7.04%
+cedarstalk-raycast   40m 43s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.04%
 
-Total: 13 hrs 28 mins
+Total: 13 hrs 52 mins
 ```
 
 #### 📮  Want to say hi?
