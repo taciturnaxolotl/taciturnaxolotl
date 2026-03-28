@@ -4,13 +4,13 @@ When not doing school or working on a random project, I enjoy flying drones and 
 
 #### 🏗️  The latest repos I've pushed to
 
-- [`overpass`](https://github.com/taciturnaxolotl/overpass) - _gas tracking without the ads_ **(1 day ago)**
+- [`overpass`](https://github.com/taciturnaxolotl/overpass) - _gas tracking without the ads_ **(today)**
 - [`dots`](https://github.com/taciturnaxolotl/dots) - _Kieran's opinionated (and ever expanding) nix config_ **(1 day ago)**
 - [`cull`](https://github.com/taciturnaxolotl/cull) - _as the title says; culls raw photos_ **(2 days ago)**
 - [`cedarstalk-raycast`](https://github.com/taciturnaxolotl/cedarstalk-raycast) - _cedarstalking with keyboard shortcuts_ **(2 days ago)**
 - [`homebrew-tap`](https://github.com/taciturnaxolotl/homebrew-tap) - _🍺 my projects on tap_ **(3 days ago)**
-- [`rust-ectf-tools`](https://github.com/taciturnaxolotl/rust-ectf-tools) - _ectf tools rebuilt in rust_ **(3 days ago)**
 - [`flea`](https://github.com/taciturnaxolotl/flea) - _bouncy fpga game_ **(3 days ago)**
+- [`rust-ectf-tools`](https://github.com/taciturnaxolotl/rust-ectf-tools) - _ectf tools rebuilt in rust_ **(3 days ago)**
 - [`2026-rebuilt`](https://github.com/df1317/2026-rebuilt) - _pyramid scheme_ **(1 week ago)**
 
 #### 📦  My latest projects
@@ -30,20 +30,20 @@ When not doing school or working on a random project, I enjoy flying drones and 
 
 ```text
 💾 Languages:
-unknown        8h 37m 35s   ██████████░░░░░░░░░░░░░░░  39.61%
-C++            3h 25m 36s   ████░░░░░░░░░░░░░░░░░░░░░  15.74%
-Markdown       2h 54m 47s   ████░░░░░░░░░░░░░░░░░░░░░  13.38%
-C/C++          2h 53m 12s   ████░░░░░░░░░░░░░░░░░░░░░  13.26%
-C/C++ Header   1h 54m 31s   ███░░░░░░░░░░░░░░░░░░░░░░  8.76%
+unknown        8h 42m 21s   ██████████░░░░░░░░░░░░░░░  39.83%
+C++            3h 25m 36s   ████░░░░░░░░░░░░░░░░░░░░░  15.68%
+Markdown       2h 54m 47s   ████░░░░░░░░░░░░░░░░░░░░░  13.33%
+C/C++          2h 53m 12s   ████░░░░░░░░░░░░░░░░░░░░░  13.21%
+C/C++ Header   1h 54m 31s   ███░░░░░░░░░░░░░░░░░░░░░░  8.73%
 
 💼 Projects:
-cs1220         4h 16m 27s   ███████░░░░░░░░░░░░░░░░░░  26.63%
-unknown        2h 49m 27s   █████░░░░░░░░░░░░░░░░░░░░  17.60%
-2026-rebuilt   1h 17m 37s   ███░░░░░░░░░░░░░░░░░░░░░░  8.06%
-cull           1h 10m 58s   ██░░░░░░░░░░░░░░░░░░░░░░░  7.37%
-gastrack       52m 24s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.44%
+cs1220         4h 16m 27s   ███████░░░░░░░░░░░░░░░░░░  26.50%
+unknown        2h 49m 27s   █████░░░░░░░░░░░░░░░░░░░░  17.51%
+2026-rebuilt   1h 17m 37s   ███░░░░░░░░░░░░░░░░░░░░░░  8.02%
+cull           1h 10m 58s   ██░░░░░░░░░░░░░░░░░░░░░░░  7.33%
+gastrack       52m 24s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.42%
 
-Total: 13 hrs 0 mins
+Total: 13 hrs 4 mins
 ```
 
 #### 📮  Want to say hi?
