@@ -7,11 +7,11 @@ When not doing school or working on a random project, I enjoy flying drones and 
 - [`huntington`](https://github.com/taciturnaxolotl/huntington) - _neat project_ **(today)**
 - [`overpass`](https://github.com/taciturnaxolotl/overpass) - _gas tracking without the ads_ **(1 day ago)**
 - [`dots`](https://github.com/taciturnaxolotl/dots) - _Kieran's opinionated (and ever expanding) nix config_ **(1 day ago)**
-- [`cull`](https://github.com/taciturnaxolotl/cull) - _as the title says; culls raw photos_ **(5 days ago)**
 - [`cedarstalk-raycast`](https://github.com/taciturnaxolotl/cedarstalk-raycast) - _cedarstalking with keyboard shortcuts_ **(5 days ago)**
-- [`homebrew-tap`](https://github.com/taciturnaxolotl/homebrew-tap) - _🍺 my projects on tap_ **(6 days ago)**
+- [`cull`](https://github.com/taciturnaxolotl/cull) - _as the title says; culls raw photos_ **(5 days ago)**
 - [`rust-ectf-tools`](https://github.com/taciturnaxolotl/rust-ectf-tools) - _ectf tools rebuilt in rust_ **(6 days ago)**
 - [`flea`](https://github.com/taciturnaxolotl/flea) - _bouncy fpga game_ **(6 days ago)**
+- [`homebrew-tap`](https://github.com/taciturnaxolotl/homebrew-tap) - _🍺 my projects on tap_ **(6 days ago)**
 
 #### 📦  My latest projects
 
@@ -30,20 +30,20 @@ When not doing school or working on a random project, I enjoy flying drones and 
 
 ```text
 💾 Languages:
-unknown        9h 25m 7s    ████████████░░░░░░░░░░░░░  44.70%
-C++            2h 52m 43s   ████░░░░░░░░░░░░░░░░░░░░░  13.66%
-Markdown       2h 32m 16s   ████░░░░░░░░░░░░░░░░░░░░░  12.05%
-C/C++          2h 7m 58s    ███░░░░░░░░░░░░░░░░░░░░░░  10.12%
-C/C++ Header   1h 28m 25s   ██░░░░░░░░░░░░░░░░░░░░░░░  6.99%
+unknown        9h 34m 33s   ████████████░░░░░░░░░░░░░  44.97%
+C++            2h 52m 43s   ████░░░░░░░░░░░░░░░░░░░░░  13.52%
+Markdown       2h 34m 24s   ████░░░░░░░░░░░░░░░░░░░░░  12.08%
+C/C++          2h 7m 58s    ███░░░░░░░░░░░░░░░░░░░░░░  10.02%
+C/C++ Header   1h 28m 25s   ██░░░░░░░░░░░░░░░░░░░░░░░  6.92%
 
 💼 Projects:
-cs1220         3h 45m 26s   ██████░░░░░░░░░░░░░░░░░░░  23.15%
-unknown        2h 28m 55s   ████░░░░░░░░░░░░░░░░░░░░░  15.29%
-huntington     1h 17m 49s   ██░░░░░░░░░░░░░░░░░░░░░░░  7.99%
-cull           56m 9s       ██░░░░░░░░░░░░░░░░░░░░░░░  5.77%
-gastrack       52m 24s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.38%
+cs1220         3h 45m 26s   ██████░░░░░░░░░░░░░░░░░░░  22.91%
+unknown        2h 28m 55s   ████░░░░░░░░░░░░░░░░░░░░░  15.14%
+huntington     1h 24m 11s   ███░░░░░░░░░░░░░░░░░░░░░░  8.56%
+cull           56m 9s       ██░░░░░░░░░░░░░░░░░░░░░░░  5.71%
+gastrack       52m 24s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.33%
 
-Total: 13 hrs 36 mins
+Total: 13 hrs 46 mins
 ```
 
 #### 📮  Want to say hi?
