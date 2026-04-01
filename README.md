@@ -4,8 +4,8 @@ When not doing school or working on a random project, I enjoy flying drones and 
 
 #### 🏗️  The latest repos I've pushed to
 
-- [`flea`](https://github.com/taciturnaxolotl/flea) - _bouncy fpga game_ **(today)**
 - [`dots`](https://github.com/taciturnaxolotl/dots) - _Kieran's opinionated (and ever expanding) nix config_ **(today)**
+- [`flea`](https://github.com/taciturnaxolotl/flea) - _bouncy fpga game_ **(today)**
 - [`huntington`](https://github.com/taciturnaxolotl/huntington) - _neat project_ **(1 day ago)**
 - [`overpass`](https://github.com/taciturnaxolotl/overpass) - _gas tracking without the ads_ **(2 days ago)**
 - [`cull`](https://github.com/taciturnaxolotl/cull) - _as the title says; culls raw photos_ **(6 days ago)**
@@ -30,20 +30,20 @@ When not doing school or working on a random project, I enjoy flying drones and 
 
 ```text
 💾 Languages:
-unknown        8h 46m 31s   ██████████░░░░░░░░░░░░░░░  38.35%
-C++            3h 54m 35s   █████░░░░░░░░░░░░░░░░░░░░  17.09%
-C/C++          2h 45m 45s   ████░░░░░░░░░░░░░░░░░░░░░  12.07%
-Markdown       2h 34m 23s   ███░░░░░░░░░░░░░░░░░░░░░░  11.24%
-C/C++ Header   1h 57m 57s   ███░░░░░░░░░░░░░░░░░░░░░░  8.59%
+unknown        9h 3m 0s     ██████████░░░░░░░░░░░░░░░  37.84%
+C++            3h 54m 35s   █████░░░░░░░░░░░░░░░░░░░░  16.35%
+C/C++          2h 45m 45s   ███░░░░░░░░░░░░░░░░░░░░░░  11.55%
+Markdown       2h 34m 23s   ███░░░░░░░░░░░░░░░░░░░░░░  10.76%
+C/C++ Header   1h 57m 57s   ███░░░░░░░░░░░░░░░░░░░░░░  8.22%
 
 💼 Projects:
-cs1220         4h 52m 23s   ████████░░░░░░░░░░░░░░░░░  29.01%
-unknown        2h 32m 55s   ████░░░░░░░░░░░░░░░░░░░░░  15.17%
-huntington     1h 50m 0s    ███░░░░░░░░░░░░░░░░░░░░░░  10.91%
-dots           1h 1m 30s    ██░░░░░░░░░░░░░░░░░░░░░░░  6.10%
-gastrack       52m 24s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.20%
+cs1220         4h 52m 23s   ███████░░░░░░░░░░░░░░░░░░  27.67%
+unknown        2h 49m 7s    ████░░░░░░░░░░░░░░░░░░░░░  16.00%
+huntington     1h 50m 0s    ███░░░░░░░░░░░░░░░░░░░░░░  10.41%
+flea           1h 17m 49s   ██░░░░░░░░░░░░░░░░░░░░░░░  7.36%
+dots           1h 1m 30s    ██░░░░░░░░░░░░░░░░░░░░░░░  5.82%
 
-Total: 14 hrs 0 mins
+Total: 14 hrs 32 mins
 ```
 
 #### 📮  Want to say hi?
