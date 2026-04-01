@@ -4,8 +4,8 @@ When not doing school or working on a random project, I enjoy flying drones and 
 
 #### 🏗️  The latest repos I've pushed to
 
+- [`dots`](https://github.com/taciturnaxolotl/dots) - _Kieran's opinionated (and ever expanding) nix config_ **(today)**
 - [`huntington`](https://github.com/taciturnaxolotl/huntington) - _neat project_ **(1 day ago)**
-- [`dots`](https://github.com/taciturnaxolotl/dots) - _Kieran's opinionated (and ever expanding) nix config_ **(1 day ago)**
 - [`overpass`](https://github.com/taciturnaxolotl/overpass) - _gas tracking without the ads_ **(2 days ago)**
 - [`cull`](https://github.com/taciturnaxolotl/cull) - _as the title says; culls raw photos_ **(6 days ago)**
 - [`cedarstalk-raycast`](https://github.com/taciturnaxolotl/cedarstalk-raycast) - _cedarstalking with keyboard shortcuts_ **(6 days ago)**
@@ -30,20 +30,20 @@ When not doing school or working on a random project, I enjoy flying drones and 
 
 ```text
 💾 Languages:
-unknown        8h 22m 27s   ███████████░░░░░░░░░░░░░░  42.87%
-C++            2h 50m 43s   ████░░░░░░░░░░░░░░░░░░░░░  14.56%
-Markdown       2h 30m 23s   ████░░░░░░░░░░░░░░░░░░░░░  12.83%
-C/C++          2h 1m 51s    ███░░░░░░░░░░░░░░░░░░░░░░  10.40%
-C/C++ Header   1h 26m 22s   ██░░░░░░░░░░░░░░░░░░░░░░░  7.37%
+unknown        8h 32m 48s   ███████████░░░░░░░░░░░░░░  43.12%
+C++            2h 50m 43s   ████░░░░░░░░░░░░░░░░░░░░░  14.35%
+Markdown       2h 32m 23s   ████░░░░░░░░░░░░░░░░░░░░░  12.81%
+C/C++          2h 1m 51s    ███░░░░░░░░░░░░░░░░░░░░░░  10.25%
+C/C++ Header   1h 26m 22s   ██░░░░░░░░░░░░░░░░░░░░░░░  7.26%
 
 💼 Projects:
-cs1220         3h 42m 17s   ███████░░░░░░░░░░░░░░░░░░  24.93%
-unknown        2h 26m 55s   █████░░░░░░░░░░░░░░░░░░░░  16.48%
-huntington     1h 45m 10s   ███░░░░░░░░░░░░░░░░░░░░░░  11.79%
-dots           53m 53s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.04%
-gastrack       52m 24s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.88%
+cs1220         3h 42m 17s   ███████░░░░░░░░░░░░░░░░░░  24.41%
+unknown        2h 28m 55s   █████░░░░░░░░░░░░░░░░░░░░  16.35%
+huntington     1h 47m 55s   ███░░░░░░░░░░░░░░░░░░░░░░  11.85%
+dots           1h 1m 30s    ██░░░░░░░░░░░░░░░░░░░░░░░  6.75%
+gastrack       52m 24s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.75%
 
-Total: 12 hrs 13 mins
+Total: 12 hrs 27 mins
 ```
 
 #### 📮  Want to say hi?
