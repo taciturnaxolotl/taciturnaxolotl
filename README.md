@@ -4,12 +4,12 @@ When not doing school or working on a random project, I enjoy flying drones and 
 
 #### 🏗️  The latest repos I've pushed to
 
-- [`mere`](https://github.com/taciturnaxolotl/mere) - _a cool browser_ **(today)**
-- [`flea`](https://github.com/taciturnaxolotl/flea) - _bouncy fpga game_ **(1 day ago)**
-- [`zera`](https://github.com/taciturnaxolotl/zera) - _my new site v4?_ **(1 day ago)**
-- [`dots`](https://github.com/taciturnaxolotl/dots) - _Kieran's opinionated (and ever expanding) nix config_ **(1 day ago)**
-- [`huntington`](https://github.com/taciturnaxolotl/huntington) - _neat project_ **(2 days ago)**
-- [`overpass`](https://github.com/taciturnaxolotl/overpass) - _gas tracking without the ads_ **(3 days ago)**
+- [`mere`](https://github.com/taciturnaxolotl/mere) - _a cool browser_ **(1 day ago)**
+- [`flea`](https://github.com/taciturnaxolotl/flea) - _bouncy fpga game_ **(2 days ago)**
+- [`zera`](https://github.com/taciturnaxolotl/zera) - _my new site v4?_ **(2 days ago)**
+- [`dots`](https://github.com/taciturnaxolotl/dots) - _Kieran's opinionated (and ever expanding) nix config_ **(2 days ago)**
+- [`huntington`](https://github.com/taciturnaxolotl/huntington) - _neat project_ **(3 days ago)**
+- [`overpass`](https://github.com/taciturnaxolotl/overpass) - _gas tracking without the ads_ **(4 days ago)**
 - [`cull`](https://github.com/taciturnaxolotl/cull) - _as the title says; culls raw photos_ **(1 week ago)**
 - [`cedarstalk-raycast`](https://github.com/taciturnaxolotl/cedarstalk-raycast) - _cedarstalking with keyboard shortcuts_ **(1 week ago)**
 
@@ -30,20 +30,20 @@ When not doing school or working on a random project, I enjoy flying drones and 
 
 ```text
 💾 Languages:
-unknown      9h 17m 27s   █████████░░░░░░░░░░░░░░░░  33.41%
-C++          3h 54m 35s   ████░░░░░░░░░░░░░░░░░░░░░  14.06%
-Swift        3h 7m 21s    ███░░░░░░░░░░░░░░░░░░░░░░  11.23%
-C/C++        2h 45m 45s   ███░░░░░░░░░░░░░░░░░░░░░░  9.93%
-Markdown     2h 39m 2s    ███░░░░░░░░░░░░░░░░░░░░░░  9.53%
+unknown      9h 19m 27s   █████████░░░░░░░░░░░░░░░░  33.40%
+C++          3h 54m 35s   ████░░░░░░░░░░░░░░░░░░░░░  14.00%
+Swift        3h 11m 58s   ███░░░░░░░░░░░░░░░░░░░░░░  11.46%
+C/C++        2h 45m 45s   ███░░░░░░░░░░░░░░░░░░░░░░  9.89%
+Markdown     2h 39m 2s    ███░░░░░░░░░░░░░░░░░░░░░░  9.49%
 
 💼 Projects:
-cs1220       4h 52m 23s   ██████░░░░░░░░░░░░░░░░░░░  22.90%
-unknown      4h 33m 57s   ██████░░░░░░░░░░░░░░░░░░░  21.46%
-huntington   2h 28m 57s   ███░░░░░░░░░░░░░░░░░░░░░░  11.67%
-mere         1h 46m 37s   ███░░░░░░░░░░░░░░░░░░░░░░  8.35%
-flea         1h 8m 26s    ██░░░░░░░░░░░░░░░░░░░░░░░  5.36%
+cs1220       4h 52m 23s   ██████░░░░░░░░░░░░░░░░░░░  22.82%
+unknown      4h 33m 57s   ██████░░░░░░░░░░░░░░░░░░░  21.38%
+huntington   2h 33m 34s   ███░░░░░░░░░░░░░░░░░░░░░░  11.98%
+mere         1h 46m 37s   ███░░░░░░░░░░░░░░░░░░░░░░  8.32%
+flea         1h 8m 26s    ██░░░░░░░░░░░░░░░░░░░░░░░  5.34%
 
-Total: 16 hrs 58 mins
+Total: 17 hrs 4 mins
 ```
 
 #### 📮  Want to say hi?
