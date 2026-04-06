@@ -4,13 +4,13 @@ When not doing school or working on a random project, I enjoy flying drones and 
 
 #### 🏗️  The latest repos I've pushed to
 
+- [`sirsnap`](https://github.com/df1317/sirsnap) - _sir says fill out your availability_ **(today)**
 - [`mere`](https://github.com/taciturnaxolotl/mere) - _a cool browser_ **(4 days ago)**
 - [`flea`](https://github.com/taciturnaxolotl/flea) - _bouncy fpga game_ **(5 days ago)**
-- [`dots`](https://github.com/taciturnaxolotl/dots) - _Kieran's opinionated (and ever expanding) nix config_ **(5 days ago)**
 - [`zera`](https://github.com/taciturnaxolotl/zera) - _my new site v4?_ **(5 days ago)**
+- [`dots`](https://github.com/taciturnaxolotl/dots) - _Kieran's opinionated (and ever expanding) nix config_ **(5 days ago)**
 - [`huntington`](https://github.com/taciturnaxolotl/huntington) - _neat project_ **(6 days ago)**
 - [`overpass`](https://github.com/taciturnaxolotl/overpass) - _gas tracking without the ads_ **(1 week ago)**
-- [`cedarstalk-raycast`](https://github.com/taciturnaxolotl/cedarstalk-raycast) - _cedarstalking with keyboard shortcuts_ **(1 week ago)**
 - [`cull`](https://github.com/taciturnaxolotl/cull) - _as the title says; culls raw photos_ **(1 week ago)**
 
 #### 📦  My latest projects
@@ -30,20 +30,20 @@ When not doing school or working on a random project, I enjoy flying drones and 
 
 ```text
 💾 Languages:
-unknown      7h 26m 21s   ████████░░░░░░░░░░░░░░░░░  28.70%
-C++          4h 3m 31s    ████░░░░░░░░░░░░░░░░░░░░░  15.66%
-Swift        3h 24m 36s   ████░░░░░░░░░░░░░░░░░░░░░  13.15%
-C/C++        2h 45m 45s   ███░░░░░░░░░░░░░░░░░░░░░░  10.66%
-Markdown     2h 36m 20s   ███░░░░░░░░░░░░░░░░░░░░░░  10.05%
+unknown      7h 34m 45s   ████████░░░░░░░░░░░░░░░░░  28.73%
+C++          4h 3m 31s    ████░░░░░░░░░░░░░░░░░░░░░  15.38%
+Swift        3h 24m 36s   ████░░░░░░░░░░░░░░░░░░░░░  12.92%
+C/C++        2h 45m 45s   ███░░░░░░░░░░░░░░░░░░░░░░  10.47%
+Markdown     2h 36m 20s   ███░░░░░░░░░░░░░░░░░░░░░░  9.88%
 
 💼 Projects:
-cs1220       4h 52m 23s   ███████░░░░░░░░░░░░░░░░░░  25.81%
-unknown      4h 33m 59s   ███████░░░░░░░░░░░░░░░░░░  24.19%
-huntington   2h 48m 50s   ████░░░░░░░░░░░░░░░░░░░░░  14.91%
-mere         1h 59m 41s   ███░░░░░░░░░░░░░░░░░░░░░░  10.57%
-flea         1h 4m 44s    ██░░░░░░░░░░░░░░░░░░░░░░░  5.72%
+cs1220       4h 52m 23s   ███████░░░░░░░░░░░░░░░░░░  25.37%
+unknown      4h 33m 59s   ██████░░░░░░░░░░░░░░░░░░░  23.77%
+huntington   2h 48m 50s   ████░░░░░░░░░░░░░░░░░░░░░  14.65%
+mere         1h 59m 41s   ███░░░░░░░░░░░░░░░░░░░░░░  10.38%
+sirsnap      1h 7m 46s    ██░░░░░░░░░░░░░░░░░░░░░░░  5.88%
 
-Total: 14 hrs 45 mins
+Total: 15 hrs 5 mins
 ```
 
 #### 📮  Want to say hi?
