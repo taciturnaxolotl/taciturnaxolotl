@@ -5,9 +5,9 @@ When not doing school or working on a random project, I enjoy flying drones and 
 #### 🏗️  The latest repos I've pushed to
 
 - [`mere`](https://github.com/taciturnaxolotl/mere) - _a cool browser_ **(4 days ago)**
+- [`flea`](https://github.com/taciturnaxolotl/flea) - _bouncy fpga game_ **(5 days ago)**
 - [`dots`](https://github.com/taciturnaxolotl/dots) - _Kieran's opinionated (and ever expanding) nix config_ **(5 days ago)**
 - [`zera`](https://github.com/taciturnaxolotl/zera) - _my new site v4?_ **(5 days ago)**
-- [`flea`](https://github.com/taciturnaxolotl/flea) - _bouncy fpga game_ **(5 days ago)**
 - [`huntington`](https://github.com/taciturnaxolotl/huntington) - _neat project_ **(6 days ago)**
 - [`overpass`](https://github.com/taciturnaxolotl/overpass) - _gas tracking without the ads_ **(1 week ago)**
 - [`cedarstalk-raycast`](https://github.com/taciturnaxolotl/cedarstalk-raycast) - _cedarstalking with keyboard shortcuts_ **(1 week ago)**
