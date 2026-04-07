@@ -11,7 +11,7 @@ When not doing school or working on a random project, I enjoy flying drones and 
 - [`zera`](https://github.com/taciturnaxolotl/zera) - _my new site v4?_ **(6 days ago)**
 - [`huntington`](https://github.com/taciturnaxolotl/huntington) - _neat project_ **(1 week ago)**
 - [`overpass`](https://github.com/taciturnaxolotl/overpass) - _gas tracking without the ads_ **(1 week ago)**
-- [`cull`](https://github.com/taciturnaxolotl/cull) - _as the title says; culls raw photos_ **(1 week ago)**
+- [`cedarstalk-raycast`](https://github.com/taciturnaxolotl/cedarstalk-raycast) - _cedarstalking with keyboard shortcuts_ **(1 week ago)**
 
 #### 📦  My latest projects
 
@@ -30,20 +30,20 @@ When not doing school or working on a random project, I enjoy flying drones and 
 
 ```text
 💾 Languages:
-unknown      8h 32m 36s   █████████░░░░░░░░░░░░░░░░  34.87%
-JavaScript   3h 43m 17s   ████░░░░░░░░░░░░░░░░░░░░░  15.19%
-Swift        3h 24m 36s   ████░░░░░░░░░░░░░░░░░░░░░  13.92%
-TypeScript   1h 56m 27s   ██░░░░░░░░░░░░░░░░░░░░░░░  7.92%
-C++          1h 23m 33s   ██░░░░░░░░░░░░░░░░░░░░░░░  5.68%
+unknown      8h 44m 20s   █████████░░░░░░░░░░░░░░░░  35.38%
+JavaScript   3h 43m 17s   ████░░░░░░░░░░░░░░░░░░░░░  15.07%
+Swift        3h 24m 36s   ████░░░░░░░░░░░░░░░░░░░░░  13.81%
+TypeScript   1h 56m 27s   ██░░░░░░░░░░░░░░░░░░░░░░░  7.86%
+C++          1h 23m 33s   ██░░░░░░░░░░░░░░░░░░░░░░░  5.64%
 
 💼 Projects:
-sirsnap      6h 49m 47s   ██████████░░░░░░░░░░░░░░░  36.56%
-huntington   2h 15m 48s   ████░░░░░░░░░░░░░░░░░░░░░  12.11%
-unknown      2h 15m 15s   ████░░░░░░░░░░░░░░░░░░░░░  12.07%
-mere         1h 59m 41s   ███░░░░░░░░░░░░░░░░░░░░░░  10.68%
-cs1220       1h 20m 56s   ██░░░░░░░░░░░░░░░░░░░░░░░  7.22%
+sirsnap      7h 1m 31s    ██████████░░░░░░░░░░░░░░░  37.21%
+huntington   2h 15m 48s   ███░░░░░░░░░░░░░░░░░░░░░░  11.99%
+unknown      2h 15m 15s   ███░░░░░░░░░░░░░░░░░░░░░░  11.94%
+mere         1h 59m 41s   ███░░░░░░░░░░░░░░░░░░░░░░  10.57%
+cs1220       1h 20m 56s   ██░░░░░░░░░░░░░░░░░░░░░░░  7.15%
 
-Total: 16 hrs 56 mins
+Total: 17 hrs 7 mins
 ```
 
 #### 📮  Want to say hi?
