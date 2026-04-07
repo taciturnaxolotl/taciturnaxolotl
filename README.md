@@ -4,8 +4,8 @@ When not doing school or working on a random project, I enjoy flying drones and 
 
 #### 🏗️  The latest repos I've pushed to
 
-- [`sirsnap`](https://github.com/df1317/sirsnap) - _sir says fill out your availability_ **(today)**
 - [`dots`](https://github.com/taciturnaxolotl/dots) - _Kieran's opinionated (and ever expanding) nix config_ **(today)**
+- [`sirsnap`](https://github.com/df1317/sirsnap) - _sir says fill out your availability_ **(today)**
 - [`mere`](https://github.com/taciturnaxolotl/mere) - _a cool browser_ **(5 days ago)**
 - [`flea`](https://github.com/taciturnaxolotl/flea) - _bouncy fpga game_ **(6 days ago)**
 - [`zera`](https://github.com/taciturnaxolotl/zera) - _my new site v4?_ **(6 days ago)**
@@ -30,20 +30,20 @@ When not doing school or working on a random project, I enjoy flying drones and 
 
 ```text
 💾 Languages:
-unknown      11h 9m 49s   ██████████░░░░░░░░░░░░░░░  39.49%
-JavaScript   4h 27m 21s   ████░░░░░░░░░░░░░░░░░░░░░  15.76%
-Swift        3h 24m 36s   ████░░░░░░░░░░░░░░░░░░░░░  12.06%
-TypeScript   2h 0m 20s    ██░░░░░░░░░░░░░░░░░░░░░░░  7.09%
-C++          1h 23m 33s   ██░░░░░░░░░░░░░░░░░░░░░░░  4.93%
+unknown      11h 15m 56s   ██████████░░░░░░░░░░░░░░░  39.71%
+JavaScript   4h 27m 21s    ████░░░░░░░░░░░░░░░░░░░░░  15.70%
+Swift        3h 24m 36s    ████░░░░░░░░░░░░░░░░░░░░░  12.02%
+TypeScript   2h 0m 20s     ██░░░░░░░░░░░░░░░░░░░░░░░  7.07%
+C++          1h 23m 33s    ██░░░░░░░░░░░░░░░░░░░░░░░  4.91%
 
 💼 Projects:
-sirsnap      9h 14m 45s   ███████████░░░░░░░░░░░░░░  42.15%
-huntington   2h 17m 48s   ███░░░░░░░░░░░░░░░░░░░░░░  10.47%
-unknown      2h 17m 15s   ███░░░░░░░░░░░░░░░░░░░░░░  10.43%
-mere         1h 59m 41s   ███░░░░░░░░░░░░░░░░░░░░░░  9.09%
-cs1220       1h 20m 56s   ██░░░░░░░░░░░░░░░░░░░░░░░  6.15%
+sirsnap      9h 20m 52s    ███████████░░░░░░░░░░░░░░  42.42%
+huntington   2h 17m 48s    ███░░░░░░░░░░░░░░░░░░░░░░  10.42%
+unknown      2h 17m 15s    ███░░░░░░░░░░░░░░░░░░░░░░  10.38%
+mere         1h 59m 41s    ███░░░░░░░░░░░░░░░░░░░░░░  9.05%
+cs1220       1h 20m 56s    ██░░░░░░░░░░░░░░░░░░░░░░░  6.12%
 
-Total: 20 hrs 2 mins
+Total: 20 hrs 8 mins
 ```
 
 #### 📮  Want to say hi?
