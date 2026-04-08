@@ -4,8 +4,8 @@ When not doing school or working on a random project, I enjoy flying drones and 
 
 #### 🏗️  The latest repos I've pushed to
 
-- [`dots`](https://github.com/taciturnaxolotl/dots) - _Kieran's opinionated (and ever expanding) nix config_ **(today)**
 - [`sirsnap`](https://github.com/df1317/sirsnap) - _sir says fill out your availability_ **(today)**
+- [`dots`](https://github.com/taciturnaxolotl/dots) - _Kieran's opinionated (and ever expanding) nix config_ **(today)**
 - [`mere`](https://github.com/taciturnaxolotl/mere) - _a cool browser_ **(6 days ago)**
 - [`flea`](https://github.com/taciturnaxolotl/flea) - _bouncy fpga game_ **(1 week ago)**
 - [`zera`](https://github.com/taciturnaxolotl/zera) - _my new site v4?_ **(1 week ago)**
@@ -30,20 +30,20 @@ When not doing school or working on a random project, I enjoy flying drones and 
 
 ```text
 💾 Languages:
-unknown      10h 32m 17s   ██████████░░░░░░░░░░░░░░░  38.42%
-JavaScript   4h 14m 40s    ████░░░░░░░░░░░░░░░░░░░░░  15.47%
-Swift        3h 24m 36s    ████░░░░░░░░░░░░░░░░░░░░░  12.43%
-TypeScript   2h 8m 0s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.78%
-C++          1h 36m 16s    ██░░░░░░░░░░░░░░░░░░░░░░░  5.85%
+unknown      10h 37m 12s   ██████████░░░░░░░░░░░░░░░  38.55%
+JavaScript   4h 16m 40s    ████░░░░░░░░░░░░░░░░░░░░░  15.53%
+Swift        3h 24m 36s    ████░░░░░░░░░░░░░░░░░░░░░  12.38%
+TypeScript   2h 8m 0s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.74%
+C++          1h 36m 16s    ██░░░░░░░░░░░░░░░░░░░░░░░  5.82%
 
 💼 Projects:
-sirsnap      10h 19m 34s   █████████████░░░░░░░░░░░░  49.03%
-unknown      2h 13m 4s     ███░░░░░░░░░░░░░░░░░░░░░░  10.53%
-mere         1h 59m 41s    ███░░░░░░░░░░░░░░░░░░░░░░  9.47%
-cs1220       1h 35m 52s    ██░░░░░░░░░░░░░░░░░░░░░░░  7.59%
-huntington   1h 9m 39s     ██░░░░░░░░░░░░░░░░░░░░░░░  5.51%
+sirsnap      10h 24m 53s   █████████████░░░░░░░░░░░░  49.25%
+unknown      2h 13m 4s     ███░░░░░░░░░░░░░░░░░░░░░░  10.49%
+mere         1h 59m 41s    ███░░░░░░░░░░░░░░░░░░░░░░  9.43%
+cs1220       1h 35m 52s    ██░░░░░░░░░░░░░░░░░░░░░░░  7.56%
+huntington   1h 9m 39s     ██░░░░░░░░░░░░░░░░░░░░░░░  5.49%
 
-Total: 19 hrs 14 mins
+Total: 19 hrs 19 mins
 ```
 
 #### 📮  Want to say hi?
