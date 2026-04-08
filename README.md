@@ -4,11 +4,11 @@ When not doing school or working on a random project, I enjoy flying drones and 
 
 #### 🏗️  The latest repos I've pushed to
 
-- [`dots`](https://github.com/taciturnaxolotl/dots) - _Kieran's opinionated (and ever expanding) nix config_ **(today)**
-- [`sirsnap`](https://github.com/df1317/sirsnap) - _sir says fill out your availability_ **(today)**
-- [`mere`](https://github.com/taciturnaxolotl/mere) - _a cool browser_ **(5 days ago)**
-- [`flea`](https://github.com/taciturnaxolotl/flea) - _bouncy fpga game_ **(6 days ago)**
-- [`zera`](https://github.com/taciturnaxolotl/zera) - _my new site v4?_ **(6 days ago)**
+- [`dots`](https://github.com/taciturnaxolotl/dots) - _Kieran's opinionated (and ever expanding) nix config_ **(1 day ago)**
+- [`sirsnap`](https://github.com/df1317/sirsnap) - _sir says fill out your availability_ **(1 day ago)**
+- [`mere`](https://github.com/taciturnaxolotl/mere) - _a cool browser_ **(6 days ago)**
+- [`flea`](https://github.com/taciturnaxolotl/flea) - _bouncy fpga game_ **(1 week ago)**
+- [`zera`](https://github.com/taciturnaxolotl/zera) - _my new site v4?_ **(1 week ago)**
 - [`huntington`](https://github.com/taciturnaxolotl/huntington) - _neat project_ **(1 week ago)**
 - [`overpass`](https://github.com/taciturnaxolotl/overpass) - _gas tracking without the ads_ **(1 week ago)**
 - [`cull`](https://github.com/taciturnaxolotl/cull) - _as the title says; culls raw photos_ **(1 week ago)**
@@ -30,20 +30,20 @@ When not doing school or working on a random project, I enjoy flying drones and 
 
 ```text
 💾 Languages:
-unknown      11h 28m 22s   ██████████░░░░░░░░░░░░░░░  39.91%
-JavaScript   4h 31m 27s    ████░░░░░░░░░░░░░░░░░░░░░  15.74%
-Swift        3h 24m 36s    ███░░░░░░░░░░░░░░░░░░░░░░  11.86%
-TypeScript   2h 0m 20s     ██░░░░░░░░░░░░░░░░░░░░░░░  6.98%
+unknown      11h 30m 22s   ██████████░░░░░░░░░░░░░░░  39.98%
+JavaScript   4h 31m 27s    ████░░░░░░░░░░░░░░░░░░░░░  15.72%
+Swift        3h 24m 36s    ███░░░░░░░░░░░░░░░░░░░░░░  11.85%
+TypeScript   2h 0m 20s     ██░░░░░░░░░░░░░░░░░░░░░░░  6.97%
 C++          1h 23m 33s    ██░░░░░░░░░░░░░░░░░░░░░░░  4.84%
 
 💼 Projects:
-sirsnap      9h 39m 44s    ███████████░░░░░░░░░░░░░░  43.17%
-huntington   2h 17m 48s    ███░░░░░░░░░░░░░░░░░░░░░░  10.26%
-unknown      2h 17m 15s    ███░░░░░░░░░░░░░░░░░░░░░░  10.22%
-mere         1h 59m 41s    ███░░░░░░░░░░░░░░░░░░░░░░  8.91%
-cs1220       1h 20m 56s    ██░░░░░░░░░░░░░░░░░░░░░░░  6.03%
+sirsnap      9h 41m 44s    ███████████░░░░░░░░░░░░░░  43.25%
+huntington   2h 17m 48s    ███░░░░░░░░░░░░░░░░░░░░░░  10.25%
+unknown      2h 17m 15s    ███░░░░░░░░░░░░░░░░░░░░░░  10.20%
+mere         1h 59m 41s    ███░░░░░░░░░░░░░░░░░░░░░░  8.90%
+cs1220       1h 20m 56s    ██░░░░░░░░░░░░░░░░░░░░░░░  6.02%
 
-Total: 20 hrs 27 mins
+Total: 20 hrs 29 mins
 ```
 
 #### 📮  Want to say hi?
