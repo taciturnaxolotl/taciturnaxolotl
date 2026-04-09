@@ -11,7 +11,7 @@ When not doing school or working on a random project, I enjoy flying drones and 
 - [`zera`](https://github.com/taciturnaxolotl/zera) - _my new site v4?_ **(1 week ago)**
 - [`huntington`](https://github.com/taciturnaxolotl/huntington) - _neat project_ **(1 week ago)**
 - [`overpass`](https://github.com/taciturnaxolotl/overpass) - _gas tracking without the ads_ **(1 week ago)**
-- [`cull`](https://github.com/taciturnaxolotl/cull) - _as the title says; culls raw photos_ **(2 weeks ago)**
+- [`cedarstalk-raycast`](https://github.com/taciturnaxolotl/cedarstalk-raycast) - _cedarstalking with keyboard shortcuts_ **(2 weeks ago)**
 
 #### 📦  My latest projects
 
