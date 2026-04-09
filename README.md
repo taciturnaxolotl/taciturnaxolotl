@@ -30,20 +30,20 @@ When not doing school or working on a random project, I enjoy flying drones and 
 
 ```text
 💾 Languages:
-unknown               12h 14m 36s   █████████████░░░░░░░░░░░░  48.03%
-JavaScript            4h 37m 14s    █████░░░░░░░░░░░░░░░░░░░░  18.13%
-TypeScript            2h 51m 12s    ███░░░░░░░░░░░░░░░░░░░░░░  11.19%
-Swift                 1h 28m 3s     ██░░░░░░░░░░░░░░░░░░░░░░░  5.76%
-JSON                  40m 37s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.66%
+unknown               12h 19m 4s    █████████████░░░░░░░░░░░░  48.18%
+JavaScript            4h 37m 14s    █████░░░░░░░░░░░░░░░░░░░░  18.07%
+TypeScript            2h 51m 12s    ███░░░░░░░░░░░░░░░░░░░░░░  11.16%
+Swift                 1h 28m 3s     ██░░░░░░░░░░░░░░░░░░░░░░░  5.74%
+JSON                  40m 37s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.65%
 
 💼 Projects:
-sirsnap               11h 12m 42s   ███████████████░░░░░░░░░░  56.66%
-mere                  1h 22m 12s    ██░░░░░░░░░░░░░░░░░░░░░░░  6.92%
-faster-slack-client   1h 20m 25s    ██░░░░░░░░░░░░░░░░░░░░░░░  6.77%
-huntington            1h 2m 50s     ██░░░░░░░░░░░░░░░░░░░░░░░  5.29%
-zera                  51m 15s       ██░░░░░░░░░░░░░░░░░░░░░░░  4.32%
+sirsnap               11h 12m 42s   ███████████████░░░░░░░░░░  56.45%
+mere                  1h 22m 12s    ██░░░░░░░░░░░░░░░░░░░░░░░  6.90%
+faster-slack-client   1h 20m 41s    ██░░░░░░░░░░░░░░░░░░░░░░░  6.77%
+huntington            1h 2m 50s     ██░░░░░░░░░░░░░░░░░░░░░░░  5.27%
+zera                  51m 15s       ██░░░░░░░░░░░░░░░░░░░░░░░  4.30%
 
-Total: 18 hrs 43 mins
+Total: 18 hrs 48 mins
 ```
 
 #### 📮  Want to say hi?
