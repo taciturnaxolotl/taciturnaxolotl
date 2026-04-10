@@ -4,9 +4,9 @@ When not doing school or working on a random project, I enjoy flying drones and 
 
 #### 🏗️  The latest repos I've pushed to
 
-- [`zera`](https://github.com/taciturnaxolotl/zera) - _my new site v4?_ **(today)**
-- [`turnout`](https://github.com/df1317/turnout) - _sir says fill out your availability_ **(today)**
-- [`dots`](https://github.com/taciturnaxolotl/dots) - _Kieran's opinionated (and ever expanding) nix config_ **(1 day ago)**
+- [`zera`](https://github.com/taciturnaxolotl/zera) - _my new site v4?_ **(1 day ago)**
+- [`turnout`](https://github.com/df1317/turnout) - _sir says fill out your availability_ **(1 day ago)**
+- [`dots`](https://github.com/taciturnaxolotl/dots) - _Kieran's opinionated (and ever expanding) nix config_ **(2 days ago)**
 - [`mere`](https://github.com/taciturnaxolotl/mere) - _a cool browser_ **(1 week ago)**
 - [`flea`](https://github.com/taciturnaxolotl/flea) - _bouncy fpga game_ **(1 week ago)**
 - [`huntington`](https://github.com/taciturnaxolotl/huntington) - _neat project_ **(1 week ago)**
@@ -30,20 +30,20 @@ When not doing school or working on a random project, I enjoy flying drones and 
 
 ```text
 💾 Languages:
-unknown               12h 19m 4s    █████████████░░░░░░░░░░░░  48.18%
-JavaScript            4h 37m 14s    █████░░░░░░░░░░░░░░░░░░░░  18.07%
-TypeScript            2h 51m 12s    ███░░░░░░░░░░░░░░░░░░░░░░  11.16%
-Swift                 1h 28m 3s     ██░░░░░░░░░░░░░░░░░░░░░░░  5.74%
-JSON                  40m 37s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.65%
+unknown               12h 31m 1s    █████████████░░░░░░░░░░░░  48.58%
+JavaScript            4h 37m 14s    █████░░░░░░░░░░░░░░░░░░░░  17.93%
+TypeScript            2h 51m 12s    ███░░░░░░░░░░░░░░░░░░░░░░  11.08%
+Swift                 1h 28m 3s     ██░░░░░░░░░░░░░░░░░░░░░░░  5.70%
+JSON                  40m 37s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.63%
 
 💼 Projects:
-sirsnap               11h 12m 42s   ███████████████░░░░░░░░░░  56.45%
-mere                  1h 22m 12s    ██░░░░░░░░░░░░░░░░░░░░░░░  6.90%
-faster-slack-client   1h 20m 41s    ██░░░░░░░░░░░░░░░░░░░░░░░  6.77%
-huntington            1h 2m 50s     ██░░░░░░░░░░░░░░░░░░░░░░░  5.27%
-zera                  51m 15s       ██░░░░░░░░░░░░░░░░░░░░░░░  4.30%
+sirsnap               11h 12m 42s   ██████████████░░░░░░░░░░░  55.68%
+mere                  1h 22m 12s    ██░░░░░░░░░░░░░░░░░░░░░░░  6.80%
+faster-slack-client   1h 20m 41s    ██░░░░░░░░░░░░░░░░░░░░░░░  6.68%
+huntington            1h 2m 50s     ██░░░░░░░░░░░░░░░░░░░░░░░  5.20%
+zera                  51m 15s       ██░░░░░░░░░░░░░░░░░░░░░░░  4.24%
 
-Total: 18 hrs 48 mins
+Total: 19 hrs 0 mins
 ```
 
 #### 📮  Want to say hi?
