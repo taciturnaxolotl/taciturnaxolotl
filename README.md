@@ -4,9 +4,9 @@ When not doing school or working on a random project, I enjoy flying drones and 
 
 #### 🏗️  The latest repos I've pushed to
 
-- [`turnout`](https://github.com/df1317/turnout) - _sir says fill out your availability_ **(1 day ago)**
-- [`zera`](https://github.com/taciturnaxolotl/zera) - _my new site v4?_ **(2 days ago)**
-- [`dots`](https://github.com/taciturnaxolotl/dots) - _Kieran's opinionated (and ever expanding) nix config_ **(3 days ago)**
+- [`turnout`](https://github.com/df1317/turnout) - _sir says fill out your availability_ **(2 days ago)**
+- [`zera`](https://github.com/taciturnaxolotl/zera) - _my new site v4?_ **(3 days ago)**
+- [`dots`](https://github.com/taciturnaxolotl/dots) - _Kieran's opinionated (and ever expanding) nix config_ **(4 days ago)**
 - [`mere`](https://github.com/taciturnaxolotl/mere) - _a cool browser_ **(1 week ago)**
 - [`flea`](https://github.com/taciturnaxolotl/flea) - _bouncy fpga game_ **(1 week ago)**
 - [`huntington`](https://github.com/taciturnaxolotl/huntington) - _neat project_ **(1 week ago)**
