@@ -30,20 +30,20 @@ When not doing school or working on a random project, I enjoy flying drones and 
 
 ```text
 💾 Languages:
-unknown               15h 48m 16s   ███████████████░░░░░░░░░░  56.98%
-JavaScript            4h 18m 57s    ████░░░░░░░░░░░░░░░░░░░░░  15.56%
-TypeScript            2h 42m 21s    ███░░░░░░░░░░░░░░░░░░░░░░  9.75%
+unknown               15h 50m 16s   ███████████████░░░░░░░░░░  57.03%
+JavaScript            4h 18m 57s    ████░░░░░░░░░░░░░░░░░░░░░  15.54%
+TypeScript            2h 42m 21s    ███░░░░░░░░░░░░░░░░░░░░░░  9.74%
 JSON                  53m 15s       █░░░░░░░░░░░░░░░░░░░░░░░░  3.20%
 Go                    43m 17s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.60%
 
 💼 Projects:
-sirsnap               10h 39m 8s    █████████████░░░░░░░░░░░░  48.04%
-2026-rebuilt          3h 54m 34s    █████░░░░░░░░░░░░░░░░░░░░  17.63%
+sirsnap               10h 39m 8s    ████████████░░░░░░░░░░░░░  47.97%
+2026-rebuilt          3h 54m 34s    █████░░░░░░░░░░░░░░░░░░░░  17.61%
 faster-slack-client   1h 20m 41s    ██░░░░░░░░░░░░░░░░░░░░░░░  6.06%
 zera                  49m 15s       █░░░░░░░░░░░░░░░░░░░░░░░░  3.70%
-sheets                44m 0s        █░░░░░░░░░░░░░░░░░░░░░░░░  3.31%
+sheets                44m 0s        █░░░░░░░░░░░░░░░░░░░░░░░░  3.30%
 
-Total: 21 hrs 37 mins
+Total: 21 hrs 39 mins
 ```
 
 #### 📮  Want to say hi?
