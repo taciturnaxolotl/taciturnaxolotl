@@ -4,9 +4,9 @@ When not doing school or working on a random project, I enjoy flying drones and 
 
 #### 🏗️  The latest repos I've pushed to
 
+- [`zera`](https://github.com/taciturnaxolotl/zera) - _my new site v4?_ **(today)**
 - [`dots`](https://github.com/taciturnaxolotl/dots) - _Kieran's opinionated (and ever expanding) nix config_ **(1 day ago)**
 - [`turnout`](https://github.com/df1317/turnout) - _sir says fill out your availability_ **(3 days ago)**
-- [`zera`](https://github.com/taciturnaxolotl/zera) - _my new site v4?_ **(4 days ago)**
 - [`mere`](https://github.com/taciturnaxolotl/mere) - _a cool browser_ **(1 week ago)**
 - [`flea`](https://github.com/taciturnaxolotl/flea) - _bouncy fpga game_ **(1 week ago)**
 - [`huntington`](https://github.com/taciturnaxolotl/huntington) - _neat project_ **(1 week ago)**
@@ -30,20 +30,20 @@ When not doing school or working on a random project, I enjoy flying drones and 
 
 ```text
 💾 Languages:
-unknown               17h 12m 55s   ███████████████░░░░░░░░░░  57.83%
-JavaScript            4h 18m 57s    ████░░░░░░░░░░░░░░░░░░░░░  14.50%
-TypeScript            2h 39m 2s     ███░░░░░░░░░░░░░░░░░░░░░░  8.90%
-JSON                  53m 15s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.98%
-Go                    43m 17s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.42%
+unknown               17h 22m 3s    ███████████████░░░░░░░░░░  57.72%
+JavaScript            4h 22m 57s    ████░░░░░░░░░░░░░░░░░░░░░  14.57%
+TypeScript            2h 39m 2s     ███░░░░░░░░░░░░░░░░░░░░░░  8.81%
+JSON                  53m 15s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.95%
+Go                    43m 17s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.40%
 
 💼 Projects:
-sirsnap               10h 34m 32s   ███████████░░░░░░░░░░░░░░  43.64%
-2026-rebuilt          3h 54m 34s    █████░░░░░░░░░░░░░░░░░░░░  16.13%
-dots                  1h 25m 50s    ██░░░░░░░░░░░░░░░░░░░░░░░  5.90%
-faster-slack-client   1h 20m 41s    ██░░░░░░░░░░░░░░░░░░░░░░░  5.55%
-zera                  49m 15s       █░░░░░░░░░░░░░░░░░░░░░░░░  3.39%
+sirsnap               10h 34m 32s   ███████████░░░░░░░░░░░░░░  43.28%
+2026-rebuilt          3h 54m 34s    ████░░░░░░░░░░░░░░░░░░░░░  16.00%
+dots                  1h 25m 50s    ██░░░░░░░░░░░░░░░░░░░░░░░  5.85%
+faster-slack-client   1h 20m 41s    ██░░░░░░░░░░░░░░░░░░░░░░░  5.50%
+zera                  1h 1m 22s     ██░░░░░░░░░░░░░░░░░░░░░░░  4.19%
 
-Total: 23 hrs 27 mins
+Total: 23 hrs 39 mins
 ```
 
 #### 📮  Want to say hi?
