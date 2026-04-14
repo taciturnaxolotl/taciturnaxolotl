@@ -4,8 +4,8 @@ When not doing school or working on a random project, I enjoy flying drones and 
 
 #### 🏗️  The latest repos I've pushed to
 
+- [`dots`](https://github.com/taciturnaxolotl/dots) - _Kieran's opinionated (and ever expanding) nix config_ **(today)**
 - [`zera`](https://github.com/taciturnaxolotl/zera) - _my new site v4?_ **(1 day ago)**
-- [`dots`](https://github.com/taciturnaxolotl/dots) - _Kieran's opinionated (and ever expanding) nix config_ **(2 days ago)**
 - [`turnout`](https://github.com/df1317/turnout) - _sir says fill out your availability_ **(4 days ago)**
 - [`mere`](https://github.com/taciturnaxolotl/mere) - _a cool browser_ **(1 week ago)**
 - [`flea`](https://github.com/taciturnaxolotl/flea) - _bouncy fpga game_ **(1 week ago)**
@@ -30,20 +30,20 @@ When not doing school or working on a random project, I enjoy flying drones and 
 
 ```text
 💾 Languages:
-unknown               14h 42m 42s   ██████████████████░░░░░░░  68.73%
-JavaScript            1h 30m 39s    ██░░░░░░░░░░░░░░░░░░░░░░░  7.06%
-TypeScript            52m 45s       ██░░░░░░░░░░░░░░░░░░░░░░░  4.11%
-Go                    43m 17s       █░░░░░░░░░░░░░░░░░░░░░░░░  3.37%
-C++                   38m 26s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.99%
+unknown               15h 0m 37s   ██████████████████░░░░░░░  68.58%
+JavaScript            1h 30m 39s   ██░░░░░░░░░░░░░░░░░░░░░░░  6.90%
+TypeScript            52m 45s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.02%
+Go                    43m 17s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.30%
+Nix                   40m 32s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.09%
 
 💼 Projects:
-sirsnap               4h 43m 58s    ███████░░░░░░░░░░░░░░░░░░  25.80%
-2026-rebuilt          3h 35m 14s    █████░░░░░░░░░░░░░░░░░░░░  19.56%
-dots                  1h 25m 50s    ██░░░░░░░░░░░░░░░░░░░░░░░  7.80%
-faster-slack-client   1h 20m 41s    ██░░░░░░░░░░░░░░░░░░░░░░░  7.33%
-zera                  1h 5m 37s     ██░░░░░░░░░░░░░░░░░░░░░░░  5.96%
+sirsnap               4h 43m 58s   ███████░░░░░░░░░░░░░░░░░░  25.34%
+2026-rebuilt          3h 37m 21s   █████░░░░░░░░░░░░░░░░░░░░  19.40%
+dots                  1h 43m 44s   ███░░░░░░░░░░░░░░░░░░░░░░  9.26%
+faster-slack-client   1h 20m 41s   ██░░░░░░░░░░░░░░░░░░░░░░░  7.20%
+zera                  1h 5m 37s    ██░░░░░░░░░░░░░░░░░░░░░░░  5.86%
 
-Total: 17 hrs 36 mins
+Total: 17 hrs 54 mins
 ```
 
 #### 📮  Want to say hi?
