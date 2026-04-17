@@ -29,7 +29,6 @@ Total: {{ wakatimeData.HumanReadableTotal }}
 
 ```text
 Email: kieran@dunkirk.sh
-Slack: @krn (hackclub.com/slack)
 ```
 
 _readme auto updates on the hour via [**`taciturnaxolotl/markscribe`**](https://github.com/taciturnaxolotl/markscribe)_
