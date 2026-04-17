@@ -6,8 +6,8 @@ When not doing school or working on a random project, I enjoy flying drones and 
 
 - [`dots`](https://github.com/taciturnaxolotl/dots) - _Kieran's opinionated (and ever expanding) nix config_ **(3 days ago)**
 - [`zera`](https://github.com/taciturnaxolotl/zera) - _my new site v4?_ **(4 days ago)**
-- [`nixpkgs`](https://github.com/NixOS/nixpkgs) - _Nix Packages collection & NixOS_ **(1 week ago)**
 - [`turnout`](https://github.com/df1317/turnout) - _sir says fill out your availability_ **(1 week ago)**
+- [`nixpkgs`](https://github.com/NixOS/nixpkgs) - _Nix Packages collection & NixOS_ **(1 week ago)**
 - [`mere`](https://github.com/taciturnaxolotl/mere) - _a cool browser_ **(2 weeks ago)**
 - [`flea`](https://github.com/taciturnaxolotl/flea) - _bouncy fpga game_ **(2 weeks ago)**
 - [`huntington`](https://github.com/taciturnaxolotl/huntington) - _neat project_ **(2 weeks ago)**
@@ -50,7 +50,6 @@ Total: 12 hrs 15 mins
 
 ```text
 Email: kieran@dunkirk.sh
-Slack: @krn (hackclub.com/slack)
 ```
 
 _readme auto updates on the hour via [**`taciturnaxolotl/markscribe`**](https://github.com/taciturnaxolotl/markscribe)_
