@@ -4,8 +4,8 @@ When not doing school or working on a random project, I enjoy flying drones and 
 
 #### 🏗️  The latest repos I've pushed to
 
-- [`dots`](https://github.com/taciturnaxolotl/dots) - _Kieran's opinionated (and ever expanding) nix config_ **(3 days ago)**
-- [`zera`](https://github.com/taciturnaxolotl/zera) - _my new site v4?_ **(4 days ago)**
+- [`dots`](https://github.com/taciturnaxolotl/dots) - _Kieran's opinionated (and ever expanding) nix config_ **(4 days ago)**
+- [`zera`](https://github.com/taciturnaxolotl/zera) - _my new site v4?_ **(5 days ago)**
 - [`turnout`](https://github.com/df1317/turnout) - _sir says fill out your availability_ **(1 week ago)**
 - [`nixpkgs`](https://github.com/NixOS/nixpkgs) - _Nix Packages collection & NixOS_ **(1 week ago)**
 - [`mere`](https://github.com/taciturnaxolotl/mere) - _a cool browser_ **(2 weeks ago)**
@@ -30,20 +30,20 @@ When not doing school or working on a random project, I enjoy flying drones and 
 
 ```text
 💾 Languages:
-unknown        11h 23m 8s   ███████████████░░░░░░░░░░  57.94%
-C++            2h 36m 38s   ████░░░░░░░░░░░░░░░░░░░░░  13.28%
-C/C++          1h 42m 47s   ███░░░░░░░░░░░░░░░░░░░░░░  8.72%
-Nix            1h 8m 16s    ██░░░░░░░░░░░░░░░░░░░░░░░  5.79%
-C/C++ Header   1h 0m 57s    ██░░░░░░░░░░░░░░░░░░░░░░░  5.17%
+unknown        11h 23m 34s   ███████████████░░░░░░░░░░  57.86%
+C++            2h 36m 38s    ████░░░░░░░░░░░░░░░░░░░░░  13.26%
+C/C++          1h 42m 47s    ███░░░░░░░░░░░░░░░░░░░░░░  8.70%
+Nix            1h 8m 16s     ██░░░░░░░░░░░░░░░░░░░░░░░  5.78%
+C/C++ Header   1h 0m 57s     ██░░░░░░░░░░░░░░░░░░░░░░░  5.16%
 
 💼 Projects:
-2026-rebuilt   3h 16m 46s   ██████░░░░░░░░░░░░░░░░░░░  21.44%
-dots           3h 14m 15s   ██████░░░░░░░░░░░░░░░░░░░  21.17%
-cs1220         2h 49m 8s    █████░░░░░░░░░░░░░░░░░░░░  18.43%
-Cyber-Games    53m 33s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.84%
-nixpkgs        35m 9s       █░░░░░░░░░░░░░░░░░░░░░░░░  3.83%
+2026-rebuilt   3h 16m 46s    ██████░░░░░░░░░░░░░░░░░░░  21.39%
+dots           3h 14m 15s    ██████░░░░░░░░░░░░░░░░░░░  21.11%
+cs1220         2h 49m 8s     █████░░░░░░░░░░░░░░░░░░░░  18.38%
+Cyber-Games    55m 59s       ██░░░░░░░░░░░░░░░░░░░░░░░  6.09%
+nixpkgs        35m 9s        █░░░░░░░░░░░░░░░░░░░░░░░░  3.82%
 
-Total: 14 hrs 57 mins
+Total: 14 hrs 59 mins
 ```
 
 #### 📮  Want to say hi?
