@@ -6,8 +6,8 @@ When not doing school or working on a random project, I enjoy flying drones and 
 
 - [`dots`](https://github.com/taciturnaxolotl/dots) - _Kieran's opinionated (and ever expanding) nix config_ **(6 days ago)**
 - [`zera`](https://github.com/taciturnaxolotl/zera) - _my new site v4?_ **(1 week ago)**
-- [`turnout`](https://github.com/df1317/turnout) - _sir says fill out your availability_ **(1 week ago)**
 - [`nixpkgs`](https://github.com/NixOS/nixpkgs) - _Nix Packages collection & NixOS_ **(1 week ago)**
+- [`turnout`](https://github.com/df1317/turnout) - _sir says fill out your availability_ **(1 week ago)**
 - [`mere`](https://github.com/taciturnaxolotl/mere) - _a cool browser_ **(2 weeks ago)**
 - [`flea`](https://github.com/taciturnaxolotl/flea) - _bouncy fpga game_ **(2 weeks ago)**
 - [`huntington`](https://github.com/taciturnaxolotl/huntington) - _neat project_ **(2 weeks ago)**
