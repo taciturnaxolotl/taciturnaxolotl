@@ -4,6 +4,7 @@ When not doing school or working on a random project, I enjoy flying drones and 
 
 #### 🏗️  The latest repos I've pushed to
 
+- [`arbitrage`](https://github.com/taciturnaxolotl/arbitrage) - _🔫_ **(today)**
 - [`dots`](https://github.com/taciturnaxolotl/dots) - _Kieran's opinionated (and ever expanding) nix config_ **(1 week ago)**
 - [`zera`](https://github.com/taciturnaxolotl/zera) - _my new site v4?_ **(1 week ago)**
 - [`nixpkgs`](https://github.com/NixOS/nixpkgs) - _Nix Packages collection & NixOS_ **(1 week ago)**
@@ -11,14 +12,13 @@ When not doing school or working on a random project, I enjoy flying drones and 
 - [`mere`](https://github.com/taciturnaxolotl/mere) - _a cool browser_ **(2 weeks ago)**
 - [`flea`](https://github.com/taciturnaxolotl/flea) - _bouncy fpga game_ **(3 weeks ago)**
 - [`huntington`](https://github.com/taciturnaxolotl/huntington) - _neat project_ **(3 weeks ago)**
-- [`overpass`](https://github.com/taciturnaxolotl/overpass) - _gas tracking without the ads_ **(3 weeks ago)**
 
 #### 📦  My latest projects
 
+- [`arbitrage`](https://github.com/taciturnaxolotl/arbitrage) - _🔫_
 - [`mere`](https://github.com/taciturnaxolotl/mere) - _a cool browser_
 - [`huntington`](https://github.com/taciturnaxolotl/huntington) - _neat project_
 - [`overpass`](https://github.com/taciturnaxolotl/overpass) - _gas tracking without the ads_
-- [`flea`](https://github.com/taciturnaxolotl/flea) - _bouncy fpga game_
 
 #### 🪧  The latest posts from [`dunkirk.sh`](https://dunkirk.sh)
 
@@ -30,20 +30,20 @@ When not doing school or working on a random project, I enjoy flying drones and 
 
 ```text
 💾 Languages:
-unknown        8h 10m 31s   █████████░░░░░░░░░░░░░░░░  33.31%
-C++            6h 12m 57s   ███████░░░░░░░░░░░░░░░░░░  25.32%
-C/C++          4h 37m 57s   █████░░░░░░░░░░░░░░░░░░░░  18.87%
-C/C++ Header   2h 29m 5s    ███░░░░░░░░░░░░░░░░░░░░░░  10.12%
-Go             35m 58s      █░░░░░░░░░░░░░░░░░░░░░░░░  2.44%
+unknown        8h 32m 39s   █████████░░░░░░░░░░░░░░░░  34.21%
+C++            6h 12m 57s   ███████░░░░░░░░░░░░░░░░░░  24.89%
+C/C++          4h 37m 57s   █████░░░░░░░░░░░░░░░░░░░░  18.55%
+C/C++ Header   2h 29m 5s    ███░░░░░░░░░░░░░░░░░░░░░░  9.95%
+Go             37m 58s      █░░░░░░░░░░░░░░░░░░░░░░░░  2.53%
 
 💼 Projects:
-cs1220         6h 38m 33s   ███████████░░░░░░░░░░░░░░  41.65%
-Cyber-Games    4h 7m 25s    ███████░░░░░░░░░░░░░░░░░░  25.86%
-dots           55m 35s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.81%
-controlplane   49m 46s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.20%
-darwinium      39m 58s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.18%
+cs1220         6h 38m 33s   ███████████░░░░░░░░░░░░░░  40.61%
+Cyber-Games    4h 7m 25s    ███████░░░░░░░░░░░░░░░░░░  25.21%
+arbitrage      56m 54s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.80%
+dots           55m 35s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.66%
+controlplane   53m 57s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.50%
 
-Total: 14 hrs 56 mins
+Total: 15 hrs 20 mins
 ```
 
 #### 📮  Want to say hi?
