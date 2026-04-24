@@ -4,10 +4,10 @@ When not doing school or working on a random project, I enjoy flying drones and 
 
 #### 🏗️  The latest repos I've pushed to
 
+- [`arbitrage`](https://github.com/taciturnaxolotl/arbitrage) - _🔫_ **(1 day ago)**
+- [`zera`](https://github.com/taciturnaxolotl/zera) - _my new site v4?_ **(1 day ago)**
 - [`pear`](https://github.com/taciturnaxolotl/pear) - _making recipe websites palatable again_ **(1 day ago)**
 - [`nixpkgs`](https://github.com/NixOS/nixpkgs) - _Nix Packages collection & NixOS_ **(1 day ago)**
-- [`zera`](https://github.com/taciturnaxolotl/zera) - _my new site v4?_ **(1 day ago)**
-- [`arbitrage`](https://github.com/taciturnaxolotl/arbitrage) - _🔫_ **(1 day ago)**
 - [`dots`](https://github.com/taciturnaxolotl/dots) - _Kieran's opinionated (and ever expanding) nix config_ **(1 day ago)**
 - [`turnout`](https://github.com/df1317/turnout) - _sir says fill out your availability_ **(2 weeks ago)**
 - [`mere`](https://github.com/taciturnaxolotl/mere) - _a cool browser_ **(3 weeks ago)**
@@ -30,20 +30,20 @@ When not doing school or working on a random project, I enjoy flying drones and 
 
 ```text
 💾 Languages:
-unknown        11h 59m 35s   ███████████░░░░░░░░░░░░░░  40.59%
-C++            5h 59m 28s    ██████░░░░░░░░░░░░░░░░░░░  20.28%
-C/C++          4h 33m 50s    ████░░░░░░░░░░░░░░░░░░░░░  15.45%
-C/C++ Header   2h 28m 33s    ███░░░░░░░░░░░░░░░░░░░░░░  8.38%
-Nix            1h 11m 0s     ██░░░░░░░░░░░░░░░░░░░░░░░  4.01%
+unknown        12h 20m 1s   ███████████░░░░░░░░░░░░░░  41.21%
+C++            5h 59m 28s   ██████░░░░░░░░░░░░░░░░░░░  20.02%
+C/C++          4h 33m 50s   ████░░░░░░░░░░░░░░░░░░░░░  15.25%
+C/C++ Header   2h 28m 33s   ███░░░░░░░░░░░░░░░░░░░░░░  8.27%
+Nix            1h 13m 38s   ██░░░░░░░░░░░░░░░░░░░░░░░  4.10%
 
 💼 Projects:
-cs1220         6h 21m 56s    ████████░░░░░░░░░░░░░░░░░  30.63%
-Cyber-Games    3h 42m 39s    █████░░░░░░░░░░░░░░░░░░░░  17.85%
-dots           2h 31m 17s    ████░░░░░░░░░░░░░░░░░░░░░  12.13%
-pare           1h 54m 28s    ███░░░░░░░░░░░░░░░░░░░░░░  9.18%
-arbitrage      1h 42m 37s    ███░░░░░░░░░░░░░░░░░░░░░░  8.23%
+cs1220         6h 21m 56s   ████████░░░░░░░░░░░░░░░░░  29.97%
+Cyber-Games    3h 42m 39s   █████░░░░░░░░░░░░░░░░░░░░  17.47%
+dots           2h 44m 2s    ████░░░░░░░░░░░░░░░░░░░░░  12.87%
+pare           2h 5m 7s     ███░░░░░░░░░░░░░░░░░░░░░░  9.82%
+arbitrage      1h 42m 37s   ███░░░░░░░░░░░░░░░░░░░░░░  8.05%
 
-Total: 19 hrs 8 mins
+Total: 19 hrs 30 mins
 ```
 
 #### 📮  Want to say hi?
