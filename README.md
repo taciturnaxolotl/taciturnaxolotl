@@ -4,18 +4,18 @@ When not doing school or working on a random project, I enjoy flying drones and 
 
 #### 🏗️  The latest repos I've pushed to
 
-- [`arbitrage`](https://github.com/taciturnaxolotl/arbitrage) - _🔫_ **(today)**
-- [`nixpkgs`](https://github.com/NixOS/nixpkgs) - _Nix Packages collection & NixOS_ **(today)**
-- [`zera`](https://github.com/taciturnaxolotl/zera) - _my new site v4?_ **(today)**
-- [`dots`](https://github.com/taciturnaxolotl/dots) - _Kieran's opinionated (and ever expanding) nix config_ **(today)**
-- [`turnout`](https://github.com/df1317/turnout) - _sir says fill out your availability_ **(1 week ago)**
+- [`arbitrage`](https://github.com/taciturnaxolotl/arbitrage) - _🔫_ **(1 day ago)**
+- [`pear`](https://github.com/taciturnaxolotl/pear) - _making recipe websites palatable again_ **(1 day ago)**
+- [`zera`](https://github.com/taciturnaxolotl/zera) - _my new site v4?_ **(1 day ago)**
+- [`nixpkgs`](https://github.com/NixOS/nixpkgs) - _Nix Packages collection & NixOS_ **(1 day ago)**
+- [`dots`](https://github.com/taciturnaxolotl/dots) - _Kieran's opinionated (and ever expanding) nix config_ **(1 day ago)**
+- [`turnout`](https://github.com/df1317/turnout) - _sir says fill out your availability_ **(2 weeks ago)**
 - [`mere`](https://github.com/taciturnaxolotl/mere) - _a cool browser_ **(3 weeks ago)**
 - [`flea`](https://github.com/taciturnaxolotl/flea) - _bouncy fpga game_ **(3 weeks ago)**
-- [`huntington`](https://github.com/taciturnaxolotl/huntington) - _neat project_ **(3 weeks ago)**
 
 #### 📦  My latest projects
 
-- [`pare`](https://github.com/taciturnaxolotl/pare) - _making recipe websites palatable again_
+- [`pear`](https://github.com/taciturnaxolotl/pear) - _making recipe websites palatable again_
 - [`arbitrage`](https://github.com/taciturnaxolotl/arbitrage) - _🔫_
 - [`mere`](https://github.com/taciturnaxolotl/mere) - _a cool browser_
 - [`huntington`](https://github.com/taciturnaxolotl/huntington) - _neat project_
@@ -30,20 +30,20 @@ When not doing school or working on a random project, I enjoy flying drones and 
 
 ```text
 💾 Languages:
-unknown        10h 54m 48s   ██████████░░░░░░░░░░░░░░░  38.45%
-C++            5h 59m 28s    ██████░░░░░░░░░░░░░░░░░░░  21.11%
-C/C++          4h 33m 50s    █████░░░░░░░░░░░░░░░░░░░░  16.08%
-C/C++ Header   2h 28m 33s    ███░░░░░░░░░░░░░░░░░░░░░░  8.72%
-Nix            1h 9m 16s     ██░░░░░░░░░░░░░░░░░░░░░░░  4.07%
+unknown        11h 50m 16s   ███████████░░░░░░░░░░░░░░  40.09%
+C++            5h 59m 28s    ██████░░░░░░░░░░░░░░░░░░░  20.29%
+C/C++          4h 33m 50s    ████░░░░░░░░░░░░░░░░░░░░░  15.46%
+C/C++ Header   2h 28m 33s    ███░░░░░░░░░░░░░░░░░░░░░░  8.39%
+Nix            1h 11m 0s     ██░░░░░░░░░░░░░░░░░░░░░░░  4.01%
 
 💼 Projects:
-cs1220         6h 21m 56s    █████████░░░░░░░░░░░░░░░░  32.59%
-Cyber-Games    4h 7m 25s     ██████░░░░░░░░░░░░░░░░░░░  21.11%
-dots           2h 3m 24s     ███░░░░░░░░░░░░░░░░░░░░░░  10.53%
-arbitrage      1h 42m 37s    ███░░░░░░░░░░░░░░░░░░░░░░  8.76%
-controlplane   1h 4m 12s     ██░░░░░░░░░░░░░░░░░░░░░░░  5.48%
+cs1220         6h 21m 56s    ████████░░░░░░░░░░░░░░░░░  30.89%
+Cyber-Games    4h 7m 25s     ██████░░░░░░░░░░░░░░░░░░░  20.01%
+dots           2h 10m 36s    ███░░░░░░░░░░░░░░░░░░░░░░  10.56%
+arbitrage      1h 42m 37s    ███░░░░░░░░░░░░░░░░░░░░░░  8.30%
+pare           1h 27m 37s    ██░░░░░░░░░░░░░░░░░░░░░░░  7.09%
 
-Total: 18 hrs 6 mins
+Total: 19 hrs 2 mins
 ```
 
 #### 📮  Want to say hi?
