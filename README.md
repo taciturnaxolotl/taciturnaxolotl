@@ -4,12 +4,12 @@ When not doing school or working on a random project, I enjoy flying drones and 
 
 #### 🏗️  The latest repos I've pushed to
 
-- [`pear`](https://github.com/taciturnaxolotl/pear) - _making recipe websites palatable again_ **(today)**
-- [`herald`](https://github.com/taciturnaxolotl/herald) - _rss email digests over ssh because you're a cool kid_ **(today)**
-- [`dots`](https://github.com/taciturnaxolotl/dots) - _Kieran's opinionated (and ever expanding) nix config_ **(today)**
-- [`arbitrage`](https://github.com/taciturnaxolotl/arbitrage) - _🔫_ **(1 day ago)**
-- [`zera`](https://github.com/taciturnaxolotl/zera) - _my new site v4?_ **(1 day ago)**
-- [`nixpkgs`](https://github.com/NixOS/nixpkgs) - _Nix Packages collection & NixOS_ **(1 day ago)**
+- [`pear`](https://github.com/taciturnaxolotl/pear) - _making recipe websites palatable again_ **(1 day ago)**
+- [`herald`](https://github.com/taciturnaxolotl/herald) - _rss email digests over ssh because you're a cool kid_ **(1 day ago)**
+- [`dots`](https://github.com/taciturnaxolotl/dots) - _Kieran's opinionated (and ever expanding) nix config_ **(1 day ago)**
+- [`arbitrage`](https://github.com/taciturnaxolotl/arbitrage) - _🔫_ **(2 days ago)**
+- [`zera`](https://github.com/taciturnaxolotl/zera) - _my new site v4?_ **(2 days ago)**
+- [`nixpkgs`](https://github.com/NixOS/nixpkgs) - _Nix Packages collection & NixOS_ **(2 days ago)**
 - [`turnout`](https://github.com/df1317/turnout) - _sir says fill out your availability_ **(2 weeks ago)**
 - [`mere`](https://github.com/taciturnaxolotl/mere) - _a cool browser_ **(3 weeks ago)**
 
@@ -30,20 +30,20 @@ When not doing school or working on a random project, I enjoy flying drones and 
 
 ```text
 💾 Languages:
-unknown        13h 23m 8s   ███████████░░░░░░░░░░░░░░  42.50%
-C++            5h 59m 28s   █████░░░░░░░░░░░░░░░░░░░░  19.02%
-C/C++          4h 33m 50s   ████░░░░░░░░░░░░░░░░░░░░░  14.49%
-C/C++ Header   2h 28m 33s   ██░░░░░░░░░░░░░░░░░░░░░░░  7.86%
-Nix            1h 16m 8s    ██░░░░░░░░░░░░░░░░░░░░░░░  4.03%
+unknown        14h 21m 50s   ████████████░░░░░░░░░░░░░  44.10%
+C++            5h 59m 28s    █████░░░░░░░░░░░░░░░░░░░░  18.39%
+C/C++          4h 33m 50s    ████░░░░░░░░░░░░░░░░░░░░░  14.01%
+C/C++ Header   2h 28m 33s    ██░░░░░░░░░░░░░░░░░░░░░░░  7.60%
+Nix            1h 18m 19s    ██░░░░░░░░░░░░░░░░░░░░░░░  4.01%
 
 💼 Projects:
-cs1220         6h 21m 56s   ███████░░░░░░░░░░░░░░░░░░  27.98%
-Cyber-Games    3h 42m 39s   █████░░░░░░░░░░░░░░░░░░░░  16.31%
-dots           3h 5m 38s    ████░░░░░░░░░░░░░░░░░░░░░  13.60%
-pare           2h 15m 35s   ███░░░░░░░░░░░░░░░░░░░░░░  9.93%
-arbitrage      1h 42m 37s   ██░░░░░░░░░░░░░░░░░░░░░░░  7.52%
+cs1220         6h 21m 56s    ███████░░░░░░░░░░░░░░░░░░  26.70%
+Cyber-Games    3h 42m 39s    ████░░░░░░░░░░░░░░░░░░░░░  15.56%
+dots           3h 23m 52s    ████░░░░░░░░░░░░░░░░░░░░░  14.25%
+pare           2h 15m 35s    ███░░░░░░░░░░░░░░░░░░░░░░  9.48%
+arbitrage      1h 42m 37s    ██░░░░░░░░░░░░░░░░░░░░░░░  7.17%
 
-Total: 20 hrs 45 mins
+Total: 21 hrs 46 mins
 ```
 
 #### 📮  Want to say hi?
