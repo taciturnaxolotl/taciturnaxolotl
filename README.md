@@ -4,14 +4,14 @@ When not doing school or working on a random project, I enjoy flying drones and 
 
 #### 🏗️  The latest repos I've pushed to
 
+- [`indiko`](https://github.com/taciturnaxolotl/indiko) - _indieauth and oauth 2.0 compatible auth server for my homelab_ **(today)**
+- [`dots`](https://github.com/taciturnaxolotl/dots) - _Kieran's opinionated (and ever expanding) nix config_ **(today)**
 - [`pear`](https://github.com/taciturnaxolotl/pear) - _making recipe websites palatable again_ **(1 day ago)**
 - [`CANopy`](https://github.com/taciturnaxolotl/CANopy) - _can hat design for raspberry pis_ **(1 day ago)**
-- [`dots`](https://github.com/taciturnaxolotl/dots) - _Kieran's opinionated (and ever expanding) nix config_ **(1 day ago)**
 - [`zera`](https://github.com/taciturnaxolotl/zera) - _my new site v4?_ **(2 days ago)**
 - [`herald`](https://github.com/taciturnaxolotl/herald) - _rss email digests over ssh because you're a cool kid_ **(3 days ago)**
 - [`arbitrage`](https://github.com/taciturnaxolotl/arbitrage) - _🔫_ **(4 days ago)**
 - [`nixpkgs`](https://github.com/NixOS/nixpkgs) - _Nix Packages collection & NixOS_ **(4 days ago)**
-- [`turnout`](https://github.com/df1317/turnout) - _sir says fill out your availability_ **(2 weeks ago)**
 
 #### 📦  My latest projects
 
@@ -30,20 +30,20 @@ When not doing school or working on a random project, I enjoy flying drones and 
 
 ```text
 💾 Languages:
-unknown        13h 47m 6s   ████████████████░░░░░░░░░  62.13%
-C++            2h 7m 40s    ███░░░░░░░░░░░░░░░░░░░░░░  9.59%
-C/C++          1h 25m 49s   ██░░░░░░░░░░░░░░░░░░░░░░░  6.45%
-Nix            1h 20m 19s   ██░░░░░░░░░░░░░░░░░░░░░░░  6.03%
-Go             1h 1m 56s    ██░░░░░░░░░░░░░░░░░░░░░░░  4.65%
+unknown        13h 58m 31s   ████████████████░░░░░░░░░  62.45%
+C++            2h 7m 40s     ███░░░░░░░░░░░░░░░░░░░░░░  9.51%
+C/C++          1h 25m 49s    ██░░░░░░░░░░░░░░░░░░░░░░░  6.39%
+Nix            1h 20m 19s    ██░░░░░░░░░░░░░░░░░░░░░░░  5.98%
+Go             1h 1m 56s     ██░░░░░░░░░░░░░░░░░░░░░░░  4.61%
 
 💼 Projects:
-dots           3h 33m 59s   █████░░░░░░░░░░░░░░░░░░░░  18.63%
-pare           2h 15m 35s   ███░░░░░░░░░░░░░░░░░░░░░░  11.80%
-cs1220         2h 13m 32s   ███░░░░░░░░░░░░░░░░░░░░░░  11.63%
-arbitrage      1h 42m 37s   ███░░░░░░░░░░░░░░░░░░░░░░  8.93%
-controlplane   1h 4m 12s    ██░░░░░░░░░░░░░░░░░░░░░░░  5.59%
+dots           3h 41m 42s    █████░░░░░░░░░░░░░░░░░░░░  19.13%
+pare           2h 15m 35s    ███░░░░░░░░░░░░░░░░░░░░░░  11.70%
+cs1220         2h 13m 32s    ███░░░░░░░░░░░░░░░░░░░░░░  11.52%
+arbitrage      1h 42m 37s    ███░░░░░░░░░░░░░░░░░░░░░░  8.86%
+controlplane   1h 4m 12s     ██░░░░░░░░░░░░░░░░░░░░░░░  5.54%
 
-Total: 17 hrs 10 mins
+Total: 17 hrs 22 mins
 ```
 
 #### 📮  Want to say hi?
