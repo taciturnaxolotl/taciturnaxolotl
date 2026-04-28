@@ -4,14 +4,14 @@ When not doing school or working on a random project, I enjoy flying drones and 
 
 #### 🏗️  The latest repos I've pushed to
 
-- [`indiko`](https://github.com/taciturnaxolotl/indiko) - _indieauth and oauth 2.0 compatible auth server for my homelab_ **(today)**
-- [`dots`](https://github.com/taciturnaxolotl/dots) - _Kieran's opinionated (and ever expanding) nix config_ **(today)**
-- [`pear`](https://github.com/taciturnaxolotl/pear) - _making recipe websites palatable again_ **(1 day ago)**
-- [`CANopy`](https://github.com/taciturnaxolotl/CANopy) - _can hat design for raspberry pis_ **(1 day ago)**
-- [`zera`](https://github.com/taciturnaxolotl/zera) - _my new site v4?_ **(2 days ago)**
-- [`herald`](https://github.com/taciturnaxolotl/herald) - _rss email digests over ssh because you're a cool kid_ **(3 days ago)**
-- [`arbitrage`](https://github.com/taciturnaxolotl/arbitrage) - _🔫_ **(4 days ago)**
-- [`nixpkgs`](https://github.com/NixOS/nixpkgs) - _Nix Packages collection & NixOS_ **(4 days ago)**
+- [`indiko`](https://github.com/taciturnaxolotl/indiko) - _indieauth and oauth 2.0 compatible auth server for my homelab_ **(1 day ago)**
+- [`dots`](https://github.com/taciturnaxolotl/dots) - _Kieran's opinionated (and ever expanding) nix config_ **(1 day ago)**
+- [`pear`](https://github.com/taciturnaxolotl/pear) - _making recipe websites palatable again_ **(2 days ago)**
+- [`CANopy`](https://github.com/taciturnaxolotl/CANopy) - _can hat design for raspberry pis_ **(2 days ago)**
+- [`zera`](https://github.com/taciturnaxolotl/zera) - _my new site v4?_ **(3 days ago)**
+- [`herald`](https://github.com/taciturnaxolotl/herald) - _rss email digests over ssh because you're a cool kid_ **(4 days ago)**
+- [`arbitrage`](https://github.com/taciturnaxolotl/arbitrage) - _🔫_ **(5 days ago)**
+- [`nixpkgs`](https://github.com/NixOS/nixpkgs) - _Nix Packages collection & NixOS_ **(5 days ago)**
 
 #### 📦  My latest projects
 
@@ -22,7 +22,7 @@ When not doing school or working on a random project, I enjoy flying drones and 
 
 #### 🪧  The latest posts from [`dunkirk.sh`](https://dunkirk.sh)
 
-- [`Reverse engineering the FRC SystemCore image`](https://dunkirk.sh/blog/frc-systemcore-image/) **(2 days ago)**
+- [`Reverse engineering the FRC SystemCore image`](https://dunkirk.sh/blog/frc-systemcore-image/) **(3 days ago)**
 - [`FRC REBUILT Points Calculator`](https://dunkirk.sh/blog/frc-rebuilt-calculator/) **(3 months ago)**
 - [`Homelab tour`](https://dunkirk.sh/blog/homelab-tour/) **(4 months ago)**
 
@@ -30,20 +30,20 @@ When not doing school or working on a random project, I enjoy flying drones and 
 
 ```text
 💾 Languages:
-unknown        14h 8m 16s   ████████████████░░░░░░░░░  62.72%
-C++            2h 7m 40s    ███░░░░░░░░░░░░░░░░░░░░░░  9.44%
-C/C++          1h 25m 49s   ██░░░░░░░░░░░░░░░░░░░░░░░  6.35%
-Nix            1h 20m 19s   ██░░░░░░░░░░░░░░░░░░░░░░░  5.94%
-Go             1h 1m 56s    ██░░░░░░░░░░░░░░░░░░░░░░░  4.58%
+unknown        14h 12m 16s   ████████████████░░░░░░░░░  62.83%
+C++            2h 7m 40s     ███░░░░░░░░░░░░░░░░░░░░░░  9.41%
+C/C++          1h 25m 49s    ██░░░░░░░░░░░░░░░░░░░░░░░  6.33%
+Nix            1h 20m 19s    ██░░░░░░░░░░░░░░░░░░░░░░░  5.92%
+Go             1h 1m 56s     ██░░░░░░░░░░░░░░░░░░░░░░░  4.57%
 
 💼 Projects:
-dots           3h 44m 2s    █████░░░░░░░░░░░░░░░░░░░░  19.16%
-pare           2h 15m 35s   ███░░░░░░░░░░░░░░░░░░░░░░  11.60%
-cs1220         2h 13m 32s   ███░░░░░░░░░░░░░░░░░░░░░░  11.42%
-arbitrage      1h 42m 37s   ███░░░░░░░░░░░░░░░░░░░░░░  8.78%
-controlplane   1h 4m 12s    ██░░░░░░░░░░░░░░░░░░░░░░░  5.49%
+dots           3h 48m 2s     █████░░░░░░░░░░░░░░░░░░░░  19.44%
+pare           2h 15m 35s    ███░░░░░░░░░░░░░░░░░░░░░░  11.56%
+cs1220         2h 13m 32s    ███░░░░░░░░░░░░░░░░░░░░░░  11.38%
+arbitrage      1h 42m 37s    ███░░░░░░░░░░░░░░░░░░░░░░  8.75%
+controlplane   1h 4m 12s     ██░░░░░░░░░░░░░░░░░░░░░░░  5.47%
 
-Total: 17 hrs 31 mins
+Total: 17 hrs 35 mins
 ```
 
 #### 📮  Want to say hi?
