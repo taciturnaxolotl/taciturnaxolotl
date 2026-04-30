@@ -4,10 +4,10 @@ When not doing school or working on a random project, I enjoy flying drones and 
 
 #### 🏗️  The latest repos I've pushed to
 
-- [`dots`](https://github.com/taciturnaxolotl/dots) - _Kieran's opinionated (and ever expanding) nix config_ **(1 day ago)**
+- [`dots`](https://github.com/taciturnaxolotl/dots) - _Kieran's opinionated (and ever expanding) nix config_ **(today)**
 - [`status`](https://github.com/taciturnaxolotl/status) - _my own status page_ **(1 day ago)**
-- [`CANopy`](https://github.com/taciturnaxolotl/CANopy) - _can hat design for raspberry pis_ **(2 days ago)**
 - [`cv`](https://github.com/taciturnaxolotl/cv) - _my cv powered by latex_ **(2 days ago)**
+- [`CANopy`](https://github.com/taciturnaxolotl/CANopy) - _can hat design for raspberry pis_ **(2 days ago)**
 - [`indiko`](https://github.com/taciturnaxolotl/indiko) - _indieauth and oauth 2.0 compatible auth server for my homelab_ **(3 days ago)**
 - [`pear`](https://github.com/taciturnaxolotl/pear) - _making recipe websites palatable again_ **(4 days ago)**
 - [`zera`](https://github.com/taciturnaxolotl/zera) - _my new site v4?_ **(5 days ago)**
@@ -30,20 +30,20 @@ When not doing school or working on a random project, I enjoy flying drones and 
 
 ```text
 💾 Languages:
-unknown     13h 33m 36s   ████████████████████░░░░░  79.01%
-Nix         1h 35m 43s    ███░░░░░░░░░░░░░░░░░░░░░░  9.29%
-Markdown    29m 36s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.87%
-Go          27m 58s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.72%
-gitcommit   14m 43s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.43%
+unknown     12h 38m 2s   ████████████████████░░░░░  79.06%
+Nix         1h 35m 43s   ███░░░░░░░░░░░░░░░░░░░░░░  9.98%
+Markdown    27m 34s      █░░░░░░░░░░░░░░░░░░░░░░░░  2.88%
+Go          21m 58s      █░░░░░░░░░░░░░░░░░░░░░░░░  2.29%
+gitcommit   14m 43s      █░░░░░░░░░░░░░░░░░░░░░░░░  1.53%
 
 💼 Projects:
-dots        3h 17m 37s    ██████░░░░░░░░░░░░░░░░░░░  20.25%
-pare        2h 15m 35s    ████░░░░░░░░░░░░░░░░░░░░░  13.89%
-arbitrage   1h 2m 11s     ██░░░░░░░░░░░░░░░░░░░░░░░  6.37%
-frc-nix     51m 0s        ██░░░░░░░░░░░░░░░░░░░░░░░  5.23%
-zera        45m 49s       ██░░░░░░░░░░░░░░░░░░░░░░░  4.69%
+dots        3h 26m 1s    ██████░░░░░░░░░░░░░░░░░░░  22.50%
+pare        2h 15m 35s   ████░░░░░░░░░░░░░░░░░░░░░  14.81%
+frc-nix     51m 0s       ██░░░░░░░░░░░░░░░░░░░░░░░  5.57%
+zera        45m 49s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.00%
+frc-ds      44m 5s       ██░░░░░░░░░░░░░░░░░░░░░░░  4.82%
 
-Total: 14 hrs 52 mins
+Total: 13 hrs 48 mins
 ```
 
 #### 📮  Want to say hi?
