@@ -4,8 +4,8 @@ When not doing school or working on a random project, I enjoy flying drones and 
 
 #### 🏗️  The latest repos I've pushed to
 
+- [`dots`](https://github.com/taciturnaxolotl/dots) - _Kieran's opinionated (and ever expanding) nix config_ **(today)**
 - [`CANopy`](https://github.com/taciturnaxolotl/CANopy) - _can hat design for raspberry pis_ **(1 day ago)**
-- [`dots`](https://github.com/taciturnaxolotl/dots) - _Kieran's opinionated (and ever expanding) nix config_ **(1 day ago)**
 - [`status`](https://github.com/taciturnaxolotl/status) - _my own status page_ **(2 days ago)**
 - [`cv`](https://github.com/taciturnaxolotl/cv) - _my cv powered by latex_ **(3 days ago)**
 - [`indiko`](https://github.com/taciturnaxolotl/indiko) - _indieauth and oauth 2.0 compatible auth server for my homelab_ **(4 days ago)**
@@ -30,20 +30,20 @@ When not doing school or working on a random project, I enjoy flying drones and 
 
 ```text
 💾 Languages:
-unknown     10h 36m 34s   █████████████████████░░░░  83.94%
-Nix         35m 40s       ██░░░░░░░░░░░░░░░░░░░░░░░  4.70%
-Markdown    23m 30s       █░░░░░░░░░░░░░░░░░░░░░░░░  3.10%
-Go          17m 29s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.31%
-gitcommit   10m 43s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.41%
+unknown     10h 51m 39s   █████████████████████░░░░  83.48%
+Nix         35m 40s       ██░░░░░░░░░░░░░░░░░░░░░░░  4.57%
+Markdown    23m 30s       █░░░░░░░░░░░░░░░░░░░░░░░░  3.01%
+Go          17m 29s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.24%
+gitcommit   10m 43s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.37%
 
 💼 Projects:
-dots        2h 50m 25s    ██████░░░░░░░░░░░░░░░░░░░  22.91%
-CANopy      1h 5m 29s     ███░░░░░░░░░░░░░░░░░░░░░░  8.80%
-frc-nix     53m 3s        ██░░░░░░░░░░░░░░░░░░░░░░░  7.13%
-frc-ds      44m 5s        ██░░░░░░░░░░░░░░░░░░░░░░░  5.93%
-kierank     41m 21s       ██░░░░░░░░░░░░░░░░░░░░░░░  5.56%
+dots        3h 4m 47s     ███████░░░░░░░░░░░░░░░░░░  24.20%
+CANopy      1h 5m 29s     ███░░░░░░░░░░░░░░░░░░░░░░  8.58%
+frc-nix     53m 3s        ██░░░░░░░░░░░░░░░░░░░░░░░  6.95%
+frc-ds      44m 5s        ██░░░░░░░░░░░░░░░░░░░░░░░  5.77%
+kierank     41m 21s       ██░░░░░░░░░░░░░░░░░░░░░░░  5.42%
 
-Total: 11 hrs 11 mins
+Total: 11 hrs 29 mins
 ```
 
 #### 📮  Want to say hi?
