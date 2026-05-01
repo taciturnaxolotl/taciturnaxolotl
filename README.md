@@ -4,14 +4,14 @@ When not doing school or working on a random project, I enjoy flying drones and 
 
 #### 🏗️  The latest repos I've pushed to
 
-- [`dots`](https://github.com/taciturnaxolotl/dots) - _Kieran's opinionated (and ever expanding) nix config_ **(today)**
-- [`status`](https://github.com/taciturnaxolotl/status) - _my own status page_ **(1 day ago)**
-- [`cv`](https://github.com/taciturnaxolotl/cv) - _my cv powered by latex_ **(2 days ago)**
-- [`CANopy`](https://github.com/taciturnaxolotl/CANopy) - _can hat design for raspberry pis_ **(2 days ago)**
-- [`indiko`](https://github.com/taciturnaxolotl/indiko) - _indieauth and oauth 2.0 compatible auth server for my homelab_ **(3 days ago)**
-- [`pear`](https://github.com/taciturnaxolotl/pear) - _making recipe websites palatable again_ **(4 days ago)**
-- [`zera`](https://github.com/taciturnaxolotl/zera) - _my new site v4?_ **(5 days ago)**
-- [`herald`](https://github.com/taciturnaxolotl/herald) - _rss email digests over ssh because you're a cool kid_ **(6 days ago)**
+- [`CANopy`](https://github.com/taciturnaxolotl/CANopy) - _can hat design for raspberry pis_ **(1 day ago)**
+- [`dots`](https://github.com/taciturnaxolotl/dots) - _Kieran's opinionated (and ever expanding) nix config_ **(1 day ago)**
+- [`status`](https://github.com/taciturnaxolotl/status) - _my own status page_ **(2 days ago)**
+- [`cv`](https://github.com/taciturnaxolotl/cv) - _my cv powered by latex_ **(3 days ago)**
+- [`indiko`](https://github.com/taciturnaxolotl/indiko) - _indieauth and oauth 2.0 compatible auth server for my homelab_ **(4 days ago)**
+- [`pear`](https://github.com/taciturnaxolotl/pear) - _making recipe websites palatable again_ **(5 days ago)**
+- [`zera`](https://github.com/taciturnaxolotl/zera) - _my new site v4?_ **(6 days ago)**
+- [`herald`](https://github.com/taciturnaxolotl/herald) - _rss email digests over ssh because you're a cool kid_ **(1 week ago)**
 
 #### 📦  My latest projects
 
@@ -22,7 +22,7 @@ When not doing school or working on a random project, I enjoy flying drones and 
 
 #### 🪧  The latest posts from [`dunkirk.sh`](https://dunkirk.sh)
 
-- [`Reverse engineering the FRC SystemCore image`](https://dunkirk.sh/blog/frc-systemcore-image/) **(5 days ago)**
+- [`Reverse engineering the FRC SystemCore image`](https://dunkirk.sh/blog/frc-systemcore-image/) **(6 days ago)**
 - [`FRC REBUILT Points Calculator`](https://dunkirk.sh/blog/frc-rebuilt-calculator/) **(3 months ago)**
 - [`Homelab tour`](https://dunkirk.sh/blog/homelab-tour/) **(4 months ago)**
 
@@ -30,20 +30,20 @@ When not doing school or working on a random project, I enjoy flying drones and 
 
 ```text
 💾 Languages:
-unknown     13h 25m 49s   ████████████████████░░░░░  79.22%
-Nix         1h 46m 15s    ███░░░░░░░░░░░░░░░░░░░░░░  10.45%
-Markdown    27m 34s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.71%
-Go          21m 58s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.16%
-gitcommit   14m 43s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.45%
+unknown     13h 46m 51s   ████████████████████░░░░░  79.19%
+Nix         1h 46m 15s    ███░░░░░░░░░░░░░░░░░░░░░░  10.18%
+Markdown    27m 34s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.64%
+Go          21m 58s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.10%
+gitcommit   14m 43s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.41%
 
 💼 Projects:
-dots        4h 10m 52s    ███████░░░░░░░░░░░░░░░░░░  25.92%
-pare        2h 15m 35s    ████░░░░░░░░░░░░░░░░░░░░░  14.01%
-frc-nix     53m 3s        ██░░░░░░░░░░░░░░░░░░░░░░░  5.48%
-zera        45m 49s       ██░░░░░░░░░░░░░░░░░░░░░░░  4.73%
-frc-ds      44m 5s        ██░░░░░░░░░░░░░░░░░░░░░░░  4.55%
+dots        4h 10m 52s    ███████░░░░░░░░░░░░░░░░░░  25.18%
+pare        2h 15m 35s    ████░░░░░░░░░░░░░░░░░░░░░  13.61%
+frc-nix     53m 3s        ██░░░░░░░░░░░░░░░░░░░░░░░  5.32%
+zera        45m 49s       ██░░░░░░░░░░░░░░░░░░░░░░░  4.60%
+kierank     44m 25s       ██░░░░░░░░░░░░░░░░░░░░░░░  4.46%
 
-Total: 14 hrs 39 mins
+Total: 15 hrs 1 mins
 ```
 
 #### 📮  Want to say hi?
