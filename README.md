@@ -4,25 +4,25 @@ When not doing school or working on a random project, I enjoy flying drones and 
 
 #### 🏗️  The latest repos I've pushed to
 
-- [`dots`](https://github.com/taciturnaxolotl/dots) - _Kieran's opinionated (and ever expanding) nix config_ **(today)**
-- [`CANopy`](https://github.com/taciturnaxolotl/CANopy) - _can hat design for raspberry pis_ **(1 day ago)**
-- [`status`](https://github.com/taciturnaxolotl/status) - _my own status page_ **(2 days ago)**
-- [`cv`](https://github.com/taciturnaxolotl/cv) - _my cv powered by latex_ **(3 days ago)**
-- [`indiko`](https://github.com/taciturnaxolotl/indiko) - _indieauth and oauth 2.0 compatible auth server for my homelab_ **(4 days ago)**
-- [`pear`](https://github.com/taciturnaxolotl/pear) - _making recipe websites palatable again_ **(5 days ago)**
-- [`zera`](https://github.com/taciturnaxolotl/zera) - _my new site v4?_ **(6 days ago)**
-- [`herald`](https://github.com/taciturnaxolotl/herald) - _rss email digests over ssh because you're a cool kid_ **(1 week ago)**
+- [`dots`](https://github.com/taciturnaxolotl/dots) - _Kieran's opinionated (and ever expanding) nix config_ **(1 day ago)**
+- [`tangle-of-trust`](https://github.com/taciturnaxolotl/tangle-of-trust) - _tangled vouch map with historical data _ **(1 day ago)**
+- [`indiko`](https://github.com/taciturnaxolotl/indiko) - _indieauth and oauth 2.0 compatible auth server for my homelab_ **(1 day ago)**
+- [`CANopy`](https://github.com/taciturnaxolotl/CANopy) - _can hat design for raspberry pis_ **(2 days ago)**
+- [`status`](https://github.com/taciturnaxolotl/status) - _my own status page_ **(3 days ago)**
+- [`cv`](https://github.com/taciturnaxolotl/cv) - _my cv powered by latex_ **(4 days ago)**
+- [`pear`](https://github.com/taciturnaxolotl/pear) - _making recipe websites palatable again_ **(6 days ago)**
+- [`zera`](https://github.com/taciturnaxolotl/zera) - _my new site v4?_ **(1 week ago)**
 
 #### 📦  My latest projects
 
+- [`tangle-of-trust`](https://github.com/taciturnaxolotl/tangle-of-trust) - _tangled vouch map with historical data _
 - [`CANopy`](https://github.com/taciturnaxolotl/CANopy) - _can hat design for raspberry pis_
 - [`pear`](https://github.com/taciturnaxolotl/pear) - _making recipe websites palatable again_
 - [`arbitrage`](https://github.com/taciturnaxolotl/arbitrage) - _🔫_
-- [`mere`](https://github.com/taciturnaxolotl/mere) - _a cool browser_
 
 #### 🪧  The latest posts from [`dunkirk.sh`](https://dunkirk.sh)
 
-- [`Reverse engineering the FRC SystemCore image`](https://dunkirk.sh/blog/frc-systemcore-image/) **(6 days ago)**
+- [`Reverse engineering the FRC SystemCore image`](https://dunkirk.sh/blog/frc-systemcore-image/) **(1 week ago)**
 - [`FRC REBUILT Points Calculator`](https://dunkirk.sh/blog/frc-rebuilt-calculator/) **(3 months ago)**
 - [`Homelab tour`](https://dunkirk.sh/blog/homelab-tour/) **(4 months ago)**
 
@@ -30,20 +30,20 @@ When not doing school or working on a random project, I enjoy flying drones and 
 
 ```text
 💾 Languages:
-unknown     10h 51m 39s   █████████████████████░░░░  83.48%
-Nix         35m 40s       ██░░░░░░░░░░░░░░░░░░░░░░░  4.57%
-Markdown    23m 30s       █░░░░░░░░░░░░░░░░░░░░░░░░  3.01%
-Go          17m 29s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.24%
-gitcommit   10m 43s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.37%
+unknown     11h 27m 40s   █████████████████████░░░░  82.56%
+Nix         35m 40s       ██░░░░░░░░░░░░░░░░░░░░░░░  4.28%
+Go          29m 40s       █░░░░░░░░░░░░░░░░░░░░░░░░  3.56%
+Markdown    25m 37s       █░░░░░░░░░░░░░░░░░░░░░░░░  3.08%
+gitcommit   10m 43s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.29%
 
 💼 Projects:
-dots        3h 4m 47s     ███████░░░░░░░░░░░░░░░░░░  24.20%
-CANopy      1h 5m 29s     ███░░░░░░░░░░░░░░░░░░░░░░  8.58%
-frc-nix     53m 3s        ██░░░░░░░░░░░░░░░░░░░░░░░  6.95%
-frc-ds      44m 5s        ██░░░░░░░░░░░░░░░░░░░░░░░  5.77%
-kierank     41m 21s       ██░░░░░░░░░░░░░░░░░░░░░░░  5.42%
+dots        3h 8m 51s     ██████░░░░░░░░░░░░░░░░░░░  23.13%
+CANopy      1h 7m 29s     ███░░░░░░░░░░░░░░░░░░░░░░  8.26%
+frc-nix     53m 3s        ██░░░░░░░░░░░░░░░░░░░░░░░  6.50%
+frc-ds      44m 5s        ██░░░░░░░░░░░░░░░░░░░░░░░  5.40%
+kierank     41m 21s       ██░░░░░░░░░░░░░░░░░░░░░░░  5.06%
 
-Total: 11 hrs 29 mins
+Total: 12 hrs 14 mins
 ```
 
 #### 📮  Want to say hi?
