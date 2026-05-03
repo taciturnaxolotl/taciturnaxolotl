@@ -4,13 +4,13 @@ When not doing school or working on a random project, I enjoy flying drones and 
 
 #### 🏗️  The latest repos I've pushed to
 
-- [`tangle-of-trust`](https://github.com/taciturnaxolotl/tangle-of-trust) - _tangled vouch map with historical data _ **(today)**
-- [`dots`](https://github.com/taciturnaxolotl/dots) - _Kieran's opinionated (and ever expanding) nix config_ **(today)**
-- [`indiko`](https://github.com/taciturnaxolotl/indiko) - _indieauth and oauth 2.0 compatible auth server for my homelab_ **(1 day ago)**
-- [`CANopy`](https://github.com/taciturnaxolotl/CANopy) - _can hat design for raspberry pis_ **(2 days ago)**
-- [`status`](https://github.com/taciturnaxolotl/status) - _my own status page_ **(3 days ago)**
-- [`cv`](https://github.com/taciturnaxolotl/cv) - _my cv powered by latex_ **(4 days ago)**
-- [`pear`](https://github.com/taciturnaxolotl/pear) - _making recipe websites palatable again_ **(6 days ago)**
+- [`tangle-of-trust`](https://github.com/taciturnaxolotl/tangle-of-trust) - _tangled vouch map with historical data _ **(1 day ago)**
+- [`dots`](https://github.com/taciturnaxolotl/dots) - _Kieran's opinionated (and ever expanding) nix config_ **(1 day ago)**
+- [`indiko`](https://github.com/taciturnaxolotl/indiko) - _indieauth and oauth 2.0 compatible auth server for my homelab_ **(2 days ago)**
+- [`CANopy`](https://github.com/taciturnaxolotl/CANopy) - _can hat design for raspberry pis_ **(3 days ago)**
+- [`status`](https://github.com/taciturnaxolotl/status) - _my own status page_ **(4 days ago)**
+- [`cv`](https://github.com/taciturnaxolotl/cv) - _my cv powered by latex_ **(5 days ago)**
+- [`pear`](https://github.com/taciturnaxolotl/pear) - _making recipe websites palatable again_ **(1 week ago)**
 - [`zera`](https://github.com/taciturnaxolotl/zera) - _my new site v4?_ **(1 week ago)**
 
 #### 📦  My latest projects
@@ -30,20 +30,20 @@ When not doing school or working on a random project, I enjoy flying drones and 
 
 ```text
 💾 Languages:
-unknown           9h 21m 17s   █████████████████████░░░░  82.82%
-Nix               33m 7s       ██░░░░░░░░░░░░░░░░░░░░░░░  4.89%
-Markdown          27m 51s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.11%
-Go                20m 12s      █░░░░░░░░░░░░░░░░░░░░░░░░  2.98%
-JavaScript        8m 0s        █░░░░░░░░░░░░░░░░░░░░░░░░  1.18%
+unknown           9h 35m 14s   █████████████████████░░░░  81.93%
+Nix               41m 35s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.92%
+Markdown          27m 51s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.97%
+Go                22m 12s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.16%
+JavaScript        8m 0s        █░░░░░░░░░░░░░░░░░░░░░░░░  1.14%
 
 💼 Projects:
-dots              2h 8m 8s     █████░░░░░░░░░░░░░░░░░░░░  19.80%
-tangle-of-trust   1h 50m 37s   █████░░░░░░░░░░░░░░░░░░░░  17.09%
-CANopy            1h 7m 29s    ███░░░░░░░░░░░░░░░░░░░░░░  10.43%
-frc-nix           53m 3s       ███░░░░░░░░░░░░░░░░░░░░░░  8.20%
-frc-ds            44m 5s       ██░░░░░░░░░░░░░░░░░░░░░░░  6.81%
+dots              2h 22m 9s    ██████░░░░░░░░░░░░░░░░░░░  21.08%
+tangle-of-trust   1h 57m 43s   █████░░░░░░░░░░░░░░░░░░░░  17.46%
+CANopy            1h 7m 29s    ███░░░░░░░░░░░░░░░░░░░░░░  10.01%
+frc-nix           53m 3s       ██░░░░░░░░░░░░░░░░░░░░░░░  7.87%
+kierank           45m 21s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.73%
 
-Total: 9 hrs 59 mins
+Total: 10 hrs 15 mins
 ```
 
 #### 📮  Want to say hi?
