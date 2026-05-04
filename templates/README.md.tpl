@@ -1,4 +1,4 @@
-### Hi! I'm a 17-year-old CE/Cyber nerd!
+### Hi! I'm an 18-year-old CE/Cyber nerd!
 
 When not doing school or working on a random project, I enjoy flying drones and competing in CTFs.
 
