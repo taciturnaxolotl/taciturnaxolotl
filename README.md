@@ -4,14 +4,14 @@ When not doing school or working on a random project, I enjoy flying drones and 
 
 #### 🏗️  The latest repos I've pushed to
 
-- [`dots`](https://github.com/taciturnaxolotl/dots) - _Kieran's opinionated (and ever expanding) nix config_ **(2 days ago)**
-- [`tangle-of-trust`](https://github.com/taciturnaxolotl/tangle-of-trust) - _tangled vouch map with historical data _ **(3 days ago)**
+- [`dots`](https://github.com/taciturnaxolotl/dots) - _Kieran's opinionated (and ever expanding) nix config_ **(today)**
+- [`tangle-of-trust`](https://github.com/taciturnaxolotl/tangle-of-trust) - _tangled vouch map with historical data _ **(today)**
+- [`crush`](https://github.com/charmbracelet/crush) - _Glamourous agentic coding for all 💘_ **(today)**
 - [`indiko`](https://github.com/taciturnaxolotl/indiko) - _indieauth and oauth 2.0 compatible auth server for my homelab_ **(4 days ago)**
 - [`CANopy`](https://github.com/taciturnaxolotl/CANopy) - _can hat design for raspberry pis_ **(5 days ago)**
 - [`status`](https://github.com/taciturnaxolotl/status) - _my own status page_ **(6 days ago)**
 - [`cv`](https://github.com/taciturnaxolotl/cv) - _my cv powered by latex_ **(1 week ago)**
 - [`pear`](https://github.com/taciturnaxolotl/pear) - _making recipe websites palatable again_ **(1 week ago)**
-- [`zera`](https://github.com/taciturnaxolotl/zera) - _my new site v4?_ **(1 week ago)**
 
 #### 📦  My latest projects
 
@@ -30,20 +30,20 @@ When not doing school or working on a random project, I enjoy flying drones and 
 
 ```text
 💾 Languages:
-unknown           6h 39m 36s   █████████████████████░░░░  81.27%
-Nix               45m 52s      ███░░░░░░░░░░░░░░░░░░░░░░  9.33%
-Go                20m 12s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.11%
-Shell             6m 58s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.42%
-Markdown          6m 49s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.39%
+unknown           7h 4m 24s    █████████████████████░░░░  80.96%
+Nix               49m 22s      ███░░░░░░░░░░░░░░░░░░░░░░  9.42%
+Go                22m 22s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.27%
+Shell             6m 58s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.33%
+Markdown          6m 49s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.30%
 
 💼 Projects:
-dots              2h 15m 5s    ███████░░░░░░░░░░░░░░░░░░  27.96%
-tangle-of-trust   2h 11m 22s   ███████░░░░░░░░░░░░░░░░░░  27.19%
-CANopy            57m 7s       ███░░░░░░░░░░░░░░░░░░░░░░  11.82%
-frc-nix           53m 3s       ███░░░░░░░░░░░░░░░░░░░░░░  10.98%
-cv                37m 35s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.78%
+dots              2h 20m 59s   ███████░░░░░░░░░░░░░░░░░░  27.88%
+tangle-of-trust   2h 13m 43s   ███████░░░░░░░░░░░░░░░░░░  26.44%
+CANopy            57m 7s       ███░░░░░░░░░░░░░░░░░░░░░░  11.30%
+frc-nix           53m 3s       ███░░░░░░░░░░░░░░░░░░░░░░  10.49%
+cv                37m 35s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.43%
 
-Total: 7 hrs 6 mins
+Total: 7 hrs 32 mins
 ```
 
 #### 📮  Want to say hi?
