@@ -4,9 +4,9 @@ When not doing school or working on a random project, I enjoy flying drones and 
 
 #### 🏗️  The latest repos I've pushed to
 
+- [`crush`](https://github.com/charmbracelet/crush) - _Glamourous agentic coding for all 💘_ **(today)**
 - [`dots`](https://github.com/taciturnaxolotl/dots) - _Kieran's opinionated (and ever expanding) nix config_ **(today)**
 - [`tangle-of-trust`](https://github.com/taciturnaxolotl/tangle-of-trust) - _tangled vouch map with historical data _ **(today)**
-- [`crush`](https://github.com/charmbracelet/crush) - _Glamourous agentic coding for all 💘_ **(today)**
 - [`indiko`](https://github.com/taciturnaxolotl/indiko) - _indieauth and oauth 2.0 compatible auth server for my homelab_ **(4 days ago)**
 - [`CANopy`](https://github.com/taciturnaxolotl/CANopy) - _can hat design for raspberry pis_ **(5 days ago)**
 - [`status`](https://github.com/taciturnaxolotl/status) - _my own status page_ **(6 days ago)**
@@ -30,20 +30,20 @@ When not doing school or working on a random project, I enjoy flying drones and 
 
 ```text
 💾 Languages:
-unknown           7h 4m 24s    █████████████████████░░░░  80.96%
-Nix               49m 22s      ███░░░░░░░░░░░░░░░░░░░░░░  9.42%
-Go                22m 22s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.27%
-Shell             6m 58s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.33%
-Markdown          6m 49s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.30%
+unknown           7h 16m 30s   █████████████████████░░░░  80.51%
+Nix               49m 22s      ███░░░░░░░░░░░░░░░░░░░░░░  9.11%
+Go                26m 15s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.84%
+Shell             6m 58s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.28%
+Markdown          6m 49s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.26%
 
 💼 Projects:
-dots              2h 20m 59s   ███████░░░░░░░░░░░░░░░░░░  27.88%
-tangle-of-trust   2h 13m 43s   ███████░░░░░░░░░░░░░░░░░░  26.44%
-CANopy            57m 7s       ███░░░░░░░░░░░░░░░░░░░░░░  11.30%
-frc-nix           53m 3s       ███░░░░░░░░░░░░░░░░░░░░░░  10.49%
-cv                37m 35s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.43%
+dots              2h 20m 59s   ███████░░░░░░░░░░░░░░░░░░  27.13%
+tangle-of-trust   2h 13m 43s   ███████░░░░░░░░░░░░░░░░░░  25.74%
+CANopy            57m 7s       ███░░░░░░░░░░░░░░░░░░░░░░  10.99%
+frc-nix           53m 3s       ███░░░░░░░░░░░░░░░░░░░░░░  10.21%
+cv                37m 35s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.23%
 
-Total: 7 hrs 32 mins
+Total: 7 hrs 45 mins
 ```
 
 #### 📮  Want to say hi?
