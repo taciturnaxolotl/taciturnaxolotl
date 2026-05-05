@@ -4,12 +4,12 @@ When not doing school or working on a random project, I enjoy flying drones and 
 
 #### 🏗️  The latest repos I've pushed to
 
-- [`dots`](https://github.com/taciturnaxolotl/dots) - _Kieran's opinionated (and ever expanding) nix config_ **(1 day ago)**
-- [`tangle-of-trust`](https://github.com/taciturnaxolotl/tangle-of-trust) - _tangled vouch map with historical data _ **(2 days ago)**
-- [`indiko`](https://github.com/taciturnaxolotl/indiko) - _indieauth and oauth 2.0 compatible auth server for my homelab_ **(3 days ago)**
-- [`CANopy`](https://github.com/taciturnaxolotl/CANopy) - _can hat design for raspberry pis_ **(4 days ago)**
-- [`status`](https://github.com/taciturnaxolotl/status) - _my own status page_ **(5 days ago)**
-- [`cv`](https://github.com/taciturnaxolotl/cv) - _my cv powered by latex_ **(6 days ago)**
+- [`dots`](https://github.com/taciturnaxolotl/dots) - _Kieran's opinionated (and ever expanding) nix config_ **(2 days ago)**
+- [`tangle-of-trust`](https://github.com/taciturnaxolotl/tangle-of-trust) - _tangled vouch map with historical data _ **(3 days ago)**
+- [`indiko`](https://github.com/taciturnaxolotl/indiko) - _indieauth and oauth 2.0 compatible auth server for my homelab_ **(4 days ago)**
+- [`CANopy`](https://github.com/taciturnaxolotl/CANopy) - _can hat design for raspberry pis_ **(5 days ago)**
+- [`status`](https://github.com/taciturnaxolotl/status) - _my own status page_ **(6 days ago)**
+- [`cv`](https://github.com/taciturnaxolotl/cv) - _my cv powered by latex_ **(1 week ago)**
 - [`pear`](https://github.com/taciturnaxolotl/pear) - _making recipe websites palatable again_ **(1 week ago)**
 - [`zera`](https://github.com/taciturnaxolotl/zera) - _my new site v4?_ **(1 week ago)**
 
