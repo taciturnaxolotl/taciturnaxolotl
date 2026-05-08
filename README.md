@@ -6,9 +6,9 @@ When not doing school or working on a random project, I enjoy flying drones and 
 
 - [`crush`](https://github.com/charmbracelet/crush) - _Glamourous agentic coding for all 💘_ **(1 day ago)**
 - [`dots`](https://github.com/taciturnaxolotl/dots) - _Kieran's opinionated (and ever expanding) nix config_ **(2 days ago)**
-- [`nur`](https://github.com/charmbracelet/nur) - __ **(3 days ago)**
-- [`zera`](https://github.com/taciturnaxolotl/zera) - _my new site v4?_ **(3 days ago)**
 - [`tangle-of-trust`](https://github.com/taciturnaxolotl/tangle-of-trust) - _tangled vouch map with historical data _ **(3 days ago)**
+- [`zera`](https://github.com/taciturnaxolotl/zera) - _my new site v4?_ **(3 days ago)**
+- [`nur`](https://github.com/charmbracelet/nur) - __ **(3 days ago)**
 - [`indiko`](https://github.com/taciturnaxolotl/indiko) - _indieauth and oauth 2.0 compatible auth server for my homelab_ **(1 week ago)**
 - [`CANopy`](https://github.com/taciturnaxolotl/CANopy) - _can hat design for raspberry pis_ **(1 week ago)**
 - [`status`](https://github.com/taciturnaxolotl/status) - _my own status page_ **(1 week ago)**
@@ -30,20 +30,20 @@ When not doing school or working on a random project, I enjoy flying drones and 
 
 ```text
 💾 Languages:
-unknown           14h 2m 14s   ███████████████████░░░░░░  74.02%
-Go                2h 39m 24s   ████░░░░░░░░░░░░░░░░░░░░░  14.01%
-Shell             43m 5s       █░░░░░░░░░░░░░░░░░░░░░░░░  3.79%
-Nix               26m 33s      █░░░░░░░░░░░░░░░░░░░░░░░░  2.33%
-JavaScript        16m 30s      █░░░░░░░░░░░░░░░░░░░░░░░░  1.45%
+unknown           14h 28m 58s   ███████████████████░░░░░░  74.62%
+Go                2h 39m 24s    ████░░░░░░░░░░░░░░░░░░░░░  13.69%
+Shell             43m 5s        █░░░░░░░░░░░░░░░░░░░░░░░░  3.70%
+Nix               26m 33s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.28%
+JavaScript        16m 30s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.42%
 
 💼 Projects:
-crush             5h 8m 50s    ████████░░░░░░░░░░░░░░░░░  29.34%
-hyper             4h 6m 9s     ██████░░░░░░░░░░░░░░░░░░░  23.38%
-tangle-of-trust   2h 13m 43s   ████░░░░░░░░░░░░░░░░░░░░░  12.70%
-dots              1h 35m 36s   ███░░░░░░░░░░░░░░░░░░░░░░  9.08%
-creeper           1h 9m 44s    ██░░░░░░░░░░░░░░░░░░░░░░░  6.62%
+crush             5h 21m 51s    ████████░░░░░░░░░░░░░░░░░  29.74%
+hyper             4h 10m 9s     ██████░░░░░░░░░░░░░░░░░░░  23.11%
+tangle-of-trust   2h 13m 43s    ████░░░░░░░░░░░░░░░░░░░░░  12.35%
+dots              1h 35m 36s    ███░░░░░░░░░░░░░░░░░░░░░░  8.83%
+creeper           1h 9m 44s     ██░░░░░░░░░░░░░░░░░░░░░░░  6.44%
 
-Total: 16 hrs 3 mins
+Total: 16 hrs 30 mins
 ```
 
 #### 📮  Want to say hi?
