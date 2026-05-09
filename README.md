@@ -4,11 +4,11 @@ When not doing school or working on a random project, I enjoy flying drones and 
 
 #### 🏗️  The latest repos I've pushed to
 
-- [`crush`](https://github.com/charmbracelet/crush) - _Glamourous agentic coding for all 💘_ **(today)**
-- [`dots`](https://github.com/taciturnaxolotl/dots) - _Kieran's opinionated (and ever expanding) nix config_ **(2 days ago)**
-- [`nur`](https://github.com/charmbracelet/nur) - __ **(3 days ago)**
-- [`tangle-of-trust`](https://github.com/taciturnaxolotl/tangle-of-trust) - _tangled vouch map with historical data _ **(3 days ago)**
-- [`zera`](https://github.com/taciturnaxolotl/zera) - _my new site v4?_ **(3 days ago)**
+- [`crush`](https://github.com/charmbracelet/crush) - _Glamourous agentic coding for all 💘_ **(1 day ago)**
+- [`dots`](https://github.com/taciturnaxolotl/dots) - _Kieran's opinionated (and ever expanding) nix config_ **(3 days ago)**
+- [`nur`](https://github.com/charmbracelet/nur) - __ **(4 days ago)**
+- [`tangle-of-trust`](https://github.com/taciturnaxolotl/tangle-of-trust) - _tangled vouch map with historical data _ **(4 days ago)**
+- [`zera`](https://github.com/taciturnaxolotl/zera) - _my new site v4?_ **(4 days ago)**
 - [`indiko`](https://github.com/taciturnaxolotl/indiko) - _indieauth and oauth 2.0 compatible auth server for my homelab_ **(1 week ago)**
 - [`CANopy`](https://github.com/taciturnaxolotl/CANopy) - _can hat design for raspberry pis_ **(1 week ago)**
 - [`status`](https://github.com/taciturnaxolotl/status) - _my own status page_ **(1 week ago)**
@@ -22,7 +22,7 @@ When not doing school or working on a random project, I enjoy flying drones and 
 
 #### 🪧  The latest posts from [`dunkirk.sh`](https://dunkirk.sh)
 
-- [`Reverse engineering the FRC SystemCore image`](https://dunkirk.sh/blog/frc-systemcore-image/) **(1 week ago)**
+- [`Reverse engineering the FRC SystemCore image`](https://dunkirk.sh/blog/frc-systemcore-image/) **(2 weeks ago)**
 - [`FRC REBUILT Points Calculator`](https://dunkirk.sh/blog/frc-rebuilt-calculator/) **(3 months ago)**
 - [`Homelab tour`](https://dunkirk.sh/blog/homelab-tour/) **(4 months ago)**
 
@@ -30,20 +30,20 @@ When not doing school or working on a random project, I enjoy flying drones and 
 
 ```text
 💾 Languages:
-unknown           15h 36m 7s   ███████████████████░░░░░░  73.08%
-Go                3h 21m 57s   ████░░░░░░░░░░░░░░░░░░░░░  15.76%
-Shell             47m 53s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.74%
-Nix               26m 33s      █░░░░░░░░░░░░░░░░░░░░░░░░  2.07%
-JavaScript        16m 30s      █░░░░░░░░░░░░░░░░░░░░░░░░  1.29%
+unknown           16h 7m 47s   ███████████████████░░░░░░  73.39%
+Go                3h 27m 57s   ████░░░░░░░░░░░░░░░░░░░░░  15.77%
+Shell             47m 53s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.63%
+Nix               26m 33s      █░░░░░░░░░░░░░░░░░░░░░░░░  2.01%
+JavaScript        16m 30s      █░░░░░░░░░░░░░░░░░░░░░░░░  1.25%
 
 💼 Projects:
-crush             6h 43m 31s   █████████░░░░░░░░░░░░░░░░  33.96%
-hyper             4h 28m 17s   ██████░░░░░░░░░░░░░░░░░░░  22.58%
-tangle-of-trust   2h 13m 43s   ███░░░░░░░░░░░░░░░░░░░░░░  11.25%
-dots              1h 35m 36s   ███░░░░░░░░░░░░░░░░░░░░░░  8.05%
-creeper           1h 9m 44s    ██░░░░░░░░░░░░░░░░░░░░░░░  5.87%
+crush             6h 59m 56s   █████████░░░░░░░░░░░░░░░░  34.28%
+hyper             4h 30m 53s   ██████░░░░░░░░░░░░░░░░░░░  22.11%
+tangle-of-trust   2h 15m 43s   ███░░░░░░░░░░░░░░░░░░░░░░  11.08%
+dots              1h 35m 36s   ██░░░░░░░░░░░░░░░░░░░░░░░  7.80%
+creeper           1h 9m 44s    ██░░░░░░░░░░░░░░░░░░░░░░░  5.69%
 
-Total: 18 hrs 10 mins
+Total: 18 hrs 43 mins
 ```
 
 #### 📮  Want to say hi?
