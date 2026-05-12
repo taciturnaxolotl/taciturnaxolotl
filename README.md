@@ -4,13 +4,13 @@ When not doing school or working on a random project, I enjoy flying drones and 
 
 #### 🏗️  The latest repos I've pushed to
 
-- [`2026-rebuilt`](https://github.com/df1317/2026-rebuilt) - _pyramid scheme_ **(today)**
-- [`crush`](https://github.com/charmbracelet/crush) - _Glamourous agentic coding for all 💘_ **(today)**
+- [`2026-rebuilt`](https://github.com/df1317/2026-rebuilt) - _pyramid scheme_ **(1 day ago)**
+- [`crush`](https://github.com/charmbracelet/crush) - _Glamourous agentic coding for all 💘_ **(1 day ago)**
 - [`dots`](https://github.com/taciturnaxolotl/dots) - _Kieran's opinionated (and ever expanding) nix config_ **(1 day ago)**
-- [`tinkcil`](https://github.com/taciturnaxolotl/tinkcil) - _ironOS native ios app_ **(2 days ago)**
-- [`zera`](https://github.com/taciturnaxolotl/zera) - _my new site v4?_ **(6 days ago)**
-- [`nur`](https://github.com/charmbracelet/nur) - __ **(6 days ago)**
-- [`tangle-of-trust`](https://github.com/taciturnaxolotl/tangle-of-trust) - _tangled vouch map with historical data _ **(6 days ago)**
+- [`tinkcil`](https://github.com/taciturnaxolotl/tinkcil) - _ironOS native ios app_ **(3 days ago)**
+- [`zera`](https://github.com/taciturnaxolotl/zera) - _my new site v4?_ **(1 week ago)**
+- [`nur`](https://github.com/charmbracelet/nur) - __ **(1 week ago)**
+- [`tangle-of-trust`](https://github.com/taciturnaxolotl/tangle-of-trust) - _tangled vouch map with historical data _ **(1 week ago)**
 - [`indiko`](https://github.com/taciturnaxolotl/indiko) - _indieauth and oauth 2.0 compatible auth server for my homelab_ **(1 week ago)**
 
 #### 📦  My latest projects
@@ -30,20 +30,20 @@ When not doing school or working on a random project, I enjoy flying drones and 
 
 ```text
 💾 Languages:
-unknown   19h 25m 17s   ██████████████████░░░░░░░  68.28%
-Go        3h 45m 39s    ████░░░░░░░░░░░░░░░░░░░░░  13.22%
-Swift     2h 26m 53s    ███░░░░░░░░░░░░░░░░░░░░░░  8.61%
-Shell     44m 58s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.64%
-Nix       27m 7s        █░░░░░░░░░░░░░░░░░░░░░░░░  1.59%
+unknown   19h 55m 13s   ██████████████████░░░░░░░  68.75%
+Go        3h 45m 39s    ████░░░░░░░░░░░░░░░░░░░░░  12.98%
+Swift     2h 26m 53s    ███░░░░░░░░░░░░░░░░░░░░░░  8.45%
+Shell     44m 58s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.59%
+Nix       29m 14s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.68%
 
 💼 Projects:
-crush     9h 56m 51s    ██████████░░░░░░░░░░░░░░░  37.71%
-hyper     5h 48m 8s     ██████░░░░░░░░░░░░░░░░░░░  21.99%
-tinkcil   2h 49m 39s    ███░░░░░░░░░░░░░░░░░░░░░░  10.72%
-dots      2h 25m 23s    ███░░░░░░░░░░░░░░░░░░░░░░  9.18%
-creeper   1h 9m 44s     ██░░░░░░░░░░░░░░░░░░░░░░░  4.41%
+crush     9h 58m 51s    ██████████░░░░░░░░░░░░░░░  37.09%
+hyper     5h 50m 8s     ██████░░░░░░░░░░░░░░░░░░░  21.68%
+tinkcil   2h 49m 39s    ███░░░░░░░░░░░░░░░░░░░░░░  10.51%
+dots      2h 29m 1s     ███░░░░░░░░░░░░░░░░░░░░░░  9.23%
+creeper   1h 9m 44s     ██░░░░░░░░░░░░░░░░░░░░░░░  4.32%
 
-Total: 24 hrs 17 mins
+Total: 24 hrs 46 mins
 ```
 
 #### 📮  Want to say hi?
