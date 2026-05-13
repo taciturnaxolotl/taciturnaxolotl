@@ -4,14 +4,14 @@ When not doing school or working on a random project, I enjoy flying drones and 
 
 #### 🏗️  The latest repos I've pushed to
 
-- [`herald`](https://github.com/taciturnaxolotl/herald) - _rss email digests over ssh because you're a cool kid_ **(1 day ago)**
+- [`zera`](https://github.com/taciturnaxolotl/zera) - _my new site v4?_ **(today)**
 - [`soft-serve`](https://github.com/charmbracelet/soft-serve) - _The mighty, self-hostable Git server for the command line🍦_ **(1 day ago)**
-- [`crush`](https://github.com/charmbracelet/crush) - _Glamourous agentic coding for all 💘_ **(1 day ago)**
 - [`dots`](https://github.com/taciturnaxolotl/dots) - _Kieran's opinionated (and ever expanding) nix config_ **(1 day ago)**
+- [`crush`](https://github.com/charmbracelet/crush) - _Glamourous agentic coding for all 💘_ **(1 day ago)**
+- [`herald`](https://github.com/taciturnaxolotl/herald) - _rss email digests over ssh because you're a cool kid_ **(1 day ago)**
 - [`2026-rebuilt`](https://github.com/df1317/2026-rebuilt) - _pyramid scheme_ **(2 days ago)**
 - [`tinkcil`](https://github.com/taciturnaxolotl/tinkcil) - _ironOS native ios app_ **(4 days ago)**
 - [`nur`](https://github.com/charmbracelet/nur) - __ **(1 week ago)**
-- [`tangle-of-trust`](https://github.com/taciturnaxolotl/tangle-of-trust) - _tangled vouch map with historical data_ **(1 week ago)**
 
 #### 📦  My latest projects
 
@@ -30,20 +30,20 @@ When not doing school or working on a random project, I enjoy flying drones and 
 
 ```text
 💾 Languages:
-unknown   24h 34m 7s   ██████████████████░░░░░░░  70.32%
-Go        4h 35m 34s   ████░░░░░░░░░░░░░░░░░░░░░  13.15%
-Swift     2h 26m 53s   ██░░░░░░░░░░░░░░░░░░░░░░░  7.01%
-Shell     47m 41s      █░░░░░░░░░░░░░░░░░░░░░░░░  2.27%
-Nix       31m 24s      █░░░░░░░░░░░░░░░░░░░░░░░░  1.50%
+unknown     21h 5m 46s    ██████████████████░░░░░░░  69.84%
+Go          4h 0m 56s     ████░░░░░░░░░░░░░░░░░░░░░  13.29%
+Swift       2h 26m 53s    ███░░░░░░░░░░░░░░░░░░░░░░  8.10%
+Shell       47m 41s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.63%
+gitcommit   21m 14s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.17%
 
 💼 Projects:
-crush     13h 15m 9s   ███████████░░░░░░░░░░░░░░  40.62%
-hyper     6h 19m 10s   █████░░░░░░░░░░░░░░░░░░░░  19.37%
-dots      3h 29m 36s   ███░░░░░░░░░░░░░░░░░░░░░░  10.71%
-tinkcil   2h 49m 39s   ███░░░░░░░░░░░░░░░░░░░░░░  8.67%
-creeper   1h 9m 44s    █░░░░░░░░░░░░░░░░░░░░░░░░  3.56%
+crush       11h 35m 44s   ███████████░░░░░░░░░░░░░░  41.02%
+hyper       5h 24m 52s    █████░░░░░░░░░░░░░░░░░░░░  19.15%
+dots        3h 16m 38s    ███░░░░░░░░░░░░░░░░░░░░░░  11.59%
+tinkcil     2h 49m 39s    ███░░░░░░░░░░░░░░░░░░░░░░  10.00%
+creeper     1h 9m 44s     ██░░░░░░░░░░░░░░░░░░░░░░░  4.11%
 
-Total: 29 hrs 44 mins
+Total: 26 hrs 2 mins
 ```
 
 #### 📮  Want to say hi?
