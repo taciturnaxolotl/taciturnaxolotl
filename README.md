@@ -4,13 +4,13 @@ When not doing school or working on a random project, I enjoy flying drones and 
 
 #### 🏗️  The latest repos I've pushed to
 
-- [`zera`](https://github.com/taciturnaxolotl/zera) - _my new site v4?_ **(today)**
-- [`dots`](https://github.com/taciturnaxolotl/dots) - _Kieran's opinionated (and ever expanding) nix config_ **(today)**
-- [`crush`](https://github.com/charmbracelet/crush) - _Glamourous agentic coding for all 💘_ **(today)**
-- [`soft-serve`](https://github.com/charmbracelet/soft-serve) - _The mighty, self-hostable Git server for the command line🍦_ **(1 day ago)**
-- [`herald`](https://github.com/taciturnaxolotl/herald) - _rss email digests over ssh because you're a cool kid_ **(1 day ago)**
-- [`2026-rebuilt`](https://github.com/df1317/2026-rebuilt) - _pyramid scheme_ **(2 days ago)**
-- [`tinkcil`](https://github.com/taciturnaxolotl/tinkcil) - _ironOS native ios app_ **(4 days ago)**
+- [`zera`](https://github.com/taciturnaxolotl/zera) - _my new site v4?_ **(1 day ago)**
+- [`dots`](https://github.com/taciturnaxolotl/dots) - _Kieran's opinionated (and ever expanding) nix config_ **(1 day ago)**
+- [`crush`](https://github.com/charmbracelet/crush) - _Glamourous agentic coding for all 💘_ **(1 day ago)**
+- [`soft-serve`](https://github.com/charmbracelet/soft-serve) - _The mighty, self-hostable Git server for the command line🍦_ **(2 days ago)**
+- [`herald`](https://github.com/taciturnaxolotl/herald) - _rss email digests over ssh because you're a cool kid_ **(2 days ago)**
+- [`2026-rebuilt`](https://github.com/df1317/2026-rebuilt) - _pyramid scheme_ **(3 days ago)**
+- [`tinkcil`](https://github.com/taciturnaxolotl/tinkcil) - _ironOS native ios app_ **(5 days ago)**
 - [`tangle-of-trust`](https://github.com/taciturnaxolotl/tangle-of-trust) - _tangled vouch map with historical data_ **(1 week ago)**
 
 #### 📦  My latest projects
@@ -30,20 +30,20 @@ When not doing school or working on a random project, I enjoy flying drones and 
 
 ```text
 💾 Languages:
-unknown     23h 20m 6s    █████████████████░░░░░░░░  67.89%
-Go          5h 49m 49s    █████░░░░░░░░░░░░░░░░░░░░  16.96%
-Swift       2h 26m 53s    ██░░░░░░░░░░░░░░░░░░░░░░░  7.12%
-Shell       47m 41s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.31%
-gitcommit   25m 46s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.25%
+unknown     23h 43m 35s   █████████████████░░░░░░░░  66.90%
+Go          6h 27m 11s    █████░░░░░░░░░░░░░░░░░░░░  18.20%
+Swift       2h 26m 53s    ██░░░░░░░░░░░░░░░░░░░░░░░  6.90%
+Shell       47m 41s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.24%
+gitcommit   25m 46s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.21%
 
 💼 Projects:
-crush       14h 22m 54s   ████████████░░░░░░░░░░░░░  44.74%
-hyper       6h 13m 46s    █████░░░░░░░░░░░░░░░░░░░░  19.38%
-dots        3h 32m 37s    ███░░░░░░░░░░░░░░░░░░░░░░  11.02%
-tinkcil     2h 49m 39s    ███░░░░░░░░░░░░░░░░░░░░░░  8.80%
-creeper     1h 9m 44s     █░░░░░░░░░░░░░░░░░░░░░░░░  3.62%
+crush       15h 10m 8s    ████████████░░░░░░░░░░░░░  45.91%
+hyper       6h 13m 46s    █████░░░░░░░░░░░░░░░░░░░░  18.85%
+dots        3h 32m 37s    ███░░░░░░░░░░░░░░░░░░░░░░  10.73%
+tinkcil     2h 49m 39s    ███░░░░░░░░░░░░░░░░░░░░░░  8.56%
+creeper     1h 9m 44s     █░░░░░░░░░░░░░░░░░░░░░░░░  3.52%
 
-Total: 29 hrs 44 mins
+Total: 30 hrs 35 mins
 ```
 
 #### 📮  Want to say hi?
