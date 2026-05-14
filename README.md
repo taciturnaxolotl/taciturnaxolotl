@@ -4,8 +4,8 @@ When not doing school or working on a random project, I enjoy flying drones and 
 
 #### 🏗️  The latest repos I've pushed to
 
-- [`dots`](https://github.com/taciturnaxolotl/dots) - _Kieran's opinionated (and ever expanding) nix config_ **(1 day ago)**
 - [`zera`](https://github.com/taciturnaxolotl/zera) - _my new site v4?_ **(1 day ago)**
+- [`dots`](https://github.com/taciturnaxolotl/dots) - _Kieran's opinionated (and ever expanding) nix config_ **(1 day ago)**
 - [`crush`](https://github.com/charmbracelet/crush) - _Glamourous agentic coding for all 💘_ **(1 day ago)**
 - [`soft-serve`](https://github.com/charmbracelet/soft-serve) - _The mighty, self-hostable Git server for the command line🍦_ **(2 days ago)**
 - [`herald`](https://github.com/taciturnaxolotl/herald) - _rss email digests over ssh because you're a cool kid_ **(2 days ago)**
@@ -30,20 +30,20 @@ When not doing school or working on a random project, I enjoy flying drones and 
 
 ```text
 💾 Languages:
-unknown     20h 23m 18s   █████████████████░░░░░░░░  67.12%
-Go          5h 42m 56s    █████░░░░░░░░░░░░░░░░░░░░  18.82%
-Swift       2h 26m 53s    ███░░░░░░░░░░░░░░░░░░░░░░  8.06%
-JSON        22m 6s        █░░░░░░░░░░░░░░░░░░░░░░░░  1.21%
-gitcommit   21m 46s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.19%
+unknown     20h 45m 54s   █████████████████░░░░░░░░  67.09%
+Go          5h 54m 56s    █████░░░░░░░░░░░░░░░░░░░░  19.11%
+Swift       2h 26m 53s    ██░░░░░░░░░░░░░░░░░░░░░░░  7.91%
+JSON        22m 6s        █░░░░░░░░░░░░░░░░░░░░░░░░  1.19%
+gitcommit   21m 46s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.17%
 
 💼 Projects:
-crush       14h 10m 16s   █████████████░░░░░░░░░░░░  49.57%
-hyper       4h 57m 25s    █████░░░░░░░░░░░░░░░░░░░░  17.34%
-dots        3h 19m 6s     ███░░░░░░░░░░░░░░░░░░░░░░  11.61%
-tinkcil     2h 49m 39s    ███░░░░░░░░░░░░░░░░░░░░░░  9.89%
-kierank     36m 36s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.13%
+crush       14h 37m 19s   █████████████░░░░░░░░░░░░  50.17%
+hyper       4h 57m 25s    █████░░░░░░░░░░░░░░░░░░░░  17.01%
+dots        3h 19m 6s     ███░░░░░░░░░░░░░░░░░░░░░░  11.39%
+tinkcil     2h 49m 39s    ███░░░░░░░░░░░░░░░░░░░░░░  9.70%
+kierank     38m 36s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.21%
 
-Total: 26 hrs 27 mins
+Total: 26 hrs 58 mins
 ```
 
 #### 📮  Want to say hi?
