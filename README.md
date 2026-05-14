@@ -4,14 +4,14 @@ When not doing school or working on a random project, I enjoy flying drones and 
 
 #### 🏗️  The latest repos I've pushed to
 
+- [`dots`](https://github.com/taciturnaxolotl/dots) - _Kieran's opinionated (and ever expanding) nix config_ **(today)**
 - [`zera`](https://github.com/taciturnaxolotl/zera) - _my new site v4?_ **(1 day ago)**
 - [`crush`](https://github.com/charmbracelet/crush) - _Glamourous agentic coding for all 💘_ **(1 day ago)**
-- [`dots`](https://github.com/taciturnaxolotl/dots) - _Kieran's opinionated (and ever expanding) nix config_ **(1 day ago)**
 - [`soft-serve`](https://github.com/charmbracelet/soft-serve) - _The mighty, self-hostable Git server for the command line🍦_ **(2 days ago)**
 - [`herald`](https://github.com/taciturnaxolotl/herald) - _rss email digests over ssh because you're a cool kid_ **(2 days ago)**
 - [`2026-rebuilt`](https://github.com/df1317/2026-rebuilt) - _pyramid scheme_ **(3 days ago)**
 - [`tinkcil`](https://github.com/taciturnaxolotl/tinkcil) - _ironOS native ios app_ **(5 days ago)**
-- [`nur`](https://github.com/charmbracelet/nur) - __ **(1 week ago)**
+- [`tangle-of-trust`](https://github.com/taciturnaxolotl/tangle-of-trust) - _tangled vouch map with historical data_ **(1 week ago)**
 
 #### 📦  My latest projects
 
@@ -30,20 +30,20 @@ When not doing school or working on a random project, I enjoy flying drones and 
 
 ```text
 💾 Languages:
-unknown     21h 14m 47s   █████████████████░░░░░░░░  66.93%
-Go          6h 13m 33s    █████░░░░░░░░░░░░░░░░░░░░  19.61%
-Swift       2h 26m 53s    ██░░░░░░░░░░░░░░░░░░░░░░░  7.71%
-JSON        22m 6s        █░░░░░░░░░░░░░░░░░░░░░░░░  1.16%
-gitcommit   21m 46s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.14%
+unknown     22h 3m 10s    █████████████████░░░░░░░░  67.47%
+Go          6h 15m 44s    █████░░░░░░░░░░░░░░░░░░░░  19.16%
+Swift       2h 26m 53s    ██░░░░░░░░░░░░░░░░░░░░░░░  7.49%
+gitcommit   23m 46s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.21%
+JSON        22m 6s        █░░░░░░░░░░░░░░░░░░░░░░░░  1.13%
 
 💼 Projects:
-crush       15h 17m 20s   █████████████░░░░░░░░░░░░  51.21%
-hyper       5h 0m 0s      █████░░░░░░░░░░░░░░░░░░░░  16.75%
-dots        3h 19m 6s     ███░░░░░░░░░░░░░░░░░░░░░░  11.12%
-tinkcil     2h 49m 39s    ███░░░░░░░░░░░░░░░░░░░░░░  9.47%
-kierank     38m 36s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.15%
+crush       15h 54m 30s   █████████████░░░░░░░░░░░░  51.43%
+hyper       5h 0m 0s      █████░░░░░░░░░░░░░░░░░░░░  16.17%
+dots        3h 35m 47s    ███░░░░░░░░░░░░░░░░░░░░░░  11.63%
+tinkcil     2h 49m 39s    ███░░░░░░░░░░░░░░░░░░░░░░  9.14%
+kierank     38m 36s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.08%
 
-Total: 27 hrs 39 mins
+Total: 28 hrs 27 mins
 ```
 
 #### 📮  Want to say hi?
