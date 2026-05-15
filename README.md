@@ -4,10 +4,10 @@ When not doing school or working on a random project, I enjoy flying drones and 
 
 #### 🏗️  The latest repos I've pushed to
 
+- [`dots`](https://github.com/taciturnaxolotl/dots) - _Kieran's opinionated (and ever expanding) nix config_ **(today)**
 - [`madbadger`](https://github.com/taciturnaxolotl/madbadger) - _MadBadger :3_ **(1 day ago)**
 - [`2026-rebuilt`](https://github.com/df1317/2026-rebuilt) - _pyramid scheme_ **(1 day ago)**
 - [`crush`](https://github.com/charmbracelet/crush) - _Glamourous agentic coding for all 💘_ **(1 day ago)**
-- [`dots`](https://github.com/taciturnaxolotl/dots) - _Kieran's opinionated (and ever expanding) nix config_ **(1 day ago)**
 - [`zera`](https://github.com/taciturnaxolotl/zera) - _my new site v4?_ **(2 days ago)**
 - [`herald`](https://github.com/taciturnaxolotl/herald) - _rss email digests over ssh because you're a cool kid_ **(3 days ago)**
 - [`tinkcil`](https://github.com/taciturnaxolotl/tinkcil) - _ironOS native ios app_ **(6 days ago)**
@@ -30,20 +30,20 @@ When not doing school or working on a random project, I enjoy flying drones and 
 
 ```text
 💾 Languages:
-unknown        19h 40m 45s   █████████████████░░░░░░░░  67.03%
-Go             5h 22m 23s    █████░░░░░░░░░░░░░░░░░░░░  18.30%
-Swift          2h 26m 53s    ███░░░░░░░░░░░░░░░░░░░░░░  8.34%
-JSON           24m 18s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.38%
+unknown        19h 44m 28s   █████████████████░░░░░░░░  67.02%
+Go             5h 22m 23s    █████░░░░░░░░░░░░░░░░░░░░  18.24%
+Swift          2h 26m 53s    ███░░░░░░░░░░░░░░░░░░░░░░  8.31%
+JSON           24m 18s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.37%
 gitcommit      19m 46s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.12%
 
 💼 Projects:
-crush          13h 51m 34s   █████████████░░░░░░░░░░░░  49.46%
-dots           3h 40m 18s    ████░░░░░░░░░░░░░░░░░░░░░  13.10%
-hyper          3h 36m 14s    ████░░░░░░░░░░░░░░░░░░░░░  12.86%
-tinkcil        2h 49m 39s    ███░░░░░░░░░░░░░░░░░░░░░░  10.09%
-2026-rebuilt   52m 58s       █░░░░░░░░░░░░░░░░░░░░░░░░  3.15%
+crush          13h 51m 34s   █████████████░░░░░░░░░░░░  49.24%
+dots           3h 43m 30s    ████░░░░░░░░░░░░░░░░░░░░░  13.23%
+hyper          3h 36m 14s    ████░░░░░░░░░░░░░░░░░░░░░  12.80%
+tinkcil        2h 49m 39s    ███░░░░░░░░░░░░░░░░░░░░░░  10.04%
+2026-rebuilt   52m 58s       █░░░░░░░░░░░░░░░░░░░░░░░░  3.14%
 
-Total: 25 hrs 35 mins
+Total: 25 hrs 39 mins
 ```
 
 #### 📮  Want to say hi?
