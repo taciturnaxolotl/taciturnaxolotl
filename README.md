@@ -6,12 +6,12 @@ When not doing school or working on a random project, I enjoy flying drones and 
 
 - [`gravitron`](https://github.com/taciturnaxolotl/gravitron) - __ **(today)**
 - [`dots`](https://github.com/taciturnaxolotl/dots) - _Kieran's opinionated (and ever expanding) nix config_ **(2 days ago)**
-- [`crush`](https://github.com/charmbracelet/crush) - _Glamourous agentic coding for all 💘_ **(3 days ago)**
 - [`2026-rebuilt`](https://github.com/df1317/2026-rebuilt) - _pyramid scheme_ **(3 days ago)**
+- [`crush`](https://github.com/charmbracelet/crush) - _Glamourous agentic coding for all 💘_ **(3 days ago)**
 - [`madbadger`](https://github.com/taciturnaxolotl/madbadger) - _MadBadger :3_ **(3 days ago)**
 - [`zera`](https://github.com/taciturnaxolotl/zera) - _my new site v4?_ **(4 days ago)**
 - [`herald`](https://github.com/taciturnaxolotl/herald) - _rss email digests over ssh because you're a cool kid_ **(5 days ago)**
-- [`tinkcil`](https://github.com/taciturnaxolotl/tinkcil) - _ironOS native ios app_ **(1 week ago)**
+- [`soft-serve`](https://github.com/charmbracelet/soft-serve) - _The mighty, self-hostable Git server for the command line🍦_ **(5 days ago)**
 
 #### 📦  My latest projects
 
@@ -30,20 +30,20 @@ When not doing school or working on a random project, I enjoy flying drones and 
 
 ```text
 💾 Languages:
-unknown        16h 49m 1s    ███████████████████░░░░░░  72.34%
-Go             4h 24m 39s    █████░░░░░░░░░░░░░░░░░░░░  18.97%
-JSON           21m 19s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.53%
-Nix            19m 30s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.40%
-gitcommit      17m 46s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.27%
+unknown        17h 5m 24s    ███████████████████░░░░░░  72.66%
+Go             4h 24m 39s    █████░░░░░░░░░░░░░░░░░░░░  18.75%
+JSON           21m 19s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.51%
+Nix            19m 30s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.38%
+gitcommit      17m 46s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.26%
 
 💼 Projects:
-crush          11h 47m 55s   ██████████████░░░░░░░░░░░  53.05%
-hyper          2h 41m 46s    ████░░░░░░░░░░░░░░░░░░░░░  12.12%
-dots           2h 24m 51s    ███░░░░░░░░░░░░░░░░░░░░░░  10.85%
-robot-board    1h 43m 41s    ██░░░░░░░░░░░░░░░░░░░░░░░  7.77%
-2026-rebuilt   52m 58s       █░░░░░░░░░░░░░░░░░░░░░░░░  3.97%
+crush          11h 47m 55s   ██████████████░░░░░░░░░░░  52.40%
+hyper          2h 41m 46s    ███░░░░░░░░░░░░░░░░░░░░░░  11.98%
+dots           2h 24m 51s    ███░░░░░░░░░░░░░░░░░░░░░░  10.72%
+robot-board    2h 0m 5s      ███░░░░░░░░░░░░░░░░░░░░░░  8.89%
+2026-rebuilt   52m 58s       █░░░░░░░░░░░░░░░░░░░░░░░░  3.92%
 
-Total: 20 hrs 10 mins
+Total: 20 hrs 26 mins
 ```
 
 #### 📮  Want to say hi?
