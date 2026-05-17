@@ -4,21 +4,21 @@ When not doing school or working on a random project, I enjoy flying drones and 
 
 #### 🏗️  The latest repos I've pushed to
 
+- [`gravitron`](https://github.com/taciturnaxolotl/gravitron) - __ **(1 day ago)**
 - [`dots`](https://github.com/taciturnaxolotl/dots) - _Kieran's opinionated (and ever expanding) nix config_ **(2 days ago)**
-- [`madbadger`](https://github.com/taciturnaxolotl/madbadger) - _MadBadger :3_ **(3 days ago)**
 - [`2026-rebuilt`](https://github.com/df1317/2026-rebuilt) - _pyramid scheme_ **(3 days ago)**
 - [`crush`](https://github.com/charmbracelet/crush) - _Glamourous agentic coding for all 💘_ **(3 days ago)**
+- [`madbadger`](https://github.com/taciturnaxolotl/madbadger) - _MadBadger :3_ **(3 days ago)**
 - [`zera`](https://github.com/taciturnaxolotl/zera) - _my new site v4?_ **(4 days ago)**
+- [`soft-serve`](https://github.com/charmbracelet/soft-serve) - _The mighty, self-hostable Git server for the command line🍦_ **(5 days ago)**
 - [`herald`](https://github.com/taciturnaxolotl/herald) - _rss email digests over ssh because you're a cool kid_ **(5 days ago)**
-- [`tinkcil`](https://github.com/taciturnaxolotl/tinkcil) - _ironOS native ios app_ **(1 week ago)**
-- [`tangle-of-trust`](https://github.com/taciturnaxolotl/tangle-of-trust) - _tangled vouch map with historical data_ **(1 week ago)**
 
 #### 📦  My latest projects
 
+- [`gravitron`](https://github.com/taciturnaxolotl/gravitron) - __
 - [`tangle-of-trust`](https://github.com/taciturnaxolotl/tangle-of-trust) - _tangled vouch map with historical data_
 - [`CANopy`](https://github.com/taciturnaxolotl/CANopy) - _can hat design for raspberry pis_
 - [`pear`](https://github.com/taciturnaxolotl/pear) - _making recipe websites palatable again_
-- [`arbitrage`](https://github.com/taciturnaxolotl/arbitrage) - _🔫_
 
 #### 🪧  The latest posts from [`dunkirk.sh`](https://dunkirk.sh)
 
@@ -30,20 +30,20 @@ When not doing school or working on a random project, I enjoy flying drones and 
 
 ```text
 💾 Languages:
-unknown       18h 3m 2s    █████████████████░░░░░░░░  67.28%
-Go            4h 26m 52s   █████░░░░░░░░░░░░░░░░░░░░  16.58%
-Swift         2h 26m 53s   ███░░░░░░░░░░░░░░░░░░░░░░  9.12%
-JSON          24m 18s      █░░░░░░░░░░░░░░░░░░░░░░░░  1.51%
-Nix           19m 30s      █░░░░░░░░░░░░░░░░░░░░░░░░  1.21%
+unknown        16h 28m 23s   ███████████████████░░░░░░  72.34%
+Go             4h 24m 39s    █████░░░░░░░░░░░░░░░░░░░░  19.37%
+JSON           21m 19s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.56%
+Nix            19m 30s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.43%
+gitcommit      17m 46s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.30%
 
 💼 Projects:
-crush         11h 46m 8s   ████████████░░░░░░░░░░░░░  45.96%
-dots          3h 43m 34s   ████░░░░░░░░░░░░░░░░░░░░░  14.55%
-tinkcil       2h 49m 39s   ███░░░░░░░░░░░░░░░░░░░░░░  11.04%
-hyper         2h 41m 46s   ███░░░░░░░░░░░░░░░░░░░░░░  10.53%
-robot-board   54m 2s       █░░░░░░░░░░░░░░░░░░░░░░░░  3.52%
+crush          11h 43m 55s   ██████████████░░░░░░░░░░░  53.84%
+hyper          2h 41m 46s    ████░░░░░░░░░░░░░░░░░░░░░  12.37%
+dots           2h 24m 51s    ███░░░░░░░░░░░░░░░░░░░░░░  11.08%
+robot-board    1h 20m 42s    ██░░░░░░░░░░░░░░░░░░░░░░░  6.17%
+2026-rebuilt   52m 58s       ██░░░░░░░░░░░░░░░░░░░░░░░  4.05%
 
-Total: 23 hrs 23 mins
+Total: 19 hrs 43 mins
 ```
 
 #### 📮  Want to say hi?
