@@ -4,12 +4,12 @@ When not doing school or working on a random project, I enjoy flying drones and 
 
 #### 🏗️  The latest repos I've pushed to
 
-- [`dots`](https://github.com/taciturnaxolotl/dots) - _Kieran's opinionated (and ever expanding) nix config_ **(1 day ago)**
-- [`madbadger`](https://github.com/taciturnaxolotl/madbadger) - _MadBadger :3_ **(2 days ago)**
-- [`2026-rebuilt`](https://github.com/df1317/2026-rebuilt) - _pyramid scheme_ **(2 days ago)**
-- [`crush`](https://github.com/charmbracelet/crush) - _Glamourous agentic coding for all 💘_ **(2 days ago)**
-- [`zera`](https://github.com/taciturnaxolotl/zera) - _my new site v4?_ **(3 days ago)**
-- [`herald`](https://github.com/taciturnaxolotl/herald) - _rss email digests over ssh because you're a cool kid_ **(4 days ago)**
+- [`dots`](https://github.com/taciturnaxolotl/dots) - _Kieran's opinionated (and ever expanding) nix config_ **(2 days ago)**
+- [`madbadger`](https://github.com/taciturnaxolotl/madbadger) - _MadBadger :3_ **(3 days ago)**
+- [`2026-rebuilt`](https://github.com/df1317/2026-rebuilt) - _pyramid scheme_ **(3 days ago)**
+- [`crush`](https://github.com/charmbracelet/crush) - _Glamourous agentic coding for all 💘_ **(3 days ago)**
+- [`zera`](https://github.com/taciturnaxolotl/zera) - _my new site v4?_ **(4 days ago)**
+- [`herald`](https://github.com/taciturnaxolotl/herald) - _rss email digests over ssh because you're a cool kid_ **(5 days ago)**
 - [`tinkcil`](https://github.com/taciturnaxolotl/tinkcil) - _ironOS native ios app_ **(1 week ago)**
 - [`tangle-of-trust`](https://github.com/taciturnaxolotl/tangle-of-trust) - _tangled vouch map with historical data_ **(1 week ago)**
 
@@ -24,26 +24,26 @@ When not doing school or working on a random project, I enjoy flying drones and 
 
 - [`Reverse engineering the FRC SystemCore image`](https://dunkirk.sh/blog/frc-systemcore-image/) **(3 weeks ago)**
 - [`FRC REBUILT Points Calculator`](https://dunkirk.sh/blog/frc-rebuilt-calculator/) **(4 months ago)**
-- [`Homelab tour`](https://dunkirk.sh/blog/homelab-tour/) **(4 months ago)**
+- [`Homelab tour`](https://dunkirk.sh/blog/homelab-tour/) **(5 months ago)**
 
 #### 📡  My [_`hackatime`_](https://waka.hackclub.com) stats from this week
 
 ```text
 💾 Languages:
-unknown       17h 59m 2s   █████████████████░░░░░░░░  67.20%
-Go            4h 26m 52s   █████░░░░░░░░░░░░░░░░░░░░  16.62%
-Swift         2h 26m 53s   ███░░░░░░░░░░░░░░░░░░░░░░  9.15%
+unknown       18h 3m 2s    █████████████████░░░░░░░░  67.28%
+Go            4h 26m 52s   █████░░░░░░░░░░░░░░░░░░░░  16.58%
+Swift         2h 26m 53s   ███░░░░░░░░░░░░░░░░░░░░░░  9.12%
 JSON          24m 18s      █░░░░░░░░░░░░░░░░░░░░░░░░  1.51%
 Nix           19m 30s      █░░░░░░░░░░░░░░░░░░░░░░░░  1.21%
 
 💼 Projects:
-crush         11h 46m 8s   ████████████░░░░░░░░░░░░░  46.02%
-dots          3h 43m 34s   ████░░░░░░░░░░░░░░░░░░░░░  14.57%
-tinkcil       2h 49m 39s   ███░░░░░░░░░░░░░░░░░░░░░░  11.06%
-hyper         2h 41m 46s   ███░░░░░░░░░░░░░░░░░░░░░░  10.54%
+crush         11h 46m 8s   ████████████░░░░░░░░░░░░░  45.96%
+dots          3h 43m 34s   ████░░░░░░░░░░░░░░░░░░░░░  14.55%
+tinkcil       2h 49m 39s   ███░░░░░░░░░░░░░░░░░░░░░░  11.04%
+hyper         2h 41m 46s   ███░░░░░░░░░░░░░░░░░░░░░░  10.53%
 robot-board   54m 2s       █░░░░░░░░░░░░░░░░░░░░░░░░  3.52%
 
-Total: 23 hrs 19 mins
+Total: 23 hrs 23 mins
 ```
 
 #### 📮  Want to say hi?
