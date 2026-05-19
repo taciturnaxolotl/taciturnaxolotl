@@ -4,11 +4,11 @@ When not doing school or working on a random project, I enjoy flying drones and 
 
 #### 🏗️  The latest repos I've pushed to
 
+- [`crush`](https://github.com/charmbracelet/crush) - _Glamourous agentic coding for all 💘_ **(today)**
 - [`gravitron`](https://github.com/taciturnaxolotl/gravitron) - _project for stasis_ **(1 day ago)**
 - [`dots`](https://github.com/taciturnaxolotl/dots) - _Kieran's opinionated (and ever expanding) nix config_ **(4 days ago)**
 - [`2026-rebuilt`](https://github.com/df1317/2026-rebuilt) - _pyramid scheme_ **(5 days ago)**
 - [`madbadger`](https://github.com/taciturnaxolotl/madbadger) - _MadBadger :3_ **(5 days ago)**
-- [`crush`](https://github.com/charmbracelet/crush) - _Glamourous agentic coding for all 💘_ **(5 days ago)**
 - [`zera`](https://github.com/taciturnaxolotl/zera) - _my new site v4?_ **(6 days ago)**
 - [`herald`](https://github.com/taciturnaxolotl/herald) - _rss email digests over ssh because you're a cool kid_ **(1 week ago)**
 - [`soft-serve`](https://github.com/charmbracelet/soft-serve) - _The mighty, self-hostable Git server for the command line🍦_ **(1 week ago)**
@@ -30,20 +30,20 @@ When not doing school or working on a random project, I enjoy flying drones and 
 
 ```text
 💾 Languages:
-unknown       14h 54m 53s   ███████████████████░░░░░░  72.06%
-Go            4h 1m 41s     █████░░░░░░░░░░░░░░░░░░░░  19.46%
-JavaScript    33m 20s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.68%
-gitcommit     15m 46s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.27%
-Python        13m 8s        █░░░░░░░░░░░░░░░░░░░░░░░░  1.06%
+unknown       15h 20m 54s   ███████████████████░░░░░░  72.29%
+Go            4h 5m 41s     █████░░░░░░░░░░░░░░░░░░░░  19.29%
+JavaScript    33m 20s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.62%
+gitcommit     17m 46s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.39%
+Python        13m 8s        █░░░░░░░░░░░░░░░░░░░░░░░░  1.03%
 
 💼 Projects:
-crush         9h 12m 30s    ████████████░░░░░░░░░░░░░  47.12%
-robot-board   3h 19m 27s    █████░░░░░░░░░░░░░░░░░░░░  17.01%
-hyper         2h 14m 45s    ███░░░░░░░░░░░░░░░░░░░░░░  11.49%
-dots          1h 41m 3s     ███░░░░░░░░░░░░░░░░░░░░░░  8.62%
-server        32m 11s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.74%
+crush         9h 27m 49s    ████████████░░░░░░░░░░░░░  47.29%
+robot-board   3h 19m 27s    █████░░░░░░░░░░░░░░░░░░░░  16.61%
+hyper         2h 25m 28s    ████░░░░░░░░░░░░░░░░░░░░░  12.12%
+dots          1h 41m 3s     ███░░░░░░░░░░░░░░░░░░░░░░  8.42%
+server        32m 11s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.68%
 
-Total: 18 hrs 8 mins
+Total: 18 hrs 37 mins
 ```
 
 #### 📮  Want to say hi?
