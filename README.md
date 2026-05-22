@@ -4,7 +4,7 @@ When not doing school or working on a random project, I enjoy flying drones and 
 
 #### 🏗️  The latest repos I've pushed to
 
-- [`potluck`](https://github.com/taciturnaxolotl/potluck) - _the coolest token api ever_ **(1 day ago)**
+- [`potluck`](https://github.com/taciturnaxolotl/potluck) - _the coolest token api ever_ **(today)**
 - [`dots`](https://github.com/taciturnaxolotl/dots) - _Kieran's opinionated (and ever expanding) nix config_ **(3 days ago)**
 - [`crush`](https://github.com/charmbracelet/crush) - _Glamourous agentic coding for all 💘_ **(3 days ago)**
 - [`gravitron`](https://github.com/taciturnaxolotl/gravitron) - _project for stasis_ **(4 days ago)**
@@ -30,20 +30,20 @@ When not doing school or working on a random project, I enjoy flying drones and 
 
 ```text
 💾 Languages:
-unknown       13h 36m 31s   ███████████████████░░░░░░  73.57%
-Go            2h 28m 9s     ████░░░░░░░░░░░░░░░░░░░░░  13.35%
-JavaScript    45m 14s       ██░░░░░░░░░░░░░░░░░░░░░░░  4.08%
-Nix           23m 53s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.15%
-Ignore List   14m 12s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.28%
+unknown           11h 52m 0s   ███████████████████░░░░░░  73.80%
+Go                1h 55m 20s   ███░░░░░░░░░░░░░░░░░░░░░░  11.95%
+JavaScript        45m 14s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.69%
+Nix               21m 41s      █░░░░░░░░░░░░░░░░░░░░░░░░  2.25%
+Shell             15m 59s      █░░░░░░░░░░░░░░░░░░░░░░░░  1.66%
 
 💼 Projects:
-crush         6h 28m 39s    ██████████░░░░░░░░░░░░░░░  38.30%
-robot-board   3h 19m 27s    █████░░░░░░░░░░░░░░░░░░░░  19.66%
-hyper         1h 25m 7s     ███░░░░░░░░░░░░░░░░░░░░░░  8.39%
-potluck       1h 4m 42s     ██░░░░░░░░░░░░░░░░░░░░░░░  6.38%
-dots          53m 0s        ██░░░░░░░░░░░░░░░░░░░░░░░  5.22%
+crush             4h 32m 7s    ████████░░░░░░░░░░░░░░░░░  31.61%
+robot-board       3h 19m 27s   ██████░░░░░░░░░░░░░░░░░░░  23.17%
+potluck           1h 43m 21s   ████░░░░░░░░░░░░░░░░░░░░░  12.01%
+hyper             1h 18m 32s   ███░░░░░░░░░░░░░░░░░░░░░░  9.12%
+docs.charm.land   45m 50s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.32%
 
-Total: 15 hrs 52 mins
+Total: 13 hrs 40 mins
 ```
 
 #### 📮  Want to say hi?
