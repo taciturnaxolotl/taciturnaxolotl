@@ -4,14 +4,14 @@ When not doing school or working on a random project, I enjoy flying drones and 
 
 #### 🏗️  The latest repos I've pushed to
 
-- [`crush`](https://github.com/charmbracelet/crush) - _Glamourous agentic coding for all 💘_ **(2 days ago)**
-- [`dots`](https://github.com/taciturnaxolotl/dots) - _Kieran's opinionated (and ever expanding) nix config_ **(2 days ago)**
-- [`gravitron`](https://github.com/taciturnaxolotl/gravitron) - _project for stasis_ **(3 days ago)**
-- [`2026-rebuilt`](https://github.com/df1317/2026-rebuilt) - _pyramid scheme_ **(1 week ago)**
+- [`potluck`](https://github.com/taciturnaxolotl/potluck) - _the coolest token api ever_ **(1 day ago)**
+- [`dots`](https://github.com/taciturnaxolotl/dots) - _Kieran's opinionated (and ever expanding) nix config_ **(3 days ago)**
+- [`crush`](https://github.com/charmbracelet/crush) - _Glamourous agentic coding for all 💘_ **(3 days ago)**
+- [`gravitron`](https://github.com/taciturnaxolotl/gravitron) - _project for stasis_ **(4 days ago)**
 - [`madbadger`](https://github.com/taciturnaxolotl/madbadger) - _MadBadger :3_ **(1 week ago)**
+- [`2026-rebuilt`](https://github.com/df1317/2026-rebuilt) - _pyramid scheme_ **(1 week ago)**
 - [`zera`](https://github.com/taciturnaxolotl/zera) - _my new site v4?_ **(1 week ago)**
 - [`herald`](https://github.com/taciturnaxolotl/herald) - _rss email digests over ssh because you're a cool kid_ **(1 week ago)**
-- [`tinkcil`](https://github.com/taciturnaxolotl/tinkcil) - _ironOS native ios app_ **(1 week ago)**
 
 #### 📦  My latest projects
 
@@ -30,20 +30,20 @@ When not doing school or working on a random project, I enjoy flying drones and 
 
 ```text
 💾 Languages:
-unknown           12h 38m 38s   ███████████████████░░░░░░  72.94%
-Go                2h 25m 36s    ████░░░░░░░░░░░░░░░░░░░░░  14.00%
-JavaScript        45m 14s       ██░░░░░░░░░░░░░░░░░░░░░░░  4.35%
-Nix               23m 53s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.30%
-Ignore List       14m 12s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.37%
+unknown       13h 36m 31s   ███████████████████░░░░░░  73.57%
+Go            2h 28m 9s     ████░░░░░░░░░░░░░░░░░░░░░  13.35%
+JavaScript    45m 14s       ██░░░░░░░░░░░░░░░░░░░░░░░  4.08%
+Nix           23m 53s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.15%
+Ignore List   14m 12s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.28%
 
 💼 Projects:
-crush             6h 26m 39s    ███████████░░░░░░░░░░░░░░  40.70%
-robot-board       3h 19m 27s    ██████░░░░░░░░░░░░░░░░░░░  21.00%
-hyper             1h 18m 41s    ███░░░░░░░░░░░░░░░░░░░░░░  8.28%
-dots              53m 0s        ██░░░░░░░░░░░░░░░░░░░░░░░  5.58%
-docs.charm.land   45m 50s       ██░░░░░░░░░░░░░░░░░░░░░░░  4.82%
+crush         6h 28m 39s    ██████████░░░░░░░░░░░░░░░  38.30%
+robot-board   3h 19m 27s    █████░░░░░░░░░░░░░░░░░░░░  19.66%
+hyper         1h 25m 7s     ███░░░░░░░░░░░░░░░░░░░░░░  8.39%
+potluck       1h 4m 42s     ██░░░░░░░░░░░░░░░░░░░░░░░  6.38%
+dots          53m 0s        ██░░░░░░░░░░░░░░░░░░░░░░░  5.22%
 
-Total: 14 hrs 52 mins
+Total: 15 hrs 52 mins
 ```
 
 #### 📮  Want to say hi?
