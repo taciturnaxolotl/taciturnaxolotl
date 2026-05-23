@@ -4,8 +4,8 @@ When not doing school or working on a random project, I enjoy flying drones and 
 
 #### 🏗️  The latest repos I've pushed to
 
-- [`gravitron`](https://github.com/taciturnaxolotl/gravitron) - _project for stasis_ **(today)**
 - [`potluck`](https://github.com/taciturnaxolotl/potluck) - _the coolest token api ever_ **(today)**
+- [`gravitron`](https://github.com/taciturnaxolotl/gravitron) - _project for stasis_ **(today)**
 - [`dots`](https://github.com/taciturnaxolotl/dots) - _Kieran's opinionated (and ever expanding) nix config_ **(1 day ago)**
 - [`crush`](https://github.com/charmbracelet/crush) - _Glamourous agentic coding for all 💘_ **(1 day ago)**
 - [`2026-rebuilt`](https://github.com/df1317/2026-rebuilt) - _pyramid scheme_ **(1 week ago)**
@@ -30,20 +30,20 @@ When not doing school or working on a random project, I enjoy flying drones and 
 
 ```text
 💾 Languages:
-unknown       15h 7m 37s   ███████████████████░░░░░░  73.11%
-Go            2h 45m 20s   ████░░░░░░░░░░░░░░░░░░░░░  13.32%
-JavaScript    56m 3s       ██░░░░░░░░░░░░░░░░░░░░░░░  4.51%
-JSON          28m 16s      █░░░░░░░░░░░░░░░░░░░░░░░░  2.28%
-Nix           19m 41s      █░░░░░░░░░░░░░░░░░░░░░░░░  1.59%
+unknown       15h 16m 37s   ███████████████████░░░░░░  73.19%
+Go            2h 45m 20s    ████░░░░░░░░░░░░░░░░░░░░░  13.20%
+JavaScript    58m 3s        ██░░░░░░░░░░░░░░░░░░░░░░░  4.63%
+JSON          28m 16s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.26%
+Nix           19m 41s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.57%
 
 💼 Projects:
-crush         6h 43m 19s   █████████░░░░░░░░░░░░░░░░  35.94%
-robot-board   3h 21m 38s   █████░░░░░░░░░░░░░░░░░░░░  17.97%
-potluck       2h 36m 32s   ████░░░░░░░░░░░░░░░░░░░░░  13.95%
-hyper         1h 31m 42s   ███░░░░░░░░░░░░░░░░░░░░░░  8.17%
-server        1h 9m 43s    ██░░░░░░░░░░░░░░░░░░░░░░░  6.21%
+crush         6h 50m 15s    ██████████░░░░░░░░░░░░░░░  36.20%
+robot-board   3h 21m 38s    █████░░░░░░░░░░░░░░░░░░░░  17.79%
+potluck       2h 38m 32s    ████░░░░░░░░░░░░░░░░░░░░░  13.99%
+hyper         1h 31m 42s    ███░░░░░░░░░░░░░░░░░░░░░░  8.09%
+server        1h 11m 52s    ██░░░░░░░░░░░░░░░░░░░░░░░  6.34%
 
-Total: 17 hrs 31 mins
+Total: 17 hrs 40 mins
 ```
 
 #### 📮  Want to say hi?
