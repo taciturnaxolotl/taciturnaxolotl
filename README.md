@@ -6,8 +6,8 @@ When not doing school or working on a random project, I enjoy flying drones and 
 
 - [`fantasy`](https://github.com/charmbracelet/fantasy) - _Build AI agents with Go. Multiple providers, multiple models, one API. 🧙_ **(today)**
 - [`dots`](https://github.com/taciturnaxolotl/dots) - _Kieran's opinionated (and ever expanding) nix config_ **(today)**
+- [`crush`](https://github.com/charmbracelet/crush) - _Glamourous agentic coding for all 💘_ **(today)**
 - [`herald`](https://github.com/taciturnaxolotl/herald) - _rss email digests over ssh because you're a cool kid_ **(today)**
-- [`crush`](https://github.com/charmbracelet/crush) - _Glamourous agentic coding for all 💘_ **(1 day ago)**
 - [`potluck`](https://github.com/taciturnaxolotl/potluck) - _the coolest token api ever_ **(3 days ago)**
 - [`x`](https://github.com/charmbracelet/x) - _Charm experimental packages_ **(3 days ago)**
 - [`gravitron`](https://github.com/taciturnaxolotl/gravitron) - _project for stasis_ **(6 days ago)**
@@ -30,20 +30,20 @@ When not doing school or working on a random project, I enjoy flying drones and 
 
 ```text
 💾 Languages:
-unknown    23h 23m 40s   ███████████████░░░░░░░░░░  57.85%
-Go         7h 29m 24s    █████░░░░░░░░░░░░░░░░░░░░  18.52%
-Svelte     3h 20m 11s    ███░░░░░░░░░░░░░░░░░░░░░░  8.25%
-Markdown   1h 15m 12s    █░░░░░░░░░░░░░░░░░░░░░░░░  3.10%
-JSON       1h 9m 45s     █░░░░░░░░░░░░░░░░░░░░░░░░  2.87%
+unknown    23h 49m 51s   ███████████████░░░░░░░░░░  58.03%
+Go         7h 41m 8s     █████░░░░░░░░░░░░░░░░░░░░  18.71%
+Svelte     3h 20m 11s    ███░░░░░░░░░░░░░░░░░░░░░░  8.12%
+Markdown   1h 15m 12s    █░░░░░░░░░░░░░░░░░░░░░░░░  3.05%
+JSON       1h 9m 45s     █░░░░░░░░░░░░░░░░░░░░░░░░  2.83%
 
 💼 Projects:
-crush      12h 56m 23s   █████████░░░░░░░░░░░░░░░░  34.78%
-potluck    11h 22m 47s   ████████░░░░░░░░░░░░░░░░░  30.59%
-dots       4h 18m 54s    ███░░░░░░░░░░░░░░░░░░░░░░  11.60%
-hyper      2h 15m 55s    ██░░░░░░░░░░░░░░░░░░░░░░░  6.09%
-kierank    1h 17m 56s    █░░░░░░░░░░░░░░░░░░░░░░░░  3.49%
+crush      13h 22m 45s   █████████░░░░░░░░░░░░░░░░  35.43%
+potluck    11h 22m 47s   ████████░░░░░░░░░░░░░░░░░  30.14%
+dots       4h 18m 54s    ███░░░░░░░░░░░░░░░░░░░░░░  11.43%
+hyper      2h 18m 46s    ██░░░░░░░░░░░░░░░░░░░░░░░  6.13%
+kierank    1h 17m 56s    █░░░░░░░░░░░░░░░░░░░░░░░░  3.44%
 
-Total: 31 hrs 10 mins
+Total: 31 hrs 40 mins
 ```
 
 #### 📮  Want to say hi?
