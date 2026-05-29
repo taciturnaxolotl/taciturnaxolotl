@@ -4,11 +4,11 @@ When not doing school or working on a random project, I enjoy flying drones and 
 
 #### 🏗️  The latest repos I've pushed to
 
-- [`crush`](https://github.com/charmbracelet/crush) - _Glamourous agentic coding for all 💘_ **(today)**
-- [`dots`](https://github.com/taciturnaxolotl/dots) - _Kieran's opinionated (and ever expanding) nix config_ **(today)**
-- [`potluck`](https://github.com/taciturnaxolotl/potluck) - _the coolest token api ever_ **(2 days ago)**
-- [`herald`](https://github.com/taciturnaxolotl/herald) - _rss email digests over ssh because you're a cool kid_ **(4 days ago)**
-- [`gravitron`](https://github.com/taciturnaxolotl/gravitron) - _project for stasis_ **(5 days ago)**
+- [`crush`](https://github.com/charmbracelet/crush) - _Glamourous agentic coding for all 💘_ **(1 day ago)**
+- [`dots`](https://github.com/taciturnaxolotl/dots) - _Kieran's opinionated (and ever expanding) nix config_ **(1 day ago)**
+- [`potluck`](https://github.com/taciturnaxolotl/potluck) - _the coolest token api ever_ **(3 days ago)**
+- [`herald`](https://github.com/taciturnaxolotl/herald) - _rss email digests over ssh because you're a cool kid_ **(5 days ago)**
+- [`gravitron`](https://github.com/taciturnaxolotl/gravitron) - _project for stasis_ **(6 days ago)**
 - [`madbadger`](https://github.com/taciturnaxolotl/madbadger) - _MadBadger :3_ **(2 weeks ago)**
 - [`2026-rebuilt`](https://github.com/df1317/2026-rebuilt) - _pyramid scheme_ **(2 weeks ago)**
 - [`zera`](https://github.com/taciturnaxolotl/zera) - _my new site v4?_ **(2 weeks ago)**
@@ -30,20 +30,20 @@ When not doing school or working on a random project, I enjoy flying drones and 
 
 ```text
 💾 Languages:
-unknown    23h 29m 56s   ███████████████░░░░░░░░░░  57.82%
-Go         7h 23m 51s    █████░░░░░░░░░░░░░░░░░░░░  18.20%
-Svelte     3h 20m 11s    ███░░░░░░░░░░░░░░░░░░░░░░  8.21%
+unknown    23h 31m 56s   ███████████████░░░░░░░░░░  57.86%
+Go         7h 23m 51s    █████░░░░░░░░░░░░░░░░░░░░  18.19%
+Svelte     3h 20m 11s    ███░░░░░░░░░░░░░░░░░░░░░░  8.20%
 JSON       1h 19m 51s    █░░░░░░░░░░░░░░░░░░░░░░░░  3.27%
-Markdown   1h 17m 12s    █░░░░░░░░░░░░░░░░░░░░░░░░  3.17%
+Markdown   1h 17m 12s    █░░░░░░░░░░░░░░░░░░░░░░░░  3.16%
 
 💼 Projects:
-potluck    12h 25m 30s   █████████░░░░░░░░░░░░░░░░  33.44%
-crush      11h 55m 54s   █████████░░░░░░░░░░░░░░░░  32.11%
-dots       4h 13m 41s    ███░░░░░░░░░░░░░░░░░░░░░░  11.38%
+potluck    12h 25m 30s   █████████░░░░░░░░░░░░░░░░  33.41%
+crush      11h 57m 54s   █████████░░░░░░░░░░░░░░░░  32.17%
+dots       4h 13m 41s    ███░░░░░░░░░░░░░░░░░░░░░░  11.37%
 hyper      2h 2m 40s     ██░░░░░░░░░░░░░░░░░░░░░░░  5.50%
-kierank    1h 19m 56s    █░░░░░░░░░░░░░░░░░░░░░░░░  3.59%
+kierank    1h 19m 56s    █░░░░░░░░░░░░░░░░░░░░░░░░  3.58%
 
-Total: 31 hrs 20 mins
+Total: 31 hrs 22 mins
 ```
 
 #### 📮  Want to say hi?
