@@ -4,14 +4,14 @@ When not doing school or working on a random project, I enjoy flying drones and 
 
 #### 🏗️  The latest repos I've pushed to
 
+- [`cull`](https://github.com/taciturnaxolotl/cull) - _as the title says; culls raw photos_ **(today)**
+- [`herald`](https://github.com/taciturnaxolotl/herald) - _rss email digests over ssh because you're a cool kid_ **(1 day ago)**
 - [`fantasy`](https://github.com/charmbracelet/fantasy) - _Build AI agents with Go. Multiple providers, multiple models, one API. 🧙_ **(1 day ago)**
 - [`dots`](https://github.com/taciturnaxolotl/dots) - _Kieran's opinionated (and ever expanding) nix config_ **(1 day ago)**
 - [`crush`](https://github.com/charmbracelet/crush) - _Glamourous agentic coding for all 💘_ **(1 day ago)**
-- [`herald`](https://github.com/taciturnaxolotl/herald) - _rss email digests over ssh because you're a cool kid_ **(1 day ago)**
 - [`potluck`](https://github.com/taciturnaxolotl/potluck) - _the coolest token api ever_ **(4 days ago)**
 - [`x`](https://github.com/charmbracelet/x) - _Charm experimental packages_ **(4 days ago)**
 - [`gravitron`](https://github.com/taciturnaxolotl/gravitron) - _project for stasis_ **(1 week ago)**
-- [`2026-rebuilt`](https://github.com/df1317/2026-rebuilt) - _pyramid scheme_ **(2 weeks ago)**
 
 #### 📦  My latest projects
 
@@ -30,20 +30,20 @@ When not doing school or working on a random project, I enjoy flying drones and 
 
 ```text
 💾 Languages:
-unknown    20h 55m 47s   ███████████████░░░░░░░░░░  56.67%
-Go         6h 57m 30s    █████░░░░░░░░░░░░░░░░░░░░  18.84%
-Svelte     3h 20m 11s    ███░░░░░░░░░░░░░░░░░░░░░░  9.03%
-Markdown   1h 11m 5s     █░░░░░░░░░░░░░░░░░░░░░░░░  3.21%
-JSON       58m 47s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.65%
+unknown    21h 15m 57s   ███████████████░░░░░░░░░░  57.01%
+Go         6h 59m 30s    █████░░░░░░░░░░░░░░░░░░░░  18.74%
+Svelte     3h 20m 11s    ███░░░░░░░░░░░░░░░░░░░░░░  8.95%
+Markdown   1h 11m 5s     █░░░░░░░░░░░░░░░░░░░░░░░░  3.18%
+JSON       58m 47s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.63%
 
 💼 Projects:
-crush      11h 46m 3s    █████████░░░░░░░░░░░░░░░░  34.67%
-potluck    10h 29m 23s   ████████░░░░░░░░░░░░░░░░░  30.91%
-dots       4h 4m 15s     ███░░░░░░░░░░░░░░░░░░░░░░  11.99%
-hyper      2h 5m 36s     ██░░░░░░░░░░░░░░░░░░░░░░░  6.17%
-kierank    1h 10m 44s    █░░░░░░░░░░░░░░░░░░░░░░░░  3.47%
+crush      11h 56m 8s    █████████░░░░░░░░░░░░░░░░  34.83%
+potluck    10h 29m 23s   ████████░░░░░░░░░░░░░░░░░  30.61%
+dots       4h 4m 15s     ███░░░░░░░░░░░░░░░░░░░░░░  11.88%
+hyper      2h 5m 36s     ██░░░░░░░░░░░░░░░░░░░░░░░  6.11%
+kierank    1h 10m 44s    █░░░░░░░░░░░░░░░░░░░░░░░░  3.44%
 
-Total: 28 hrs 15 mins
+Total: 28 hrs 35 mins
 ```
 
 #### 📮  Want to say hi?
