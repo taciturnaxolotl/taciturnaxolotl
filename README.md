@@ -4,14 +4,14 @@ When not doing school or working on a random project, I enjoy flying drones and 
 
 #### 🏗️  The latest repos I've pushed to
 
+- [`zera`](https://github.com/taciturnaxolotl/zera) - _my new site v4?_ **(today)**
 - [`cull`](https://github.com/taciturnaxolotl/cull) - _as the title says; culls raw photos_ **(1 day ago)**
-- [`herald`](https://github.com/taciturnaxolotl/herald) - _rss email digests over ssh because you're a cool kid_ **(2 days ago)**
-- [`fantasy`](https://github.com/charmbracelet/fantasy) - _Build AI agents with Go. Multiple providers, multiple models, one API. 🧙_ **(2 days ago)**
-- [`dots`](https://github.com/taciturnaxolotl/dots) - _Kieran's opinionated (and ever expanding) nix config_ **(2 days ago)**
 - [`crush`](https://github.com/charmbracelet/crush) - _Glamourous agentic coding for all 💘_ **(2 days ago)**
-- [`potluck`](https://github.com/taciturnaxolotl/potluck) - _the coolest token api ever_ **(5 days ago)**
+- [`dots`](https://github.com/taciturnaxolotl/dots) - _Kieran's opinionated (and ever expanding) nix config_ **(2 days ago)**
+- [`fantasy`](https://github.com/charmbracelet/fantasy) - _Build AI agents with Go. Multiple providers, multiple models, one API. 🧙_ **(2 days ago)**
+- [`herald`](https://github.com/taciturnaxolotl/herald) - _rss email digests over ssh because you're a cool kid_ **(2 days ago)**
 - [`x`](https://github.com/charmbracelet/x) - _Charm experimental packages_ **(5 days ago)**
-- [`gravitron`](https://github.com/taciturnaxolotl/gravitron) - _project for stasis_ **(1 week ago)**
+- [`potluck`](https://github.com/taciturnaxolotl/potluck) - _the coolest token api ever_ **(5 days ago)**
 
 #### 📦  My latest projects
 
@@ -30,20 +30,20 @@ When not doing school or working on a random project, I enjoy flying drones and 
 
 ```text
 💾 Languages:
-unknown      19h 25m 48s   ███████████████░░░░░░░░░░  56.77%
-Go           6h 48m 30s    █████░░░░░░░░░░░░░░░░░░░░  19.89%
-Svelte       3h 7m 2s      ███░░░░░░░░░░░░░░░░░░░░░░  9.11%
-Markdown     1h 9m 5s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.36%
-TypeScript   50m 30s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.46%
+unknown    19h 36m 49s   ███████████████░░░░░░░░░░  56.88%
+Go         6h 48m 30s    █████░░░░░░░░░░░░░░░░░░░░  19.74%
+Svelte     3h 7m 2s      ███░░░░░░░░░░░░░░░░░░░░░░  9.04%
+Markdown   1h 9m 5s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.34%
+JSON       51m 45s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.50%
 
 💼 Projects:
-crush        11h 48m 48s   ██████████░░░░░░░░░░░░░░░  37.42%
-potluck      7h 39m 18s    ███████░░░░░░░░░░░░░░░░░░  24.25%
-dots         3h 49m 5s     ████░░░░░░░░░░░░░░░░░░░░░  12.09%
-hyper        2h 7m 44s     ██░░░░░░░░░░░░░░░░░░░░░░░  6.74%
-kierank      1h 10m 44s    █░░░░░░░░░░░░░░░░░░░░░░░░  3.73%
+crush      11h 48m 48s   ██████████░░░░░░░░░░░░░░░  37.19%
+potluck    7h 39m 18s    ███████░░░░░░░░░░░░░░░░░░  24.10%
+dots       3h 49m 5s     ████░░░░░░░░░░░░░░░░░░░░░  12.02%
+hyper      2h 12m 5s     ██░░░░░░░░░░░░░░░░░░░░░░░  6.93%
+kierank    1h 10m 44s    █░░░░░░░░░░░░░░░░░░░░░░░░  3.71%
 
-Total: 26 hrs 18 mins
+Total: 26 hrs 29 mins
 ```
 
 #### 📮  Want to say hi?
