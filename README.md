@@ -4,21 +4,21 @@ When not doing school or working on a random project, I enjoy flying drones and 
 
 #### 🏗️  The latest repos I've pushed to
 
-- [`catwalk`](https://github.com/charmbracelet/catwalk) - _🐈 A collection of LLM inference providers and models _ **(today)**
-- [`dots`](https://github.com/taciturnaxolotl/dots) - _Kieran's opinionated (and ever expanding) nix config_ **(1 day ago)**
-- [`indigestion`](https://github.com/taciturnaxolotl/indigestion) - _dvds go brrrr_ **(1 day ago)**
-- [`zera`](https://github.com/taciturnaxolotl/zera) - _my new site v4?_ **(1 day ago)**
-- [`cull`](https://github.com/taciturnaxolotl/cull) - _as the title says; culls raw photos_ **(2 days ago)**
-- [`fantasy`](https://github.com/charmbracelet/fantasy) - _Build AI agents with Go. Multiple providers, multiple models, one API. 🧙_ **(3 days ago)**
-- [`herald`](https://github.com/taciturnaxolotl/herald) - _rss email digests over ssh because you're a cool kid_ **(3 days ago)**
-- [`crush`](https://github.com/charmbracelet/crush) - _Glamourous agentic coding for all 💘_ **(3 days ago)**
+- [`cxp-testbed`](https://github.com/taciturnaxolotl/cxp-testbed) - _coolio project_ **(1 day ago)**
+- [`catwalk`](https://github.com/charmbracelet/catwalk) - _🐈 A collection of LLM inference providers and models _ **(1 day ago)**
+- [`zera`](https://github.com/taciturnaxolotl/zera) - _my new site v4?_ **(2 days ago)**
+- [`dots`](https://github.com/taciturnaxolotl/dots) - _Kieran's opinionated (and ever expanding) nix config_ **(2 days ago)**
+- [`indigestion`](https://github.com/taciturnaxolotl/indigestion) - _dvds go brrrr_ **(2 days ago)**
+- [`cull`](https://github.com/taciturnaxolotl/cull) - _as the title says; culls raw photos_ **(3 days ago)**
+- [`crush`](https://github.com/charmbracelet/crush) - _Glamourous agentic coding for all 💘_ **(4 days ago)**
+- [`herald`](https://github.com/taciturnaxolotl/herald) - _rss email digests over ssh because you're a cool kid_ **(4 days ago)**
 
 #### 📦  My latest projects
 
+- [`cxp-testbed`](https://github.com/taciturnaxolotl/cxp-testbed) - _coolio project_
 - [`indigestion`](https://github.com/taciturnaxolotl/indigestion) - _dvds go brrrr_
 - [`potluck`](https://github.com/taciturnaxolotl/potluck) - _the coolest token api ever_
 - [`gravitron`](https://github.com/taciturnaxolotl/gravitron) - _project for stasis_
-- [`tangle-of-trust`](https://github.com/taciturnaxolotl/tangle-of-trust) - _tangled vouch map with historical data_
 
 #### 🪧  The latest posts from [`dunkirk.sh`](https://dunkirk.sh)
 
@@ -30,20 +30,20 @@ When not doing school or working on a random project, I enjoy flying drones and 
 
 ```text
 💾 Languages:
-unknown    21h 58m 1s   █████████████████░░░░░░░░  64.82%
-Go         5h 31m 42s   █████░░░░░░░░░░░░░░░░░░░░  16.31%
-Svelte     1h 24m 9s    ██░░░░░░░░░░░░░░░░░░░░░░░  4.14%
-Nix        1h 11m 53s   █░░░░░░░░░░░░░░░░░░░░░░░░  3.54%
-Markdown   1h 1m 56s    █░░░░░░░░░░░░░░░░░░░░░░░░  3.05%
+unknown    22h 54m 18s   █████████████████░░░░░░░░  64.16%
+Go         6h 6m 23s     █████░░░░░░░░░░░░░░░░░░░░  17.11%
+Svelte     1h 24m 9s     █░░░░░░░░░░░░░░░░░░░░░░░░  3.93%
+Nix        1h 11m 53s    █░░░░░░░░░░░░░░░░░░░░░░░░  3.36%
+Markdown   1h 7m 50s     █░░░░░░░░░░░░░░░░░░░░░░░░  3.17%
 
 💼 Projects:
-crush      14h 52m 4s   ████████████░░░░░░░░░░░░░  45.99%
-dots       3h 17m 52s   ███░░░░░░░░░░░░░░░░░░░░░░  10.20%
-hyper      2h 36m 35s   ███░░░░░░░░░░░░░░░░░░░░░░  8.07%
-potluck    2h 12m 10s   ██░░░░░░░░░░░░░░░░░░░░░░░  6.81%
-frc-nix    1h 51m 25s   ██░░░░░░░░░░░░░░░░░░░░░░░  5.74%
+crush      16h 3m 8s     ████████████░░░░░░░░░░░░░  47.11%
+dots       3h 17m 52s    ███░░░░░░░░░░░░░░░░░░░░░░  9.68%
+hyper      2h 36m 35s    ██░░░░░░░░░░░░░░░░░░░░░░░  7.66%
+potluck    2h 12m 10s    ██░░░░░░░░░░░░░░░░░░░░░░░  6.46%
+frc-nix    1h 51m 25s    ██░░░░░░░░░░░░░░░░░░░░░░░  5.45%
 
-Total: 26 hrs 38 mins
+Total: 28 hrs 10 mins
 ```
 
 #### 📮  Want to say hi?
