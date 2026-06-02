@@ -4,13 +4,13 @@ When not doing school or working on a random project, I enjoy flying drones and 
 
 #### 🏗️  The latest repos I've pushed to
 
-- [`cxp-testbed`](https://github.com/taciturnaxolotl/cxp-testbed) - _coolio project_ **(1 day ago)**
 - [`catwalk`](https://github.com/charmbracelet/catwalk) - _🐈 A collection of LLM inference providers and models _ **(1 day ago)**
+- [`cxp-testbed`](https://github.com/taciturnaxolotl/cxp-testbed) - _coolio project_ **(1 day ago)**
 - [`zera`](https://github.com/taciturnaxolotl/zera) - _my new site v4?_ **(2 days ago)**
 - [`dots`](https://github.com/taciturnaxolotl/dots) - _Kieran's opinionated (and ever expanding) nix config_ **(2 days ago)**
 - [`indigestion`](https://github.com/taciturnaxolotl/indigestion) - _dvds go brrrr_ **(2 days ago)**
 - [`cull`](https://github.com/taciturnaxolotl/cull) - _as the title says; culls raw photos_ **(3 days ago)**
-- [`crush`](https://github.com/charmbracelet/crush) - _Glamourous agentic coding for all 💘_ **(4 days ago)**
+- [`fantasy`](https://github.com/charmbracelet/fantasy) - _Build AI agents with Go. Multiple providers, multiple models, one API. 🧙_ **(4 days ago)**
 - [`herald`](https://github.com/taciturnaxolotl/herald) - _rss email digests over ssh because you're a cool kid_ **(4 days ago)**
 
 #### 📦  My latest projects
@@ -30,20 +30,20 @@ When not doing school or working on a random project, I enjoy flying drones and 
 
 ```text
 💾 Languages:
-unknown    22h 54m 18s   █████████████████░░░░░░░░  64.16%
-Go         6h 6m 23s     █████░░░░░░░░░░░░░░░░░░░░  17.11%
-Svelte     1h 24m 9s     █░░░░░░░░░░░░░░░░░░░░░░░░  3.93%
-Nix        1h 11m 53s    █░░░░░░░░░░░░░░░░░░░░░░░░  3.36%
-Markdown   1h 7m 50s     █░░░░░░░░░░░░░░░░░░░░░░░░  3.17%
+unknown       21h 12m 58s   █████████████████░░░░░░░░  65.12%
+Go            5h 56m 26s    █████░░░░░░░░░░░░░░░░░░░░  18.23%
+Nix           1h 6m 32s     █░░░░░░░░░░░░░░░░░░░░░░░░  3.40%
+Markdown      1h 0m 24s     █░░░░░░░░░░░░░░░░░░░░░░░░  3.09%
+Swift         54m 21s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.78%
 
 💼 Projects:
-crush      16h 3m 8s     ████████████░░░░░░░░░░░░░  47.11%
-dots       3h 17m 52s    ███░░░░░░░░░░░░░░░░░░░░░░  9.68%
-hyper      2h 36m 35s    ██░░░░░░░░░░░░░░░░░░░░░░░  7.66%
-potluck    2h 12m 10s    ██░░░░░░░░░░░░░░░░░░░░░░░  6.46%
-frc-nix    1h 51m 25s    ██░░░░░░░░░░░░░░░░░░░░░░░  5.45%
+crush         16h 25m 9s    ██████████████░░░░░░░░░░░  53.48%
+hyper         2h 36m 35s    ███░░░░░░░░░░░░░░░░░░░░░░  8.50%
+dots          1h 55m 35s    ██░░░░░░░░░░░░░░░░░░░░░░░  6.27%
+frc-nix       1h 49m 25s    ██░░░░░░░░░░░░░░░░░░░░░░░  5.94%
+indigestion   1h 18m 31s    ██░░░░░░░░░░░░░░░░░░░░░░░  4.26%
 
-Total: 28 hrs 10 mins
+Total: 25 hrs 39 mins
 ```
 
 #### 📮  Want to say hi?
