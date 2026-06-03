@@ -4,14 +4,14 @@ When not doing school or working on a random project, I enjoy flying drones and 
 
 #### 🏗️  The latest repos I've pushed to
 
-- [`catwalk`](https://github.com/charmbracelet/catwalk) - _🐈 A collection of LLM inference providers and models _ **(1 day ago)**
-- [`cxp-testbed`](https://github.com/taciturnaxolotl/cxp-testbed) - _coolio project_ **(1 day ago)**
-- [`zera`](https://github.com/taciturnaxolotl/zera) - _my new site v4?_ **(2 days ago)**
-- [`dots`](https://github.com/taciturnaxolotl/dots) - _Kieran's opinionated (and ever expanding) nix config_ **(2 days ago)**
-- [`indigestion`](https://github.com/taciturnaxolotl/indigestion) - _dvds go brrrr_ **(2 days ago)**
-- [`cull`](https://github.com/taciturnaxolotl/cull) - _as the title says; culls raw photos_ **(3 days ago)**
-- [`fantasy`](https://github.com/charmbracelet/fantasy) - _Build AI agents with Go. Multiple providers, multiple models, one API. 🧙_ **(4 days ago)**
-- [`herald`](https://github.com/taciturnaxolotl/herald) - _rss email digests over ssh because you're a cool kid_ **(4 days ago)**
+- [`catwalk`](https://github.com/charmbracelet/catwalk) - _🐈 A collection of LLM inference providers and models _ **(2 days ago)**
+- [`cxp-testbed`](https://github.com/taciturnaxolotl/cxp-testbed) - _coolio project_ **(2 days ago)**
+- [`zera`](https://github.com/taciturnaxolotl/zera) - _my new site v4?_ **(3 days ago)**
+- [`dots`](https://github.com/taciturnaxolotl/dots) - _Kieran's opinionated (and ever expanding) nix config_ **(3 days ago)**
+- [`indigestion`](https://github.com/taciturnaxolotl/indigestion) - _dvds go brrrr_ **(3 days ago)**
+- [`cull`](https://github.com/taciturnaxolotl/cull) - _as the title says; culls raw photos_ **(4 days ago)**
+- [`fantasy`](https://github.com/charmbracelet/fantasy) - _Build AI agents with Go. Multiple providers, multiple models, one API. 🧙_ **(5 days ago)**
+- [`herald`](https://github.com/taciturnaxolotl/herald) - _rss email digests over ssh because you're a cool kid_ **(5 days ago)**
 
 #### 📦  My latest projects
 
@@ -30,20 +30,20 @@ When not doing school or working on a random project, I enjoy flying drones and 
 
 ```text
 💾 Languages:
-unknown       22h 54m 1s    ████████████████░░░░░░░░░  62.88%
-Go            8h 5m 34s     ██████░░░░░░░░░░░░░░░░░░░  22.22%
-Nix           1h 6m 32s     █░░░░░░░░░░░░░░░░░░░░░░░░  3.05%
-Markdown      1h 0m 24s     █░░░░░░░░░░░░░░░░░░░░░░░░  2.76%
-Swift         54m 21s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.49%
+unknown       23h 11m 50s   ████████████████░░░░░░░░░  61.92%
+Go            8h 50m 30s    ██████░░░░░░░░░░░░░░░░░░░  23.60%
+Nix           1h 6m 32s     █░░░░░░░░░░░░░░░░░░░░░░░░  2.96%
+Markdown      1h 0m 24s     █░░░░░░░░░░░░░░░░░░░░░░░░  2.69%
+Swift         54m 21s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.42%
 
 💼 Projects:
-crush         19h 36m 30s   ███████████████░░░░░░░░░░  57.05%
-hyper         2h 53m 23s    ███░░░░░░░░░░░░░░░░░░░░░░  8.41%
-dots          1h 55m 35s    ██░░░░░░░░░░░░░░░░░░░░░░░  5.60%
-frc-nix       1h 49m 25s    ██░░░░░░░░░░░░░░░░░░░░░░░  5.31%
-indigestion   1h 18m 31s    █░░░░░░░░░░░░░░░░░░░░░░░░  3.81%
+crush         20h 36m 57s   ███████████████░░░░░░░░░░  58.27%
+hyper         2h 53m 23s    ███░░░░░░░░░░░░░░░░░░░░░░  8.17%
+dots          1h 55m 35s    ██░░░░░░░░░░░░░░░░░░░░░░░  5.45%
+frc-nix       1h 49m 25s    ██░░░░░░░░░░░░░░░░░░░░░░░  5.15%
+indigestion   1h 18m 31s    █░░░░░░░░░░░░░░░░░░░░░░░░  3.70%
 
-Total: 28 hrs 58 mins
+Total: 29 hrs 59 mins
 ```
 
 #### 📮  Want to say hi?
