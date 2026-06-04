@@ -4,14 +4,14 @@ When not doing school or working on a random project, I enjoy flying drones and 
 
 #### 🏗️  The latest repos I've pushed to
 
-- [`dots`](https://github.com/taciturnaxolotl/dots) - _Kieran's opinionated (and ever expanding) nix config_ **(today)**
-- [`cachet`](https://github.com/taciturnaxolotl/cachet) - _a cache for slack profile pictures and emojis_ **(today)**
-- [`terminal-wakatime`](https://github.com/hackclub/terminal-wakatime) - _Track your time in the terminal!_ **(today)**
-- [`crush`](https://github.com/charmbracelet/crush) - _Glamourous agentic coding for all 💘_ **(today)**
-- [`catwalk`](https://github.com/charmbracelet/catwalk) - _🐈 A collection of LLM inference providers and models _ **(2 days ago)**
-- [`cxp-testbed`](https://github.com/taciturnaxolotl/cxp-testbed) - _coolio project_ **(2 days ago)**
-- [`zera`](https://github.com/taciturnaxolotl/zera) - _my new site v4?_ **(3 days ago)**
-- [`indigestion`](https://github.com/taciturnaxolotl/indigestion) - _dvds go brrrr_ **(3 days ago)**
+- [`dots`](https://github.com/taciturnaxolotl/dots) - _Kieran's opinionated (and ever expanding) nix config_ **(1 day ago)**
+- [`cachet`](https://github.com/taciturnaxolotl/cachet) - _a cache for slack profile pictures and emojis_ **(1 day ago)**
+- [`terminal-wakatime`](https://github.com/hackclub/terminal-wakatime) - _Track your time in the terminal!_ **(1 day ago)**
+- [`crush`](https://github.com/charmbracelet/crush) - _Glamourous agentic coding for all 💘_ **(1 day ago)**
+- [`catwalk`](https://github.com/charmbracelet/catwalk) - _🐈 A collection of LLM inference providers and models _ **(3 days ago)**
+- [`cxp-testbed`](https://github.com/taciturnaxolotl/cxp-testbed) - _coolio project_ **(3 days ago)**
+- [`zera`](https://github.com/taciturnaxolotl/zera) - _my new site v4?_ **(4 days ago)**
+- [`indigestion`](https://github.com/taciturnaxolotl/indigestion) - _dvds go brrrr_ **(4 days ago)**
 
 #### 📦  My latest projects
 
@@ -30,20 +30,20 @@ When not doing school or working on a random project, I enjoy flying drones and 
 
 ```text
 💾 Languages:
-unknown       22h 45m 58s   ███████████████░░░░░░░░░░  59.92%
-Go            9h 10m 35s    ███████░░░░░░░░░░░░░░░░░░  24.15%
-Swift         1h 37m 6s     ██░░░░░░░░░░░░░░░░░░░░░░░  4.26%
-Nix           1h 11m 19s    █░░░░░░░░░░░░░░░░░░░░░░░░  3.13%
-Markdown      1h 4m 28s     █░░░░░░░░░░░░░░░░░░░░░░░░  2.83%
+unknown       23h 57m 26s   ████████████████░░░░░░░░░  61.03%
+Go            9h 12m 35s    ██████░░░░░░░░░░░░░░░░░░░  23.46%
+Swift         1h 37m 6s     ██░░░░░░░░░░░░░░░░░░░░░░░  4.12%
+Nix           1h 11m 19s    █░░░░░░░░░░░░░░░░░░░░░░░░  3.03%
+Markdown      1h 4m 28s     █░░░░░░░░░░░░░░░░░░░░░░░░  2.74%
 
 💼 Projects:
-crush         20h 59m 24s   ███████████████░░░░░░░░░░  56.77%
-hyper         2h 38m 43s    ██░░░░░░░░░░░░░░░░░░░░░░░  7.15%
-dots          2h 3m 44s     ██░░░░░░░░░░░░░░░░░░░░░░░  5.58%
-cxp-testbed   1h 54m 22s    ██░░░░░░░░░░░░░░░░░░░░░░░  5.16%
-frc-nix       1h 45m 25s    ██░░░░░░░░░░░░░░░░░░░░░░░  4.75%
+crush         21h 8m 27s    ██████████████░░░░░░░░░░░  54.82%
+hyper         2h 40m 43s    ██░░░░░░░░░░░░░░░░░░░░░░░  6.95%
+dots          2h 20m 11s    ██░░░░░░░░░░░░░░░░░░░░░░░  6.06%
+cxp-testbed   1h 54m 22s    ██░░░░░░░░░░░░░░░░░░░░░░░  4.94%
+frc-nix       1h 45m 25s    ██░░░░░░░░░░░░░░░░░░░░░░░  4.56%
 
-Total: 29 hrs 55 mins
+Total: 31 hrs 7 mins
 ```
 
 #### 📮  Want to say hi?
