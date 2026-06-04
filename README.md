@@ -5,13 +5,13 @@ When not doing school or working on a random project, I enjoy flying drones and 
 #### 🏗️  The latest repos I've pushed to
 
 - [`dots`](https://github.com/taciturnaxolotl/dots) - _Kieran's opinionated (and ever expanding) nix config_ **(today)**
-- [`crush`](https://github.com/charmbracelet/crush) - _Glamourous agentic coding for all 💘_ **(1 day ago)**
 - [`cachet`](https://github.com/taciturnaxolotl/cachet) - _a cache for slack profile pictures and emojis_ **(1 day ago)**
 - [`terminal-wakatime`](https://github.com/hackclub/terminal-wakatime) - _Track your time in the terminal!_ **(1 day ago)**
+- [`crush`](https://github.com/charmbracelet/crush) - _Glamourous agentic coding for all 💘_ **(1 day ago)**
 - [`cxp-testbed`](https://github.com/taciturnaxolotl/cxp-testbed) - _coolio project_ **(3 days ago)**
 - [`catwalk`](https://github.com/charmbracelet/catwalk) - _🐈 A collection of LLM inference providers and models _ **(3 days ago)**
-- [`zera`](https://github.com/taciturnaxolotl/zera) - _my new site v4?_ **(4 days ago)**
 - [`indigestion`](https://github.com/taciturnaxolotl/indigestion) - _dvds go brrrr_ **(4 days ago)**
+- [`zera`](https://github.com/taciturnaxolotl/zera) - _my new site v4?_ **(4 days ago)**
 
 #### 📦  My latest projects
 
@@ -30,20 +30,20 @@ When not doing school or working on a random project, I enjoy flying drones and 
 
 ```text
 💾 Languages:
-unknown       21h 21m 51s   ████████████████░░░░░░░░░  60.56%
-Go            8h 41m 34s    ███████░░░░░░░░░░░░░░░░░░  24.64%
-Swift         1h 37m 6s     ██░░░░░░░░░░░░░░░░░░░░░░░  4.59%
-Nix           1h 8m 19s     █░░░░░░░░░░░░░░░░░░░░░░░░  3.23%
-Markdown      1h 4m 28s     █░░░░░░░░░░░░░░░░░░░░░░░░  3.05%
+unknown       22h 3m 2s     ████████████████░░░░░░░░░  60.78%
+Go            9h 0m 27s     ███████░░░░░░░░░░░░░░░░░░  24.83%
+Swift         1h 37m 6s     ██░░░░░░░░░░░░░░░░░░░░░░░  4.46%
+Nix           1h 8m 19s     █░░░░░░░░░░░░░░░░░░░░░░░░  3.14%
+Markdown      1h 4m 28s     █░░░░░░░░░░░░░░░░░░░░░░░░  2.96%
 
 💼 Projects:
-crush         19h 19m 40s   ██████████████░░░░░░░░░░░  54.41%
-hyper         2h 10m 28s    ██░░░░░░░░░░░░░░░░░░░░░░░  6.12%
-dots          1h 56m 48s    ██░░░░░░░░░░░░░░░░░░░░░░░  5.48%
-cxp-testbed   1h 54m 22s    ██░░░░░░░░░░░░░░░░░░░░░░░  5.37%
-frc-nix       1h 45m 25s    ██░░░░░░░░░░░░░░░░░░░░░░░  4.95%
+crush         19h 57m 28s   ██████████████░░░░░░░░░░░  54.78%
+hyper         2h 16m 28s    ██░░░░░░░░░░░░░░░░░░░░░░░  6.24%
+dots          1h 56m 48s    ██░░░░░░░░░░░░░░░░░░░░░░░  5.34%
+cxp-testbed   1h 54m 22s    ██░░░░░░░░░░░░░░░░░░░░░░░  5.23%
+frc-nix       1h 45m 25s    ██░░░░░░░░░░░░░░░░░░░░░░░  4.82%
 
-Total: 28 hrs 38 mins
+Total: 29 hrs 27 mins
 ```
 
 #### 📮  Want to say hi?
