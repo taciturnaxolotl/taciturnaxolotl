@@ -4,14 +4,14 @@ When not doing school or working on a random project, I enjoy flying drones and 
 
 #### 🏗️  The latest repos I've pushed to
 
+- [`crush`](https://github.com/charmbracelet/crush) - _Glamourous agentic coding for all 💘_ **(today)**
+- [`dots`](https://github.com/taciturnaxolotl/dots) - _Kieran's opinionated (and ever expanding) nix config_ **(today)**
 - [`grimoire`](https://github.com/taciturnaxolotl/grimoire) - _sppooky_ **(today)**
 - [`fantasy`](https://github.com/charmbracelet/fantasy) - _Build AI agents with Go. Multiple providers, multiple models, one API. 🧙_ **(today)**
-- [`crush`](https://github.com/charmbracelet/crush) - _Glamourous agentic coding for all 💘_ **(today)**
-- [`dots`](https://github.com/taciturnaxolotl/dots) - _Kieran's opinionated (and ever expanding) nix config_ **(1 day ago)**
-- [`terminal-wakatime`](https://github.com/hackclub/terminal-wakatime) - _Track your time in the terminal!_ **(2 days ago)**
+- [`potluck`](https://github.com/taciturnaxolotl/potluck) - _the coolest token api ever_ **(today)**
 - [`cachet`](https://github.com/taciturnaxolotl/cachet) - _a cache for slack profile pictures and emojis_ **(2 days ago)**
+- [`terminal-wakatime`](https://github.com/hackclub/terminal-wakatime) - _Track your time in the terminal!_ **(2 days ago)**
 - [`cxp-testbed`](https://github.com/taciturnaxolotl/cxp-testbed) - _coolio project_ **(4 days ago)**
-- [`catwalk`](https://github.com/charmbracelet/catwalk) - _🐈 A collection of LLM inference providers and models _ **(4 days ago)**
 
 #### 📦  My latest projects
 
@@ -30,20 +30,20 @@ When not doing school or working on a random project, I enjoy flying drones and 
 
 ```text
 💾 Languages:
-unknown       25h 5m 33s    ████████████████░░░░░░░░░  62.12%
-Go            10h 30m 44s   ███████░░░░░░░░░░░░░░░░░░  26.02%
-Swift         1h 37m 6s     ██░░░░░░░░░░░░░░░░░░░░░░░  4.01%
-Nix           1h 2m 38s     █░░░░░░░░░░░░░░░░░░░░░░░░  2.58%
-Rust          23m 47s       █░░░░░░░░░░░░░░░░░░░░░░░░  0.98%
+unknown       25h 40m 8s   ████████████████░░░░░░░░░  62.41%
+Go            10h 40m 9s   ███████░░░░░░░░░░░░░░░░░░  25.94%
+Swift         1h 37m 6s    █░░░░░░░░░░░░░░░░░░░░░░░░  3.93%
+Nix           1h 2m 38s    █░░░░░░░░░░░░░░░░░░░░░░░░  2.54%
+Rust          23m 47s      █░░░░░░░░░░░░░░░░░░░░░░░░  0.96%
 
 💼 Projects:
-crush         21h 47m 34s   ██████████████░░░░░░░░░░░  54.35%
-grimoire      2h 36m 19s    ██░░░░░░░░░░░░░░░░░░░░░░░  6.50%
-hyper         2h 27m 20s    ██░░░░░░░░░░░░░░░░░░░░░░░  6.12%
-cxp-testbed   1h 54m 22s    ██░░░░░░░░░░░░░░░░░░░░░░░  4.75%
-frc-nix       1h 45m 25s    ██░░░░░░░░░░░░░░░░░░░░░░░  4.38%
+crush         22h 0m 28s   ██████████████░░░░░░░░░░░  53.90%
+grimoire      3h 1m 15s    ██░░░░░░░░░░░░░░░░░░░░░░░  7.40%
+hyper         2h 29m 20s   ██░░░░░░░░░░░░░░░░░░░░░░░  6.10%
+cxp-testbed   1h 54m 22s   ██░░░░░░░░░░░░░░░░░░░░░░░  4.67%
+frc-nix       1h 45m 25s   ██░░░░░░░░░░░░░░░░░░░░░░░  4.30%
 
-Total: 32 hrs 38 mins
+Total: 33 hrs 19 mins
 ```
 
 #### 📮  Want to say hi?
