@@ -4,8 +4,8 @@ When not doing school or working on a random project, I enjoy flying drones and 
 
 #### 🏗️  The latest repos I've pushed to
 
+- [`grimoire`](https://github.com/taciturnaxolotl/grimoire) - _sppooky_ **(today)**
 - [`dots`](https://github.com/taciturnaxolotl/dots) - _Kieran's opinionated (and ever expanding) nix config_ **(1 day ago)**
-- [`grimoire`](https://github.com/taciturnaxolotl/grimoire) - _sppooky_ **(1 day ago)**
 - [`crush`](https://github.com/charmbracelet/crush) - _Glamourous agentic coding for all 💘_ **(2 days ago)**
 - [`cachet`](https://github.com/taciturnaxolotl/cachet) - _a cache for slack profile pictures and emojis_ **(2 days ago)**
 - [`terminal-wakatime`](https://github.com/hackclub/terminal-wakatime) - _Track your time in the terminal!_ **(2 days ago)**
@@ -30,20 +30,20 @@ When not doing school or working on a random project, I enjoy flying drones and 
 
 ```text
 💾 Languages:
-unknown       21h 32m 33s   ████████████████░░░░░░░░░  61.71%
-Go            8h 58m 33s    ███████░░░░░░░░░░░░░░░░░░  25.71%
-Swift         1h 37m 6s     ██░░░░░░░░░░░░░░░░░░░░░░░  4.64%
-Nix           1h 2m 38s     █░░░░░░░░░░░░░░░░░░░░░░░░  2.99%
-Rust          23m 47s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.14%
+unknown       21h 54m 21s   ████████████████░░░░░░░░░  61.77%
+Go            9h 5m 29s     ███████░░░░░░░░░░░░░░░░░░  25.64%
+Swift         1h 37m 6s     ██░░░░░░░░░░░░░░░░░░░░░░░  4.56%
+Nix           1h 2m 38s     █░░░░░░░░░░░░░░░░░░░░░░░░  2.94%
+Rust          23m 47s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.12%
 
 💼 Projects:
-crush         19h 29m 47s   ██████████████░░░░░░░░░░░  55.72%
-hyper         2h 6m 35s     ██░░░░░░░░░░░░░░░░░░░░░░░  6.03%
-cxp-testbed   1h 54m 22s    ██░░░░░░░░░░░░░░░░░░░░░░░  5.45%
-frc-nix       1h 45m 25s    ██░░░░░░░░░░░░░░░░░░░░░░░  5.02%
-dots          1h 28m 10s    ██░░░░░░░░░░░░░░░░░░░░░░░  4.20%
+crush         19h 46m 43s   ██████████████░░░░░░░░░░░  55.67%
+hyper         2h 10m 57s    ██░░░░░░░░░░░░░░░░░░░░░░░  6.14%
+cxp-testbed   1h 54m 22s    ██░░░░░░░░░░░░░░░░░░░░░░░  5.36%
+frc-nix       1h 45m 25s    ██░░░░░░░░░░░░░░░░░░░░░░░  4.94%
+dots          1h 31m 2s     ██░░░░░░░░░░░░░░░░░░░░░░░  4.27%
 
-Total: 28 hrs 18 mins
+Total: 28 hrs 41 mins
 ```
 
 #### 📮  Want to say hi?
