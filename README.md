@@ -7,10 +7,10 @@ When not doing school or working on a random project, I enjoy flying drones and 
 - [`zera`](https://github.com/taciturnaxolotl/zera) - _my new site v4?_ **(today)**
 - [`grimoire`](https://github.com/taciturnaxolotl/grimoire) - _sppooky_ **(today)**
 - [`turnout`](https://github.com/df1317/turnout) - _sir says fill out your availability_ **(today)**
+- [`crush`](https://github.com/charmbracelet/crush) - _Glamourous agentic coding for all 💘_ **(1 day ago)**
 - [`potluck`](https://github.com/taciturnaxolotl/potluck) - _the coolest token api ever_ **(1 day ago)**
 - [`dots`](https://github.com/taciturnaxolotl/dots) - _Kieran's opinionated (and ever expanding) nix config_ **(1 day ago)**
 - [`fantasy`](https://github.com/charmbracelet/fantasy) - _Build AI agents with Go. Multiple providers, multiple models, one API. 🧙_ **(1 day ago)**
-- [`crush`](https://github.com/charmbracelet/crush) - _Glamourous agentic coding for all 💘_ **(1 day ago)**
 - [`cachet`](https://github.com/taciturnaxolotl/cachet) - _a cache for slack profile pictures and emojis_ **(3 days ago)**
 
 #### 📦  My latest projects
@@ -30,20 +30,20 @@ When not doing school or working on a random project, I enjoy flying drones and 
 
 ```text
 💾 Languages:
-unknown       26h 16m 1s    ████████████████░░░░░░░░░  61.87%
-Go            9h 53m 59s    ██████░░░░░░░░░░░░░░░░░░░  23.32%
-Swift         1h 37m 6s     █░░░░░░░░░░░░░░░░░░░░░░░░  3.81%
+unknown       26h 22m 1s    ████████████████░░░░░░░░░  61.96%
+Go            9h 53m 59s    ██████░░░░░░░░░░░░░░░░░░░  23.26%
+Swift         1h 37m 6s     █░░░░░░░░░░░░░░░░░░░░░░░░  3.80%
 Python        1h 16m 44s    █░░░░░░░░░░░░░░░░░░░░░░░░  3.01%
-Nix           1h 2m 38s     █░░░░░░░░░░░░░░░░░░░░░░░░  2.46%
+Nix           1h 2m 38s     █░░░░░░░░░░░░░░░░░░░░░░░░  2.45%
 
 💼 Projects:
-crush         19h 20m 13s   ████████████░░░░░░░░░░░░░  46.31%
-grimoire      6h 28m 56s    ████░░░░░░░░░░░░░░░░░░░░░  15.53%
-hyper         2h 6m 13s     ██░░░░░░░░░░░░░░░░░░░░░░░  5.04%
-cxp-testbed   1h 54m 22s    ██░░░░░░░░░░░░░░░░░░░░░░░  4.57%
-frc-nix       1h 45m 25s    ██░░░░░░░░░░░░░░░░░░░░░░░  4.21%
+crush         19h 20m 13s   ████████████░░░░░░░░░░░░░  46.17%
+grimoire      6h 32m 56s    ████░░░░░░░░░░░░░░░░░░░░░  15.64%
+hyper         2h 6m 13s     ██░░░░░░░░░░░░░░░░░░░░░░░  5.02%
+cxp-testbed   1h 54m 22s    ██░░░░░░░░░░░░░░░░░░░░░░░  4.55%
+frc-nix       1h 45m 25s    ██░░░░░░░░░░░░░░░░░░░░░░░  4.19%
 
-Total: 34 hrs 5 mins
+Total: 34 hrs 11 mins
 ```
 
 #### 📮  Want to say hi?
