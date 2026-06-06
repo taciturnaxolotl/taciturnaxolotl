@@ -4,14 +4,14 @@ When not doing school or working on a random project, I enjoy flying drones and 
 
 #### 🏗️  The latest repos I've pushed to
 
-- [`crush`](https://github.com/charmbracelet/crush) - _Glamourous agentic coding for all 💘_ **(today)**
-- [`dots`](https://github.com/taciturnaxolotl/dots) - _Kieran's opinionated (and ever expanding) nix config_ **(today)**
-- [`grimoire`](https://github.com/taciturnaxolotl/grimoire) - _sppooky_ **(today)**
-- [`fantasy`](https://github.com/charmbracelet/fantasy) - _Build AI agents with Go. Multiple providers, multiple models, one API. 🧙_ **(today)**
-- [`potluck`](https://github.com/taciturnaxolotl/potluck) - _the coolest token api ever_ **(today)**
-- [`cachet`](https://github.com/taciturnaxolotl/cachet) - _a cache for slack profile pictures and emojis_ **(2 days ago)**
-- [`terminal-wakatime`](https://github.com/hackclub/terminal-wakatime) - _Track your time in the terminal!_ **(2 days ago)**
-- [`cxp-testbed`](https://github.com/taciturnaxolotl/cxp-testbed) - _coolio project_ **(4 days ago)**
+- [`crush`](https://github.com/charmbracelet/crush) - _Glamourous agentic coding for all 💘_ **(1 day ago)**
+- [`dots`](https://github.com/taciturnaxolotl/dots) - _Kieran's opinionated (and ever expanding) nix config_ **(1 day ago)**
+- [`fantasy`](https://github.com/charmbracelet/fantasy) - _Build AI agents with Go. Multiple providers, multiple models, one API. 🧙_ **(1 day ago)**
+- [`grimoire`](https://github.com/taciturnaxolotl/grimoire) - _sppooky_ **(1 day ago)**
+- [`potluck`](https://github.com/taciturnaxolotl/potluck) - _the coolest token api ever_ **(1 day ago)**
+- [`terminal-wakatime`](https://github.com/hackclub/terminal-wakatime) - _Track your time in the terminal!_ **(3 days ago)**
+- [`cachet`](https://github.com/taciturnaxolotl/cachet) - _a cache for slack profile pictures and emojis_ **(3 days ago)**
+- [`catwalk`](https://github.com/charmbracelet/catwalk) - _🐈 A collection of LLM inference providers and models _ **(5 days ago)**
 
 #### 📦  My latest projects
 
@@ -30,20 +30,20 @@ When not doing school or working on a random project, I enjoy flying drones and 
 
 ```text
 💾 Languages:
-unknown       25h 40m 8s   ████████████████░░░░░░░░░  62.41%
-Go            10h 40m 9s   ███████░░░░░░░░░░░░░░░░░░  25.94%
-Swift         1h 37m 6s    █░░░░░░░░░░░░░░░░░░░░░░░░  3.93%
-Nix           1h 2m 38s    █░░░░░░░░░░░░░░░░░░░░░░░░  2.54%
-Rust          23m 47s      █░░░░░░░░░░░░░░░░░░░░░░░░  0.96%
+unknown       27h 24m 7s    ████████████████░░░░░░░░░  61.90%
+Go            10h 42m 9s    ███████░░░░░░░░░░░░░░░░░░  24.18%
+Swift         1h 37m 6s     █░░░░░░░░░░░░░░░░░░░░░░░░  3.66%
+Python        1h 16m 44s    █░░░░░░░░░░░░░░░░░░░░░░░░  2.89%
+Nix           1h 2m 38s     █░░░░░░░░░░░░░░░░░░░░░░░░  2.36%
 
 💼 Projects:
-crush         22h 0m 28s   ██████████████░░░░░░░░░░░  53.90%
-grimoire      3h 1m 15s    ██░░░░░░░░░░░░░░░░░░░░░░░  7.40%
-hyper         2h 29m 20s   ██░░░░░░░░░░░░░░░░░░░░░░░  6.10%
-cxp-testbed   1h 54m 22s   ██░░░░░░░░░░░░░░░░░░░░░░░  4.67%
-frc-nix       1h 45m 25s   ██░░░░░░░░░░░░░░░░░░░░░░░  4.30%
+crush         22h 12m 51s   █████████████░░░░░░░░░░░░  51.44%
+grimoire      5h 3m 58s     ███░░░░░░░░░░░░░░░░░░░░░░  11.73%
+hyper         2h 33m 20s    ██░░░░░░░░░░░░░░░░░░░░░░░  5.92%
+cxp-testbed   1h 54m 22s    ██░░░░░░░░░░░░░░░░░░░░░░░  4.41%
+frc-nix       1h 45m 25s    ██░░░░░░░░░░░░░░░░░░░░░░░  4.07%
 
-Total: 33 hrs 19 mins
+Total: 35 hrs 26 mins
 ```
 
 #### 📮  Want to say hi?
