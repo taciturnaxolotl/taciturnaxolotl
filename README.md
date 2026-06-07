@@ -4,14 +4,14 @@ When not doing school or working on a random project, I enjoy flying drones and 
 
 #### 🏗️  The latest repos I've pushed to
 
-- [`zera`](https://github.com/taciturnaxolotl/zera) - _my new site v4?_ **(today)**
-- [`grimoire`](https://github.com/taciturnaxolotl/grimoire) - _sppooky_ **(today)**
-- [`turnout`](https://github.com/df1317/turnout) - _sir says fill out your availability_ **(today)**
-- [`crush`](https://github.com/charmbracelet/crush) - _Glamourous agentic coding for all 💘_ **(1 day ago)**
-- [`potluck`](https://github.com/taciturnaxolotl/potluck) - _the coolest token api ever_ **(1 day ago)**
-- [`dots`](https://github.com/taciturnaxolotl/dots) - _Kieran's opinionated (and ever expanding) nix config_ **(1 day ago)**
-- [`fantasy`](https://github.com/charmbracelet/fantasy) - _Build AI agents with Go. Multiple providers, multiple models, one API. 🧙_ **(1 day ago)**
-- [`cachet`](https://github.com/taciturnaxolotl/cachet) - _a cache for slack profile pictures and emojis_ **(3 days ago)**
+- [`zera`](https://github.com/taciturnaxolotl/zera) - _my new site v4?_ **(1 day ago)**
+- [`grimoire`](https://github.com/taciturnaxolotl/grimoire) - _sppooky_ **(1 day ago)**
+- [`turnout`](https://github.com/df1317/turnout) - _sir says fill out your availability_ **(1 day ago)**
+- [`crush`](https://github.com/charmbracelet/crush) - _Glamourous agentic coding for all 💘_ **(2 days ago)**
+- [`potluck`](https://github.com/taciturnaxolotl/potluck) - _the coolest token api ever_ **(2 days ago)**
+- [`dots`](https://github.com/taciturnaxolotl/dots) - _Kieran's opinionated (and ever expanding) nix config_ **(2 days ago)**
+- [`fantasy`](https://github.com/charmbracelet/fantasy) - _Build AI agents with Go. Multiple providers, multiple models, one API. 🧙_ **(2 days ago)**
+- [`cachet`](https://github.com/taciturnaxolotl/cachet) - _a cache for slack profile pictures and emojis_ **(4 days ago)**
 
 #### 📦  My latest projects
 
