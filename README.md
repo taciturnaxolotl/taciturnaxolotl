@@ -4,18 +4,18 @@ When not doing school or working on a random project, I enjoy flying drones and 
 
 #### 🏗️  The latest repos I've pushed to
 
-- [`zera`](https://github.com/taciturnaxolotl/zera) - _my new site v4?_ **(1 day ago)**
-- [`grimoire`](https://github.com/taciturnaxolotl/grimoire) - _sppooky_ **(1 day ago)**
 - [`turnout`](https://github.com/df1317/turnout) - _sir says fill out your availability_ **(1 day ago)**
-- [`crush`](https://github.com/charmbracelet/crush) - _Glamourous agentic coding for all 💘_ **(2 days ago)**
-- [`potluck`](https://github.com/taciturnaxolotl/potluck) - _the coolest token api ever_ **(2 days ago)**
+- [`glossa`](https://github.com/taciturnaxolotl/glossa) - _really neat project to run stuff on the rm2_ **(1 day ago)**
+- [`zera`](https://github.com/taciturnaxolotl/zera) - _my new site v4?_ **(1 day ago)**
 - [`dots`](https://github.com/taciturnaxolotl/dots) - _Kieran's opinionated (and ever expanding) nix config_ **(2 days ago)**
+- [`potluck`](https://github.com/taciturnaxolotl/potluck) - _the coolest token api ever_ **(2 days ago)**
+- [`crush`](https://github.com/charmbracelet/crush) - _Glamourous agentic coding for all 💘_ **(2 days ago)**
 - [`fantasy`](https://github.com/charmbracelet/fantasy) - _Build AI agents with Go. Multiple providers, multiple models, one API. 🧙_ **(2 days ago)**
 - [`cachet`](https://github.com/taciturnaxolotl/cachet) - _a cache for slack profile pictures and emojis_ **(4 days ago)**
 
 #### 📦  My latest projects
 
-- [`grimoire`](https://github.com/taciturnaxolotl/grimoire) - _sppooky_
+- [`glossa`](https://github.com/taciturnaxolotl/glossa) - _really neat project to run stuff on the rm2_
 - [`cxp-testbed`](https://github.com/taciturnaxolotl/cxp-testbed) - _coolio project_
 - [`indigestion`](https://github.com/taciturnaxolotl/indigestion) - _dvds go brrrr_
 - [`potluck`](https://github.com/taciturnaxolotl/potluck) - _the coolest token api ever_
@@ -30,20 +30,20 @@ When not doing school or working on a random project, I enjoy flying drones and 
 
 ```text
 💾 Languages:
-unknown       26h 22m 1s    ████████████████░░░░░░░░░  61.96%
-Go            9h 53m 59s    ██████░░░░░░░░░░░░░░░░░░░  23.26%
-Swift         1h 37m 6s     █░░░░░░░░░░░░░░░░░░░░░░░░  3.80%
-Python        1h 16m 44s    █░░░░░░░░░░░░░░░░░░░░░░░░  3.01%
-Nix           1h 2m 38s     █░░░░░░░░░░░░░░░░░░░░░░░░  2.45%
+unknown       26h 56m 7s   ████████████████░░░░░░░░░  62.43%
+Go            9h 53m 59s   ██████░░░░░░░░░░░░░░░░░░░  22.95%
+Swift         1h 37m 6s    █░░░░░░░░░░░░░░░░░░░░░░░░  3.75%
+Python        1h 16m 44s   █░░░░░░░░░░░░░░░░░░░░░░░░  2.96%
+Nix           1h 2m 38s    █░░░░░░░░░░░░░░░░░░░░░░░░  2.42%
 
 💼 Projects:
-crush         19h 20m 13s   ████████████░░░░░░░░░░░░░  46.17%
-grimoire      6h 32m 56s    ████░░░░░░░░░░░░░░░░░░░░░  15.64%
-hyper         2h 6m 13s     ██░░░░░░░░░░░░░░░░░░░░░░░  5.02%
-cxp-testbed   1h 54m 22s    ██░░░░░░░░░░░░░░░░░░░░░░░  4.55%
-frc-nix       1h 45m 25s    ██░░░░░░░░░░░░░░░░░░░░░░░  4.19%
+crush         19h 7m 55s   ████████████░░░░░░░░░░░░░  44.87%
+grimoire      6h 50m 49s   █████░░░░░░░░░░░░░░░░░░░░  16.06%
+hyper         2h 6m 13s    ██░░░░░░░░░░░░░░░░░░░░░░░  4.93%
+cxp-testbed   1h 54m 22s   ██░░░░░░░░░░░░░░░░░░░░░░░  4.47%
+frc-nix       1h 39m 35s   █░░░░░░░░░░░░░░░░░░░░░░░░  3.89%
 
-Total: 34 hrs 11 mins
+Total: 34 hrs 47 mins
 ```
 
 #### 📮  Want to say hi?
