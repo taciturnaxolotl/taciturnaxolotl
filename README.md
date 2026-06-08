@@ -4,13 +4,13 @@ When not doing school or working on a random project, I enjoy flying drones and 
 
 #### 🏗️  The latest repos I've pushed to
 
-- [`dots`](https://github.com/taciturnaxolotl/dots) - _Kieran's opinionated (and ever expanding) nix config_ **(1 day ago)**
+- [`dots`](https://github.com/taciturnaxolotl/dots) - _Kieran's opinionated (and ever expanding) nix config_ **(today)**
 - [`glossa`](https://github.com/taciturnaxolotl/glossa) - _really neat project to run stuff on the rm2_ **(1 day ago)**
-- [`turnout`](https://github.com/df1317/turnout) - _sir says fill out your availability_ **(2 days ago)**
 - [`zera`](https://github.com/taciturnaxolotl/zera) - _my new site v4?_ **(2 days ago)**
+- [`turnout`](https://github.com/df1317/turnout) - _sir says fill out your availability_ **(2 days ago)**
 - [`crush`](https://github.com/charmbracelet/crush) - _Glamourous agentic coding for all 💘_ **(3 days ago)**
-- [`fantasy`](https://github.com/charmbracelet/fantasy) - _Build AI agents with Go. Multiple providers, multiple models, one API. 🧙_ **(3 days ago)**
 - [`potluck`](https://github.com/taciturnaxolotl/potluck) - _the coolest token api ever_ **(3 days ago)**
+- [`fantasy`](https://github.com/charmbracelet/fantasy) - _Build AI agents with Go. Multiple providers, multiple models, one API. 🧙_ **(3 days ago)**
 - [`terminal-wakatime`](https://github.com/hackclub/terminal-wakatime) - _Track your time in the terminal!_ **(5 days ago)**
 
 #### 📦  My latest projects
@@ -30,20 +30,20 @@ When not doing school or working on a random project, I enjoy flying drones and 
 
 ```text
 💾 Languages:
-unknown       26h 5m 57s   ████████████████░░░░░░░░░  63.41%
-Go            9h 54m 49s   ███████░░░░░░░░░░░░░░░░░░  24.09%
-Swift         1h 37m 6s    █░░░░░░░░░░░░░░░░░░░░░░░░  3.93%
-Python        1h 16m 44s   █░░░░░░░░░░░░░░░░░░░░░░░░  3.11%
-Markdown      26m 43s      █░░░░░░░░░░░░░░░░░░░░░░░░  1.08%
+unknown       27h 1m 27s    ████████████████░░░░░░░░░  63.64%
+Go            10h 6m 28s    ██████░░░░░░░░░░░░░░░░░░░  23.80%
+Swift         1h 37m 6s     █░░░░░░░░░░░░░░░░░░░░░░░░  3.81%
+Python        1h 16m 44s    █░░░░░░░░░░░░░░░░░░░░░░░░  3.01%
+Markdown      29m 29s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.16%
 
 💼 Projects:
-crush         19h 8m 15s   ████████████░░░░░░░░░░░░░  47.41%
-grimoire      6h 50m 49s   █████░░░░░░░░░░░░░░░░░░░░  16.96%
-dots          2h 3m 14s    ██░░░░░░░░░░░░░░░░░░░░░░░  5.09%
-hyper         1h 57m 44s   ██░░░░░░░░░░░░░░░░░░░░░░░  4.86%
-cxp-testbed   1h 54m 22s   ██░░░░░░░░░░░░░░░░░░░░░░░  4.72%
+crush         19h 35m 48s   ████████████░░░░░░░░░░░░░  46.57%
+grimoire      6h 52m 49s    █████░░░░░░░░░░░░░░░░░░░░  16.35%
+dots          2h 23m 18s    ██░░░░░░░░░░░░░░░░░░░░░░░  5.68%
+hyper         1h 57m 44s    ██░░░░░░░░░░░░░░░░░░░░░░░  4.66%
+cxp-testbed   1h 54m 22s    ██░░░░░░░░░░░░░░░░░░░░░░░  4.53%
 
-Total: 33 hrs 21 mins
+Total: 34 hrs 18 mins
 ```
 
 #### 📮  Want to say hi?
