@@ -4,8 +4,8 @@ When not doing school or working on a random project, I enjoy flying drones and 
 
 #### 🏗️  The latest repos I've pushed to
 
-- [`picologic`](https://github.com/taciturnaxolotl/picologic) - _logic pro compatible fpga based logic analyzer_ **(today)**
 - [`dots`](https://github.com/taciturnaxolotl/dots) - _Kieran's opinionated (and ever expanding) nix config_ **(today)**
+- [`picologic`](https://github.com/taciturnaxolotl/picologic) - _logic pro compatible fpga based logic analyzer_ **(today)**
 - [`2026-rebuilt`](https://github.com/df1317/2026-rebuilt) - _pyramid scheme_ **(1 day ago)**
 - [`glossa`](https://github.com/taciturnaxolotl/glossa) - _really neat project to run stuff on the rm2_ **(2 days ago)**
 - [`turnout`](https://github.com/df1317/turnout) - _sir says fill out your availability_ **(3 days ago)**
@@ -30,20 +30,20 @@ When not doing school or working on a random project, I enjoy flying drones and 
 
 ```text
 💾 Languages:
-unknown    26h 34m 2s    ██████████████████░░░░░░░  68.70%
-Go         8h 45m 7s     ██████░░░░░░░░░░░░░░░░░░░  22.63%
-Python     1h 16m 44s    █░░░░░░░░░░░░░░░░░░░░░░░░  3.31%
+unknown    26h 38m 13s   ██████████████████░░░░░░░  68.69%
+Go         8h 45m 7s     ██████░░░░░░░░░░░░░░░░░░░  22.57%
+Python     1h 16m 44s    █░░░░░░░░░░░░░░░░░░░░░░░░  3.30%
 Markdown   27m 40s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.19%
 Shell      23m 55s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.03%
 
 💼 Projects:
-crush      17h 11m 17s   ████████████░░░░░░░░░░░░░  45.09%
-grimoire   6h 52m 49s    █████░░░░░░░░░░░░░░░░░░░░  18.05%
-dots       4h 12m 12s    ███░░░░░░░░░░░░░░░░░░░░░░  11.03%
-impure     1h 40m 31s    ██░░░░░░░░░░░░░░░░░░░░░░░  4.40%
-hyper      1h 17m 54s    █░░░░░░░░░░░░░░░░░░░░░░░░  3.41%
+crush      17h 13m 28s   ████████████░░░░░░░░░░░░░  45.07%
+grimoire   6h 52m 49s    █████░░░░░░░░░░░░░░░░░░░░  18.00%
+dots       4h 14m 12s    ███░░░░░░░░░░░░░░░░░░░░░░  11.09%
+impure     1h 40m 31s    ██░░░░░░░░░░░░░░░░░░░░░░░  4.38%
+hyper      1h 17m 54s    █░░░░░░░░░░░░░░░░░░░░░░░░  3.40%
 
-Total: 32 hrs 36 mins
+Total: 32 hrs 42 mins
 ```
 
 #### 📮  Want to say hi?
