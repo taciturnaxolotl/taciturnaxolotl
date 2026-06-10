@@ -4,7 +4,7 @@ When not doing school or working on a random project, I enjoy flying drones and 
 
 #### 🏗️  The latest repos I've pushed to
 
-- [`dots`](https://github.com/taciturnaxolotl/dots) - _Kieran's opinionated (and ever expanding) nix config_ **(1 day ago)**
+- [`dots`](https://github.com/taciturnaxolotl/dots) - _Kieran's opinionated (and ever expanding) nix config_ **(today)**
 - [`picologic`](https://github.com/taciturnaxolotl/picologic) - _logic pro compatible fpga based logic analyzer_ **(1 day ago)**
 - [`2026-rebuilt`](https://github.com/df1317/2026-rebuilt) - _pyramid scheme_ **(2 days ago)**
 - [`glossa`](https://github.com/taciturnaxolotl/glossa) - _really neat project to run stuff on the rm2_ **(3 days ago)**
@@ -30,20 +30,20 @@ When not doing school or working on a random project, I enjoy flying drones and 
 
 ```text
 💾 Languages:
-unknown    24h 41m 56s   ███████████████████░░░░░░  72.88%
-Go         5h 52m 9s     █████░░░░░░░░░░░░░░░░░░░░  17.32%
-Python     1h 14m 44s    █░░░░░░░░░░░░░░░░░░░░░░░░  3.68%
+unknown    24h 41m 59s   ███████████████████░░░░░░  72.60%
+Go         5h 54m 9s     █████░░░░░░░░░░░░░░░░░░░░  17.35%
+Python     1h 14m 44s    █░░░░░░░░░░░░░░░░░░░░░░░░  3.66%
 Markdown   27m 40s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.36%
-Shell      23m 55s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.18%
+Shell      23m 55s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.17%
 
 💼 Projects:
-crush      13h 6m 46s    ██████████░░░░░░░░░░░░░░░  39.67%
-grimoire   6h 50m 49s    ██████░░░░░░░░░░░░░░░░░░░  20.71%
-dots       4h 10m 12s    ████░░░░░░░░░░░░░░░░░░░░░  12.61%
-impure     1h 40m 31s    ██░░░░░░░░░░░░░░░░░░░░░░░  5.07%
-cachet     1h 4m 41s     █░░░░░░░░░░░░░░░░░░░░░░░░  3.26%
+crush      13h 10m 49s   ██████████░░░░░░░░░░░░░░░  39.67%
+grimoire   6h 50m 49s    ██████░░░░░░░░░░░░░░░░░░░  20.61%
+dots       4h 12m 12s    ████░░░░░░░░░░░░░░░░░░░░░  12.65%
+impure     1h 42m 31s    ██░░░░░░░░░░░░░░░░░░░░░░░  5.14%
+cachet     1h 4m 41s     █░░░░░░░░░░░░░░░░░░░░░░░░  3.24%
 
-Total: 28 hrs 25 mins
+Total: 28 hrs 34 mins
 ```
 
 #### 📮  Want to say hi?
