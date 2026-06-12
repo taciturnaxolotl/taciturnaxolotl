@@ -4,14 +4,14 @@ When not doing school or working on a random project, I enjoy flying drones and 
 
 #### 🏗️  The latest repos I've pushed to
 
-- [`catwalk`](https://github.com/charmbracelet/catwalk) - _🐈 A collection of LLM inference providers and models _ **(1 day ago)**
+- [`cachet`](https://github.com/taciturnaxolotl/cachet) - _a cache for slack profile pictures and emojis_ **(today)**
 - [`dots`](https://github.com/taciturnaxolotl/dots) - _Kieran's opinionated (and ever expanding) nix config_ **(1 day ago)**
-- [`cachet`](https://github.com/taciturnaxolotl/cachet) - _a cache for slack profile pictures and emojis_ **(1 day ago)**
+- [`catwalk`](https://github.com/charmbracelet/catwalk) - _🐈 A collection of LLM inference providers and models _ **(1 day ago)**
 - [`crush`](https://github.com/charmbracelet/crush) - _Glamourous agentic coding for all 💘_ **(2 days ago)**
 - [`picologic`](https://github.com/taciturnaxolotl/picologic) - _logic pro compatible fpga based logic analyzer_ **(3 days ago)**
 - [`2026-rebuilt`](https://github.com/df1317/2026-rebuilt) - _pyramid scheme_ **(4 days ago)**
 - [`glossa`](https://github.com/taciturnaxolotl/glossa) - _really neat project to run stuff on the rm2_ **(5 days ago)**
-- [`zera`](https://github.com/taciturnaxolotl/zera) - _my new site v4?_ **(6 days ago)**
+- [`turnout`](https://github.com/df1317/turnout) - _sir says fill out your availability_ **(6 days ago)**
 
 #### 📦  My latest projects
 
@@ -30,20 +30,20 @@ When not doing school or working on a random project, I enjoy flying drones and 
 
 ```text
 💾 Languages:
-unknown    20h 10m 23s   ██████████████████░░░░░░░  69.56%
-Go         4h 9m 3s      ████░░░░░░░░░░░░░░░░░░░░░  14.31%
-Python     1h 14m 44s    ██░░░░░░░░░░░░░░░░░░░░░░░  4.30%
-Shell      46m 24s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.67%
-Nix        37m 5s        █░░░░░░░░░░░░░░░░░░░░░░░░  2.13%
+unknown    16h 2m 27s   ██████████████████░░░░░░░  68.89%
+Go         2h 46m 32s   ███░░░░░░░░░░░░░░░░░░░░░░  11.92%
+Python     1h 14m 44s   ██░░░░░░░░░░░░░░░░░░░░░░░  5.35%
+Shell      46m 24s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.32%
+Nix        37m 5s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.65%
 
 💼 Projects:
-crush      9h 24m 45s    █████████░░░░░░░░░░░░░░░░  33.52%
-grimoire   6h 50m 49s    ███████░░░░░░░░░░░░░░░░░░  24.38%
-dots       3h 38m 56s    ████░░░░░░░░░░░░░░░░░░░░░  12.99%
-impure     1h 44m 31s    ██░░░░░░░░░░░░░░░░░░░░░░░  6.20%
-hyper      1h 17m 24s    ██░░░░░░░░░░░░░░░░░░░░░░░  4.59%
+grimoire   6h 34m 20s   ████████░░░░░░░░░░░░░░░░░  29.12%
+crush      6h 10m 25s   ███████░░░░░░░░░░░░░░░░░░  27.35%
+dots       3h 17m 27s   ████░░░░░░░░░░░░░░░░░░░░░  14.58%
+impure     1h 44m 31s   ██░░░░░░░░░░░░░░░░░░░░░░░  7.72%
+frc-nix    54m 3s       █░░░░░░░░░░░░░░░░░░░░░░░░  3.99%
 
-Total: 24 hrs 16 mins
+Total: 19 hrs 30 mins
 ```
 
 #### 📮  Want to say hi?
