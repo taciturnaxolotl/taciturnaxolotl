@@ -6,8 +6,8 @@ When not doing school or working on a random project, I enjoy flying drones and 
 
 - [`dots`](https://github.com/taciturnaxolotl/dots) - _Kieran's opinionated (and ever expanding) nix config_ **(2 days ago)**
 - [`crush`](https://github.com/charmbracelet/crush) - _Glamourous agentic coding for all 💘_ **(3 days ago)**
-- [`cachet`](https://github.com/taciturnaxolotl/cachet) - _a cache for slack profile pictures and emojis_ **(3 days ago)**
 - [`glamour`](https://github.com/charmbracelet/glamour) - _Stylesheet-based markdown rendering for your CLI apps 💇🏻‍♀️_ **(3 days ago)**
+- [`cachet`](https://github.com/taciturnaxolotl/cachet) - _a cache for slack profile pictures and emojis_ **(3 days ago)**
 - [`catwalk`](https://github.com/charmbracelet/catwalk) - _🐈 A collection of LLM inference providers and models _ **(4 days ago)**
 - [`picologic`](https://github.com/taciturnaxolotl/picologic) - _logic pro compatible fpga based logic analyzer_ **(6 days ago)**
 - [`2026-rebuilt`](https://github.com/df1317/2026-rebuilt) - _pyramid scheme_ **(1 week ago)**
@@ -30,20 +30,20 @@ When not doing school or working on a random project, I enjoy flying drones and 
 
 ```text
 💾 Languages:
-unknown     6h 22m 2s    █████████████████░░░░░░░░  66.07%
-Go          58m 46s      ███░░░░░░░░░░░░░░░░░░░░░░  10.16%
-Nix         35m 5s       ██░░░░░░░░░░░░░░░░░░░░░░░  6.07%
-Shell       29m 14s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.06%
-gitcommit   26m 5s       ██░░░░░░░░░░░░░░░░░░░░░░░  4.51%
+unknown     4h 56m 13s   ████████████████░░░░░░░░░  63.16%
+Go          46m 45s      ███░░░░░░░░░░░░░░░░░░░░░░  9.97%
+Nix         35m 5s       ██░░░░░░░░░░░░░░░░░░░░░░░  7.48%
+Shell       27m 14s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.81%
+gitcommit   24m 5s       ██░░░░░░░░░░░░░░░░░░░░░░░  5.14%
 
 💼 Projects:
-crush       3h 18m 49s   █████████░░░░░░░░░░░░░░░░  34.05%
-dots        3h 6m 24s    ████████░░░░░░░░░░░░░░░░░  31.93%
-impure      1h 21m 46s   ████░░░░░░░░░░░░░░░░░░░░░  14.01%
-frc-nix     29m 4s       ██░░░░░░░░░░░░░░░░░░░░░░░  4.98%
-hyper       20m 29s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.51%
+crush       2h 54m 29s   ██████████░░░░░░░░░░░░░░░  36.60%
+dots        2h 29m 4s    ████████░░░░░░░░░░░░░░░░░  31.27%
+impure      56m 22s      ███░░░░░░░░░░░░░░░░░░░░░░  11.82%
+hyper       20m 29s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.30%
+frc-nix     19m 15s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.04%
 
-Total: 8 hrs 37 mins
+Total: 7 hrs 4 mins
 ```
 
 #### 📮  Want to say hi?
