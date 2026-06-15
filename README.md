@@ -4,7 +4,7 @@ When not doing school or working on a random project, I enjoy flying drones and 
 
 #### 🏗️  The latest repos I've pushed to
 
-- [`dots`](https://github.com/taciturnaxolotl/dots) - _Kieran's opinionated (and ever expanding) nix config_ **(2 days ago)**
+- [`dots`](https://github.com/taciturnaxolotl/dots) - _Kieran's opinionated (and ever expanding) nix config_ **(today)**
 - [`glamour`](https://github.com/charmbracelet/glamour) - _Stylesheet-based markdown rendering for your CLI apps 💇🏻‍♀️_ **(3 days ago)**
 - [`cachet`](https://github.com/taciturnaxolotl/cachet) - _a cache for slack profile pictures and emojis_ **(3 days ago)**
 - [`crush`](https://github.com/charmbracelet/crush) - _Glamourous agentic coding for all 💘_ **(3 days ago)**
@@ -30,20 +30,20 @@ When not doing school or working on a random project, I enjoy flying drones and 
 
 ```text
 💾 Languages:
-unknown     4h 56m 13s   ████████████████░░░░░░░░░  63.16%
-Go          46m 45s      ███░░░░░░░░░░░░░░░░░░░░░░  9.97%
-Nix         35m 5s       ██░░░░░░░░░░░░░░░░░░░░░░░  7.48%
-Shell       27m 14s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.81%
-gitcommit   24m 5s       ██░░░░░░░░░░░░░░░░░░░░░░░  5.14%
+unknown     4h 58m 13s   ████████████████░░░░░░░░░  62.78%
+Go          46m 45s      ███░░░░░░░░░░░░░░░░░░░░░░  9.84%
+Nix         35m 5s       ██░░░░░░░░░░░░░░░░░░░░░░░  7.39%
+Shell       27m 14s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.73%
+gitcommit   26m 5s       ██░░░░░░░░░░░░░░░░░░░░░░░  5.49%
 
 💼 Projects:
-crush       2h 54m 29s   ██████████░░░░░░░░░░░░░░░  36.60%
-dots        2h 29m 4s    ████████░░░░░░░░░░░░░░░░░  31.27%
-impure      56m 22s      ███░░░░░░░░░░░░░░░░░░░░░░  11.82%
-hyper       20m 29s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.30%
-frc-nix     19m 15s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.04%
+crush       2h 54m 29s   ██████████░░░░░░░░░░░░░░░  36.30%
+dots        2h 31m 4s    ████████░░░░░░░░░░░░░░░░░  31.43%
+impure      56m 22s      ███░░░░░░░░░░░░░░░░░░░░░░  11.73%
+hyper       20m 29s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.26%
+frc-nix     19m 15s      █░░░░░░░░░░░░░░░░░░░░░░░░  4.00%
 
-Total: 7 hrs 4 mins
+Total: 7 hrs 10 mins
 ```
 
 #### 📮  Want to say hi?
