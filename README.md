@@ -4,14 +4,14 @@ When not doing school or working on a random project, I enjoy flying drones and 
 
 #### 🏗️  The latest repos I've pushed to
 
-- [`potluck`](https://github.com/taciturnaxolotl/potluck) - _the coolest token api ever_ **(1 day ago)**
+- [`zera`](https://github.com/taciturnaxolotl/zera) - _my new site v4?_ **(1 day ago)**
 - [`dots`](https://github.com/taciturnaxolotl/dots) - _Kieran's opinionated (and ever expanding) nix config_ **(1 day ago)**
+- [`potluck`](https://github.com/taciturnaxolotl/potluck) - _the coolest token api ever_ **(1 day ago)**
 - [`crush`](https://github.com/charmbracelet/crush) - _Glamourous agentic coding for all 💘_ **(4 days ago)**
-- [`glamour`](https://github.com/charmbracelet/glamour) - _Stylesheet-based markdown rendering for your CLI apps 💇🏻‍♀️_ **(4 days ago)**
 - [`cachet`](https://github.com/taciturnaxolotl/cachet) - _a cache for slack profile pictures and emojis_ **(4 days ago)**
+- [`glamour`](https://github.com/charmbracelet/glamour) - _Stylesheet-based markdown rendering for your CLI apps 💇🏻‍♀️_ **(4 days ago)**
 - [`catwalk`](https://github.com/charmbracelet/catwalk) - _🐈 A collection of LLM inference providers and models _ **(5 days ago)**
 - [`picologic`](https://github.com/taciturnaxolotl/picologic) - _logic pro compatible fpga based logic analyzer_ **(1 week ago)**
-- [`2026-rebuilt`](https://github.com/df1317/2026-rebuilt) - _pyramid scheme_ **(1 week ago)**
 
 #### 📦  My latest projects
 
@@ -30,20 +30,20 @@ When not doing school or working on a random project, I enjoy flying drones and 
 
 ```text
 💾 Languages:
-unknown     4h 58m 13s   ████████████████░░░░░░░░░  60.63%
-Go          55m 33s      ███░░░░░░░░░░░░░░░░░░░░░░  11.29%
-Nix         35m 5s       ██░░░░░░░░░░░░░░░░░░░░░░░  7.13%
-gitcommit   30m 10s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.13%
-Shell       27m 14s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.54%
+unknown     1h 21m 50s   ██████████░░░░░░░░░░░░░░░  36.57%
+Go          33m 55s      ████░░░░░░░░░░░░░░░░░░░░░  15.16%
+Nix         30m 52s      ████░░░░░░░░░░░░░░░░░░░░░  13.79%
+gitcommit   26m 10s      ███░░░░░░░░░░░░░░░░░░░░░░  11.69%
+Shell       20m 29s      ███░░░░░░░░░░░░░░░░░░░░░░  9.15%
 
 💼 Projects:
-crush       2h 54m 29s   █████████░░░░░░░░░░░░░░░░  35.35%
-dots        2h 31m 4s    ████████░░░░░░░░░░░░░░░░░  30.60%
-impure      56m 22s      ███░░░░░░░░░░░░░░░░░░░░░░  11.42%
-hyper       29m 17s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.93%
-frc-nix     19m 15s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.90%
+dots        1h 2m 16s    ████████░░░░░░░░░░░░░░░░░  31.83%
+crush       56m 36s      ████████░░░░░░░░░░░░░░░░░  28.94%
+hyper       29m 17s      ████░░░░░░░░░░░░░░░░░░░░░  14.97%
+catwalk     16m 10s      ███░░░░░░░░░░░░░░░░░░░░░░  8.27%
+frc-nix     14m 48s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.57%
 
-Total: 7 hrs 25 mins
+Total: 3 hrs 35 mins
 ```
 
 #### 📮  Want to say hi?
