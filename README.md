@@ -5,12 +5,12 @@ When not doing school or working on a random project, I enjoy flying drones and 
 #### 🏗️  The latest repos I've pushed to
 
 - [`fantasy`](https://github.com/charmbracelet/fantasy) - _Build AI agents with Go. Multiple providers, multiple models, one API. 🧙_ **(today)**
-- [`dots`](https://github.com/taciturnaxolotl/dots) - _Kieran's opinionated (and ever expanding) nix config_ **(1 day ago)**
+- [`dots`](https://github.com/taciturnaxolotl/dots) - _Kieran's opinionated (and ever expanding) nix config_ **(today)**
+- [`l4`](https://github.com/taciturnaxolotl/l4) - _the l4 cache_ **(today)**
+- [`crushing`](https://github.com/taciturnaxolotl/crushing) - _crushing on crush_ **(1 day ago)**
 - [`crush`](https://github.com/charmbracelet/crush) - _Glamourous agentic coding for all 💘_ **(1 day ago)**
 - [`potluck`](https://github.com/taciturnaxolotl/potluck) - _the coolest token api ever_ **(1 day ago)**
-- [`crushing`](https://github.com/taciturnaxolotl/crushing) - _crushing on crush_ **(1 day ago)**
 - [`zera`](https://github.com/taciturnaxolotl/zera) - _my new site v4?_ **(2 days ago)**
-- [`glamour`](https://github.com/charmbracelet/glamour) - _Stylesheet-based markdown rendering for your CLI apps 💇🏻‍♀️_ **(5 days ago)**
 - [`cachet`](https://github.com/taciturnaxolotl/cachet) - _a cache for slack profile pictures and emojis_ **(5 days ago)**
 
 #### 📦  My latest projects
@@ -30,20 +30,20 @@ When not doing school or working on a random project, I enjoy flying drones and 
 
 ```text
 💾 Languages:
-unknown     3h 43m 21s   ██████████████░░░░░░░░░░░  52.81%
-Go          1h 36m 20s   ██████░░░░░░░░░░░░░░░░░░░  22.78%
-Nix         28m 6s       ██░░░░░░░░░░░░░░░░░░░░░░░  6.64%
-gitcommit   26m 10s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.19%
-Shell       20m 29s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.84%
+unknown     4h 24m 15s   ██████████████░░░░░░░░░░░  54.65%
+Go          1h 54m 3s    ██████░░░░░░░░░░░░░░░░░░░  23.59%
+Nix         28m 6s       ██░░░░░░░░░░░░░░░░░░░░░░░  5.81%
+gitcommit   26m 10s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.41%
+Shell       20m 29s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.24%
 
 💼 Projects:
-crush       2h 52m 41s   ███████████░░░░░░░░░░░░░░  40.20%
-dots        1h 12m 25s   █████░░░░░░░░░░░░░░░░░░░░  16.86%
-hyper       39m 15s      ███░░░░░░░░░░░░░░░░░░░░░░  9.14%
-fantasy     37m 40s      ███░░░░░░░░░░░░░░░░░░░░░░  8.77%
-potluck     32m 12s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.50%
+crush       3h 12m 13s   ██████████░░░░░░░░░░░░░░░  38.88%
+dots        1h 25m 6s    █████░░░░░░░░░░░░░░░░░░░░  17.21%
+hyper       44m 48s      ███░░░░░░░░░░░░░░░░░░░░░░  9.06%
+fantasy     43m 53s      ███░░░░░░░░░░░░░░░░░░░░░░  8.88%
+potluck     32m 12s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.51%
 
-Total: 6 hrs 33 mins
+Total: 7 hrs 22 mins
 ```
 
 #### 📮  Want to say hi?
