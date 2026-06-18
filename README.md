@@ -4,8 +4,8 @@ When not doing school or working on a random project, I enjoy flying drones and 
 
 #### 🏗️  The latest repos I've pushed to
 
-- [`potluck`](https://github.com/taciturnaxolotl/potluck) - _the coolest token api ever_ **(today)**
 - [`dots`](https://github.com/taciturnaxolotl/dots) - _Kieran's opinionated (and ever expanding) nix config_ **(today)**
+- [`potluck`](https://github.com/taciturnaxolotl/potluck) - _the coolest token api ever_ **(today)**
 - [`fantasy`](https://github.com/charmbracelet/fantasy) - _Build AI agents with Go. Multiple providers, multiple models, one API. 🧙_ **(1 day ago)**
 - [`l4`](https://github.com/taciturnaxolotl/l4) - _the l4 cache_ **(1 day ago)**
 - [`crush`](https://github.com/charmbracelet/crush) - _Glamourous agentic coding for all 💘_ **(1 day ago)**
@@ -30,20 +30,20 @@ When not doing school or working on a random project, I enjoy flying drones and 
 
 ```text
 💾 Languages:
-unknown     6h 33m 7s    █████████████████░░░░░░░░  65.16%
-Go          2h 0m 35s    █████░░░░░░░░░░░░░░░░░░░░  19.99%
-Nix         25m 49s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.28%
-Shell       20m 29s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.39%
-gitcommit   18m 5s       █░░░░░░░░░░░░░░░░░░░░░░░░  3.00%
+unknown     7h 24m 8s    █████████████████░░░░░░░░  67.05%
+Go          2h 4m 35s    █████░░░░░░░░░░░░░░░░░░░░  18.81%
+Nix         27m 49s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.20%
+Shell       20m 29s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.09%
+gitcommit   18m 5s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.73%
 
 💼 Projects:
-crush       4h 46m 28s   ████████████░░░░░░░░░░░░░  45.78%
-dots        1h 29m 14s   ████░░░░░░░░░░░░░░░░░░░░░  14.26%
-potluck     1h 1m 24s    ███░░░░░░░░░░░░░░░░░░░░░░  9.81%
-hyper       44m 48s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.16%
-fantasy     41m 53s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.69%
+crush       5h 33m 11s   █████████████░░░░░░░░░░░░  48.30%
+dots        1h 37m 17s   ████░░░░░░░░░░░░░░░░░░░░░  14.10%
+potluck     1h 3m 43s    ███░░░░░░░░░░░░░░░░░░░░░░  9.24%
+hyper       44m 48s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.49%
+fantasy     41m 53s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.07%
 
-Total: 9 hrs 5 mins
+Total: 10 hrs 1 mins
 ```
 
 #### 📮  Want to say hi?
