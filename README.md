@@ -4,14 +4,14 @@ When not doing school or working on a random project, I enjoy flying drones and 
 
 #### 🏗️  The latest repos I've pushed to
 
-- [`dots`](https://github.com/taciturnaxolotl/dots) - _Kieran's opinionated (and ever expanding) nix config_ **(today)**
-- [`potluck`](https://github.com/taciturnaxolotl/potluck) - _the coolest token api ever_ **(today)**
-- [`fantasy`](https://github.com/charmbracelet/fantasy) - _Build AI agents with Go. Multiple providers, multiple models, one API. 🧙_ **(1 day ago)**
-- [`l4`](https://github.com/taciturnaxolotl/l4) - _the l4 cache_ **(1 day ago)**
-- [`crush`](https://github.com/charmbracelet/crush) - _Glamourous agentic coding for all 💘_ **(1 day ago)**
-- [`crushing`](https://github.com/taciturnaxolotl/crushing) - _crushing on crush_ **(2 days ago)**
-- [`zera`](https://github.com/taciturnaxolotl/zera) - _my new site v4?_ **(3 days ago)**
-- [`cachet`](https://github.com/taciturnaxolotl/cachet) - _a cache for slack profile pictures and emojis_ **(6 days ago)**
+- [`dots`](https://github.com/taciturnaxolotl/dots) - _Kieran's opinionated (and ever expanding) nix config_ **(1 day ago)**
+- [`potluck`](https://github.com/taciturnaxolotl/potluck) - _the coolest token api ever_ **(1 day ago)**
+- [`fantasy`](https://github.com/charmbracelet/fantasy) - _Build AI agents with Go. Multiple providers, multiple models, one API. 🧙_ **(2 days ago)**
+- [`l4`](https://github.com/taciturnaxolotl/l4) - _the l4 cache_ **(2 days ago)**
+- [`crush`](https://github.com/charmbracelet/crush) - _Glamourous agentic coding for all 💘_ **(2 days ago)**
+- [`crushing`](https://github.com/taciturnaxolotl/crushing) - _crushing on crush_ **(3 days ago)**
+- [`zera`](https://github.com/taciturnaxolotl/zera) - _my new site v4?_ **(4 days ago)**
+- [`cachet`](https://github.com/taciturnaxolotl/cachet) - _a cache for slack profile pictures and emojis_ **(1 week ago)**
 
 #### 📦  My latest projects
 
@@ -30,20 +30,20 @@ When not doing school or working on a random project, I enjoy flying drones and 
 
 ```text
 💾 Languages:
-unknown     8h 5m 56s    ██████████████████░░░░░░░  68.53%
-Go          2h 9m 24s    █████░░░░░░░░░░░░░░░░░░░░  18.25%
-Nix         27m 49s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.92%
-Shell       20m 29s      █░░░░░░░░░░░░░░░░░░░░░░░░  2.89%
-gitcommit   18m 5s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.55%
+unknown     8h 57m 43s   ██████████████████░░░░░░░  69.27%
+Go          2h 24m 49s   █████░░░░░░░░░░░░░░░░░░░░  18.66%
+Nix         27m 49s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.58%
+Shell       20m 29s      █░░░░░░░░░░░░░░░░░░░░░░░░  2.64%
+gitcommit   18m 5s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.33%
 
 💼 Projects:
-crush       5h 56m 8s    █████████████░░░░░░░░░░░░  48.32%
-dots        1h 37m 17s   ████░░░░░░░░░░░░░░░░░░░░░  13.20%
-potluck     1h 6m 32s    ███░░░░░░░░░░░░░░░░░░░░░░  9.03%
-hyper       44m 48s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.08%
-fantasy     41m 53s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.68%
+crush       6h 47m 1s    █████████████░░░░░░░░░░░░  50.73%
+dots        1h 37m 17s   ████░░░░░░░░░░░░░░░░░░░░░  12.13%
+potluck     1h 6m 32s    ███░░░░░░░░░░░░░░░░░░░░░░  8.29%
+hyper       47m 3s       ██░░░░░░░░░░░░░░░░░░░░░░░  5.86%
+fantasy     41m 53s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.22%
 
-Total: 10 hrs 46 mins
+Total: 11 hrs 43 mins
 ```
 
 #### 📮  Want to say hi?
