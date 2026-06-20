@@ -4,6 +4,7 @@ When not doing school or working on a random project, I enjoy flying drones and 
 
 #### 🏗️  The latest repos I've pushed to
 
+- [`glossa`](https://github.com/taciturnaxolotl/glossa) - _really neat project to run stuff on the rm2_ **(1 day ago)**
 - [`fantasy`](https://github.com/charmbracelet/fantasy) - _Build AI agents with Go. Multiple providers, multiple models, one API. 🧙_ **(1 day ago)**
 - [`nur`](https://github.com/charmbracelet/nur) - __ **(1 day ago)**
 - [`dots`](https://github.com/taciturnaxolotl/dots) - _Kieran's opinionated (and ever expanding) nix config_ **(1 day ago)**
@@ -11,7 +12,6 @@ When not doing school or working on a random project, I enjoy flying drones and 
 - [`crush`](https://github.com/charmbracelet/crush) - _Glamourous agentic coding for all 💘_ **(1 day ago)**
 - [`l4`](https://github.com/taciturnaxolotl/l4) - _the l4 cache_ **(3 days ago)**
 - [`crushing`](https://github.com/taciturnaxolotl/crushing) - _crushing on crush_ **(4 days ago)**
-- [`zera`](https://github.com/taciturnaxolotl/zera) - _my new site v4?_ **(5 days ago)**
 
 #### 📦  My latest projects
 
@@ -30,20 +30,20 @@ When not doing school or working on a random project, I enjoy flying drones and 
 
 ```text
 💾 Languages:
-unknown       13h 8m 18s   ███████████████████░░░░░░  73.77%
-Go            4h 10m 2s    ██████░░░░░░░░░░░░░░░░░░░  23.40%
-gitcommit     10m 5s       █░░░░░░░░░░░░░░░░░░░░░░░░  0.94%
-JSON          7m 20s       █░░░░░░░░░░░░░░░░░░░░░░░░  0.69%
-Ignore List   4m 0s        █░░░░░░░░░░░░░░░░░░░░░░░░  0.37%
+unknown       13h 29m 37s   ███████████████████░░░░░░  73.85%
+Go            4h 16m 2s     ██████░░░░░░░░░░░░░░░░░░░  23.35%
+JSON          10m 1s        █░░░░░░░░░░░░░░░░░░░░░░░░  0.91%
+gitcommit     8m 5s         █░░░░░░░░░░░░░░░░░░░░░░░░  0.74%
+Ignore List   4m 0s         █░░░░░░░░░░░░░░░░░░░░░░░░  0.36%
 
 💼 Projects:
-crush         11h 12m 2s   ████████████████░░░░░░░░░  62.47%
-dots          1h 27m 57s   ███░░░░░░░░░░░░░░░░░░░░░░  8.18%
-potluck       1h 8m 47s    ██░░░░░░░░░░░░░░░░░░░░░░░  6.39%
-fantasy       57m 50s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.38%
-hyper         26m 34s      █░░░░░░░░░░░░░░░░░░░░░░░░  2.47%
+crush         11h 23m 27s   ████████████████░░░░░░░░░  62.36%
+dots          1h 32m 20s    ███░░░░░░░░░░░░░░░░░░░░░░  8.42%
+potluck       1h 10m 47s    ██░░░░░░░░░░░░░░░░░░░░░░░  6.46%
+fantasy       57m 50s       ██░░░░░░░░░░░░░░░░░░░░░░░  5.28%
+vpsvan        25m 14s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.30%
 
-Total: 15 hrs 35 mins
+Total: 15 hrs 50 mins
 ```
 
 #### 📮  Want to say hi?
