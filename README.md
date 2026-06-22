@@ -7,9 +7,9 @@ When not doing school or working on a random project, I enjoy flying drones and 
 - [`glossa`](https://github.com/taciturnaxolotl/glossa) - _really neat project to run stuff on the rm2_ **(1 day ago)**
 - [`potluck`](https://github.com/taciturnaxolotl/potluck) - _the coolest token api ever_ **(2 days ago)**
 - [`crush`](https://github.com/charmbracelet/crush) - _Glamourous agentic coding for all 💘_ **(2 days ago)**
+- [`dots`](https://github.com/taciturnaxolotl/dots) - _Kieran's opinionated (and ever expanding) nix config_ **(3 days ago)**
 - [`fantasy`](https://github.com/charmbracelet/fantasy) - _Build AI agents with Go. Multiple providers, multiple models, one API. 🧙_ **(3 days ago)**
 - [`nur`](https://github.com/charmbracelet/nur) - __ **(3 days ago)**
-- [`dots`](https://github.com/taciturnaxolotl/dots) - _Kieran's opinionated (and ever expanding) nix config_ **(3 days ago)**
 - [`l4`](https://github.com/taciturnaxolotl/l4) - _the l4 cache_ **(5 days ago)**
 - [`crushing`](https://github.com/taciturnaxolotl/crushing) - _crushing on crush_ **(6 days ago)**
 
