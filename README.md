@@ -4,9 +4,9 @@ When not doing school or working on a random project, I enjoy flying drones and 
 
 #### 🏗️  The latest repos I've pushed to
 
-- [`crush`](https://github.com/charmbracelet/crush) - _Glamourous agentic coding for all 💘_ **(1 day ago)**
+- [`solder-mcp`](https://github.com/taciturnaxolotl/solder-mcp) - _MCP server for KiCad/EDA tooling extracted from Solderable, with remote agent bridge to GPT-5.5, Claude, and fine-tuned Gemini layout models_ **(today)**
 - [`fantasy`](https://github.com/charmbracelet/fantasy) - _Build AI agents with Go. Multiple providers, multiple models, one API. 🧙_ **(1 day ago)**
-- [`solder-mcp`](https://github.com/taciturnaxolotl/solder-mcp) - _MCP server for KiCad/EDA tooling extracted from Solderable, with remote agent bridge to GPT-5.5, Claude, and fine-tuned Gemini layout models_ **(1 day ago)**
+- [`crush`](https://github.com/charmbracelet/crush) - _Glamourous agentic coding for all 💘_ **(1 day ago)**
 - [`glossa`](https://github.com/taciturnaxolotl/glossa) - _really neat project to run stuff on the rm2_ **(2 days ago)**
 - [`potluck`](https://github.com/taciturnaxolotl/potluck) - _the coolest token api ever_ **(3 days ago)**
 - [`nur`](https://github.com/charmbracelet/nur) - __ **(4 days ago)**
@@ -30,20 +30,20 @@ When not doing school or working on a random project, I enjoy flying drones and 
 
 ```text
 💾 Languages:
-unknown     16h 45m 22s   ███████████████████░░░░░░  75.71%
-Go          4h 47m 39s    ██████░░░░░░░░░░░░░░░░░░░  21.66%
-gitcommit   8m 5s         █░░░░░░░░░░░░░░░░░░░░░░░░  0.61%
-JSON        7m 53s        █░░░░░░░░░░░░░░░░░░░░░░░░  0.59%
-Shell       4m 17s        █░░░░░░░░░░░░░░░░░░░░░░░░  0.32%
+unknown       16h 39m 57s   ████████████████████░░░░░  76.86%
+Go            4h 38m 51s    ██████░░░░░░░░░░░░░░░░░░░  21.43%
+JSON          7m 53s        █░░░░░░░░░░░░░░░░░░░░░░░░  0.61%
+Shell         4m 17s        █░░░░░░░░░░░░░░░░░░░░░░░░  0.33%
+Ignore List   4m 0s         █░░░░░░░░░░░░░░░░░░░░░░░░  0.31%
 
 💼 Projects:
-crush       13h 50m 19s   █████████████████░░░░░░░░  64.11%
-dots        1h 36m 27s    ██░░░░░░░░░░░░░░░░░░░░░░░  7.45%
-potluck     1h 13m 47s    ██░░░░░░░░░░░░░░░░░░░░░░░  5.70%
-fantasy     1h 5m 25s     ██░░░░░░░░░░░░░░░░░░░░░░░  5.05%
-hyper       53m 6s        ██░░░░░░░░░░░░░░░░░░░░░░░  4.10%
+crush         13h 50m 19s   █████████████████░░░░░░░░  65.37%
+dots          1h 28m 27s    ██░░░░░░░░░░░░░░░░░░░░░░░  6.96%
+potluck       1h 11m 44s    ██░░░░░░░░░░░░░░░░░░░░░░░  5.65%
+fantasy       1h 3m 20s     ██░░░░░░░░░░░░░░░░░░░░░░░  4.99%
+hyper         44m 18s       █░░░░░░░░░░░░░░░░░░░░░░░░  3.49%
 
-Total: 19 hrs 22 mins
+Total: 18 hrs 57 mins
 ```
 
 #### 📮  Want to say hi?
