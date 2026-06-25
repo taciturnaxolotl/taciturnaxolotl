@@ -4,8 +4,8 @@ When not doing school or working on a random project, I enjoy flying drones and 
 
 #### 🏗️  The latest repos I've pushed to
 
-- [`crush`](https://github.com/charmbracelet/crush) - _Glamourous agentic coding for all 💘_ **(1 day ago)**
 - [`picologic`](https://github.com/taciturnaxolotl/picologic) - _logic pro compatible fpga based logic analyzer_ **(1 day ago)**
+- [`crush`](https://github.com/charmbracelet/crush) - _Glamourous agentic coding for all 💘_ **(1 day ago)**
 - [`solder-mcp`](https://github.com/taciturnaxolotl/solder-mcp) - _MCP server for KiCad/EDA tooling extracted from Solderable, with remote agent bridge to GPT-5.5, Claude, and fine-tuned Gemini layout models_ **(2 days ago)**
 - [`fantasy`](https://github.com/charmbracelet/fantasy) - _Build AI agents with Go. Multiple providers, multiple models, one API. 🧙_ **(3 days ago)**
 - [`glossa`](https://github.com/taciturnaxolotl/glossa) - _really neat project to run stuff on the rm2_ **(4 days ago)**
@@ -30,20 +30,20 @@ When not doing school or working on a random project, I enjoy flying drones and 
 
 ```text
 💾 Languages:
-unknown      17h 21m 28s   ███████████████████░░░░░░  75.94%
-Go           4h 26m 30s    █████░░░░░░░░░░░░░░░░░░░░  19.43%
-JSON         24m 35s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.79%
-Shell        15m 35s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.14%
+unknown      17h 30m 9s    ████████████████████░░░░░  76.09%
+Go           4h 26m 30s    █████░░░░░░░░░░░░░░░░░░░░  19.31%
+JSON         24m 35s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.78%
+Shell        15m 35s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.13%
 JavaScript   7m 17s        █░░░░░░░░░░░░░░░░░░░░░░░░  0.53%
 
 💼 Projects:
-crush        14h 23m 48s   █████████████████░░░░░░░░  67.20%
-hyper        1h 14m 47s    ██░░░░░░░░░░░░░░░░░░░░░░░  5.82%
-fantasy      1h 8m 18s     ██░░░░░░░░░░░░░░░░░░░░░░░  5.31%
-potluck      41m 35s       █░░░░░░░░░░░░░░░░░░░░░░░░  3.23%
-glossa       32m 34s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.53%
+crush        14h 23m 48s   █████████████████░░░░░░░░  66.56%
+hyper        1h 21m 7s     ██░░░░░░░░░░░░░░░░░░░░░░░  6.25%
+fantasy      1h 8m 18s     ██░░░░░░░░░░░░░░░░░░░░░░░  5.26%
+potluck      41m 35s       █░░░░░░░░░░░░░░░░░░░░░░░░  3.20%
+glossa       34m 34s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.66%
 
-Total: 19 hrs 22 mins
+Total: 19 hrs 31 mins
 ```
 
 #### 📮  Want to say hi?
