@@ -4,21 +4,21 @@ When not doing school or working on a random project, I enjoy flying drones and 
 
 #### 🏗️  The latest repos I've pushed to
 
-- [`blinkenberry`](https://github.com/taciturnaxolotl/blinkenberry) - _rp2350 based devboard with an esp32-c6 sidecar & blinkenlights_ **(today)**
-- [`picologic`](https://github.com/taciturnaxolotl/picologic) - _logic pro compatible fpga based logic analyzer_ **(1 day ago)**
-- [`crush`](https://github.com/charmbracelet/crush) - _Glamourous agentic coding for all 💘_ **(1 day ago)**
-- [`solder-mcp`](https://github.com/taciturnaxolotl/solder-mcp) - _MCP server for KiCad/EDA tooling extracted from Solderable, with remote agent bridge to GPT-5.5, Claude, and fine-tuned Gemini layout models_ **(2 days ago)**
-- [`fantasy`](https://github.com/charmbracelet/fantasy) - _Build AI agents with Go. Multiple providers, multiple models, one API. 🧙_ **(3 days ago)**
-- [`glossa`](https://github.com/taciturnaxolotl/glossa) - _really neat project to run stuff on the rm2_ **(4 days ago)**
-- [`potluck`](https://github.com/taciturnaxolotl/potluck) - _the coolest token api ever_ **(5 days ago)**
-- [`dots`](https://github.com/taciturnaxolotl/dots) - _Kieran's opinionated (and ever expanding) nix config_ **(6 days ago)**
+- [`dots`](https://github.com/taciturnaxolotl/dots) - _Kieran's opinionated (and ever expanding) nix config_ **(1 day ago)**
+- [`blinkenberry`](https://github.com/taciturnaxolotl/blinkenberry) - _rp2350 based devboard with an esp32-c6 sidecar & blinkenlights_ **(1 day ago)**
+- [`picologic`](https://github.com/taciturnaxolotl/picologic) - _logic pro compatible fpga based logic analyzer_ **(2 days ago)**
+- [`crush`](https://github.com/charmbracelet/crush) - _Glamourous agentic coding for all 💘_ **(2 days ago)**
+- [`solder-mcp`](https://github.com/taciturnaxolotl/solder-mcp) - _MCP server for KiCad/EDA tooling extracted from Solderable, with remote agent bridge to GPT-5.5, Claude, and fine-tuned Gemini layout models_ **(3 days ago)**
+- [`fantasy`](https://github.com/charmbracelet/fantasy) - _Build AI agents with Go. Multiple providers, multiple models, one API. 🧙_ **(4 days ago)**
+- [`glossa`](https://github.com/taciturnaxolotl/glossa) - _really neat project to run stuff on the rm2_ **(5 days ago)**
+- [`potluck`](https://github.com/taciturnaxolotl/potluck) - _the coolest token api ever_ **(6 days ago)**
 
 #### 📦  My latest projects
 
+- [`holy-guacamole`](https://github.com/taciturnaxolotl/holy-guacamole) - _meltybrain avacado_
 - [`solder-mcp`](https://github.com/taciturnaxolotl/solder-mcp) - _MCP server for KiCad/EDA tooling extracted from Solderable, with remote agent bridge to GPT-5.5, Claude, and fine-tuned Gemini layout models_
 - [`crushing`](https://github.com/taciturnaxolotl/crushing) - _crushing on crush_
 - [`picologic`](https://github.com/taciturnaxolotl/picologic) - _logic pro compatible fpga based logic analyzer_
-- [`glossa`](https://github.com/taciturnaxolotl/glossa) - _really neat project to run stuff on the rm2_
 
 #### 🪧  The latest posts from [`dunkirk.sh`](https://dunkirk.sh)
 
@@ -30,20 +30,20 @@ When not doing school or working on a random project, I enjoy flying drones and 
 
 ```text
 💾 Languages:
-unknown        19h 15m 42s   ███████████████████░░░░░░  75.06%
-Go             5h 1m 46s     █████░░░░░░░░░░░░░░░░░░░░  19.60%
-JSON           26m 48s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.74%
-Shell          17m 39s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.15%
-gitcommit      12m 0s        █░░░░░░░░░░░░░░░░░░░░░░░░  0.78%
+unknown        19h 45m 16s   ███████████████████░░░░░░  75.17%
+Go             5h 1m 46s     █████░░░░░░░░░░░░░░░░░░░░  19.14%
+JSON           26m 48s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.70%
+Shell          17m 39s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.12%
+Nix            15m 56s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.01%
 
 💼 Projects:
-crush          15h 48m 29s   █████████████████░░░░░░░░  65.75%
-hyper          1h 45m 2s     ██░░░░░░░░░░░░░░░░░░░░░░░  7.28%
-fantasy        1h 8m 18s     ██░░░░░░░░░░░░░░░░░░░░░░░  4.73%
-potluck        41m 35s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.88%
-blinkenberry   35m 17s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.45%
+crush          15h 52m 47s   █████████████████░░░░░░░░  64.76%
+hyper          1h 45m 2s     ██░░░░░░░░░░░░░░░░░░░░░░░  7.14%
+fantasy        1h 8m 18s     ██░░░░░░░░░░░░░░░░░░░░░░░  4.64%
+potluck        41m 35s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.83%
+blinkenberry   41m 17s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.81%
 
-Total: 21 hrs 39 mins
+Total: 22 hrs 8 mins
 ```
 
 #### 📮  Want to say hi?
