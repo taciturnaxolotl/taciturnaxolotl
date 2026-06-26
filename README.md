@@ -4,10 +4,10 @@ When not doing school or working on a random project, I enjoy flying drones and 
 
 #### 🏗️  The latest repos I've pushed to
 
-- [`dots`](https://github.com/taciturnaxolotl/dots) - _Kieran's opinionated (and ever expanding) nix config_ **(1 day ago)**
+- [`dots`](https://github.com/taciturnaxolotl/dots) - _Kieran's opinionated (and ever expanding) nix config_ **(today)**
 - [`blinkenberry`](https://github.com/taciturnaxolotl/blinkenberry) - _rp2350 based devboard with an esp32-c6 sidecar & blinkenlights_ **(1 day ago)**
-- [`picologic`](https://github.com/taciturnaxolotl/picologic) - _logic pro compatible fpga based logic analyzer_ **(2 days ago)**
 - [`crush`](https://github.com/charmbracelet/crush) - _Glamourous agentic coding for all 💘_ **(2 days ago)**
+- [`picologic`](https://github.com/taciturnaxolotl/picologic) - _logic pro compatible fpga based logic analyzer_ **(2 days ago)**
 - [`solder-mcp`](https://github.com/taciturnaxolotl/solder-mcp) - _MCP server for KiCad/EDA tooling extracted from Solderable, with remote agent bridge to GPT-5.5, Claude, and fine-tuned Gemini layout models_ **(3 days ago)**
 - [`fantasy`](https://github.com/charmbracelet/fantasy) - _Build AI agents with Go. Multiple providers, multiple models, one API. 🧙_ **(4 days ago)**
 - [`glossa`](https://github.com/taciturnaxolotl/glossa) - _really neat project to run stuff on the rm2_ **(5 days ago)**
@@ -30,20 +30,20 @@ When not doing school or working on a random project, I enjoy flying drones and 
 
 ```text
 💾 Languages:
-unknown        14h 41m 9s    ███████████████████░░░░░░  72.51%
-Go             4h 1m 7s      █████░░░░░░░░░░░░░░░░░░░░  19.84%
-Shell          31m 59s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.63%
-JSON           21m 49s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.80%
-Nix            13m 56s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.15%
+unknown        15h 5m 50s    ███████████████████░░░░░░  72.14%
+Go             4h 10m 44s    █████░░░░░░░░░░░░░░░░░░░░  19.97%
+Shell          37m 59s       █░░░░░░░░░░░░░░░░░░░░░░░░  3.03%
+JSON           21m 49s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.74%
+Nix            13m 56s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.11%
 
 💼 Projects:
-crush          11h 24m 13s   ████████████████░░░░░░░░░  61.28%
-hyper          1h 42m 46s    ███░░░░░░░░░░░░░░░░░░░░░░  9.20%
-fantasy        1h 0m 30s     ██░░░░░░░░░░░░░░░░░░░░░░░  5.42%
-blinkenberry   43m 17s       █░░░░░░░░░░░░░░░░░░░░░░░░  3.88%
-dots           40m 43s       █░░░░░░░░░░░░░░░░░░░░░░░░  3.65%
+crush          11h 35m 50s   ████████████████░░░░░░░░░  60.13%
+hyper          1h 42m 46s    ███░░░░░░░░░░░░░░░░░░░░░░  8.88%
+fantasy        1h 0m 30s     ██░░░░░░░░░░░░░░░░░░░░░░░  5.23%
+dots           48m 12s       ██░░░░░░░░░░░░░░░░░░░░░░░  4.17%
+blinkenberry   43m 17s       █░░░░░░░░░░░░░░░░░░░░░░░░  3.74%
 
-Total: 16 hrs 45 mins
+Total: 17 hrs 22 mins
 ```
 
 #### 📮  Want to say hi?
