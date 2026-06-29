@@ -4,14 +4,14 @@ When not doing school or working on a random project, I enjoy flying drones and 
 
 #### 🏗️  The latest repos I've pushed to
 
-- [`melty`](https://github.com/taciturnaxolotl/melty) - _mcp server with fts5 full text search over sqlite_ **(1 day ago)**
-- [`holy-guacamole`](https://github.com/taciturnaxolotl/holy-guacamole) - _meltybrain avacado_ **(2 days ago)**
-- [`dots`](https://github.com/taciturnaxolotl/dots) - _Kieran's opinionated (and ever expanding) nix config_ **(2 days ago)**
-- [`blinkenberry`](https://github.com/taciturnaxolotl/blinkenberry) - _rp2350 based devboard with an esp32-c6 sidecar & blinkenlights_ **(3 days ago)**
-- [`picologic`](https://github.com/taciturnaxolotl/picologic) - _logic pro compatible fpga based logic analyzer_ **(4 days ago)**
-- [`crush`](https://github.com/charmbracelet/crush) - _Glamourous agentic coding for all 💘_ **(4 days ago)**
-- [`solder-mcp`](https://github.com/taciturnaxolotl/solder-mcp) - _MCP server for KiCad/EDA tooling extracted from Solderable, with remote agent bridge to GPT-5.5, Claude, and fine-tuned Gemini layout models_ **(5 days ago)**
-- [`fantasy`](https://github.com/charmbracelet/fantasy) - _Build AI agents with Go. Multiple providers, multiple models, one API. 🧙_ **(6 days ago)**
+- [`holy-guacamole`](https://github.com/taciturnaxolotl/holy-guacamole) - _meltybrain avacado_ **(1 day ago)**
+- [`melty`](https://github.com/taciturnaxolotl/melty) - _mcp server with fts5 full text search over sqlite_ **(2 days ago)**
+- [`dots`](https://github.com/taciturnaxolotl/dots) - _Kieran's opinionated (and ever expanding) nix config_ **(3 days ago)**
+- [`blinkenberry`](https://github.com/taciturnaxolotl/blinkenberry) - _rp2350 based devboard with an esp32-c6 sidecar & blinkenlights_ **(4 days ago)**
+- [`crush`](https://github.com/charmbracelet/crush) - _Glamourous agentic coding for all 💘_ **(5 days ago)**
+- [`picologic`](https://github.com/taciturnaxolotl/picologic) - _logic pro compatible fpga based logic analyzer_ **(5 days ago)**
+- [`solder-mcp`](https://github.com/taciturnaxolotl/solder-mcp) - _MCP server for KiCad/EDA tooling extracted from Solderable, with remote agent bridge to GPT-5.5, Claude, and fine-tuned Gemini layout models_ **(6 days ago)**
+- [`fantasy`](https://github.com/charmbracelet/fantasy) - _Build AI agents with Go. Multiple providers, multiple models, one API. 🧙_ **(1 week ago)**
 
 #### 📦  My latest projects
 
@@ -30,20 +30,20 @@ When not doing school or working on a random project, I enjoy flying drones and 
 
 ```text
 💾 Languages:
-unknown        13h 42m 50s   ███████████████████░░░░░░  75.70%
-Go             2h 44m 29s    ████░░░░░░░░░░░░░░░░░░░░░  15.13%
-Shell          37m 59s       █░░░░░░░░░░░░░░░░░░░░░░░░  3.49%
-JSON           19m 15s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.77%
-Nix            13m 56s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.28%
+unknown          13h 49m 3s   ███████████████████░░░░░░  75.84%
+Go               2h 44m 29s   ████░░░░░░░░░░░░░░░░░░░░░  15.05%
+Shell            37m 59s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.47%
+JSON             19m 15s      █░░░░░░░░░░░░░░░░░░░░░░░░  1.76%
+Nix              13m 56s      █░░░░░░░░░░░░░░░░░░░░░░░░  1.27%
 
 💼 Projects:
-crush          8h 51m 9s     █████████████░░░░░░░░░░░░  51.70%
-hyper          1h 42m 38s    ███░░░░░░░░░░░░░░░░░░░░░░  9.99%
-fantasy        52m 22s       ██░░░░░░░░░░░░░░░░░░░░░░░  5.10%
-blinkenberry   45m 17s       ██░░░░░░░░░░░░░░░░░░░░░░░  4.41%
-melty          39m 27s       █░░░░░░░░░░░░░░░░░░░░░░░░  3.84%
+crush            8h 51m 9s    █████████████░░░░░░░░░░░░  51.39%
+hyper            1h 42m 38s   ███░░░░░░░░░░░░░░░░░░░░░░  9.93%
+fantasy          52m 22s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.07%
+blinkenberry     45m 17s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.38%
+holy-guacamole   39m 35s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.83%
 
-Total: 15 hrs 21 mins
+Total: 15 hrs 27 mins
 ```
 
 #### 📮  Want to say hi?
