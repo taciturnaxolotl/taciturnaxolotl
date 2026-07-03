@@ -5,9 +5,9 @@ When not doing school or working on a random project, I enjoy flying drones and 
 #### 🏗️  The latest repos I've pushed to
 
 - [`crush`](https://github.com/charmbracelet/crush) - _Glamourous agentic coding for all 💘_ **(1 day ago)**
+- [`catwalk`](https://github.com/charmbracelet/catwalk) - _🐈 A collection of LLM inference providers and models _ **(2 days ago)**
 - [`dots`](https://github.com/taciturnaxolotl/dots) - _Kieran's opinionated (and ever expanding) nix config_ **(2 days ago)**
 - [`holy-guacamole`](https://github.com/taciturnaxolotl/holy-guacamole) - _meltybrain avacado_ **(2 days ago)**
-- [`catwalk`](https://github.com/charmbracelet/catwalk) - _🐈 A collection of LLM inference providers and models _ **(2 days ago)**
 - [`solder-mcp`](https://github.com/taciturnaxolotl/solder-mcp) - _MCP server for KiCad/EDA tooling extracted from Solderable, with remote agent bridge to GPT-5.5, Claude, and fine-tuned Gemini layout models_ **(2 days ago)**
 - [`fantasy`](https://github.com/charmbracelet/fantasy) - _Build AI agents with Go. Multiple providers, multiple models, one API. 🧙_ **(3 days ago)**
 - [`melty`](https://github.com/taciturnaxolotl/melty) - _mcp server with fts5 full text search over sqlite_ **(6 days ago)**
@@ -30,20 +30,20 @@ When not doing school or working on a random project, I enjoy flying drones and 
 
 ```text
 💾 Languages:
-unknown          11h 4m 35s   ████████████████████░░░░░  77.13%
-Go               2h 17m 50s   ████░░░░░░░░░░░░░░░░░░░░░  16.00%
-Shell            22m 48s      █░░░░░░░░░░░░░░░░░░░░░░░░  2.65%
-JSON             12m 59s      █░░░░░░░░░░░░░░░░░░░░░░░░  1.51%
-gitcommit        8m 0s        █░░░░░░░░░░░░░░░░░░░░░░░░  0.93%
+unknown          11h 27m 13s   ████████████████████░░░░░  76.95%
+Go               2h 26m 37s    █████░░░░░░░░░░░░░░░░░░░░  16.42%
+Shell            22m 48s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.55%
+JSON             12m 59s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.45%
+gitcommit        8m 0s         █░░░░░░░░░░░░░░░░░░░░░░░░  0.90%
 
 💼 Projects:
-crush            5h 38m 1s    ██████████░░░░░░░░░░░░░░░  39.57%
-hyper            2h 2m 17s    ████░░░░░░░░░░░░░░░░░░░░░  14.31%
-holy-guacamole   1h 19m 32s   ███░░░░░░░░░░░░░░░░░░░░░░  9.31%
-dots             53m 29s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.26%
-melty            39m 27s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.62%
+crush            6h 2m 12s     ███████████░░░░░░░░░░░░░░  40.88%
+hyper            2h 9m 25s     ████░░░░░░░░░░░░░░░░░░░░░  14.61%
+holy-guacamole   1h 19m 32s    ███░░░░░░░░░░░░░░░░░░░░░░  8.98%
+dots             53m 29s       ██░░░░░░░░░░░░░░░░░░░░░░░  6.04%
+melty            39m 27s       ██░░░░░░░░░░░░░░░░░░░░░░░  4.45%
 
-Total: 12 hrs 30 mins
+Total: 12 hrs 58 mins
 ```
 
 #### 📮  Want to say hi?
