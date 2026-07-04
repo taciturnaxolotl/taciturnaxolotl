@@ -4,17 +4,17 @@ When not doing school or working on a random project, I enjoy flying drones and 
 
 #### 🏗️  The latest repos I've pushed to
 {{range recentContributions 8}}
-- [`{{.Repo.Name}}`]({{.Repo.URL}}) - _{{.Repo.Description}}_ **({{humanize .OccurredAt}})**
+- [`{{trim .Repo.Name}}`]({{.Repo.URL}}) - _{{trim .Repo.Description}}_ **({{humanize .OccurredAt}})**
 {{- end}}
 
 #### 📦  My latest projects
 {{range recentCreatedRepos "taciturnaxolotl" 4}}
-- [`{{.Name}}`]({{.URL}}) - _{{.Description}}_
+- [`{{trim .Name}}`]({{.URL}}) - _{{trim .Description}}_
 {{- end}}
 
 #### 🪧  The latest posts from [`dunkirk.sh`](https://dunkirk.sh)
 {{range rss "https://dunkirk.sh/rss.xml" 3}}
-- [`{{.Title}}`]({{.URL}}) **({{humanize .PublishedAt}})**
+- [`{{trim .Title}}`]({{.URL}}) **({{humanize .PublishedAt}})**
 {{- end}}
 
 #### 📡  My [_`hackatime`_](https://waka.hackclub.com) stats from this week
