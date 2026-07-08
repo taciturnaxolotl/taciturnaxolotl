@@ -4,8 +4,8 @@ When not doing school or working on a random project, I enjoy flying drones and 
 
 #### 🏗️  The latest repos I've pushed to
 
+- [`holy-guacamole`](https://github.com/taciturnaxolotl/holy-guacamole) - _meltybrain avacado_ **(today)**
 - [`cachet`](https://github.com/taciturnaxolotl/cachet) - _a cache for slack profile pictures and emojis_ **(1 day ago)**
-- [`holy-guacamole`](https://github.com/taciturnaxolotl/holy-guacamole) - _meltybrain avacado_ **(1 day ago)**
 - [`dots`](https://github.com/taciturnaxolotl/dots) - _Kieran's opinionated (and ever expanding) nix config_ **(4 days ago)**
 - [`crush`](https://github.com/charmbracelet/crush) - _Glamourous agentic coding for all 💘_ **(6 days ago)**
 - [`solder-mcp`](https://github.com/taciturnaxolotl/solder-mcp) - _MCP server for KiCad/EDA tooling extracted from Solderable, with remote agent bridge to GPT-5.5, Claude, and fine-tuned Gemini layout models_ **(1 week ago)**
@@ -30,20 +30,20 @@ When not doing school or working on a random project, I enjoy flying drones and 
 
 ```text
 💾 Languages:
-unknown          7h 43m 26s   ███████████████████░░░░░░  74.67%
-Go               1h 58m 22s   █████░░░░░░░░░░░░░░░░░░░░  19.07%
-JSON             10m 39s      █░░░░░░░░░░░░░░░░░░░░░░░░  1.72%
-Markdown         8m 0s        █░░░░░░░░░░░░░░░░░░░░░░░░  1.29%
-TypeScript       5m 42s       █░░░░░░░░░░░░░░░░░░░░░░░░  0.92%
+unknown                     6h 9m 35s    ███████████████████░░░░░░  75.23%
+Go                          1h 32m 18s   █████░░░░░░░░░░░░░░░░░░░░  18.79%
+Markdown                    10m 9s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.07%
+JSON                        7m 6s        █░░░░░░░░░░░░░░░░░░░░░░░░  1.45%
+TypeScript                  5m 42s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.16%
 
 💼 Projects:
-crush            3h 28m 40s   █████████░░░░░░░░░░░░░░░░  35.09%
-holy-guacamole   2h 36m 13s   ███████░░░░░░░░░░░░░░░░░░  26.27%
-hyper            1h 52m 48s   █████░░░░░░░░░░░░░░░░░░░░  18.97%
-catwalk          34m 8s       ██░░░░░░░░░░░░░░░░░░░░░░░  5.74%
-fantasy          17m 47s      █░░░░░░░░░░░░░░░░░░░░░░░░  2.99%
+holy-guacamole              2h 50m 39s   ██████████░░░░░░░░░░░░░░░  36.02%
+crush                       2h 43m 38s   █████████░░░░░░░░░░░░░░░░  34.54%
+hyper                       1h 8m 11s    ████░░░░░░░░░░░░░░░░░░░░░  14.39%
+catwalk                     16m 13s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.42%
+crush-2-electric-boogaloo   12m 18s      █░░░░░░░░░░░░░░░░░░░░░░░░  2.60%
 
-Total: 8 hrs 49 mins
+Total: 7 hrs 6 mins
 ```
 
 #### 📮  Want to say hi?
