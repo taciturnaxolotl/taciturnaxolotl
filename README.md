@@ -30,20 +30,20 @@ When not doing school or working on a random project, I enjoy flying drones and 
 
 ```text
 💾 Languages:
-unknown                     6h 9m 35s    ███████████████████░░░░░░  75.23%
-Go                          1h 32m 18s   █████░░░░░░░░░░░░░░░░░░░░  18.79%
-Markdown                    10m 9s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.07%
-JSON                        7m 6s        █░░░░░░░░░░░░░░░░░░░░░░░░  1.45%
-TypeScript                  5m 42s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.16%
+unknown                     6h 16m 8s    ███████████████████░░░░░░  75.55%
+Go                          1h 32m 18s   █████░░░░░░░░░░░░░░░░░░░░  18.54%
+Markdown                    10m 9s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.04%
+JSON                        7m 6s        █░░░░░░░░░░░░░░░░░░░░░░░░  1.43%
+TypeScript                  5m 42s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.14%
 
 💼 Projects:
-holy-guacamole              2h 50m 39s   ██████████░░░░░░░░░░░░░░░  36.02%
-crush                       2h 43m 38s   █████████░░░░░░░░░░░░░░░░  34.54%
-hyper                       1h 8m 11s    ████░░░░░░░░░░░░░░░░░░░░░  14.39%
-catwalk                     16m 13s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.42%
-crush-2-electric-boogaloo   12m 18s      █░░░░░░░░░░░░░░░░░░░░░░░░  2.60%
+holy-guacamole              2h 57m 12s   ██████████░░░░░░░░░░░░░░░  36.89%
+crush                       2h 43m 38s   █████████░░░░░░░░░░░░░░░░  34.07%
+hyper                       1h 8m 11s    ████░░░░░░░░░░░░░░░░░░░░░  14.20%
+catwalk                     16m 13s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.38%
+crush-2-electric-boogaloo   12m 18s      █░░░░░░░░░░░░░░░░░░░░░░░░  2.56%
 
-Total: 7 hrs 6 mins
+Total: 7 hrs 13 mins
 ```
 
 #### 📮  Want to say hi?
