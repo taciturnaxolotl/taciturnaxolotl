@@ -4,7 +4,7 @@ When not doing school or working on a random project, I enjoy flying drones and 
 
 #### 🏗️  The latest repos I've pushed to
 
-- [`holy-guacamole`](https://github.com/taciturnaxolotl/holy-guacamole) - _meltybrain avacado 🥑_ **(1 day ago)**
+- [`holy-guacamole`](https://github.com/taciturnaxolotl/holy-guacamole) - _meltybrain avacado 🥑_ **(today)**
 - [`cachet`](https://github.com/taciturnaxolotl/cachet) - _a cache for slack profile pictures and emojis_ **(3 days ago)**
 - [`dots`](https://github.com/taciturnaxolotl/dots) - _Kieran's opinionated (and ever expanding) nix config_ **(6 days ago)**
 - [`crush`](https://github.com/charmbracelet/crush) - _Glamourous agentic coding for all 💘_ **(1 week ago)**
@@ -30,20 +30,20 @@ When not doing school or working on a random project, I enjoy flying drones and 
 
 ```text
 💾 Languages:
-unknown          4h 8m 52s   ███████████████████████░░  88.04%
-Go               18m 13s     ██░░░░░░░░░░░░░░░░░░░░░░░  6.44%
-Markdown         10m 9s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.59%
-Ignore List      4m 0s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.42%
-TypeScript       1m 26s      █░░░░░░░░░░░░░░░░░░░░░░░░  0.51%
+unknown          4h 29m 13s   ███████████████████████░░  88.13%
+Go               18m 13s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.96%
+Markdown         12m 9s       █░░░░░░░░░░░░░░░░░░░░░░░░  3.98%
+Ignore List      4m 0s        █░░░░░░░░░░░░░░░░░░░░░░░░  1.31%
+TypeScript       1m 26s       █░░░░░░░░░░░░░░░░░░░░░░░░  0.47%
 
 💼 Projects:
-holy-guacamole   3h 10m 8s   ██████████████████░░░░░░░  70.34%
-crush            50m 0s      █████░░░░░░░░░░░░░░░░░░░░  18.50%
-cachet           10m 37s     █░░░░░░░░░░░░░░░░░░░░░░░░  3.93%
-hyper            9m 7s       █░░░░░░░░░░░░░░░░░░░░░░░░  3.37%
-kierank          6m 34s      █░░░░░░░░░░░░░░░░░░░░░░░░  2.43%
+holy-guacamole   3h 30m 39s   ███████████████████░░░░░░  72.43%
+crush            50m 0s       █████░░░░░░░░░░░░░░░░░░░░  17.19%
+cachet           10m 37s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.65%
+hyper            9m 7s        █░░░░░░░░░░░░░░░░░░░░░░░░  3.13%
+kierank          6m 34s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.26%
 
-Total: 4 hrs 23 mins
+Total: 4 hrs 43 mins
 ```
 
 #### 📮  Want to say hi?
