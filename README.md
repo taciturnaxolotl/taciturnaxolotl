@@ -4,14 +4,14 @@ When not doing school or working on a random project, I enjoy flying drones and 
 
 #### 🏗️  The latest repos I've pushed to
 
-- [`holy-guacamole`](https://github.com/taciturnaxolotl/holy-guacamole) - _meltybrain avacado 🥑_ **(today)**
-- [`cachet`](https://github.com/taciturnaxolotl/cachet) - _a cache for slack profile pictures and emojis_ **(3 days ago)**
-- [`dots`](https://github.com/taciturnaxolotl/dots) - _Kieran's opinionated (and ever expanding) nix config_ **(6 days ago)**
+- [`holy-guacamole`](https://github.com/taciturnaxolotl/holy-guacamole) - _meltybrain avacado 🥑_ **(1 day ago)**
+- [`dots`](https://github.com/taciturnaxolotl/dots) - _Kieran's opinionated (and ever expanding) nix config_ **(1 day ago)**
+- [`cachet`](https://github.com/taciturnaxolotl/cachet) - _a cache for slack profile pictures and emojis_ **(4 days ago)**
 - [`crush`](https://github.com/charmbracelet/crush) - _Glamourous agentic coding for all 💘_ **(1 week ago)**
 - [`solder-mcp`](https://github.com/taciturnaxolotl/solder-mcp) - _MCP server for KiCad/EDA tooling extracted from Solderable, with remote agent bridge to GPT-5.5, Claude, and fine-tuned Gemini layout models_ **(1 week ago)**
 - [`catwalk`](https://github.com/charmbracelet/catwalk) - _🐈 A collection of LLM inference providers and models_ **(1 week ago)**
 - [`fantasy`](https://github.com/charmbracelet/fantasy) - _Build AI agents with Go. Multiple providers, multiple models, one API. 🧙_ **(1 week ago)**
-- [`melty`](https://github.com/taciturnaxolotl/melty) - _mcp server with fts5 full text search over sqlite_ **(1 week ago)**
+- [`melty`](https://github.com/taciturnaxolotl/melty) - _mcp server with fts5 full text search over sqlite_ **(2 weeks ago)**
 
 #### 📦  My latest projects
 
@@ -30,20 +30,20 @@ When not doing school or working on a random project, I enjoy flying drones and 
 
 ```text
 💾 Languages:
-unknown          4h 53m 13s   ██████████████████████░░░  85.97%
-Go               18m 13s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.34%
-Markdown         14m 9s       ██░░░░░░░░░░░░░░░░░░░░░░░  4.15%
-C                9m 35s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.81%
-Ignore List      4m 0s        █░░░░░░░░░░░░░░░░░░░░░░░░  1.17%
+unknown          5h 8m 52s   █████████████████████░░░░  82.84%
+Go               18m 13s     ██░░░░░░░░░░░░░░░░░░░░░░░  4.89%
+Markdown         16m 9s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.33%
+TypeScript       13m 35s     █░░░░░░░░░░░░░░░░░░░░░░░░  3.64%
+C                9m 35s      █░░░░░░░░░░░░░░░░░░░░░░░░  2.57%
 
 💼 Projects:
-holy-guacamole   4h 4m 6s     ███████████████████░░░░░░  75.28%
-crush            50m 0s       ████░░░░░░░░░░░░░░░░░░░░░  15.42%
-cachet           10m 37s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.27%
-hyper            9m 7s        █░░░░░░░░░░░░░░░░░░░░░░░░  2.81%
-kierank          6m 34s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.03%
+holy-guacamole   4h 26m 0s   ███████████████████░░░░░░  74.98%
+crush            52m 0s      ████░░░░░░░░░░░░░░░░░░░░░  14.66%
+cachet           10m 37s     █░░░░░░░░░░░░░░░░░░░░░░░░  2.99%
+hyper            9m 7s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.57%
+kierank          6m 34s      █░░░░░░░░░░░░░░░░░░░░░░░░  1.85%
 
-Total: 5 hrs 17 mins
+Total: 5 hrs 43 mins
 ```
 
 #### 📮  Want to say hi?
