@@ -4,9 +4,9 @@ When not doing school or working on a random project, I enjoy flying drones and 
 
 #### 🏗️  The latest repos I've pushed to
 
-- [`holy-guacamole`](https://github.com/taciturnaxolotl/holy-guacamole) - _meltybrain avacado 🥑_ **(1 day ago)**
-- [`dots`](https://github.com/taciturnaxolotl/dots) - _Kieran's opinionated (and ever expanding) nix config_ **(1 day ago)**
-- [`cachet`](https://github.com/taciturnaxolotl/cachet) - _a cache for slack profile pictures and emojis_ **(4 days ago)**
+- [`holy-guacamole`](https://github.com/taciturnaxolotl/holy-guacamole) - _meltybrain avacado 🥑_ **(2 days ago)**
+- [`dots`](https://github.com/taciturnaxolotl/dots) - _Kieran's opinionated (and ever expanding) nix config_ **(2 days ago)**
+- [`cachet`](https://github.com/taciturnaxolotl/cachet) - _a cache for slack profile pictures and emojis_ **(5 days ago)**
 - [`crush`](https://github.com/charmbracelet/crush) - _Glamourous agentic coding for all 💘_ **(1 week ago)**
 - [`solder-mcp`](https://github.com/taciturnaxolotl/solder-mcp) - _MCP server for KiCad/EDA tooling extracted from Solderable, with remote agent bridge to GPT-5.5, Claude, and fine-tuned Gemini layout models_ **(1 week ago)**
 - [`catwalk`](https://github.com/charmbracelet/catwalk) - _🐈 A collection of LLM inference providers and models_ **(1 week ago)**
@@ -30,20 +30,20 @@ When not doing school or working on a random project, I enjoy flying drones and 
 
 ```text
 💾 Languages:
-unknown          4h 24m 5s   █████████████████████░░░░  80.93%
-TypeScript       18m 18s     ██░░░░░░░░░░░░░░░░░░░░░░░  5.61%
-Markdown         14m 9s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.34%
-C                9m 35s      █░░░░░░░░░░░░░░░░░░░░░░░░  2.94%
-Ignore List      8m 0s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.45%
+unknown          4h 28m 36s   █████████████████████░░░░  81.19%
+TypeScript       18m 18s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.53%
+Markdown         14m 9s       ██░░░░░░░░░░░░░░░░░░░░░░░  4.28%
+C                9m 35s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.90%
+Ignore List      8m 0s        █░░░░░░░░░░░░░░░░░░░░░░░░  2.42%
 
 💼 Projects:
-holy-guacamole   4h 15m 1s   █████████████████████░░░░  82.34%
-crush            17m 51s     ██░░░░░░░░░░░░░░░░░░░░░░░  5.76%
-video            14m 41s     ██░░░░░░░░░░░░░░░░░░░░░░░  4.74%
-cachet           8m 35s      █░░░░░░░░░░░░░░░░░░░░░░░░  2.77%
-kierank          6m 34s      █░░░░░░░░░░░░░░░░░░░░░░░░  2.12%
+holy-guacamole   4h 17m 1s    █████████████████████░░░░  81.18%
+video            19m 34s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.18%
+crush            17m 51s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.64%
+cachet           8m 35s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.71%
+kierank          6m 34s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.07%
 
-Total: 4 hrs 56 mins
+Total: 5 hrs 1 mins
 ```
 
 #### 📮  Want to say hi?
