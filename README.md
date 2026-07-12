@@ -4,7 +4,7 @@ When not doing school or working on a random project, I enjoy flying drones and 
 
 #### 🏗️  The latest repos I've pushed to
 
-- [`holy-guacamole`](https://github.com/taciturnaxolotl/holy-guacamole) - _meltybrain avacado 🥑_ **(2 days ago)**
+- [`holy-guacamole`](https://github.com/taciturnaxolotl/holy-guacamole) - _meltybrain avacado 🥑_ **(1 day ago)**
 - [`dots`](https://github.com/taciturnaxolotl/dots) - _Kieran's opinionated (and ever expanding) nix config_ **(2 days ago)**
 - [`cachet`](https://github.com/taciturnaxolotl/cachet) - _a cache for slack profile pictures and emojis_ **(5 days ago)**
 - [`crush`](https://github.com/charmbracelet/crush) - _Glamourous agentic coding for all 💘_ **(1 week ago)**
@@ -30,20 +30,20 @@ When not doing school or working on a random project, I enjoy flying drones and 
 
 ```text
 💾 Languages:
-unknown          4h 28m 36s   █████████████████████░░░░  81.19%
-TypeScript       18m 18s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.53%
-Markdown         14m 9s       ██░░░░░░░░░░░░░░░░░░░░░░░  4.28%
-C                9m 35s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.90%
-Ignore List      8m 0s        █░░░░░░░░░░░░░░░░░░░░░░░░  2.42%
+unknown          4h 25m 53s   █████████████████████░░░░  80.06%
+TypeScript       18m 18s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.51%
+Markdown         14m 9s       ██░░░░░░░░░░░░░░░░░░░░░░░  4.26%
+C                9m 35s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.89%
+Ignore List      8m 0s        █░░░░░░░░░░░░░░░░░░░░░░░░  2.41%
 
 💼 Projects:
-holy-guacamole   4h 17m 1s    █████████████████████░░░░  81.18%
-video            19m 34s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.18%
-crush            17m 51s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.64%
-cachet           8m 35s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.71%
+holy-guacamole   4h 12m 32s   ████████████████████░░░░░  79.44%
+video            27m 42s      ███░░░░░░░░░░░░░░░░░░░░░░  8.71%
+crush            17m 51s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.62%
+cachet           8m 35s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.70%
 kierank          6m 34s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.07%
 
-Total: 5 hrs 1 mins
+Total: 5 hrs 2 mins
 ```
 
 #### 📮  Want to say hi?
