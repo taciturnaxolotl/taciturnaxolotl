@@ -5,8 +5,8 @@ When not doing school or working on a random project, I enjoy flying drones and 
 #### 🏗️  The latest repos I've pushed to
 
 - [`holy-guacamole`](https://github.com/taciturnaxolotl/holy-guacamole) - _meltybrain avacado 🥑_ **(1 day ago)**
-- [`dots`](https://github.com/taciturnaxolotl/dots) - _Kieran's opinionated (and ever expanding) nix config_ **(2 days ago)**
-- [`cachet`](https://github.com/taciturnaxolotl/cachet) - _a cache for slack profile pictures and emojis_ **(5 days ago)**
+- [`dots`](https://github.com/taciturnaxolotl/dots) - _Kieran's opinionated (and ever expanding) nix config_ **(3 days ago)**
+- [`cachet`](https://github.com/taciturnaxolotl/cachet) - _a cache for slack profile pictures and emojis_ **(6 days ago)**
 - [`crush`](https://github.com/charmbracelet/crush) - _Glamourous agentic coding for all 💘_ **(1 week ago)**
 - [`solder-mcp`](https://github.com/taciturnaxolotl/solder-mcp) - _MCP server for KiCad/EDA tooling extracted from Solderable, with remote agent bridge to GPT-5.5, Claude, and fine-tuned Gemini layout models_ **(1 week ago)**
 - [`catwalk`](https://github.com/charmbracelet/catwalk) - _🐈 A collection of LLM inference providers and models_ **(1 week ago)**
@@ -30,20 +30,20 @@ When not doing school or working on a random project, I enjoy flying drones and 
 
 ```text
 💾 Languages:
-unknown          4h 35m 58s   ████████████████████░░░░░  78.36%
-TypeScript       18m 18s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.20%
-Markdown         16m 9s       ██░░░░░░░░░░░░░░░░░░░░░░░  4.59%
-Shell            12m 0s       █░░░░░░░░░░░░░░░░░░░░░░░░  3.41%
-C                9m 35s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.72%
+unknown          4h 52m 8s    ████████████████████░░░░░  77.21%
+Markdown         24m 9s       ██░░░░░░░░░░░░░░░░░░░░░░░  6.38%
+TypeScript       18m 18s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.84%
+Shell            12m 0s       █░░░░░░░░░░░░░░░░░░░░░░░░  3.17%
+C                9m 35s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.53%
 
 💼 Projects:
-holy-guacamole   4h 16m 32s   ███████████████████░░░░░░  75.90%
-video            43m 47s      ████░░░░░░░░░░░░░░░░░░░░░  12.95%
-crush            17m 51s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.28%
-cachet           8m 35s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.54%
-kierank          6m 34s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.94%
+holy-guacamole   4h 32m 21s   ████████████████████░░░░░  76.03%
+video            48m 13s      ████░░░░░░░░░░░░░░░░░░░░░  13.46%
+crush            17m 51s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.98%
+cachet           8m 35s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.40%
+kierank          6m 34s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.83%
 
-Total: 5 hrs 21 mins
+Total: 5 hrs 37 mins
 ```
 
 #### 📮  Want to say hi?
