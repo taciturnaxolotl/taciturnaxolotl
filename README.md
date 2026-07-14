@@ -1,6 +1,6 @@
 ### Hi! I'm an 18-year-old CE/Cyber nerd!
 
-When not doing school or working on a random project, I enjoy flying drones and competing in CTFs.
+When not doing school or working on a random project, I enjoy working on hardware projects and competing in CTFs.
 
 #### 🏗️  The latest repos I've pushed to
 
@@ -30,20 +30,20 @@ When not doing school or working on a random project, I enjoy flying drones and 
 
 ```text
 💾 Languages:
-unknown          7h 9m 39s    ███████████████████░░░░░░  72.17%
-Go               1h 26m 40s   ████░░░░░░░░░░░░░░░░░░░░░  14.56%
-Markdown         24m 9s       ██░░░░░░░░░░░░░░░░░░░░░░░  4.06%
-TypeScript       18m 18s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.07%
-Shell            12m 0s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.02%
+unknown          7h 32m 13s   ███████████████████░░░░░░  72.72%
+Go               1h 30m 40s   ████░░░░░░░░░░░░░░░░░░░░░  14.58%
+Markdown         24m 9s       █░░░░░░░░░░░░░░░░░░░░░░░░  3.88%
+TypeScript       18m 18s      █░░░░░░░░░░░░░░░░░░░░░░░░  2.94%
+Shell            12m 0s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.93%
 
 💼 Projects:
-holy-guacamole   3h 54m 55s   ███████████░░░░░░░░░░░░░░  42.08%
-crush            3h 29m 0s    ██████████░░░░░░░░░░░░░░░  37.44%
-video            48m 13s      ███░░░░░░░░░░░░░░░░░░░░░░  8.64%
-dots             21m 1s       █░░░░░░░░░░░░░░░░░░░░░░░░  3.76%
-fantasy          19m 3s       █░░░░░░░░░░░░░░░░░░░░░░░░  3.41%
+holy-guacamole   3h 54m 55s   ███████████░░░░░░░░░░░░░░  40.31%
+crush            3h 53m 34s   ███████████░░░░░░░░░░░░░░  40.08%
+video            48m 13s      ███░░░░░░░░░░░░░░░░░░░░░░  8.27%
+dots             21m 1s       █░░░░░░░░░░░░░░░░░░░░░░░░  3.61%
+fantasy          19m 3s       █░░░░░░░░░░░░░░░░░░░░░░░░  3.27%
 
-Total: 8 hrs 54 mins
+Total: 9 hrs 19 mins
 ```
 
 #### 📮  Want to say hi?
