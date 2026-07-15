@@ -4,8 +4,8 @@ When not doing school or working on a random project, I enjoy working on hardwar
 
 #### 🏗️  The latest repos I've pushed to
 
+- [`crush`](https://github.com/charmbracelet/crush) - _Glamourous agentic coding for all 💘_ **(today)**
 - [`fantasy`](https://github.com/charmbracelet/fantasy) - _Build AI agents with Go. Multiple providers, multiple models, one API. 🧙_ **(2 days ago)**
-- [`crush`](https://github.com/charmbracelet/crush) - _Glamourous agentic coding for all 💘_ **(2 days ago)**
 - [`dots`](https://github.com/taciturnaxolotl/dots) - _Kieran's opinionated (and ever expanding) nix config_ **(2 days ago)**
 - [`holy-guacamole`](https://github.com/taciturnaxolotl/holy-guacamole) - _meltybrain avacado 🥑_ **(2 days ago)**
 - [`cachet`](https://github.com/taciturnaxolotl/cachet) - _a cache for slack profile pictures and emojis_ **(1 week ago)**
@@ -30,20 +30,20 @@ When not doing school or working on a random project, I enjoy working on hardwar
 
 ```text
 💾 Languages:
-unknown          7h 32m 20s   ███████████████████░░░░░░  72.89%
-Go               1h 32m 40s   ████░░░░░░░░░░░░░░░░░░░░░  14.93%
-Markdown         22m 9s       █░░░░░░░░░░░░░░░░░░░░░░░░  3.57%
-TypeScript       14m 52s      █░░░░░░░░░░░░░░░░░░░░░░░░  2.40%
-Shell            12m 0s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.93%
+unknown          7h 43m 43s   ███████████████████░░░░░░  72.73%
+Go               1h 38m 19s   ████░░░░░░░░░░░░░░░░░░░░░  15.42%
+Markdown         22m 9s       █░░░░░░░░░░░░░░░░░░░░░░░░  3.47%
+TypeScript       14m 52s      █░░░░░░░░░░░░░░░░░░░░░░░░  2.33%
+Shell            12m 0s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.88%
 
 💼 Projects:
-crush            4h 17m 47s   ███████████░░░░░░░░░░░░░░  43.03%
-holy-guacamole   3h 31m 33s   █████████░░░░░░░░░░░░░░░░  35.31%
-video            48m 13s      ███░░░░░░░░░░░░░░░░░░░░░░  8.05%
-dots             27m 1s       ██░░░░░░░░░░░░░░░░░░░░░░░  4.51%
-fantasy          19m 3s       █░░░░░░░░░░░░░░░░░░░░░░░░  3.18%
+crush            4h 32m 14s   ████████████░░░░░░░░░░░░░  44.37%
+holy-guacamole   3h 31m 33s   █████████░░░░░░░░░░░░░░░░  34.48%
+video            48m 13s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.86%
+dots             27m 1s       ██░░░░░░░░░░░░░░░░░░░░░░░  4.40%
+fantasy          19m 3s       █░░░░░░░░░░░░░░░░░░░░░░░░  3.10%
 
-Total: 9 hrs 19 mins
+Total: 9 hrs 33 mins
 ```
 
 #### 📮  Want to say hi?
