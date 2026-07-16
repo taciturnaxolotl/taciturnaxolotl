@@ -4,13 +4,13 @@ When not doing school or working on a random project, I enjoy working on hardwar
 
 #### 🏗️  The latest repos I've pushed to
 
-- [`fantasy`](https://github.com/charmbracelet/fantasy) - _Build AI agents with Go. Multiple providers, multiple models, one API. 🧙_ **(today)**
 - [`crush`](https://github.com/charmbracelet/crush) - _Glamourous agentic coding for all 💘_ **(today)**
+- [`fantasy`](https://github.com/charmbracelet/fantasy) - _Build AI agents with Go. Multiple providers, multiple models, one API. 🧙_ **(today)**
 - [`holy-guacamole`](https://github.com/taciturnaxolotl/holy-guacamole) - _meltybrain avacado 🥑_ **(today)**
 - [`dots`](https://github.com/taciturnaxolotl/dots) - _Kieran's opinionated (and ever expanding) nix config_ **(1 day ago)**
 - [`cachet`](https://github.com/taciturnaxolotl/cachet) - _a cache for slack profile pictures and emojis_ **(1 week ago)**
-- [`solder-mcp`](https://github.com/taciturnaxolotl/solder-mcp) - _MCP server for KiCad/EDA tooling extracted from Solderable, with remote agent bridge to GPT-5.5, Claude, and fine-tuned Gemini layout models_ **(2 weeks ago)**
 - [`catwalk`](https://github.com/charmbracelet/catwalk) - _🐈 A collection of LLM inference providers and models_ **(2 weeks ago)**
+- [`solder-mcp`](https://github.com/taciturnaxolotl/solder-mcp) - _MCP server for KiCad/EDA tooling extracted from Solderable, with remote agent bridge to GPT-5.5, Claude, and fine-tuned Gemini layout models_ **(2 weeks ago)**
 - [`melty`](https://github.com/taciturnaxolotl/melty) - _mcp server with fts5 full text search over sqlite_ **(2 weeks ago)**
 
 #### 📦  My latest projects
@@ -30,20 +30,20 @@ When not doing school or working on a random project, I enjoy working on hardwar
 
 ```text
 💾 Languages:
-unknown          11h 4m 33s   ██████████████████░░░░░░░  70.69%
-Go               3h 5m 39s    █████░░░░░░░░░░░░░░░░░░░░  19.75%
-Markdown         28m 0s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.98%
-TypeScript       14m 52s      █░░░░░░░░░░░░░░░░░░░░░░░░  1.58%
-Shell            14m 5s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.50%
+unknown          11h 10m 40s   ██████████████████░░░░░░░  70.25%
+Go               3h 14m 5s     ██████░░░░░░░░░░░░░░░░░░░  20.33%
+Markdown         28m 0s        █░░░░░░░░░░░░░░░░░░░░░░░░  2.93%
+TypeScript       14m 52s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.56%
+Shell            14m 5s        █░░░░░░░░░░░░░░░░░░░░░░░░  1.48%
 
 💼 Projects:
-crush            7h 55m 47s   ██████████████░░░░░░░░░░░  53.33%
-holy-guacamole   4h 11m 5s    ████████░░░░░░░░░░░░░░░░░  28.15%
-video            48m 13s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.41%
-fantasy          37m 8s       ██░░░░░░░░░░░░░░░░░░░░░░░  4.16%
-dots             31m 57s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.58%
+crush            8h 4m 44s     ██████████████░░░░░░░░░░░  53.80%
+holy-guacamole   4h 11m 5s     ███████░░░░░░░░░░░░░░░░░░  27.87%
+video            48m 13s       ██░░░░░░░░░░░░░░░░░░░░░░░  5.35%
+fantasy          37m 8s        ██░░░░░░░░░░░░░░░░░░░░░░░  4.12%
+dots             31m 57s       █░░░░░░░░░░░░░░░░░░░░░░░░  3.55%
 
-Total: 13 hrs 50 mins
+Total: 14 hrs 1 mins
 ```
 
 #### 📮  Want to say hi?
