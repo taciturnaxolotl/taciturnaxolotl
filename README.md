@@ -4,7 +4,7 @@ When not doing school or working on a random project, I enjoy working on hardwar
 
 #### 🏗️  The latest repos I've pushed to
 
-- [`crush`](https://github.com/charmbracelet/crush) - _Glamourous agentic coding for all 💘_ **(1 day ago)**
+- [`crush`](https://github.com/charmbracelet/crush) - _Glamourous agentic coding for all 💘_ **(today)**
 - [`dots`](https://github.com/taciturnaxolotl/dots) - _Kieran's opinionated (and ever expanding) nix config_ **(1 day ago)**
 - [`holy-guacamole`](https://github.com/taciturnaxolotl/holy-guacamole) - _meltybrain avacado 🥑_ **(1 day ago)**
 - [`fantasy`](https://github.com/charmbracelet/fantasy) - _Build AI agents with Go. Multiple providers, multiple models, one API. 🧙_ **(3 days ago)**
@@ -30,20 +30,20 @@ When not doing school or working on a random project, I enjoy working on hardwar
 
 ```text
 💾 Languages:
-unknown          9h 49m 23s   ██████████████████░░░░░░░  70.80%
-Go               2h 37m 26s   █████░░░░░░░░░░░░░░░░░░░░  18.91%
-Markdown         26m 9s       █░░░░░░░░░░░░░░░░░░░░░░░░  3.14%
-TypeScript       14m 52s      █░░░░░░░░░░░░░░░░░░░░░░░░  1.79%
-Shell            14m 5s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.69%
+unknown          9h 17m 13s   ██████████████████░░░░░░░  70.17%
+Go               2h 37m 26s   █████░░░░░░░░░░░░░░░░░░░░  19.82%
+Markdown         24m 0s       █░░░░░░░░░░░░░░░░░░░░░░░░  3.02%
+TypeScript       14m 52s      █░░░░░░░░░░░░░░░░░░░░░░░░  1.87%
+Shell            14m 5s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.77%
 
 💼 Projects:
-crush            6h 15m 29s   ████████████░░░░░░░░░░░░░  46.99%
-holy-guacamole   4h 34m 7s    █████████░░░░░░░░░░░░░░░░  34.30%
-video            48m 13s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.03%
-dots             29m 57s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.75%
-fantasy          25m 15s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.16%
+crush            6h 13m 29s   █████████████░░░░░░░░░░░░  48.81%
+holy-guacamole   4h 4m 44s    ████████░░░░░░░░░░░░░░░░░  31.99%
+video            48m 13s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.30%
+dots             29m 57s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.91%
+fantasy          25m 15s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.30%
 
-Total: 12 hrs 29 mins
+Total: 11 hrs 57 mins
 ```
 
 #### 📮  Want to say hi?
