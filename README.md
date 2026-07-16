@@ -4,10 +4,10 @@ When not doing school or working on a random project, I enjoy working on hardwar
 
 #### 🏗️  The latest repos I've pushed to
 
+- [`fantasy`](https://github.com/charmbracelet/fantasy) - _Build AI agents with Go. Multiple providers, multiple models, one API. 🧙_ **(today)**
 - [`crush`](https://github.com/charmbracelet/crush) - _Glamourous agentic coding for all 💘_ **(today)**
 - [`holy-guacamole`](https://github.com/taciturnaxolotl/holy-guacamole) - _meltybrain avacado 🥑_ **(today)**
 - [`dots`](https://github.com/taciturnaxolotl/dots) - _Kieran's opinionated (and ever expanding) nix config_ **(1 day ago)**
-- [`fantasy`](https://github.com/charmbracelet/fantasy) - _Build AI agents with Go. Multiple providers, multiple models, one API. 🧙_ **(3 days ago)**
 - [`cachet`](https://github.com/taciturnaxolotl/cachet) - _a cache for slack profile pictures and emojis_ **(1 week ago)**
 - [`solder-mcp`](https://github.com/taciturnaxolotl/solder-mcp) - _MCP server for KiCad/EDA tooling extracted from Solderable, with remote agent bridge to GPT-5.5, Claude, and fine-tuned Gemini layout models_ **(2 weeks ago)**
 - [`catwalk`](https://github.com/charmbracelet/catwalk) - _🐈 A collection of LLM inference providers and models_ **(2 weeks ago)**
@@ -30,20 +30,20 @@ When not doing school or working on a random project, I enjoy working on hardwar
 
 ```text
 💾 Languages:
-unknown          9h 37m 58s   ██████████████████░░░░░░░  70.19%
-Go               2h 41m 55s   █████░░░░░░░░░░░░░░░░░░░░  19.66%
-Markdown         28m 0s       █░░░░░░░░░░░░░░░░░░░░░░░░  3.40%
-TypeScript       14m 52s      █░░░░░░░░░░░░░░░░░░░░░░░░  1.81%
-Shell            14m 5s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.71%
+unknown          9h 58m 13s   ██████████████████░░░░░░░  70.41%
+Go               2h 47m 55s   █████░░░░░░░░░░░░░░░░░░░░  19.76%
+Markdown         28m 0s       █░░░░░░░░░░░░░░░░░░░░░░░░  3.30%
+TypeScript       14m 52s      █░░░░░░░░░░░░░░░░░░░░░░░░  1.75%
+Shell            14m 5s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.66%
 
 💼 Projects:
-crush            6h 30m 17s   █████████████░░░░░░░░░░░░  49.26%
-holy-guacamole   4h 11m 5s    ████████░░░░░░░░░░░░░░░░░  31.69%
-video            48m 13s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.09%
-dots             31m 57s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.03%
-fantasy          27m 15s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.44%
+crush            6h 50m 33s   █████████████░░░░░░░░░░░░  50.34%
+holy-guacamole   4h 11m 5s    ████████░░░░░░░░░░░░░░░░░  30.79%
+video            48m 13s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.91%
+dots             31m 57s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.92%
+fantasy          30m 17s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.71%
 
-Total: 12 hrs 20 mins
+Total: 12 hrs 42 mins
 ```
 
 #### 📮  Want to say hi?
