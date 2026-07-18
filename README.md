@@ -4,14 +4,14 @@ When not doing school or working on a random project, I enjoy working on hardwar
 
 #### 🏗️  The latest repos I've pushed to
 
-- [`crush`](https://github.com/charmbracelet/crush) - _Glamourous agentic coding for all 💘_ **(today)**
-- [`holy-guacamole`](https://github.com/taciturnaxolotl/holy-guacamole) - _meltybrain avacado 🥑_ **(today)**
-- [`dots`](https://github.com/taciturnaxolotl/dots) - _Kieran's opinionated (and ever expanding) nix config_ **(1 day ago)**
-- [`fantasy`](https://github.com/charmbracelet/fantasy) - _Build AI agents with Go. Multiple providers, multiple models, one API. 🧙_ **(1 day ago)**
+- [`crush`](https://github.com/charmbracelet/crush) - _Glamourous agentic coding for all 💘_ **(1 day ago)**
+- [`zera`](https://github.com/taciturnaxolotl/zera) - _my new site v4?_ **(1 day ago)**
+- [`holy-guacamole`](https://github.com/taciturnaxolotl/holy-guacamole) - _meltybrain avacado 🥑_ **(1 day ago)**
+- [`fantasy`](https://github.com/charmbracelet/fantasy) - _Build AI agents with Go. Multiple providers, multiple models, one API. 🧙_ **(2 days ago)**
+- [`dots`](https://github.com/taciturnaxolotl/dots) - _Kieran's opinionated (and ever expanding) nix config_ **(2 days ago)**
 - [`cachet`](https://github.com/taciturnaxolotl/cachet) - _a cache for slack profile pictures and emojis_ **(1 week ago)**
 - [`catwalk`](https://github.com/charmbracelet/catwalk) - _🐈 A collection of LLM inference providers and models_ **(2 weeks ago)**
 - [`solder-mcp`](https://github.com/taciturnaxolotl/solder-mcp) - _MCP server for KiCad/EDA tooling extracted from Solderable, with remote agent bridge to GPT-5.5, Claude, and fine-tuned Gemini layout models_ **(2 weeks ago)**
-- [`melty`](https://github.com/taciturnaxolotl/melty) - _mcp server with fts5 full text search over sqlite_ **(2 weeks ago)**
 
 #### 📦  My latest projects
 
@@ -22,28 +22,28 @@ When not doing school or working on a random project, I enjoy working on hardwar
 
 #### 🪧  The latest posts from [`dunkirk.sh`](https://dunkirk.sh)
 
+- [`LLMs are like handwritten notes`](https://dunkirk.sh/blog/llms/) **(1 day ago)**
 - [`Reverse engineering the FRC SystemCore image`](https://dunkirk.sh/blog/frc-systemcore-image/) **(2 months ago)**
 - [`FRC REBUILT Points Calculator`](https://dunkirk.sh/blog/frc-rebuilt-calculator/) **(6 months ago)**
-- [`Homelab tour`](https://dunkirk.sh/blog/homelab-tour/) **(7 months ago)**
 
 #### 📡  My [_`hackatime`_](https://waka.hackclub.com) stats from this week
 
 ```text
 💾 Languages:
-unknown          12h 20m 13s   ██████████████████░░░░░░░  70.23%
-Go               3h 43m 52s    ██████░░░░░░░░░░░░░░░░░░░  21.24%
-Markdown         28m 0s        █░░░░░░░░░░░░░░░░░░░░░░░░  2.66%
-TypeScript       14m 52s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.41%
-Shell            14m 5s        █░░░░░░░░░░░░░░░░░░░░░░░░  1.34%
+unknown          12h 46m 25s   ██████████████████░░░░░░░  70.22%
+Go               3h 51m 11s    ██████░░░░░░░░░░░░░░░░░░░  21.18%
+Markdown         30m 0s        █░░░░░░░░░░░░░░░░░░░░░░░░  2.75%
+TypeScript       14m 52s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.36%
+Shell            14m 5s        █░░░░░░░░░░░░░░░░░░░░░░░░  1.29%
 
 💼 Projects:
-crush            9h 11m 7s     ██████████████░░░░░░░░░░░  55.44%
-holy-guacamole   4h 20m 17s    ███████░░░░░░░░░░░░░░░░░░  26.18%
-video            48m 13s       ██░░░░░░░░░░░░░░░░░░░░░░░  4.85%
-fantasy          37m 8s        █░░░░░░░░░░░░░░░░░░░░░░░░  3.74%
-dots             34m 11s       █░░░░░░░░░░░░░░░░░░░░░░░░  3.44%
+crush            9h 25m 24s    ██████████████░░░░░░░░░░░  54.98%
+holy-guacamole   4h 20m 17s    ███████░░░░░░░░░░░░░░░░░░  25.31%
+video            48m 13s       ██░░░░░░░░░░░░░░░░░░░░░░░  4.69%
+fantasy          37m 8s        █░░░░░░░░░░░░░░░░░░░░░░░░  3.61%
+dots             34m 11s       █░░░░░░░░░░░░░░░░░░░░░░░░  3.32%
 
-Total: 15 hrs 31 mins
+Total: 16 hrs 1 mins
 ```
 
 #### 📮  Want to say hi?
