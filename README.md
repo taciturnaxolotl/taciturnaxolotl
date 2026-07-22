@@ -30,20 +30,20 @@ When not doing school or working on a random project, I enjoy working on hardwar
 
 ```text
 💾 Languages:
-unknown                     9h 18m 17s   ███████████████████░░░░░░  74.94%
-Go                          2h 38m 43s   ██████░░░░░░░░░░░░░░░░░░░  21.30%
-Markdown                    17m 30s      █░░░░░░░░░░░░░░░░░░░░░░░░  2.35%
-JavaScript                  8m 0s        █░░░░░░░░░░░░░░░░░░░░░░░░  1.07%
-JSON                        2m 25s       █░░░░░░░░░░░░░░░░░░░░░░░░  0.32%
+unknown                     7h 20m 51s   ███████████████████░░░░░░  72.32%
+Go                          2h 24m 43s   ██████░░░░░░░░░░░░░░░░░░░  23.74%
+Markdown                    15m 30s      █░░░░░░░░░░░░░░░░░░░░░░░░  2.54%
+JavaScript                  6m 0s        █░░░░░░░░░░░░░░░░░░░░░░░░  0.98%
+JSON                        2m 25s       █░░░░░░░░░░░░░░░░░░░░░░░░  0.40%
 
 💼 Projects:
-crush                       7h 10m 24s   ████████████████░░░░░░░░░  61.43%
-holy-guacamole              2h 15m 15s   █████░░░░░░░░░░░░░░░░░░░░  19.30%
-zera                        28m 51s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.12%
-fantasy                     22m 42s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.24%
-crush-2-electric-boogaloo   18m 20s      █░░░░░░░░░░░░░░░░░░░░░░░░  2.62%
+crush                       5h 51m 17s   ████████████████░░░░░░░░░  63.54%
+holy-guacamole              1h 59m 37s   ██████░░░░░░░░░░░░░░░░░░░  21.64%
+zera                        22m 49s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.13%
+crush-2-electric-boogaloo   18m 20s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.32%
+fantasy                     16m 5s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.91%
 
-Total: 11 hrs 2 mins
+Total: 8 hrs 57 mins
 ```
 
 #### 📮  Want to say hi?
