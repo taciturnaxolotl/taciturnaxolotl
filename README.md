@@ -4,8 +4,8 @@ When not doing school or working on a random project, I enjoy working on hardwar
 
 #### 🏗️  The latest repos I've pushed to
 
+- [`dots`](https://github.com/taciturnaxolotl/dots) - _Kieran's opinionated (and ever expanding) nix config_ **(today)**
 - [`crush`](https://github.com/charmbracelet/crush) - _Glamourous agentic coding for all 💘_ **(1 day ago)**
-- [`dots`](https://github.com/taciturnaxolotl/dots) - _Kieran's opinionated (and ever expanding) nix config_ **(1 day ago)**
 - [`zera`](https://github.com/taciturnaxolotl/zera) - _my new site v4?_ **(2 days ago)**
 - [`holy-guacamole`](https://github.com/taciturnaxolotl/holy-guacamole) - _meltybrain avacado 🥑_ **(5 days ago)**
 - [`lipgloss`](https://github.com/charmbracelet/lipgloss) - _Style definitions for nice terminal layouts 👄_ **(1 week ago)**
@@ -30,20 +30,20 @@ When not doing school or working on a random project, I enjoy working on hardwar
 
 ```text
 💾 Languages:
-unknown                     8h 53m 35s   ██████████████████░░░░░░░  70.60%
-Go                          2h 56m 36s   ██████░░░░░░░░░░░░░░░░░░░  23.36%
-Markdown                    19m 31s      █░░░░░░░░░░░░░░░░░░░░░░░░  2.58%
-JSON                        17m 21s      █░░░░░░░░░░░░░░░░░░░░░░░░  2.30%
-JavaScript                  6m 0s        █░░░░░░░░░░░░░░░░░░░░░░░░  0.79%
+unknown          6h 40m 9s    ██████████████████░░░░░░░  71.67%
+Go               1h 57m 51s   ██████░░░░░░░░░░░░░░░░░░░  21.11%
+JSON             20m 5s       █░░░░░░░░░░░░░░░░░░░░░░░░  3.60%
+Markdown         15m 31s      █░░░░░░░░░░░░░░░░░░░░░░░░  2.78%
+Nix              2m 42s       █░░░░░░░░░░░░░░░░░░░░░░░░  0.48%
 
 💼 Projects:
-crush                       7h 13m 45s   ████████████████░░░░░░░░░  62.50%
-holy-guacamole              1h 59m 37s   █████░░░░░░░░░░░░░░░░░░░░  17.24%
-dots                        24m 54s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.59%
-zera                        22m 49s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.29%
-crush-2-electric-boogaloo   18m 20s      █░░░░░░░░░░░░░░░░░░░░░░░░  2.64%
+crush            5h 26m 31s   █████████████████░░░░░░░░  64.63%
+holy-guacamole   40m 30s      ███░░░░░░░░░░░░░░░░░░░░░░  8.02%
+dots             30m 26s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.02%
+zera             20m 49s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.12%
+unknown          20m 5s       █░░░░░░░░░░░░░░░░░░░░░░░░  3.98%
 
-Total: 10 hrs 49 mins
+Total: 7 hrs 42 mins
 ```
 
 #### 📮  Want to say hi?
