@@ -4,14 +4,14 @@ When not doing school or working on a random project, I enjoy working on hardwar
 
 #### 🏗️  The latest repos I've pushed to
 
+- [`cv`](https://github.com/taciturnaxolotl/cv) - _my cv powered by latex_ **(today)**
 - [`crush`](https://github.com/charmbracelet/crush) - _Glamourous agentic coding for all 💘_ **(1 day ago)**
-- [`dots`](https://github.com/taciturnaxolotl/dots) - _Kieran's opinionated (and ever expanding) nix config_ **(2 days ago)**
 - [`nur`](https://github.com/charmbracelet/nur) - __ **(2 days ago)**
+- [`dots`](https://github.com/taciturnaxolotl/dots) - _Kieran's opinionated (and ever expanding) nix config_ **(2 days ago)**
 - [`cachet`](https://github.com/taciturnaxolotl/cachet) - _a cache for slack profile pictures and emojis_ **(2 days ago)**
 - [`zera`](https://github.com/taciturnaxolotl/zera) - _my new site v4?_ **(4 days ago)**
 - [`holy-guacamole`](https://github.com/taciturnaxolotl/holy-guacamole) - _meltybrain avacado 🥑_ **(1 week ago)**
-- [`fantasy`](https://github.com/charmbracelet/fantasy) - _Build AI agents with Go. Multiple providers, multiple models, one API. 🧙_ **(1 week ago)**
-- [`solder-mcp`](https://github.com/taciturnaxolotl/solder-mcp) - _MCP server for KiCad/EDA tooling extracted from Solderable, with remote agent bridge to GPT-5.5, Claude, and fine-tuned Gemini layout models_ **(3 weeks ago)**
+- [`lipgloss`](https://github.com/charmbracelet/lipgloss) - _Style definitions for nice terminal layouts 👄_ **(1 week ago)**
 
 #### 📦  My latest projects
 
