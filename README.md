@@ -4,12 +4,12 @@ When not doing school or working on a random project, I enjoy working on hardwar
 
 #### 🏗️  The latest repos I've pushed to
 
-- [`crush`](https://github.com/charmbracelet/crush) - _Glamourous agentic coding for all 💘_ **(today)**
-- [`dots`](https://github.com/taciturnaxolotl/dots) - _Kieran's opinionated (and ever expanding) nix config_ **(1 day ago)**
-- [`nur`](https://github.com/charmbracelet/nur) - __ **(1 day ago)**
-- [`cachet`](https://github.com/taciturnaxolotl/cachet) - _a cache for slack profile pictures and emojis_ **(1 day ago)**
-- [`zera`](https://github.com/taciturnaxolotl/zera) - _my new site v4?_ **(3 days ago)**
-- [`holy-guacamole`](https://github.com/taciturnaxolotl/holy-guacamole) - _meltybrain avacado 🥑_ **(6 days ago)**
+- [`crush`](https://github.com/charmbracelet/crush) - _Glamourous agentic coding for all 💘_ **(1 day ago)**
+- [`dots`](https://github.com/taciturnaxolotl/dots) - _Kieran's opinionated (and ever expanding) nix config_ **(2 days ago)**
+- [`nur`](https://github.com/charmbracelet/nur) - __ **(2 days ago)**
+- [`cachet`](https://github.com/taciturnaxolotl/cachet) - _a cache for slack profile pictures and emojis_ **(2 days ago)**
+- [`zera`](https://github.com/taciturnaxolotl/zera) - _my new site v4?_ **(4 days ago)**
+- [`holy-guacamole`](https://github.com/taciturnaxolotl/holy-guacamole) - _meltybrain avacado 🥑_ **(1 week ago)**
 - [`fantasy`](https://github.com/charmbracelet/fantasy) - _Build AI agents with Go. Multiple providers, multiple models, one API. 🧙_ **(1 week ago)**
 - [`solder-mcp`](https://github.com/taciturnaxolotl/solder-mcp) - _MCP server for KiCad/EDA tooling extracted from Solderable, with remote agent bridge to GPT-5.5, Claude, and fine-tuned Gemini layout models_ **(3 weeks ago)**
 
@@ -30,20 +30,20 @@ When not doing school or working on a random project, I enjoy working on hardwar
 
 ```text
 💾 Languages:
-unknown                     5h 45m 38s   ███████████████████░░░░░░  75.03%
-Go                          1h 23m 7s    █████░░░░░░░░░░░░░░░░░░░░  18.04%
-JSON                        15m 41s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.40%
-Markdown                    11m 31s      █░░░░░░░░░░░░░░░░░░░░░░░░  2.50%
-Nix                         2m 42s       █░░░░░░░░░░░░░░░░░░░░░░░░  0.59%
+unknown                     5h 51m 33s   ███████████████████░░░░░░  75.35%
+Go                          1h 23m 7s    █████░░░░░░░░░░░░░░░░░░░░  17.81%
+JSON                        15m 41s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.36%
+Markdown                    11m 31s      █░░░░░░░░░░░░░░░░░░░░░░░░  2.47%
+Nix                         2m 42s       █░░░░░░░░░░░░░░░░░░░░░░░░  0.58%
 
 💼 Projects:
-crush                       4h 9m 7s     ███████████████░░░░░░░░░░  57.00%
-dots                        42m 11s      ███░░░░░░░░░░░░░░░░░░░░░░  9.65%
-holy-guacamole              31m 14s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.15%
-zera                        20m 49s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.76%
-crush-2-electric-boogaloo   18m 20s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.19%
+crush                       4h 15m 3s    ███████████████░░░░░░░░░░  57.57%
+dots                        42m 11s      ███░░░░░░░░░░░░░░░░░░░░░░  9.52%
+holy-guacamole              31m 14s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.05%
+zera                        20m 49s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.70%
+crush-2-electric-boogaloo   18m 20s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.14%
 
-Total: 6 hrs 36 mins
+Total: 6 hrs 42 mins
 ```
 
 #### 📮  Want to say hi?
