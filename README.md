@@ -15,10 +15,10 @@ When not doing school or working on a random project, I enjoy working on hardwar
 
 #### 📦  My latest projects
 
+- [`lard`](https://github.com/taciturnaxolotl/lard) - _mem_
 - [`melty`](https://github.com/taciturnaxolotl/melty) - _mcp server with fts5 full text search over sqlite_
 - [`holy-guacamole`](https://github.com/taciturnaxolotl/holy-guacamole) - _meltybrain avacado 🥑_
 - [`solder-mcp`](https://github.com/taciturnaxolotl/solder-mcp) - _MCP server for KiCad/EDA tooling extracted from Solderable, with remote agent bridge to GPT-5.5, Claude, and fine-tuned Gemini layout models_
-- [`crushing`](https://github.com/taciturnaxolotl/crushing) - _crushing on crush_
 
 #### 🪧  The latest posts from [`dunkirk.sh`](https://dunkirk.sh)
 
@@ -30,20 +30,20 @@ When not doing school or working on a random project, I enjoy working on hardwar
 
 ```text
 💾 Languages:
-unknown          4h 33m 41s   ████████████████████░░░░░  79.06%
-Go               44m 14s      ████░░░░░░░░░░░░░░░░░░░░░  12.78%
-JSON             15m 41s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.53%
-Markdown         9m 31s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.75%
-Nix              2m 42s       █░░░░░░░░░░░░░░░░░░░░░░░░  0.78%
+unknown       4h 28m 17s   ████████████████████░░░░░  78.73%
+Go            44m 14s      ████░░░░░░░░░░░░░░░░░░░░░  12.98%
+JSON          15m 41s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.60%
+Markdown      9m 31s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.79%
+Nix           2m 42s       █░░░░░░░░░░░░░░░░░░░░░░░░  0.79%
 
 💼 Projects:
-crush            2h 42m 27s   █████████████░░░░░░░░░░░░  48.15%
-dots             53m 34s      ████░░░░░░░░░░░░░░░░░░░░░  15.88%
-meisters-ai      15m 51s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.70%
-unknown          15m 41s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.65%
-holy-guacamole   14m 27s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.28%
+crush         2h 42m 27s   █████████████░░░░░░░░░░░░  48.43%
+dots          58m 43s      █████░░░░░░░░░░░░░░░░░░░░  17.50%
+meisters-ai   15m 51s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.73%
+unknown       15m 41s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.68%
+turnout       12m 46s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.81%
 
-Total: 4 hrs 59 mins
+Total: 4 hrs 54 mins
 ```
 
 #### 📮  Want to say hi?
