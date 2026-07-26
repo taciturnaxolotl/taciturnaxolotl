@@ -4,14 +4,14 @@ When not doing school or working on a random project, I enjoy working on hardwar
 
 #### 🏗️  The latest repos I've pushed to
 
-- [`cv`](https://github.com/taciturnaxolotl/cv) - _my cv powered by latex_ **(1 day ago)**
+- [`indiko`](https://github.com/taciturnaxolotl/indiko) - _indieauth and oauth 2.0 compatible auth server for my homelab_ **(today)**
+- [`dots`](https://github.com/taciturnaxolotl/dots) - _Kieran's opinionated (and ever expanding) nix config_ **(today)**
 - [`turnout`](https://github.com/df1317/turnout) - _sir says fill out your availability_ **(1 day ago)**
+- [`cv`](https://github.com/taciturnaxolotl/cv) - _my cv powered by latex_ **(1 day ago)**
 - [`crush`](https://github.com/charmbracelet/crush) - _Glamourous agentic coding for all 💘_ **(2 days ago)**
 - [`nur`](https://github.com/charmbracelet/nur) - __ **(3 days ago)**
-- [`dots`](https://github.com/taciturnaxolotl/dots) - _Kieran's opinionated (and ever expanding) nix config_ **(3 days ago)**
 - [`cachet`](https://github.com/taciturnaxolotl/cachet) - _a cache for slack profile pictures and emojis_ **(3 days ago)**
 - [`zera`](https://github.com/taciturnaxolotl/zera) - _my new site v4?_ **(5 days ago)**
-- [`holy-guacamole`](https://github.com/taciturnaxolotl/holy-guacamole) - _meltybrain avacado 🥑_ **(1 week ago)**
 
 #### 📦  My latest projects
 
@@ -30,20 +30,20 @@ When not doing school or working on a random project, I enjoy working on hardwar
 
 ```text
 💾 Languages:
-unknown       4h 28m 17s   ████████████████████░░░░░  78.73%
-Go            44m 14s      ████░░░░░░░░░░░░░░░░░░░░░  12.98%
-JSON          15m 41s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.60%
-Markdown      9m 31s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.79%
-Nix           2m 42s       █░░░░░░░░░░░░░░░░░░░░░░░░  0.79%
+unknown       5h 5m 7s     ████████████████████░░░░░  77.41%
+Go            44m 14s      ███░░░░░░░░░░░░░░░░░░░░░░  11.22%
+JavaScript    16m 14s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.12%
+JSON          15m 41s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.98%
+Markdown      9m 31s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.41%
 
 💼 Projects:
-crush         2h 42m 27s   █████████████░░░░░░░░░░░░  48.43%
-dots          58m 43s      █████░░░░░░░░░░░░░░░░░░░░  17.50%
-meisters-ai   15m 51s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.73%
-unknown       15m 41s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.68%
-turnout       12m 46s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.81%
+crush         2h 44m 31s   ███████████░░░░░░░░░░░░░░  41.77%
+dots          1h 5m 47s    █████░░░░░░░░░░░░░░░░░░░░  16.70%
+indiko        35m 47s      ███░░░░░░░░░░░░░░░░░░░░░░  9.09%
+kierank       16m 3s       ██░░░░░░░░░░░░░░░░░░░░░░░  4.08%
+meisters-ai   15m 51s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.02%
 
-Total: 4 hrs 54 mins
+Total: 5 hrs 43 mins
 ```
 
 #### 📮  Want to say hi?
