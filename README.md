@@ -5,13 +5,13 @@ When not doing school or working on a random project, I enjoy working on hardwar
 #### 🏗️  The latest repos I've pushed to
 
 - [`lard`](https://github.com/taciturnaxolotl/lard) - _mem_ **(today)**
+- [`crush`](https://github.com/charmbracelet/crush) - _Glamourous agentic coding for all 💘_ **(today)**
 - [`indiko`](https://github.com/taciturnaxolotl/indiko) - _indieauth and oauth 2.0 compatible auth server for my homelab_ **(today)**
 - [`dots`](https://github.com/taciturnaxolotl/dots) - _Kieran's opinionated (and ever expanding) nix config_ **(1 day ago)**
 - [`turnout`](https://github.com/df1317/turnout) - _sir says fill out your availability_ **(2 days ago)**
 - [`cv`](https://github.com/taciturnaxolotl/cv) - _my cv powered by latex_ **(2 days ago)**
-- [`crush`](https://github.com/charmbracelet/crush) - _Glamourous agentic coding for all 💘_ **(3 days ago)**
-- [`nur`](https://github.com/charmbracelet/nur) - __ **(4 days ago)**
 - [`cachet`](https://github.com/taciturnaxolotl/cachet) - _a cache for slack profile pictures and emojis_ **(4 days ago)**
+- [`nur`](https://github.com/charmbracelet/nur) - __ **(4 days ago)**
 
 #### 📦  My latest projects
 
@@ -30,20 +30,20 @@ When not doing school or working on a random project, I enjoy working on hardwar
 
 ```text
 💾 Languages:
-unknown      8h 4m 17s    ████████████████████░░░░░  76.86%
-Go           58m 14s      ███░░░░░░░░░░░░░░░░░░░░░░  9.24%
-JavaScript   34m 9s       ██░░░░░░░░░░░░░░░░░░░░░░░  5.42%
-JSON         23m 45s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.77%
-Markdown     9m 31s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.51%
+unknown       9h 0m 37s    ████████████████████░░░░░  76.50%
+Go            1h 6m 6s     ███░░░░░░░░░░░░░░░░░░░░░░  9.35%
+JavaScript    34m 9s       ██░░░░░░░░░░░░░░░░░░░░░░░  4.83%
+JSON          26m 41s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.78%
+Nix           12m 10s      █░░░░░░░░░░░░░░░░░░░░░░░░  1.72%
 
 💼 Projects:
-crush        3h 19m 56s   ████████░░░░░░░░░░░░░░░░░  31.83%
-dots         1h 47m 53s   █████░░░░░░░░░░░░░░░░░░░░  17.18%
-lard         1h 46m 47s   █████░░░░░░░░░░░░░░░░░░░░  17.00%
-indiko       1h 15m 0s    ███░░░░░░░░░░░░░░░░░░░░░░  11.94%
-kierank      23m 11s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.69%
+crush         3h 46m 59s   ████████░░░░░░░░░░░░░░░░░  31.72%
+lard          1h 56m 41s   █████░░░░░░░░░░░░░░░░░░░░  16.30%
+dots          1h 47m 53s   ████░░░░░░░░░░░░░░░░░░░░░  15.07%
+indiko        1h 33m 0s    ████░░░░░░░░░░░░░░░░░░░░░  12.99%
+meisters-ai   24m 22s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.40%
 
-Total: 8 hrs 58 mins
+Total: 9 hrs 59 mins
 ```
 
 #### 📮  Want to say hi?
