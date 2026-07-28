@@ -4,14 +4,14 @@ When not doing school or working on a random project, I enjoy working on hardwar
 
 #### 🏗️  The latest repos I've pushed to
 
-- [`indiko`](https://github.com/taciturnaxolotl/indiko) - _indieauth and oauth 2.0 compatible auth server for my homelab_ **(today)**
-- [`crush`](https://github.com/charmbracelet/crush) - _Glamourous agentic coding for all 💘_ **(today)**
-- [`turnout`](https://github.com/df1317/turnout) - _sir says fill out your availability_ **(today)**
-- [`lard`](https://github.com/taciturnaxolotl/lard) - _mem_ **(today)**
-- [`dots`](https://github.com/taciturnaxolotl/dots) - _Kieran's opinionated (and ever expanding) nix config_ **(1 day ago)**
-- [`cv`](https://github.com/taciturnaxolotl/cv) - _my cv powered by latex_ **(2 days ago)**
-- [`cachet`](https://github.com/taciturnaxolotl/cachet) - _a cache for slack profile pictures and emojis_ **(4 days ago)**
-- [`nur`](https://github.com/charmbracelet/nur) - __ **(4 days ago)**
+- [`lard`](https://github.com/taciturnaxolotl/lard) - _mem_ **(1 day ago)**
+- [`crush`](https://github.com/charmbracelet/crush) - _Glamourous agentic coding for all 💘_ **(1 day ago)**
+- [`turnout`](https://github.com/df1317/turnout) - _sir says fill out your availability_ **(1 day ago)**
+- [`indiko`](https://github.com/taciturnaxolotl/indiko) - _indieauth and oauth 2.0 compatible auth server for my homelab_ **(1 day ago)**
+- [`dots`](https://github.com/taciturnaxolotl/dots) - _Kieran's opinionated (and ever expanding) nix config_ **(2 days ago)**
+- [`cv`](https://github.com/taciturnaxolotl/cv) - _my cv powered by latex_ **(3 days ago)**
+- [`cachet`](https://github.com/taciturnaxolotl/cachet) - _a cache for slack profile pictures and emojis_ **(5 days ago)**
+- [`nur`](https://github.com/charmbracelet/nur) - __ **(5 days ago)**
 
 #### 📦  My latest projects
 
@@ -30,20 +30,20 @@ When not doing school or working on a random project, I enjoy working on hardwar
 
 ```text
 💾 Languages:
-unknown      9h 26m 50s   ███████████████████░░░░░░  75.43%
-Go           1h 6m 6s     ███░░░░░░░░░░░░░░░░░░░░░░  8.80%
-JavaScript   45m 7s       ██░░░░░░░░░░░░░░░░░░░░░░░  6.00%
-JSON         31m 4s       ██░░░░░░░░░░░░░░░░░░░░░░░  4.13%
-Nix          12m 10s      █░░░░░░░░░░░░░░░░░░░░░░░░  1.62%
+unknown      9h 50m 43s   ███████████████████░░░░░░  75.99%
+Go           1h 6m 6s     ███░░░░░░░░░░░░░░░░░░░░░░  8.50%
+JavaScript   47m 7s       ██░░░░░░░░░░░░░░░░░░░░░░░  6.06%
+JSON         31m 4s       █░░░░░░░░░░░░░░░░░░░░░░░░  4.00%
+Nix          12m 10s      █░░░░░░░░░░░░░░░░░░░░░░░░  1.57%
 
 💼 Projects:
-crush        3h 46m 59s   ████████░░░░░░░░░░░░░░░░░  29.86%
-lard         1h 58m 52s   ████░░░░░░░░░░░░░░░░░░░░░  15.64%
-indiko       1h 58m 2s    ████░░░░░░░░░░░░░░░░░░░░░  15.53%
-dots         1h 51m 53s   ████░░░░░░░░░░░░░░░░░░░░░  14.72%
-turnout      26m 7s       █░░░░░░░░░░░░░░░░░░░░░░░░  3.44%
+crush        3h 50m 59s   ████████░░░░░░░░░░░░░░░░░  29.43%
+lard         1h 58m 52s   ████░░░░░░░░░░░░░░░░░░░░░  15.14%
+indiko       1h 58m 2s    ████░░░░░░░░░░░░░░░░░░░░░  15.04%
+dots         1h 51m 53s   ████░░░░░░░░░░░░░░░░░░░░░  14.25%
+turnout      40m 38s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.18%
 
-Total: 10 hrs 36 mins
+Total: 11 hrs 0 mins
 ```
 
 #### 📮  Want to say hi?
