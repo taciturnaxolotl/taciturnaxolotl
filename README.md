@@ -5,12 +5,12 @@ When not doing school or working on a random project, I enjoy working on hardwar
 #### 🏗️  The latest repos I've pushed to
 
 - [`sharepoint`](https://github.com/taciturnaxolotl/sharepoint) - _reimplementation of remarkable's quickshare urls_ **(today)**
-- [`dots`](https://github.com/taciturnaxolotl/dots) - _Kieran's opinionated (and ever expanding) nix config_ **(today)**
+- [`crush`](https://github.com/charmbracelet/crush) - _Glamourous agentic coding for all 💘_ **(today)**
 - [`soft-serve`](https://github.com/charmbracelet/soft-serve) - _The mighty, self-hostable Git server for the command line🍦_ **(today)**
 - [`zera`](https://github.com/taciturnaxolotl/zera) - _my new site v4?_ **(today)**
+- [`dots`](https://github.com/taciturnaxolotl/dots) - _Kieran's opinionated (and ever expanding) nix config_ **(today)**
 - [`indiko`](https://github.com/taciturnaxolotl/indiko) - _indieauth and oauth 2.0 compatible auth server for my homelab_ **(today)**
 - [`l4`](https://github.com/taciturnaxolotl/l4) - _the l4 cache_ **(1 day ago)**
-- [`crush`](https://github.com/charmbracelet/crush) - _Glamourous agentic coding for all 💘_ **(1 day ago)**
 - [`lard`](https://github.com/taciturnaxolotl/lard) - _mem_ **(1 day ago)**
 
 #### 📦  My latest projects
@@ -30,20 +30,20 @@ When not doing school or working on a random project, I enjoy working on hardwar
 
 ```text
 💾 Languages:
-unknown      13h 40m 0s   ████████████████████░░░░░  77.90%
-Go           1h 14m 29s   ██░░░░░░░░░░░░░░░░░░░░░░░  7.08%
-JavaScript   1h 3m 7s     ██░░░░░░░░░░░░░░░░░░░░░░░  6.00%
-JSON         31m 4s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.95%
-TypeScript   13m 22s      █░░░░░░░░░░░░░░░░░░░░░░░░  1.27%
+unknown      14h 11m 12s   ████████████████████░░░░░  78.09%
+Go           1h 18m 34s    ██░░░░░░░░░░░░░░░░░░░░░░░  7.21%
+JavaScript   1h 3m 7s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.79%
+JSON         31m 4s        █░░░░░░░░░░░░░░░░░░░░░░░░  2.85%
+TypeScript   13m 22s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.23%
 
 💼 Projects:
-crush        4h 32m 2s    ███████░░░░░░░░░░░░░░░░░░  25.40%
-dots         2h 15m 24s   ████░░░░░░░░░░░░░░░░░░░░░  12.64%
-indiko       2h 10m 26s   ████░░░░░░░░░░░░░░░░░░░░░  12.18%
-lard         2h 7m 4s     ███░░░░░░░░░░░░░░░░░░░░░░  11.86%
-sharepoint   1h 11m 45s   ██░░░░░░░░░░░░░░░░░░░░░░░  6.70%
+crush        4h 38m 41s    ███████░░░░░░░░░░░░░░░░░░  25.16%
+dots         2h 15m 24s    ████░░░░░░░░░░░░░░░░░░░░░  12.22%
+indiko       2h 10m 26s    ███░░░░░░░░░░░░░░░░░░░░░░  11.77%
+lard         2h 7m 4s      ███░░░░░░░░░░░░░░░░░░░░░░  11.47%
+sharepoint   1h 11m 45s    ██░░░░░░░░░░░░░░░░░░░░░░░  6.48%
 
-Total: 14 hrs 55 mins
+Total: 15 hrs 26 mins
 ```
 
 #### 📮  Want to say hi?
