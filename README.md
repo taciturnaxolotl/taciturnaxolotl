@@ -4,14 +4,14 @@ When not doing school or working on a random project, I enjoy working on hardwar
 
 #### 🏗️  The latest repos I've pushed to
 
-- [`indiko`](https://github.com/taciturnaxolotl/indiko) - _indieauth and oauth 2.0 compatible auth server for my homelab_ **(1 day ago)**
+- [`sharepoint`](https://github.com/taciturnaxolotl/sharepoint) - _reimplementation of remarkable's quickshare urls_ **(today)**
+- [`dots`](https://github.com/taciturnaxolotl/dots) - _Kieran's opinionated (and ever expanding) nix config_ **(today)**
+- [`soft-serve`](https://github.com/charmbracelet/soft-serve) - _The mighty, self-hostable Git server for the command line🍦_ **(today)**
+- [`zera`](https://github.com/taciturnaxolotl/zera) - _my new site v4?_ **(today)**
+- [`indiko`](https://github.com/taciturnaxolotl/indiko) - _indieauth and oauth 2.0 compatible auth server for my homelab_ **(today)**
 - [`l4`](https://github.com/taciturnaxolotl/l4) - _the l4 cache_ **(1 day ago)**
 - [`crush`](https://github.com/charmbracelet/crush) - _Glamourous agentic coding for all 💘_ **(1 day ago)**
-- [`dots`](https://github.com/taciturnaxolotl/dots) - _Kieran's opinionated (and ever expanding) nix config_ **(1 day ago)**
-- [`sharepoint`](https://github.com/taciturnaxolotl/sharepoint) - _reimplementation of remarkable's quickshare urls_ **(1 day ago)**
 - [`lard`](https://github.com/taciturnaxolotl/lard) - _mem_ **(1 day ago)**
-- [`turnout`](https://github.com/df1317/turnout) - _sir says fill out your availability_ **(2 days ago)**
-- [`cv`](https://github.com/taciturnaxolotl/cv) - _my cv powered by latex_ **(4 days ago)**
 
 #### 📦  My latest projects
 
@@ -22,28 +22,28 @@ When not doing school or working on a random project, I enjoy working on hardwar
 
 #### 🪧  The latest posts from [`dunkirk.sh`](https://dunkirk.sh)
 
+- [`The Joy of Hardware`](https://dunkirk.sh/blog/joy-of-hardware/) **(1 day ago)**
 - [`LLMs are like handwritten notes`](https://dunkirk.sh/blog/llms/) **(1 week ago)**
 - [`Reverse engineering the FRC SystemCore image`](https://dunkirk.sh/blog/frc-systemcore-image/) **(3 months ago)**
-- [`FRC REBUILT Points Calculator`](https://dunkirk.sh/blog/frc-rebuilt-calculator/) **(6 months ago)**
 
 #### 📡  My [_`hackatime`_](https://waka.hackclub.com) stats from this week
 
 ```text
 💾 Languages:
-unknown      11h 21m 56s   ████████████████████░░░░░  77.25%
-Go           1h 8m 6s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.71%
-JavaScript   51m 7s        ██░░░░░░░░░░░░░░░░░░░░░░░  5.79%
-JSON         31m 4s        █░░░░░░░░░░░░░░░░░░░░░░░░  3.52%
-Nix          12m 10s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.38%
+unknown      13h 40m 0s   ████████████████████░░░░░  77.90%
+Go           1h 14m 29s   ██░░░░░░░░░░░░░░░░░░░░░░░  7.08%
+JavaScript   1h 3m 7s     ██░░░░░░░░░░░░░░░░░░░░░░░  6.00%
+JSON         31m 4s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.95%
+TypeScript   13m 22s      █░░░░░░░░░░░░░░░░░░░░░░░░  1.27%
 
 💼 Projects:
-crush        3h 57m 8s     ███████░░░░░░░░░░░░░░░░░░  26.65%
-indiko       2h 8m 18s     ████░░░░░░░░░░░░░░░░░░░░░  14.42%
-dots         2h 6m 5s      ████░░░░░░░░░░░░░░░░░░░░░  14.17%
-lard         2h 5m 4s      ████░░░░░░░░░░░░░░░░░░░░░  14.05%
-turnout      42m 38s       ██░░░░░░░░░░░░░░░░░░░░░░░  4.79%
+crush        4h 32m 2s    ███████░░░░░░░░░░░░░░░░░░  25.40%
+dots         2h 15m 24s   ████░░░░░░░░░░░░░░░░░░░░░  12.64%
+indiko       2h 10m 26s   ████░░░░░░░░░░░░░░░░░░░░░  12.18%
+lard         2h 7m 4s     ███░░░░░░░░░░░░░░░░░░░░░░  11.86%
+sharepoint   1h 11m 45s   ██░░░░░░░░░░░░░░░░░░░░░░░  6.70%
 
-Total: 12 hrs 33 mins
+Total: 14 hrs 55 mins
 ```
 
 #### 📮  Want to say hi?
