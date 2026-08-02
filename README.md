@@ -4,14 +4,14 @@ When not doing school or working on a random project, I enjoy working on hardwar
 
 #### 🏗️  The latest repos I've pushed to
 
+- [`kloe`](https://github.com/taciturnaxolotl/kloe) - _llm chat done the right way™_ **(today)**
 - [`indiko`](https://github.com/taciturnaxolotl/indiko) - _indieauth and oauth 2.0 compatible auth server for my homelab_ **(today)**
-- [`soft-serve`](https://github.com/charmbracelet/soft-serve) - _The mighty, self-hostable Git server for the command line🍦_ **(1 day ago)**
 - [`lard`](https://github.com/taciturnaxolotl/lard) - _mem_ **(1 day ago)**
 - [`dots`](https://github.com/taciturnaxolotl/dots) - _Kieran's opinionated (and ever expanding) nix config_ **(1 day ago)**
+- [`soft-serve`](https://github.com/charmbracelet/soft-serve) - _The mighty, self-hostable Git server for the command line🍦_ **(1 day ago)**
 - [`crush`](https://github.com/charmbracelet/crush) - _Glamourous agentic coding for all 💘_ **(2 days ago)**
-- [`fantasy`](https://github.com/charmbracelet/fantasy) - _Build AI agents with Go. Multiple providers, multiple models, one API. 🧙_ **(2 days ago)**
 - [`wish`](https://github.com/charmbracelet/wish) - _Make SSH apps, just like that! 💫_ **(2 days ago)**
-- [`x`](https://github.com/charmbracelet/x) - _Charm experimental packages_ **(3 days ago)**
+- [`fantasy`](https://github.com/charmbracelet/fantasy) - _Build AI agents with Go. Multiple providers, multiple models, one API. 🧙_ **(2 days ago)**
 
 #### 📦  My latest projects
 
@@ -30,20 +30,20 @@ When not doing school or working on a random project, I enjoy working on hardwar
 
 ```text
 💾 Languages:
-unknown       24h 45m 2s   ███████████████████░░░░░░  74.05%
-TypeScript    1h 55m 58s   ██░░░░░░░░░░░░░░░░░░░░░░░  5.78%
-JavaScript    1h 33m 17s   ██░░░░░░░░░░░░░░░░░░░░░░░  4.65%
-Markdown      1h 31m 25s   ██░░░░░░░░░░░░░░░░░░░░░░░  4.56%
-Go            1h 23m 6s    ██░░░░░░░░░░░░░░░░░░░░░░░  4.14%
+unknown       24h 57m 29s   ███████████████████░░░░░░  73.36%
+TypeScript    2h 15m 8s     ██░░░░░░░░░░░░░░░░░░░░░░░  6.62%
+Markdown      1h 33m 36s    ██░░░░░░░░░░░░░░░░░░░░░░░  4.59%
+JavaScript    1h 33m 17s    ██░░░░░░░░░░░░░░░░░░░░░░░  4.57%
+Go            1h 23m 6s     ██░░░░░░░░░░░░░░░░░░░░░░░  4.07%
 
 💼 Projects:
-crush         6h 39m 15s   █████░░░░░░░░░░░░░░░░░░░░  19.35%
-unduckified   5h 31m 28s   █████░░░░░░░░░░░░░░░░░░░░  16.06%
-dots          2h 50m 38s   ███░░░░░░░░░░░░░░░░░░░░░░  8.27%
-indiko        2h 38m 58s   ██░░░░░░░░░░░░░░░░░░░░░░░  7.70%
-lard          2h 36m 32s   ██░░░░░░░░░░░░░░░░░░░░░░░  7.59%
+crush         6h 39m 15s    █████░░░░░░░░░░░░░░░░░░░░  19.12%
+unduckified   5h 47m 40s    █████░░░░░░░░░░░░░░░░░░░░  16.65%
+dots          2h 50m 38s    ███░░░░░░░░░░░░░░░░░░░░░░  8.17%
+indiko        2h 38m 58s    ██░░░░░░░░░░░░░░░░░░░░░░░  7.61%
+lard          2h 36m 32s    ██░░░░░░░░░░░░░░░░░░░░░░░  7.50%
 
-Total: 28 hrs 49 mins
+Total: 29 hrs 12 mins
 ```
 
 #### 📮  Want to say hi?
