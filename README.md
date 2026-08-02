@@ -4,21 +4,21 @@ When not doing school or working on a random project, I enjoy working on hardwar
 
 #### 🏗️  The latest repos I've pushed to
 
+- [`indiko`](https://github.com/taciturnaxolotl/indiko) - _indieauth and oauth 2.0 compatible auth server for my homelab_ **(today)**
 - [`soft-serve`](https://github.com/charmbracelet/soft-serve) - _The mighty, self-hostable Git server for the command line🍦_ **(1 day ago)**
-- [`dots`](https://github.com/taciturnaxolotl/dots) - _Kieran's opinionated (and ever expanding) nix config_ **(1 day ago)**
-- [`indiko`](https://github.com/taciturnaxolotl/indiko) - _indieauth and oauth 2.0 compatible auth server for my homelab_ **(1 day ago)**
 - [`lard`](https://github.com/taciturnaxolotl/lard) - _mem_ **(1 day ago)**
-- [`fantasy`](https://github.com/charmbracelet/fantasy) - _Build AI agents with Go. Multiple providers, multiple models, one API. 🧙_ **(2 days ago)**
+- [`dots`](https://github.com/taciturnaxolotl/dots) - _Kieran's opinionated (and ever expanding) nix config_ **(1 day ago)**
 - [`crush`](https://github.com/charmbracelet/crush) - _Glamourous agentic coding for all 💘_ **(2 days ago)**
+- [`fantasy`](https://github.com/charmbracelet/fantasy) - _Build AI agents with Go. Multiple providers, multiple models, one API. 🧙_ **(2 days ago)**
 - [`wish`](https://github.com/charmbracelet/wish) - _Make SSH apps, just like that! 💫_ **(2 days ago)**
 - [`x`](https://github.com/charmbracelet/x) - _Charm experimental packages_ **(3 days ago)**
 
 #### 📦  My latest projects
 
+- [`kloe`](https://github.com/taciturnaxolotl/kloe) - _llm chat done the right way™_
 - [`sharepoint`](https://github.com/taciturnaxolotl/sharepoint) - _reimplementation of remarkable's quickshare urls_
 - [`lard`](https://github.com/taciturnaxolotl/lard) - _mem_
 - [`melty`](https://github.com/taciturnaxolotl/melty) - _mcp server with fts5 full text search over sqlite_
-- [`holy-guacamole`](https://github.com/taciturnaxolotl/holy-guacamole) - _meltybrain avacado 🥑_
 
 #### 🪧  The latest posts from [`dunkirk.sh`](https://dunkirk.sh)
 
@@ -30,20 +30,20 @@ When not doing school or working on a random project, I enjoy working on hardwar
 
 ```text
 💾 Languages:
-unknown       23h 14m 3s   ████████████████████░░░░░  77.59%
-TypeScript    1h 23m 53s   ██░░░░░░░░░░░░░░░░░░░░░░░  4.67%
-Go            1h 23m 6s    ██░░░░░░░░░░░░░░░░░░░░░░░  4.63%
-JavaScript    1h 20m 24s   ██░░░░░░░░░░░░░░░░░░░░░░░  4.48%
-Markdown      42m 11s      █░░░░░░░░░░░░░░░░░░░░░░░░  2.35%
+unknown       24h 12m 4s   ███████████████████░░░░░░  74.41%
+TypeScript    1h 44m 10s   ██░░░░░░░░░░░░░░░░░░░░░░░  5.34%
+JavaScript    1h 31m 17s   ██░░░░░░░░░░░░░░░░░░░░░░░  4.68%
+Markdown      1h 26m 11s   ██░░░░░░░░░░░░░░░░░░░░░░░  4.42%
+Go            1h 23m 6s    ██░░░░░░░░░░░░░░░░░░░░░░░  4.26%
 
 💼 Projects:
-crush         6h 29m 1s    ██████░░░░░░░░░░░░░░░░░░░  20.86%
-unduckified   3h 26m 16s   ███░░░░░░░░░░░░░░░░░░░░░░  11.06%
-lard          2h 36m 32s   ███░░░░░░░░░░░░░░░░░░░░░░  8.39%
-dots          2h 28m 39s   ██░░░░░░░░░░░░░░░░░░░░░░░  7.97%
-indiko        2h 22m 53s   ██░░░░░░░░░░░░░░░░░░░░░░░  7.66%
+crush         6h 31m 15s   █████░░░░░░░░░░░░░░░░░░░░  19.49%
+unduckified   4h 56m 39s   ████░░░░░░░░░░░░░░░░░░░░░  14.78%
+dots          2h 50m 38s   ███░░░░░░░░░░░░░░░░░░░░░░  8.50%
+indiko        2h 38m 58s   ██░░░░░░░░░░░░░░░░░░░░░░░  7.92%
+lard          2h 36m 32s   ██░░░░░░░░░░░░░░░░░░░░░░░  7.80%
 
-Total: 26 hrs 5 mins
+Total: 28 hrs 3 mins
 ```
 
 #### 📮  Want to say hi?
