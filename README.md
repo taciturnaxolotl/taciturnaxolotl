@@ -6,12 +6,12 @@ When not doing school or working on a random project, I enjoy working on hardwar
 
 - [`kloe`](https://github.com/taciturnaxolotl/kloe) - _llm chat done the right way™_ **(today)**
 - [`indiko`](https://github.com/taciturnaxolotl/indiko) - _indieauth and oauth 2.0 compatible auth server for my homelab_ **(today)**
+- [`soft-serve`](https://github.com/charmbracelet/soft-serve) - _The mighty, self-hostable Git server for the command line🍦_ **(1 day ago)**
 - [`lard`](https://github.com/taciturnaxolotl/lard) - _mem_ **(1 day ago)**
 - [`dots`](https://github.com/taciturnaxolotl/dots) - _Kieran's opinionated (and ever expanding) nix config_ **(1 day ago)**
-- [`soft-serve`](https://github.com/charmbracelet/soft-serve) - _The mighty, self-hostable Git server for the command line🍦_ **(1 day ago)**
+- [`fantasy`](https://github.com/charmbracelet/fantasy) - _Build AI agents with Go. Multiple providers, multiple models, one API. 🧙_ **(2 days ago)**
 - [`crush`](https://github.com/charmbracelet/crush) - _Glamourous agentic coding for all 💘_ **(2 days ago)**
 - [`wish`](https://github.com/charmbracelet/wish) - _Make SSH apps, just like that! 💫_ **(2 days ago)**
-- [`fantasy`](https://github.com/charmbracelet/fantasy) - _Build AI agents with Go. Multiple providers, multiple models, one API. 🧙_ **(2 days ago)**
 
 #### 📦  My latest projects
 
@@ -30,20 +30,20 @@ When not doing school or working on a random project, I enjoy working on hardwar
 
 ```text
 💾 Languages:
-unknown       24h 57m 29s   ███████████████████░░░░░░  73.36%
-TypeScript    2h 15m 8s     ██░░░░░░░░░░░░░░░░░░░░░░░  6.62%
-Markdown      1h 33m 36s    ██░░░░░░░░░░░░░░░░░░░░░░░  4.59%
-JavaScript    1h 33m 17s    ██░░░░░░░░░░░░░░░░░░░░░░░  4.57%
-Go            1h 23m 6s     ██░░░░░░░░░░░░░░░░░░░░░░░  4.07%
+unknown       25h 10m 3s   ██████████████████░░░░░░░  71.82%
+TypeScript    2h 55m 10s   ███░░░░░░░░░░░░░░░░░░░░░░  8.33%
+JavaScript    1h 36m 47s   ██░░░░░░░░░░░░░░░░░░░░░░░  4.60%
+Markdown      1h 33m 36s   ██░░░░░░░░░░░░░░░░░░░░░░░  4.45%
+Go            1h 23m 6s    █░░░░░░░░░░░░░░░░░░░░░░░░  3.95%
 
 💼 Projects:
-crush         6h 39m 15s    █████░░░░░░░░░░░░░░░░░░░░  19.12%
-unduckified   5h 47m 40s    █████░░░░░░░░░░░░░░░░░░░░  16.65%
-dots          2h 50m 38s    ███░░░░░░░░░░░░░░░░░░░░░░  8.17%
-indiko        2h 38m 58s    ██░░░░░░░░░░░░░░░░░░░░░░░  7.61%
-lard          2h 36m 32s    ██░░░░░░░░░░░░░░░░░░░░░░░  7.50%
+crush         6h 39m 15s   █████░░░░░░░░░░░░░░░░░░░░  18.61%
+unduckified   6h 25m 24s   █████░░░░░░░░░░░░░░░░░░░░  17.97%
+dots          2h 50m 38s   ██░░░░░░░░░░░░░░░░░░░░░░░  7.96%
+indiko        2h 38m 58s   ██░░░░░░░░░░░░░░░░░░░░░░░  7.41%
+lard          2h 36m 32s   ██░░░░░░░░░░░░░░░░░░░░░░░  7.30%
 
-Total: 29 hrs 12 mins
+Total: 30 hrs 4 mins
 ```
 
 #### 📮  Want to say hi?
