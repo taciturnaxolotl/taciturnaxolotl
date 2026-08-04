@@ -4,14 +4,14 @@ When not doing school or working on a random project, I enjoy working on hardwar
 
 #### 🏗️  The latest repos I've pushed to
 
-- [`dots`](https://github.com/taciturnaxolotl/dots) - _Kieran's opinionated (and ever expanding) nix config_ **(today)**
-- [`lard`](https://github.com/taciturnaxolotl/lard) - _mem_ **(1 day ago)**
 - [`kloe`](https://github.com/taciturnaxolotl/kloe) - _llm chat done the right way™_ **(1 day ago)**
+- [`turnout`](https://github.com/df1317/turnout) - _sir says fill out your availability_ **(1 day ago)**
+- [`dots`](https://github.com/taciturnaxolotl/dots) - _Kieran's opinionated (and ever expanding) nix config_ **(1 day ago)**
 - [`indiko`](https://github.com/taciturnaxolotl/indiko) - _indieauth and oauth 2.0 compatible auth server for my homelab_ **(1 day ago)**
-- [`soft-serve`](https://github.com/charmbracelet/soft-serve) - _The mighty, self-hostable Git server for the command line🍦_ **(2 days ago)**
-- [`fantasy`](https://github.com/charmbracelet/fantasy) - _Build AI agents with Go. Multiple providers, multiple models, one API. 🧙_ **(3 days ago)**
-- [`crush`](https://github.com/charmbracelet/crush) - _Glamourous agentic coding for all 💘_ **(3 days ago)**
-- [`wish`](https://github.com/charmbracelet/wish) - _Make SSH apps, just like that! 💫_ **(3 days ago)**
+- [`lard`](https://github.com/taciturnaxolotl/lard) - _mem_ **(2 days ago)**
+- [`soft-serve`](https://github.com/charmbracelet/soft-serve) - _The mighty, self-hostable Git server for the command line🍦_ **(3 days ago)**
+- [`crush`](https://github.com/charmbracelet/crush) - _Glamourous agentic coding for all 💘_ **(4 days ago)**
+- [`wish`](https://github.com/charmbracelet/wish) - _Make SSH apps, just like that! 💫_ **(4 days ago)**
 
 #### 📦  My latest projects
 
@@ -22,7 +22,7 @@ When not doing school or working on a random project, I enjoy working on hardwar
 
 #### 🪧  The latest posts from [`dunkirk.sh`](https://dunkirk.sh)
 
-- [`The Joy of Hardware`](https://dunkirk.sh/blog/joy-of-hardware/) **(6 days ago)**
+- [`The Joy of Hardware`](https://dunkirk.sh/blog/joy-of-hardware/) **(1 week ago)**
 - [`LLMs are like handwritten notes`](https://dunkirk.sh/blog/llms/) **(2 weeks ago)**
 - [`Reverse engineering the FRC SystemCore image`](https://dunkirk.sh/blog/frc-systemcore-image/) **(3 months ago)**
 
@@ -30,20 +30,20 @@ When not doing school or working on a random project, I enjoy working on hardwar
 
 ```text
 💾 Languages:
-unknown       24h 14m 1s   █████████████████░░░░░░░░  66.15%
-TypeScript    4h 16m 6s    ███░░░░░░░░░░░░░░░░░░░░░░  11.65%
-JavaScript    2h 6m 48s    ██░░░░░░░░░░░░░░░░░░░░░░░  5.77%
-Markdown      1h 33m 36s   ██░░░░░░░░░░░░░░░░░░░░░░░  4.26%
-Go            1h 29m 6s    ██░░░░░░░░░░░░░░░░░░░░░░░  4.05%
+unknown       25h 1m 13s   ███████████████░░░░░░░░░░  56.89%
+TypeScript    5h 30m 30s   ████░░░░░░░░░░░░░░░░░░░░░  12.53%
+JavaScript    4h 3m 22s    ███░░░░░░░░░░░░░░░░░░░░░░  9.22%
+CSS           2h 41m 37s   ██░░░░░░░░░░░░░░░░░░░░░░░  6.12%
+Markdown      1h 42m 41s   █░░░░░░░░░░░░░░░░░░░░░░░░  3.89%
 
 💼 Projects:
-unduckified   7h 8m 2s     █████░░░░░░░░░░░░░░░░░░░░  19.52%
-crush         6h 49m 4s    █████░░░░░░░░░░░░░░░░░░░░  18.65%
-dots          2h 31m 54s   ██░░░░░░░░░░░░░░░░░░░░░░░  6.93%
-lard          2h 18m 11s   ██░░░░░░░░░░░░░░░░░░░░░░░  6.30%
-kloe          2h 10m 30s   ██░░░░░░░░░░░░░░░░░░░░░░░  5.95%
+unduckified   7h 14m 51s   █████░░░░░░░░░░░░░░░░░░░░  17.51%
+crush         6h 49m 4s    █████░░░░░░░░░░░░░░░░░░░░  16.47%
+kloe          5h 48m 1s    ████░░░░░░░░░░░░░░░░░░░░░  14.01%
+dots          2h 38m 46s   ██░░░░░░░░░░░░░░░░░░░░░░░  6.39%
+lard          2h 18m 11s   ██░░░░░░░░░░░░░░░░░░░░░░░  5.56%
 
-Total: 30 hrs 35 mins
+Total: 34 hrs 57 mins
 ```
 
 #### 📮  Want to say hi?
