@@ -4,8 +4,8 @@ When not doing school or working on a random project, I enjoy working on hardwar
 
 #### 🏗️  The latest repos I've pushed to
 
-- [`kloe`](https://github.com/taciturnaxolotl/kloe) - _llm chat done the right way™_ **(1 day ago)**
 - [`turnout`](https://github.com/df1317/turnout) - _sir says fill out your availability_ **(1 day ago)**
+- [`kloe`](https://github.com/taciturnaxolotl/kloe) - _llm chat done the right way™_ **(1 day ago)**
 - [`dots`](https://github.com/taciturnaxolotl/dots) - _Kieran's opinionated (and ever expanding) nix config_ **(1 day ago)**
 - [`indiko`](https://github.com/taciturnaxolotl/indiko) - _indieauth and oauth 2.0 compatible auth server for my homelab_ **(1 day ago)**
 - [`lard`](https://github.com/taciturnaxolotl/lard) - _mem_ **(2 days ago)**
@@ -30,20 +30,20 @@ When not doing school or working on a random project, I enjoy working on hardwar
 
 ```text
 💾 Languages:
-unknown       25h 1m 13s   ███████████████░░░░░░░░░░  56.89%
-TypeScript    5h 30m 30s   ████░░░░░░░░░░░░░░░░░░░░░  12.53%
-JavaScript    4h 3m 22s    ███░░░░░░░░░░░░░░░░░░░░░░  9.22%
-CSS           2h 41m 37s   ██░░░░░░░░░░░░░░░░░░░░░░░  6.12%
-Markdown      1h 42m 41s   █░░░░░░░░░░░░░░░░░░░░░░░░  3.89%
+unknown       21h 52m 4s   ██████████████░░░░░░░░░░░  52.35%
+TypeScript    6h 57m 20s   █████░░░░░░░░░░░░░░░░░░░░  16.65%
+JavaScript    3h 36m 29s   ███░░░░░░░░░░░░░░░░░░░░░░  8.64%
+CSS           2h 41m 37s   ██░░░░░░░░░░░░░░░░░░░░░░░  6.45%
+Markdown      2h 4m 48s    ██░░░░░░░░░░░░░░░░░░░░░░░  4.98%
 
 💼 Projects:
-unduckified   7h 14m 51s   █████░░░░░░░░░░░░░░░░░░░░  17.51%
-crush         6h 49m 4s    █████░░░░░░░░░░░░░░░░░░░░  16.47%
-kloe          5h 48m 1s    ████░░░░░░░░░░░░░░░░░░░░░  14.01%
-dots          2h 38m 46s   ██░░░░░░░░░░░░░░░░░░░░░░░  6.39%
-lard          2h 18m 11s   ██░░░░░░░░░░░░░░░░░░░░░░░  5.56%
+kloe          7h 22m 7s    █████░░░░░░░░░░░░░░░░░░░░  19.37%
+unduckified   7h 14m 51s   █████░░░░░░░░░░░░░░░░░░░░  19.05%
+crush         5h 58m 30s   ████░░░░░░░░░░░░░░░░░░░░░  15.71%
+dots          2h 32m 46s   ██░░░░░░░░░░░░░░░░░░░░░░░  6.69%
+ssh           2h 4m 26s    ██░░░░░░░░░░░░░░░░░░░░░░░  5.45%
 
-Total: 34 hrs 57 mins
+Total: 32 hrs 41 mins
 ```
 
 #### 📮  Want to say hi?
