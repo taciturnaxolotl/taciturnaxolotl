@@ -5,13 +5,13 @@ When not doing school or working on a random project, I enjoy working on hardwar
 #### 🏗️  The latest repos I've pushed to
 
 - [`kloe`](https://github.com/taciturnaxolotl/kloe) - _llm chat done the right way™_ **(today)**
-- [`dots`](https://github.com/taciturnaxolotl/dots) - _Kieran's opinionated (and ever expanding) nix config_ **(today)**
 - [`herald`](https://github.com/taciturnaxolotl/herald) - _rss email digests over ssh because you're a cool kid_ **(today)**
+- [`crush`](https://github.com/charmbracelet/crush) - _Glamourous agentic coding for all 💘_ **(today)**
 - [`indiko`](https://github.com/taciturnaxolotl/indiko) - _indieauth and oauth 2.0 compatible auth server for my homelab_ **(today)**
+- [`dots`](https://github.com/taciturnaxolotl/dots) - _Kieran's opinionated (and ever expanding) nix config_ **(today)**
+- [`lard`](https://github.com/taciturnaxolotl/lard) - _mem_ **(today)**
 - [`cv`](https://github.com/taciturnaxolotl/cv) - _my cv powered by latex_ **(1 day ago)**
-- [`crush`](https://github.com/charmbracelet/crush) - _Glamourous agentic coding for all 💘_ **(1 day ago)**
 - [`soft-serve`](https://github.com/charmbracelet/soft-serve) - _The mighty, self-hostable Git server for the command line🍦_ **(1 day ago)**
-- [`turnout`](https://github.com/df1317/turnout) - _sir says fill out your availability_ **(2 days ago)**
 
 #### 📦  My latest projects
 
@@ -30,20 +30,20 @@ When not doing school or working on a random project, I enjoy working on hardwar
 
 ```text
 💾 Languages:
-unknown       22h 52m 43s   ██████████░░░░░░░░░░░░░░░  37.56%
-TypeScript    10h 51m 8s    █████░░░░░░░░░░░░░░░░░░░░  17.81%
-JavaScript    8h 23m 0s     ████░░░░░░░░░░░░░░░░░░░░░  13.76%
-CSS           4h 44m 53s    ██░░░░░░░░░░░░░░░░░░░░░░░  7.79%
-Markdown      4h 44m 15s    ██░░░░░░░░░░░░░░░░░░░░░░░  7.78%
+unknown       23h 24m 58s   █████████░░░░░░░░░░░░░░░░  33.96%
+TypeScript    13h 9m 35s    █████░░░░░░░░░░░░░░░░░░░░  19.09%
+JavaScript    9h 16m 50s    ████░░░░░░░░░░░░░░░░░░░░░  13.46%
+Markdown      5h 32m 54s    ███░░░░░░░░░░░░░░░░░░░░░░  8.05%
+CSS           5h 21m 13s    ██░░░░░░░░░░░░░░░░░░░░░░░  7.76%
 
 💼 Projects:
-kloe          12h 59m 43s   ███████░░░░░░░░░░░░░░░░░░  26.17%
-unduckified   7h 14m 51s    ████░░░░░░░░░░░░░░░░░░░░░  14.60%
-crush         6h 14m 39s    ████░░░░░░░░░░░░░░░░░░░░░  12.58%
-meisters-ai   3h 57m 19s    ██░░░░░░░░░░░░░░░░░░░░░░░  7.97%
-dots          3h 28m 17s    ██░░░░░░░░░░░░░░░░░░░░░░░  6.99%
+kloe          14h 56m 31s   ███████░░░░░░░░░░░░░░░░░░  27.35%
+unduckified   7h 14m 51s    ████░░░░░░░░░░░░░░░░░░░░░  13.27%
+crush         6h 14m 39s    ███░░░░░░░░░░░░░░░░░░░░░░  11.43%
+dots          4h 26m 18s    ███░░░░░░░░░░░░░░░░░░░░░░  8.12%
+meisters-ai   4h 6m 49s     ██░░░░░░░░░░░░░░░░░░░░░░░  7.53%
 
-Total: 42 hrs 42 mins
+Total: 46 hrs 56 mins
 ```
 
 #### 📮  Want to say hi?
