@@ -4,21 +4,21 @@ When not doing school or working on a random project, I enjoy working on hardwar
 
 #### 🏗️  The latest repos I've pushed to
 
+- [`dots`](https://github.com/taciturnaxolotl/dots) - _Kieran's opinionated (and ever expanding) nix config_ **(today)**
+- [`ultraviolet`](https://github.com/charmbracelet/ultraviolet) - _Mystical terminal user interface primitives 🌈_ **(today)**
 - [`holy-guacamole`](https://github.com/taciturnaxolotl/holy-guacamole) - _meltybrain avacado 🥑_ **(1 day ago)**
-- [`dots`](https://github.com/taciturnaxolotl/dots) - _Kieran's opinionated (and ever expanding) nix config_ **(1 day ago)**
 - [`soft-serve`](https://github.com/charmbracelet/soft-serve) - _The mighty, self-hostable Git server for the command line🍦_ **(1 day ago)**
 - [`kloe`](https://github.com/taciturnaxolotl/kloe) - _llm chat done the right way™_ **(2 days ago)**
-- [`lard`](https://github.com/taciturnaxolotl/lard) - _mem_ **(3 days ago)**
-- [`crush`](https://github.com/charmbracelet/crush) - _Glamourous agentic coding for all 💘_ **(3 days ago)**
-- [`turnout`](https://github.com/df1317/turnout) - _sir says fill out your availability_ **(3 days ago)**
 - [`indiko`](https://github.com/taciturnaxolotl/indiko) - _indieauth and oauth 2.0 compatible auth server for my homelab_ **(3 days ago)**
+- [`charming-slack`](https://github.com/taciturnaxolotl/charming-slack) - _A cool slack over ssh project with a pretty bubbletea tui_ **(3 days ago)**
+- [`turnout`](https://github.com/df1317/turnout) - _sir says fill out your availability_ **(3 days ago)**
 
 #### 📦  My latest projects
 
+- [`heidis-power-gadgets`](https://github.com/taciturnaxolotl/heidis-power-gadgets) - _Fancy USB PD power gadgets_
 - [`kloe`](https://github.com/taciturnaxolotl/kloe) - _llm chat done the right way™_
 - [`sharepoint`](https://github.com/taciturnaxolotl/sharepoint) - _reimplementation of remarkable's quickshare urls_
 - [`lard`](https://github.com/taciturnaxolotl/lard) - _mem_
-- [`melty`](https://github.com/taciturnaxolotl/melty) - _mcp server with fts5 full text search over sqlite_
 
 #### 🪧  The latest posts from [`dunkirk.sh`](https://dunkirk.sh)
 
@@ -30,20 +30,20 @@ When not doing school or working on a random project, I enjoy working on hardwar
 
 ```text
 💾 Languages:
-TypeScript    14h 47m 28s   ██████░░░░░░░░░░░░░░░░░░░  20.71%
-unknown       14h 12m 18s   █████░░░░░░░░░░░░░░░░░░░░  19.89%
-JavaScript    10h 0m 23s    ████░░░░░░░░░░░░░░░░░░░░░  14.01%
-Markdown      6h 27m 16s    ███░░░░░░░░░░░░░░░░░░░░░░  9.04%
-CSS           6h 7m 18s     ███░░░░░░░░░░░░░░░░░░░░░░  8.57%
+unknown       17h 19m 41s   ██████░░░░░░░░░░░░░░░░░░░  21.94%
+TypeScript    15h 5m 7s     █████░░░░░░░░░░░░░░░░░░░░  19.10%
+JavaScript    10h 0m 23s    ████░░░░░░░░░░░░░░░░░░░░░  12.67%
+Markdown      6h 53m 12s    ███░░░░░░░░░░░░░░░░░░░░░░  8.72%
+CSS           6h 7m 18s     ██░░░░░░░░░░░░░░░░░░░░░░░  7.75%
 
 💼 Projects:
-kloe          19h 15m 46s   ██████████░░░░░░░░░░░░░░░  37.19%
-meisters-ai   6h 44m 11s    ████░░░░░░░░░░░░░░░░░░░░░  13.00%
-unduckified   6h 12m 47s    ███░░░░░░░░░░░░░░░░░░░░░░  11.99%
-dots          4h 16m 21s    ███░░░░░░░░░░░░░░░░░░░░░░  8.25%
-crush         2h 21m 2s     ██░░░░░░░░░░░░░░░░░░░░░░░  4.54%
+kloe          19h 30m 59s   █████████░░░░░░░░░░░░░░░░  33.53%
+dots          7h 39m 59s    ████░░░░░░░░░░░░░░░░░░░░░  13.17%
+meisters-ai   6h 46m 31s    ███░░░░░░░░░░░░░░░░░░░░░░  11.64%
+unduckified   6h 12m 47s    ███░░░░░░░░░░░░░░░░░░░░░░  10.67%
+crush         2h 21m 2s     ██░░░░░░░░░░░░░░░░░░░░░░░  4.04%
 
-Total: 45 hrs 25 mins
+Total: 50 hrs 27 mins
 ```
 
 #### 📮  Want to say hi?
