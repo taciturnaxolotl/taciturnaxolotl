@@ -4,14 +4,14 @@ When not doing school or working on a random project, I enjoy working on hardwar
 
 #### 🏗️  The latest repos I've pushed to
 
+- [`dots`](https://github.com/taciturnaxolotl/dots) - _Kieran's opinionated (and ever expanding) nix config_ **(today)**
+- [`kloe`](https://github.com/taciturnaxolotl/kloe) - _llm chat done the right way™_ **(today)**
 - [`nixpkgs`](https://github.com/NixOS/nixpkgs) - _Nix Packages collection & NixOS_ **(1 day ago)**
 - [`ultraviolet`](https://github.com/charmbracelet/ultraviolet) - _Mystical terminal user interface primitives 🌈_ **(1 day ago)**
-- [`kloe`](https://github.com/taciturnaxolotl/kloe) - _llm chat done the right way™_ **(1 day ago)**
-- [`dots`](https://github.com/taciturnaxolotl/dots) - _Kieran's opinionated (and ever expanding) nix config_ **(1 day ago)**
-- [`soft-serve`](https://github.com/charmbracelet/soft-serve) - _The mighty, self-hostable Git server for the command line🍦_ **(2 days ago)**
 - [`holy-guacamole`](https://github.com/taciturnaxolotl/holy-guacamole) - _meltybrain avacado 🥑_ **(2 days ago)**
-- [`turnout`](https://github.com/df1317/turnout) - _sir says fill out your availability_ **(4 days ago)**
+- [`soft-serve`](https://github.com/charmbracelet/soft-serve) - _The mighty, self-hostable Git server for the command line🍦_ **(2 days ago)**
 - [`indiko`](https://github.com/taciturnaxolotl/indiko) - _indieauth and oauth 2.0 compatible auth server for my homelab_ **(4 days ago)**
+- [`turnout`](https://github.com/df1317/turnout) - _sir says fill out your availability_ **(4 days ago)**
 
 #### 📦  My latest projects
 
@@ -30,20 +30,20 @@ When not doing school or working on a random project, I enjoy working on hardwar
 
 ```text
 💾 Languages:
-unknown       16h 58m 51s   ██████░░░░░░░░░░░░░░░░░░░  20.14%
-TypeScript    15h 38m 30s   █████░░░░░░░░░░░░░░░░░░░░  18.56%
-JavaScript    13h 1m 49s    ████░░░░░░░░░░░░░░░░░░░░░  15.46%
-Markdown      7h 7m 53s     ███░░░░░░░░░░░░░░░░░░░░░░  8.46%
-CSS           7h 4m 22s     ███░░░░░░░░░░░░░░░░░░░░░░  8.39%
+unknown       17h 14m 28s   ██████░░░░░░░░░░░░░░░░░░░  20.34%
+TypeScript    15h 38m 30s   █████░░░░░░░░░░░░░░░░░░░░  18.45%
+JavaScript    13h 1m 49s    ████░░░░░░░░░░░░░░░░░░░░░  15.37%
+Markdown      7h 7m 53s     ███░░░░░░░░░░░░░░░░░░░░░░  8.41%
+CSS           7h 4m 22s     ███░░░░░░░░░░░░░░░░░░░░░░  8.34%
 
 💼 Projects:
-kloe          23h 43m 33s   ██████████░░░░░░░░░░░░░░░  39.42%
-dots          7h 54m 18s    ████░░░░░░░░░░░░░░░░░░░░░  13.13%
-meisters-ai   6h 46m 31s    ███░░░░░░░░░░░░░░░░░░░░░░  11.26%
-unduckified   4h 44m 47s    ██░░░░░░░░░░░░░░░░░░░░░░░  7.89%
-crush         1h 43m 48s    █░░░░░░░░░░░░░░░░░░░░░░░░  2.87%
+kloe          23h 51m 31s   ██████████░░░░░░░░░░░░░░░  39.40%
+dots          8h 2m 11s     ████░░░░░░░░░░░░░░░░░░░░░  13.27%
+meisters-ai   6h 46m 31s    ███░░░░░░░░░░░░░░░░░░░░░░  11.19%
+unduckified   4h 44m 47s    ██░░░░░░░░░░░░░░░░░░░░░░░  7.84%
+crush         1h 49m 58s    █░░░░░░░░░░░░░░░░░░░░░░░░  3.03%
 
-Total: 52 hrs 25 mins
+Total: 52 hrs 45 mins
 ```
 
 #### 📮  Want to say hi?
