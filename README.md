@@ -6,10 +6,10 @@ When not doing school or working on a random project, I enjoy working on hardwar
 
 - [`nixpkgs`](https://github.com/NixOS/nixpkgs) - _Nix Packages collection & NixOS_ **(1 day ago)**
 - [`ultraviolet`](https://github.com/charmbracelet/ultraviolet) - _Mystical terminal user interface primitives 🌈_ **(1 day ago)**
+- [`kloe`](https://github.com/taciturnaxolotl/kloe) - _llm chat done the right way™_ **(1 day ago)**
 - [`dots`](https://github.com/taciturnaxolotl/dots) - _Kieran's opinionated (and ever expanding) nix config_ **(1 day ago)**
 - [`soft-serve`](https://github.com/charmbracelet/soft-serve) - _The mighty, self-hostable Git server for the command line🍦_ **(2 days ago)**
 - [`holy-guacamole`](https://github.com/taciturnaxolotl/holy-guacamole) - _meltybrain avacado 🥑_ **(2 days ago)**
-- [`kloe`](https://github.com/taciturnaxolotl/kloe) - _llm chat done the right way™_ **(3 days ago)**
 - [`turnout`](https://github.com/df1317/turnout) - _sir says fill out your availability_ **(4 days ago)**
 - [`indiko`](https://github.com/taciturnaxolotl/indiko) - _indieauth and oauth 2.0 compatible auth server for my homelab_ **(4 days ago)**
 
@@ -30,20 +30,20 @@ When not doing school or working on a random project, I enjoy working on hardwar
 
 ```text
 💾 Languages:
-unknown       18h 23m 0s    ██████░░░░░░░░░░░░░░░░░░░  22.31%
-TypeScript    15h 39m 49s   █████░░░░░░░░░░░░░░░░░░░░  19.01%
-JavaScript    10h 54m 0s    ████░░░░░░░░░░░░░░░░░░░░░  13.23%
-Markdown      6h 53m 12s    ███░░░░░░░░░░░░░░░░░░░░░░  8.36%
-CSS           6h 18m 57s    ██░░░░░░░░░░░░░░░░░░░░░░░  7.67%
+unknown       16h 58m 51s   ██████░░░░░░░░░░░░░░░░░░░  20.28%
+TypeScript    15h 38m 30s   █████░░░░░░░░░░░░░░░░░░░░  18.68%
+JavaScript    12h 47m 56s   ████░░░░░░░░░░░░░░░░░░░░░  15.29%
+Markdown      7h 7m 53s     ███░░░░░░░░░░░░░░░░░░░░░░  8.52%
+CSS           6h 44m 31s    ███░░░░░░░░░░░░░░░░░░░░░░  8.05%
 
 💼 Projects:
-kloe          20h 17m 28s   █████████░░░░░░░░░░░░░░░░  33.43%
-dots          8h 27m 11s    ████░░░░░░░░░░░░░░░░░░░░░  13.93%
-meisters-ai   6h 46m 31s    ███░░░░░░░░░░░░░░░░░░░░░░  11.16%
-unduckified   6h 12m 47s    ███░░░░░░░░░░░░░░░░░░░░░░  10.24%
-crush         2h 21m 2s     █░░░░░░░░░░░░░░░░░░░░░░░░  3.87%
+kloe          23h 14m 56s   ██████████░░░░░░░░░░░░░░░  38.94%
+dots          7h 54m 18s    ████░░░░░░░░░░░░░░░░░░░░░  13.24%
+meisters-ai   6h 46m 31s    ███░░░░░░░░░░░░░░░░░░░░░░  11.35%
+unduckified   4h 44m 47s    ██░░░░░░░░░░░░░░░░░░░░░░░  7.95%
+crush         1h 43m 48s    █░░░░░░░░░░░░░░░░░░░░░░░░  2.90%
 
-Total: 52 hrs 14 mins
+Total: 51 hrs 57 mins
 ```
 
 #### 📮  Want to say hi?
