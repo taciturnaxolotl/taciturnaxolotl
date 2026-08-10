@@ -4,14 +4,14 @@ When not doing school or working on a random project, I enjoy working on hardwar
 
 #### 🏗️  The latest repos I've pushed to
 
-- [`dots`](https://github.com/taciturnaxolotl/dots) - _Kieran's opinionated (and ever expanding) nix config_ **(today)**
-- [`kloe`](https://github.com/taciturnaxolotl/kloe) - _llm chat done the right way™_ **(today)**
-- [`nixpkgs`](https://github.com/NixOS/nixpkgs) - _Nix Packages collection & NixOS_ **(1 day ago)**
-- [`ultraviolet`](https://github.com/charmbracelet/ultraviolet) - _Mystical terminal user interface primitives 🌈_ **(1 day ago)**
-- [`holy-guacamole`](https://github.com/taciturnaxolotl/holy-guacamole) - _meltybrain avacado 🥑_ **(2 days ago)**
-- [`soft-serve`](https://github.com/charmbracelet/soft-serve) - _The mighty, self-hostable Git server for the command line🍦_ **(2 days ago)**
-- [`indiko`](https://github.com/taciturnaxolotl/indiko) - _indieauth and oauth 2.0 compatible auth server for my homelab_ **(4 days ago)**
-- [`turnout`](https://github.com/df1317/turnout) - _sir says fill out your availability_ **(4 days ago)**
+- [`dots`](https://github.com/taciturnaxolotl/dots) - _Kieran's opinionated (and ever expanding) nix config_ **(1 day ago)**
+- [`kloe`](https://github.com/taciturnaxolotl/kloe) - _llm chat done the right way™_ **(1 day ago)**
+- [`nixpkgs`](https://github.com/NixOS/nixpkgs) - _Nix Packages collection & NixOS_ **(2 days ago)**
+- [`ultraviolet`](https://github.com/charmbracelet/ultraviolet) - _Mystical terminal user interface primitives 🌈_ **(2 days ago)**
+- [`holy-guacamole`](https://github.com/taciturnaxolotl/holy-guacamole) - _meltybrain avacado 🥑_ **(3 days ago)**
+- [`soft-serve`](https://github.com/charmbracelet/soft-serve) - _The mighty, self-hostable Git server for the command line🍦_ **(3 days ago)**
+- [`indiko`](https://github.com/taciturnaxolotl/indiko) - _indieauth and oauth 2.0 compatible auth server for my homelab_ **(5 days ago)**
+- [`turnout`](https://github.com/df1317/turnout) - _sir says fill out your availability_ **(5 days ago)**
 
 #### 📦  My latest projects
 
@@ -30,20 +30,20 @@ When not doing school or working on a random project, I enjoy working on hardwar
 
 ```text
 💾 Languages:
-unknown       17h 22m 45s   █████░░░░░░░░░░░░░░░░░░░░  19.90%
-TypeScript    15h 54m 50s   █████░░░░░░░░░░░░░░░░░░░░  18.22%
-JavaScript    13h 41m 20s   ████░░░░░░░░░░░░░░░░░░░░░  15.67%
-Markdown      8h 24m 57s    ███░░░░░░░░░░░░░░░░░░░░░░  9.64%
-CSS           7h 9m 59s     ███░░░░░░░░░░░░░░░░░░░░░░  8.21%
+unknown       14h 25m 52s   █████░░░░░░░░░░░░░░░░░░░░  18.33%
+TypeScript    13h 22m 54s   █████░░░░░░░░░░░░░░░░░░░░  17.00%
+JavaScript    12h 57m 48s   █████░░░░░░░░░░░░░░░░░░░░  16.47%
+Markdown      7h 22m 27s    ███░░░░░░░░░░░░░░░░░░░░░░  9.37%
+CSS           6h 49m 8s     ███░░░░░░░░░░░░░░░░░░░░░░  8.66%
 
 💼 Projects:
-kloe          25h 21m 5s    ███████████░░░░░░░░░░░░░░  40.80%
-dots          8h 2m 11s     ████░░░░░░░░░░░░░░░░░░░░░  12.93%
-meisters-ai   6h 46m 31s    ███░░░░░░░░░░░░░░░░░░░░░░  10.90%
-unduckified   4h 44m 47s    ██░░░░░░░░░░░░░░░░░░░░░░░  7.64%
-crush         1h 49m 58s    █░░░░░░░░░░░░░░░░░░░░░░░░  2.95%
+kloe          24h 11m 54s   ████████████░░░░░░░░░░░░░  44.46%
+dots          7h 22m 16s    ████░░░░░░░░░░░░░░░░░░░░░  13.54%
+meisters-ai   6h 46m 31s    ████░░░░░░░░░░░░░░░░░░░░░  12.45%
+soft-serve    1h 42m 45s    █░░░░░░░░░░░░░░░░░░░░░░░░  3.15%
+turnout       1h 42m 28s    █░░░░░░░░░░░░░░░░░░░░░░░░  3.14%
 
-Total: 54 hrs 18 mins
+Total: 47 hrs 54 mins
 ```
 
 #### 📮  Want to say hi?
