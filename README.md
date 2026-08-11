@@ -30,20 +30,20 @@ When not doing school or working on a random project, I enjoy working on hardwar
 
 ```text
 💾 Languages:
-unknown                16h 52m 53s   ██████░░░░░░░░░░░░░░░░░░░  20.12%
-TypeScript             14h 8m 25s    █████░░░░░░░░░░░░░░░░░░░░  16.85%
-JavaScript             13h 47m 22s   █████░░░░░░░░░░░░░░░░░░░░  16.43%
-Markdown               9h 10m 41s    ███░░░░░░░░░░░░░░░░░░░░░░  10.94%
-Go                     6h 15m 10s    ██░░░░░░░░░░░░░░░░░░░░░░░  7.45%
+unknown                18h 0m 52s    ██████░░░░░░░░░░░░░░░░░░░  21.16%
+TypeScript             14h 8m 25s    █████░░░░░░░░░░░░░░░░░░░░  16.61%
+JavaScript             13h 47m 22s   █████░░░░░░░░░░░░░░░░░░░░  16.20%
+Markdown               9h 12m 41s    ███░░░░░░░░░░░░░░░░░░░░░░  10.82%
+Go                     6h 17m 50s    ██░░░░░░░░░░░░░░░░░░░░░░░  7.40%
 
 💼 Projects:
-kloe                   25h 11m 54s   ███████████░░░░░░░░░░░░░░  43.40%
-dots                   7h 50m 51s    ████░░░░░░░░░░░░░░░░░░░░░  13.52%
-meisters-ai            6h 24m 30s    ███░░░░░░░░░░░░░░░░░░░░░░  11.04%
-turnout                2h 15m 33s    █░░░░░░░░░░░░░░░░░░░░░░░░  3.89%
-heidis-power-gadgets   1h 52m 4s     █░░░░░░░░░░░░░░░░░░░░░░░░  3.22%
+kloe                   25h 11m 54s   ███████████░░░░░░░░░░░░░░  42.54%
+dots                   7h 50m 51s    ████░░░░░░░░░░░░░░░░░░░░░  13.25%
+meisters-ai            6h 24m 30s    ███░░░░░░░░░░░░░░░░░░░░░░  10.82%
+turnout                2h 15m 33s    █░░░░░░░░░░░░░░░░░░░░░░░░  3.81%
+heidis-power-gadgets   1h 52m 4s     █░░░░░░░░░░░░░░░░░░░░░░░░  3.15%
 
-Total: 50 hrs 57 mins
+Total: 52 hrs 6 mins
 ```
 
 #### 📮  Want to say hi?
