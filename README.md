@@ -4,14 +4,14 @@ When not doing school or working on a random project, I enjoy working on hardwar
 
 #### 🏗️  The latest repos I've pushed to
 
-- [`dots`](https://github.com/taciturnaxolotl/dots) - _Kieran's opinionated (and ever expanding) nix config_ **(1 day ago)**
-- [`heidis-power-gadgets`](https://github.com/taciturnaxolotl/heidis-power-gadgets) - _Fancy USB PD power gadgets_ **(1 day ago)**
-- [`kloe`](https://github.com/taciturnaxolotl/kloe) - _llm chat done the right way™_ **(1 day ago)**
-- [`turnout`](https://github.com/df1317/turnout) - _sir says fill out your availability_ **(1 day ago)**
 - [`zera`](https://github.com/taciturnaxolotl/zera) - _my new site v4?_ **(1 day ago)**
 - [`cv`](https://github.com/taciturnaxolotl/cv) - _my cv powered by latex_ **(1 day ago)**
+- [`dots`](https://github.com/taciturnaxolotl/dots) - _Kieran's opinionated (and ever expanding) nix config_ **(1 day ago)**
+- [`kloe`](https://github.com/taciturnaxolotl/kloe) - _llm chat done the right way™_ **(1 day ago)**
+- [`turnout`](https://github.com/df1317/turnout) - _sir says fill out your availability_ **(1 day ago)**
 - [`nixpkgs`](https://github.com/NixOS/nixpkgs) - _Nix Packages collection & NixOS_ **(3 days ago)**
 - [`ultraviolet`](https://github.com/charmbracelet/ultraviolet) - _Mystical terminal user interface primitives 🌈_ **(3 days ago)**
+- [`soft-serve`](https://github.com/charmbracelet/soft-serve) - _The mighty, self-hostable Git server for the command line🍦_ **(4 days ago)**
 
 #### 📦  My latest projects
 
