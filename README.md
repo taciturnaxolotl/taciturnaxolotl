@@ -4,9 +4,9 @@ When not doing school or working on a random project, I enjoy working on hardwar
 
 #### 🏗️  The latest repos I've pushed to
 
+- [`dots`](https://github.com/taciturnaxolotl/dots) - _Kieran's opinionated (and ever expanding) nix config_ **(today)**
 - [`zera`](https://github.com/taciturnaxolotl/zera) - _my new site v4?_ **(1 day ago)**
 - [`cv`](https://github.com/taciturnaxolotl/cv) - _my cv powered by latex_ **(1 day ago)**
-- [`dots`](https://github.com/taciturnaxolotl/dots) - _Kieran's opinionated (and ever expanding) nix config_ **(1 day ago)**
 - [`kloe`](https://github.com/taciturnaxolotl/kloe) - _llm chat done the right way™_ **(1 day ago)**
 - [`turnout`](https://github.com/df1317/turnout) - _sir says fill out your availability_ **(1 day ago)**
 - [`nixpkgs`](https://github.com/NixOS/nixpkgs) - _Nix Packages collection & NixOS_ **(3 days ago)**
@@ -30,20 +30,20 @@ When not doing school or working on a random project, I enjoy working on hardwar
 
 ```text
 💾 Languages:
-unknown                18h 0m 52s    ██████░░░░░░░░░░░░░░░░░░░  21.16%
-TypeScript             14h 8m 25s    █████░░░░░░░░░░░░░░░░░░░░  16.61%
-JavaScript             13h 47m 22s   █████░░░░░░░░░░░░░░░░░░░░  16.20%
-Markdown               9h 12m 41s    ███░░░░░░░░░░░░░░░░░░░░░░  10.82%
-Go                     6h 17m 50s    ██░░░░░░░░░░░░░░░░░░░░░░░  7.40%
+unknown       19h 10m 33s   ██████░░░░░░░░░░░░░░░░░░░  21.99%
+TypeScript    14h 22m 37s   █████░░░░░░░░░░░░░░░░░░░░  16.49%
+JavaScript    14h 1m 42s    █████░░░░░░░░░░░░░░░░░░░░  16.09%
+Markdown      9h 12m 41s    ███░░░░░░░░░░░░░░░░░░░░░░  10.56%
+Go            6h 17m 50s    ██░░░░░░░░░░░░░░░░░░░░░░░  7.22%
 
 💼 Projects:
-kloe                   25h 11m 54s   ███████████░░░░░░░░░░░░░░  42.54%
-dots                   7h 50m 51s    ████░░░░░░░░░░░░░░░░░░░░░  13.25%
-meisters-ai            6h 24m 30s    ███░░░░░░░░░░░░░░░░░░░░░░  10.82%
-turnout                2h 15m 33s    █░░░░░░░░░░░░░░░░░░░░░░░░  3.81%
-heidis-power-gadgets   1h 52m 4s     █░░░░░░░░░░░░░░░░░░░░░░░░  3.15%
+kloe          25h 41m 17s   ███████████░░░░░░░░░░░░░░  42.01%
+dots          7h 58m 43s    ████░░░░░░░░░░░░░░░░░░░░░  13.05%
+meisters-ai   6h 24m 30s    ███░░░░░░░░░░░░░░░░░░░░░░  10.48%
+segecom       2h 18m 49s    █░░░░░░░░░░░░░░░░░░░░░░░░  3.78%
+turnout       2h 15m 33s    █░░░░░░░░░░░░░░░░░░░░░░░░  3.69%
 
-Total: 52 hrs 6 mins
+Total: 53 hrs 20 mins
 ```
 
 #### 📮  Want to say hi?
