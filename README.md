@@ -6,12 +6,12 @@ When not doing school or working on a random project, I enjoy working on hardwar
 
 - [`dots`](https://github.com/taciturnaxolotl/dots) - _Kieran's opinionated (and ever expanding) nix config_ **(today)**
 - [`kloe`](https://github.com/taciturnaxolotl/kloe) - _llm chat done the right way™_ **(today)**
-- [`zera`](https://github.com/taciturnaxolotl/zera) - _my new site v4?_ **(1 day ago)**
-- [`cv`](https://github.com/taciturnaxolotl/cv) - _my cv powered by latex_ **(1 day ago)**
+- [`cachet`](https://github.com/taciturnaxolotl/cachet) - _a cache for slack profile pictures and emojis_ **(today)**
 - [`turnout`](https://github.com/df1317/turnout) - _sir says fill out your availability_ **(1 day ago)**
-- [`heidis-power-gadgets`](https://github.com/taciturnaxolotl/heidis-power-gadgets) - _Fancy USB PD power gadgets_ **(1 day ago)**
-- [`nixpkgs`](https://github.com/NixOS/nixpkgs) - _Nix Packages collection & NixOS_ **(3 days ago)**
+- [`cv`](https://github.com/taciturnaxolotl/cv) - _my cv powered by latex_ **(1 day ago)**
+- [`zera`](https://github.com/taciturnaxolotl/zera) - _my new site v4?_ **(1 day ago)**
 - [`ultraviolet`](https://github.com/charmbracelet/ultraviolet) - _Mystical terminal user interface primitives 🌈_ **(3 days ago)**
+- [`nixpkgs`](https://github.com/NixOS/nixpkgs) - _Nix Packages collection & NixOS_ **(3 days ago)**
 
 #### 📦  My latest projects
 
@@ -30,20 +30,20 @@ When not doing school or working on a random project, I enjoy working on hardwar
 
 ```text
 💾 Languages:
-unknown       20h 27m 7s    ██████░░░░░░░░░░░░░░░░░░░  22.97%
-TypeScript    14h 36m 29s   █████░░░░░░░░░░░░░░░░░░░░  16.40%
-JavaScript    14h 22m 3s    █████░░░░░░░░░░░░░░░░░░░░  16.13%
-Markdown      9h 12m 41s    ███░░░░░░░░░░░░░░░░░░░░░░  10.34%
-Go            6h 17m 50s    ██░░░░░░░░░░░░░░░░░░░░░░░  7.07%
+unknown       20h 57m 59s   ██████░░░░░░░░░░░░░░░░░░░  23.19%
+TypeScript    14h 52m 57s   █████░░░░░░░░░░░░░░░░░░░░  16.46%
+JavaScript    14h 26m 3s    ████░░░░░░░░░░░░░░░░░░░░░  15.96%
+Markdown      9h 24m 41s    ███░░░░░░░░░░░░░░░░░░░░░░  10.41%
+Go            6h 17m 50s    ██░░░░░░░░░░░░░░░░░░░░░░░  6.96%
 
 💼 Projects:
-kloe          26h 21m 23s   ███████████░░░░░░░░░░░░░░  41.71%
-dots          8h 2m 8s      ████░░░░░░░░░░░░░░░░░░░░░  12.72%
-meisters-ai   6h 24m 30s    ███░░░░░░░░░░░░░░░░░░░░░░  10.14%
-segecom       3h 17m 13s    ██░░░░░░░░░░░░░░░░░░░░░░░  5.20%
-turnout       2h 15m 33s    █░░░░░░░░░░░░░░░░░░░░░░░░  3.58%
+kloe          26h 49m 47s   ███████████░░░░░░░░░░░░░░  41.81%
+dots          8h 5m 57s     ████░░░░░░░░░░░░░░░░░░░░░  12.62%
+meisters-ai   6h 24m 30s    ███░░░░░░░░░░░░░░░░░░░░░░  9.99%
+segecom       3h 17m 13s    ██░░░░░░░░░░░░░░░░░░░░░░░  5.12%
+turnout       2h 15m 33s    █░░░░░░░░░░░░░░░░░░░░░░░░  3.52%
 
-Total: 55 hrs 3 mins
+Total: 55 hrs 46 mins
 ```
 
 #### 📮  Want to say hi?
