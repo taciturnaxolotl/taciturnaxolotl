@@ -4,13 +4,13 @@ When not doing school or working on a random project, I enjoy working on hardwar
 
 #### 🏗️  The latest repos I've pushed to
 
-- [`cachet`](https://github.com/taciturnaxolotl/cachet) - _a cache for slack profile pictures and emojis_ **(1 day ago)**
+- [`the-cedarville-app`](https://github.com/taciturnaxolotl/the-cedarville-app) - _the everything app :D_ **(today)**
 - [`cv`](https://github.com/taciturnaxolotl/cv) - _my cv powered by latex_ **(1 day ago)**
 - [`dots`](https://github.com/taciturnaxolotl/dots) - _Kieran's opinionated (and ever expanding) nix config_ **(1 day ago)**
 - [`kloe`](https://github.com/taciturnaxolotl/kloe) - _llm chat done the right way™_ **(1 day ago)**
-- [`turnout`](https://github.com/df1317/turnout) - _sir says fill out your availability_ **(2 days ago)**
+- [`cachet`](https://github.com/taciturnaxolotl/cachet) - _a cache for slack profile pictures and emojis_ **(1 day ago)**
 - [`zera`](https://github.com/taciturnaxolotl/zera) - _my new site v4?_ **(2 days ago)**
-- [`nixpkgs`](https://github.com/NixOS/nixpkgs) - _Nix Packages collection & NixOS_ **(4 days ago)**
+- [`turnout`](https://github.com/df1317/turnout) - _sir says fill out your availability_ **(2 days ago)**
 - [`ultraviolet`](https://github.com/charmbracelet/ultraviolet) - _Mystical terminal user interface primitives 🌈_ **(4 days ago)**
 
 #### 📦  My latest projects
@@ -30,20 +30,20 @@ When not doing school or working on a random project, I enjoy working on hardwar
 
 ```text
 💾 Languages:
-unknown       21h 54m 59s   ███████░░░░░░░░░░░░░░░░░░  25.81%
-TypeScript    15h 17m 35s   █████░░░░░░░░░░░░░░░░░░░░  18.01%
-JavaScript    12h 10m 36s   ████░░░░░░░░░░░░░░░░░░░░░  14.34%
-Markdown      7h 28m 21s    ███░░░░░░░░░░░░░░░░░░░░░░  8.80%
-Go            5h 56m 6s     ██░░░░░░░░░░░░░░░░░░░░░░░  6.99%
+unknown              22h 11m 24s   ███████░░░░░░░░░░░░░░░░░░  25.66%
+TypeScript           16h 21m 33s   █████░░░░░░░░░░░░░░░░░░░░  18.92%
+JavaScript           12h 24m 30s   ████░░░░░░░░░░░░░░░░░░░░░  14.35%
+Markdown             7h 28m 21s    ███░░░░░░░░░░░░░░░░░░░░░░  8.64%
+Go                   5h 56m 6s     ██░░░░░░░░░░░░░░░░░░░░░░░  6.86%
 
 💼 Projects:
-kloe          26h 33m 5s    ███████████░░░░░░░░░░░░░░  42.81%
-dots          8h 53m 9s     ████░░░░░░░░░░░░░░░░░░░░░  14.33%
-meisters-ai   4h 21m 40s    ██░░░░░░░░░░░░░░░░░░░░░░░  7.03%
-segecom       3h 17m 13s    ██░░░░░░░░░░░░░░░░░░░░░░░  5.30%
-turnout       2h 15m 33s    █░░░░░░░░░░░░░░░░░░░░░░░░  3.64%
+kloe                 27h 20m 12s   ███████████░░░░░░░░░░░░░░  43.12%
+dots                 8h 53m 9s     ████░░░░░░░░░░░░░░░░░░░░░  14.02%
+meisters-ai          4h 21m 40s    ██░░░░░░░░░░░░░░░░░░░░░░░  6.88%
+segecom              3h 17m 13s    ██░░░░░░░░░░░░░░░░░░░░░░░  5.18%
+the-cedarville-app   2h 29m 35s    █░░░░░░░░░░░░░░░░░░░░░░░░  3.93%
 
-Total: 54 hrs 26 mins
+Total: 55 hrs 39 mins
 ```
 
 #### 📮  Want to say hi?
