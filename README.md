@@ -4,14 +4,14 @@ When not doing school or working on a random project, I enjoy working on hardwar
 
 #### 🏗️  The latest repos I've pushed to
 
-- [`kloe`](https://github.com/taciturnaxolotl/kloe) - _llm chat done the right way™_ **(today)**
-- [`the-cedarville-app`](https://github.com/taciturnaxolotl/the-cedarville-app) - _the everything app :D_ **(today)**
+- [`dots`](https://github.com/taciturnaxolotl/dots) - _Kieran's opinionated (and ever expanding) nix config_ **(today)**
+- [`the-cedarville-app`](https://github.com/taciturnaxolotl/the-cedarville-app) - _the everything app :D_ **(1 day ago)**
+- [`kloe`](https://github.com/taciturnaxolotl/kloe) - _llm chat done the right way™_ **(1 day ago)**
+- [`lard`](https://github.com/taciturnaxolotl/lard) - _mem_ **(1 day ago)**
+- [`indiko`](https://github.com/taciturnaxolotl/indiko) - _indieauth and oauth 2.0 compatible auth server for my homelab_ **(1 day ago)**
 - [`cachet`](https://github.com/taciturnaxolotl/cachet) - _a cache for slack profile pictures and emojis_ **(1 day ago)**
-- [`cv`](https://github.com/taciturnaxolotl/cv) - _my cv powered by latex_ **(1 day ago)**
-- [`dots`](https://github.com/taciturnaxolotl/dots) - _Kieran's opinionated (and ever expanding) nix config_ **(1 day ago)**
-- [`turnout`](https://github.com/df1317/turnout) - _sir says fill out your availability_ **(2 days ago)**
-- [`zera`](https://github.com/taciturnaxolotl/zera) - _my new site v4?_ **(2 days ago)**
-- [`ultraviolet`](https://github.com/charmbracelet/ultraviolet) - _Mystical terminal user interface primitives 🌈_ **(4 days ago)**
+- [`cv`](https://github.com/taciturnaxolotl/cv) - _my cv powered by latex_ **(2 days ago)**
+- [`turnout`](https://github.com/df1317/turnout) - _sir says fill out your availability_ **(3 days ago)**
 
 #### 📦  My latest projects
 
@@ -30,20 +30,20 @@ When not doing school or working on a random project, I enjoy working on hardwar
 
 ```text
 💾 Languages:
-unknown              23h 50m 51s   ███████░░░░░░░░░░░░░░░░░░  26.03%
-TypeScript           18h 47m 24s   ██████░░░░░░░░░░░░░░░░░░░  20.51%
-JavaScript           13h 24m 39s   ████░░░░░░░░░░░░░░░░░░░░░  14.64%
-Markdown             7h 28m 21s    ███░░░░░░░░░░░░░░░░░░░░░░  8.16%
-Go                   5h 56m 6s     ██░░░░░░░░░░░░░░░░░░░░░░░  6.48%
+unknown              22h 50m 54s   ████████░░░░░░░░░░░░░░░░░  30.87%
+TypeScript           14h 53m 53s   ██████░░░░░░░░░░░░░░░░░░░  20.13%
+JavaScript           9h 9m 56s     ████░░░░░░░░░░░░░░░░░░░░░  12.38%
+Markdown             6h 21m 10s    ███░░░░░░░░░░░░░░░░░░░░░░  8.58%
+Nix                  5h 11m 5s     ██░░░░░░░░░░░░░░░░░░░░░░░  7.01%
 
 💼 Projects:
-kloe                 27h 35m 35s   ███████████░░░░░░░░░░░░░░  40.88%
-dots                 9h 1m 33s     ████░░░░░░░░░░░░░░░░░░░░░  13.37%
-the-cedarville-app   5h 52m 5s     ███░░░░░░░░░░░░░░░░░░░░░░  8.69%
-meisters-ai          4h 21m 40s    ██░░░░░░░░░░░░░░░░░░░░░░░  6.46%
-segecom              3h 17m 13s    ██░░░░░░░░░░░░░░░░░░░░░░░  4.87%
+kloe                 21h 6m 32s    ██████████░░░░░░░░░░░░░░░  36.70%
+dots                 7h 17m 31s    ████░░░░░░░░░░░░░░░░░░░░░  12.68%
+the-cedarville-app   5h 52m 5s     ███░░░░░░░░░░░░░░░░░░░░░░  10.20%
+segecom              3h 17m 13s    ██░░░░░░░░░░░░░░░░░░░░░░░  5.71%
+meisters-ai          2h 48m 35s    ██░░░░░░░░░░░░░░░░░░░░░░░  4.88%
 
-Total: 59 hrs 18 mins
+Total: 50 hrs 31 mins
 ```
 
 #### 📮  Want to say hi?
