@@ -4,14 +4,14 @@ When not doing school or working on a random project, I enjoy working on hardwar
 
 #### 🏗️  The latest repos I've pushed to
 
-- [`lard`](https://github.com/taciturnaxolotl/lard) - _mem_ **(today)**
-- [`dots`](https://github.com/taciturnaxolotl/dots) - _Kieran's opinionated (and ever expanding) nix config_ **(today)**
-- [`the-cedarville-app`](https://github.com/taciturnaxolotl/the-cedarville-app) - _the everything app :D_ **(1 day ago)**
-- [`indiko`](https://github.com/taciturnaxolotl/indiko) - _indieauth and oauth 2.0 compatible auth server for my homelab_ **(1 day ago)**
-- [`cachet`](https://github.com/taciturnaxolotl/cachet) - _a cache for slack profile pictures and emojis_ **(1 day ago)**
-- [`kloe`](https://github.com/taciturnaxolotl/kloe) - _llm chat done the right way™_ **(1 day ago)**
-- [`cv`](https://github.com/taciturnaxolotl/cv) - _my cv powered by latex_ **(2 days ago)**
-- [`turnout`](https://github.com/df1317/turnout) - _sir says fill out your availability_ **(3 days ago)**
+- [`lard`](https://github.com/taciturnaxolotl/lard) - _mem_ **(1 day ago)**
+- [`dots`](https://github.com/taciturnaxolotl/dots) - _Kieran's opinionated (and ever expanding) nix config_ **(1 day ago)**
+- [`the-cedarville-app`](https://github.com/taciturnaxolotl/the-cedarville-app) - _the everything app :D_ **(2 days ago)**
+- [`indiko`](https://github.com/taciturnaxolotl/indiko) - _indieauth and oauth 2.0 compatible auth server for my homelab_ **(2 days ago)**
+- [`cachet`](https://github.com/taciturnaxolotl/cachet) - _a cache for slack profile pictures and emojis_ **(2 days ago)**
+- [`kloe`](https://github.com/taciturnaxolotl/kloe) - _llm chat done the right way™_ **(2 days ago)**
+- [`cv`](https://github.com/taciturnaxolotl/cv) - _my cv powered by latex_ **(3 days ago)**
+- [`turnout`](https://github.com/df1317/turnout) - _sir says fill out your availability_ **(4 days ago)**
 
 #### 📦  My latest projects
 
@@ -23,27 +23,27 @@ When not doing school or working on a random project, I enjoy working on hardwar
 #### 🪧  The latest posts from [`dunkirk.sh`](https://dunkirk.sh)
 
 - [`The Joy of Hardware`](https://dunkirk.sh/blog/joy-of-hardware/) **(2 weeks ago)**
-- [`LLMs are like handwritten notes`](https://dunkirk.sh/blog/llms/) **(3 weeks ago)**
+- [`LLMs are like handwritten notes`](https://dunkirk.sh/blog/llms/) **(4 weeks ago)**
 - [`Reverse engineering the FRC SystemCore image`](https://dunkirk.sh/blog/frc-systemcore-image/) **(3 months ago)**
 
 #### 📡  My [_`hackatime`_](https://waka.hackclub.com) stats from this week
 
 ```text
 💾 Languages:
-unknown              23h 32m 50s   ████████░░░░░░░░░░░░░░░░░  31.05%
-TypeScript           14h 53m 53s   █████░░░░░░░░░░░░░░░░░░░░  19.64%
-JavaScript           9h 9m 56s     ████░░░░░░░░░░░░░░░░░░░░░  12.09%
-Markdown             6h 50m 13s    ███░░░░░░░░░░░░░░░░░░░░░░  9.01%
-Nix                  5h 13m 5s     ██░░░░░░░░░░░░░░░░░░░░░░░  6.88%
+unknown              23h 34m 50s   ████████░░░░░░░░░░░░░░░░░  30.88%
+TypeScript           14h 53m 53s   █████░░░░░░░░░░░░░░░░░░░░  19.51%
+JavaScript           9h 9m 56s     ███░░░░░░░░░░░░░░░░░░░░░░  12.00%
+Markdown             6h 50m 13s    ███░░░░░░░░░░░░░░░░░░░░░░  8.95%
+Nix                  5h 15m 26s    ██░░░░░░░░░░░░░░░░░░░░░░░  6.89%
 
 💼 Projects:
-kloe                 21h 6m 32s    █████████░░░░░░░░░░░░░░░░  35.94%
-dots                 7h 19m 31s    ████░░░░░░░░░░░░░░░░░░░░░  12.47%
-the-cedarville-app   5h 52m 5s     ███░░░░░░░░░░░░░░░░░░░░░░  9.99%
-segecom              3h 17m 13s    ██░░░░░░░░░░░░░░░░░░░░░░░  5.60%
-meisters-ai          2h 48m 35s    ██░░░░░░░░░░░░░░░░░░░░░░░  4.78%
+kloe                 21h 6m 32s    █████████░░░░░░░░░░░░░░░░  35.73%
+dots                 7h 19m 31s    ████░░░░░░░░░░░░░░░░░░░░░  12.40%
+the-cedarville-app   5h 52m 5s     ███░░░░░░░░░░░░░░░░░░░░░░  9.93%
+segecom              3h 17m 13s    ██░░░░░░░░░░░░░░░░░░░░░░░  5.56%
+meisters-ai          2h 48m 35s    ██░░░░░░░░░░░░░░░░░░░░░░░  4.76%
 
-Total: 51 hrs 40 mins
+Total: 52 hrs 1 mins
 ```
 
 #### 📮  Want to say hi?
