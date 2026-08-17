@@ -4,11 +4,11 @@ When not doing school or working on a random project, I enjoy working on hardwar
 
 #### 🏗️  The latest repos I've pushed to
 
+- [`dots`](https://github.com/taciturnaxolotl/dots) - _Kieran's opinionated (and ever expanding) nix config_ **(today)**
 - [`the-cedarville-app`](https://github.com/taciturnaxolotl/the-cedarville-app) - _the everything app :D_ **(2 days ago)**
 - [`kloe`](https://github.com/taciturnaxolotl/kloe) - _llm chat done the right way™_ **(2 days ago)**
 - [`cedarstalk-raycast`](https://github.com/taciturnaxolotl/cedarstalk-raycast) - _cedarstalking with keyboard shortcuts_ **(2 days ago)**
 - [`sharepoint`](https://github.com/taciturnaxolotl/sharepoint) - _reimplementation of remarkable's quickshare urls_ **(3 days ago)**
-- [`dots`](https://github.com/taciturnaxolotl/dots) - _Kieran's opinionated (and ever expanding) nix config_ **(3 days ago)**
 - [`lard`](https://github.com/taciturnaxolotl/lard) - _mem_ **(4 days ago)**
 - [`indiko`](https://github.com/taciturnaxolotl/indiko) - _indieauth and oauth 2.0 compatible auth server for my homelab_ **(5 days ago)**
 - [`cachet`](https://github.com/taciturnaxolotl/cachet) - _a cache for slack profile pictures and emojis_ **(5 days ago)**
@@ -30,20 +30,20 @@ When not doing school or working on a random project, I enjoy working on hardwar
 
 ```text
 💾 Languages:
-unknown              19h 7m 40s    █████████░░░░░░░░░░░░░░░░  33.89%
-TypeScript           15h 29m 52s   ███████░░░░░░░░░░░░░░░░░░  27.46%
-JavaScript           5h 30m 50s    ███░░░░░░░░░░░░░░░░░░░░░░  9.77%
-Markdown             5h 3m 11s     ███░░░░░░░░░░░░░░░░░░░░░░  8.95%
-Nix                  1h 52m 30s    █░░░░░░░░░░░░░░░░░░░░░░░░  3.32%
+unknown              20h 5m 59s    █████████░░░░░░░░░░░░░░░░  34.19%
+TypeScript           15h 29m 52s   ███████░░░░░░░░░░░░░░░░░░  26.36%
+JavaScript           5h 32m 50s    ███░░░░░░░░░░░░░░░░░░░░░░  9.44%
+Markdown             5h 28m 51s    ███░░░░░░░░░░░░░░░░░░░░░░  9.32%
+Nix                  2h 5m 25s     █░░░░░░░░░░░░░░░░░░░░░░░░  3.56%
 
 💼 Projects:
-kloe                 13h 16m 38s   ████████░░░░░░░░░░░░░░░░░  30.47%
-the-cedarville-app   6h 43m 29s    ████░░░░░░░░░░░░░░░░░░░░░  15.43%
-cedarlogic           5h 22m 28s    ████░░░░░░░░░░░░░░░░░░░░░  12.33%
-segecom              3h 17m 13s    ██░░░░░░░░░░░░░░░░░░░░░░░  7.54%
-dots                 3h 7m 19s     ██░░░░░░░░░░░░░░░░░░░░░░░  7.16%
+kloe                 13h 16m 38s   ████████░░░░░░░░░░░░░░░░░  29.35%
+the-cedarville-app   6h 43m 29s    ████░░░░░░░░░░░░░░░░░░░░░  14.87%
+cedarlogic           6h 0m 34s     ████░░░░░░░░░░░░░░░░░░░░░  13.29%
+dots                 3h 54m 6s     ███░░░░░░░░░░░░░░░░░░░░░░  8.63%
+segecom              3h 17m 13s    ██░░░░░░░░░░░░░░░░░░░░░░░  7.27%
 
-Total: 38 hrs 46 mins
+Total: 39 hrs 50 mins
 ```
 
 #### 📮  Want to say hi?
