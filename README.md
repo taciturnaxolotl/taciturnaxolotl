@@ -30,20 +30,20 @@ When not doing school or working on a random project, I enjoy working on hardwar
 
 ```text
 💾 Languages:
-unknown              21h 22m 50s   █████████░░░░░░░░░░░░░░░░  34.49%
-TypeScript           16h 17m 21s   ███████░░░░░░░░░░░░░░░░░░  26.28%
-Markdown             5h 47m 54s    ███░░░░░░░░░░░░░░░░░░░░░░  9.35%
-JavaScript           5h 34m 53s    ███░░░░░░░░░░░░░░░░░░░░░░  9.00%
-Nix                  2h 18m 53s    █░░░░░░░░░░░░░░░░░░░░░░░░  3.73%
+unknown              21h 52m 29s   █████████░░░░░░░░░░░░░░░░  34.86%
+TypeScript           16h 17m 21s   ███████░░░░░░░░░░░░░░░░░░  25.96%
+Markdown             5h 50m 34s    ███░░░░░░░░░░░░░░░░░░░░░░  9.31%
+JavaScript           5h 44m 19s    ███░░░░░░░░░░░░░░░░░░░░░░  9.14%
+Nix                  2h 18m 53s    █░░░░░░░░░░░░░░░░░░░░░░░░  3.69%
 
 💼 Projects:
-kloe                 14h 17m 26s   ████████░░░░░░░░░░░░░░░░░  29.52%
-cedarlogic           7h 26m 47s    ████░░░░░░░░░░░░░░░░░░░░░  15.38%
-the-cedarville-app   6h 43m 29s    ████░░░░░░░░░░░░░░░░░░░░░  13.89%
-dots                 4h 26m 31s    ███░░░░░░░░░░░░░░░░░░░░░░  9.18%
-segecom              3h 17m 13s    ██░░░░░░░░░░░░░░░░░░░░░░░  6.79%
+kloe                 14h 38m 1s    ████████░░░░░░░░░░░░░░░░░  29.84%
+cedarlogic           7h 37m 39s    ████░░░░░░░░░░░░░░░░░░░░░  15.56%
+the-cedarville-app   6h 43m 29s    ████░░░░░░░░░░░░░░░░░░░░░  13.71%
+dots                 4h 32m 49s    ███░░░░░░░░░░░░░░░░░░░░░░  9.27%
+segecom              3h 17m 13s    ██░░░░░░░░░░░░░░░░░░░░░░░  6.70%
 
-Total: 42 hrs 8 mins
+Total: 42 hrs 39 mins
 ```
 
 #### 📮  Want to say hi?
