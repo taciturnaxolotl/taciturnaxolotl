@@ -4,12 +4,12 @@ When not doing school or working on a random project, I enjoy working on hardwar
 
 #### 🏗️  The latest repos I've pushed to
 
-- [`kloe`](https://github.com/taciturnaxolotl/kloe) - _llm chat done the right way™_ **(2 days ago)**
-- [`herald`](https://github.com/taciturnaxolotl/herald) - _rss email digests over ssh because you're a cool kid_ **(2 days ago)**
+- [`kloe`](https://github.com/taciturnaxolotl/kloe) - _llm chat done the right way™_ **(1 day ago)**
+- [`the-cedarville-app`](https://github.com/taciturnaxolotl/the-cedarville-app) - _the everything app :D_ **(1 day ago)**
 - [`wasup-chucks`](https://github.com/taciturnaxolotl/wasup-chucks) - _ios widget showing what is available at chucks_ **(2 days ago)**
 - [`dots`](https://github.com/taciturnaxolotl/dots) - _Kieran's opinionated (and ever expanding) nix config_ **(2 days ago)**
+- [`herald`](https://github.com/taciturnaxolotl/herald) - _rss email digests over ssh because you're a cool kid_ **(2 days ago)**
 - [`cedarstalk-raycast`](https://github.com/taciturnaxolotl/cedarstalk-raycast) - _cedarstalking with keyboard shortcuts_ **(5 days ago)**
-- [`the-cedarville-app`](https://github.com/taciturnaxolotl/the-cedarville-app) - _the everything app :D_ **(5 days ago)**
 - [`sharepoint`](https://github.com/taciturnaxolotl/sharepoint) - _reimplementation of remarkable's quickshare urls_ **(6 days ago)**
 - [`lard`](https://github.com/taciturnaxolotl/lard) - _mem_ **(1 week ago)**
 
@@ -30,20 +30,20 @@ When not doing school or working on a random project, I enjoy working on hardwar
 
 ```text
 💾 Languages:
-unknown                16h 25m 27s   ██████████░░░░░░░░░░░░░░░  39.67%
-TypeScript             10h 50m 18s   ███████░░░░░░░░░░░░░░░░░░  26.18%
-Markdown               2h 45m 10s    ██░░░░░░░░░░░░░░░░░░░░░░░  6.65%
-C++                    2h 14m 6s     ██░░░░░░░░░░░░░░░░░░░░░░░  5.40%
-JavaScript             2h 13m 41s    ██░░░░░░░░░░░░░░░░░░░░░░░  5.38%
+unknown                12h 13m 59s   ████████████░░░░░░░░░░░░░  45.74%
+TypeScript             4h 1m 30s     ████░░░░░░░░░░░░░░░░░░░░░  15.05%
+C++                    2h 14m 6s     ███░░░░░░░░░░░░░░░░░░░░░░  8.36%
+Markdown               2h 13m 12s    ███░░░░░░░░░░░░░░░░░░░░░░  8.30%
+Python                 1h 18m 54s    ██░░░░░░░░░░░░░░░░░░░░░░░  4.92%
 
 💼 Projects:
-cedarlogic             8h 13m 41s    ███████░░░░░░░░░░░░░░░░░░  24.27%
-kloe                   6h 39m 21s    █████░░░░░░░░░░░░░░░░░░░░  19.63%
-the-cedarville-app     6h 4m 35s     █████░░░░░░░░░░░░░░░░░░░░  17.92%
-dots                   4h 9m 7s      ████░░░░░░░░░░░░░░░░░░░░░  12.25%
-heidis-power-gadgets   1h 40m 33s    ██░░░░░░░░░░░░░░░░░░░░░░░  4.94%
+cedarlogic             8h 1m 48s     ██████████░░░░░░░░░░░░░░░  36.42%
+kloe                   3h 58m 11s    █████░░░░░░░░░░░░░░░░░░░░  18.01%
+dots                   2h 52m 58s    ████░░░░░░░░░░░░░░░░░░░░░  13.08%
+heidis-power-gadgets   1h 40m 33s    ██░░░░░░░░░░░░░░░░░░░░░░░  7.60%
+the-cedarville-app     1h 31m 20s    ██░░░░░░░░░░░░░░░░░░░░░░░  6.90%
 
-Total: 29 hrs 13 mins
+Total: 18 hrs 46 mins
 ```
 
 #### 📮  Want to say hi?
