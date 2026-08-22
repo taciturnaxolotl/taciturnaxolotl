@@ -5,8 +5,8 @@ When not doing school or working on a random project, I enjoy working on hardwar
 #### 🏗️  The latest repos I've pushed to
 
 - [`kloe`](https://github.com/taciturnaxolotl/kloe) - _llm chat done the right way™_ **(today)**
+- [`dots`](https://github.com/taciturnaxolotl/dots) - _Kieran's opinionated (and ever expanding) nix config_ **(today)**
 - [`wasup-chucks`](https://github.com/taciturnaxolotl/wasup-chucks) - _ios widget showing what is available at chucks_ **(today)**
-- [`dots`](https://github.com/taciturnaxolotl/dots) - _Kieran's opinionated (and ever expanding) nix config_ **(1 day ago)**
 - [`mycu`](https://github.com/taciturnaxolotl/mycu) - _faster and less aggrevating mycu_ **(1 day ago)**
 - [`the-cedarville-app`](https://github.com/taciturnaxolotl/the-cedarville-app) - _the everything app :D_ **(1 day ago)**
 - [`cv`](https://github.com/taciturnaxolotl/cv) - _my cv powered by latex_ **(2 days ago)**
@@ -30,20 +30,20 @@ When not doing school or working on a random project, I enjoy working on hardwar
 
 ```text
 💾 Languages:
-unknown              14h 57m 28s   ████████████░░░░░░░░░░░░░  46.70%
-TypeScript           6h 7m 56s     █████░░░░░░░░░░░░░░░░░░░░  19.15%
-Markdown             2h 2m 4s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.35%
-JavaScript           1h 35m 15s    ██░░░░░░░░░░░░░░░░░░░░░░░  4.96%
-Nix                  1h 21m 43s    ██░░░░░░░░░░░░░░░░░░░░░░░  4.25%
+unknown              15h 27m 25s   ████████████░░░░░░░░░░░░░  45.71%
+TypeScript           6h 7m 56s     █████░░░░░░░░░░░░░░░░░░░░  18.14%
+JavaScript           2h 10m 6s     ██░░░░░░░░░░░░░░░░░░░░░░░  6.41%
+Markdown             2h 6m 4s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.21%
+Nix                  1h 37m 45s    ██░░░░░░░░░░░░░░░░░░░░░░░  4.82%
 
 💼 Projects:
-kloe                 6h 14m 44s    ██████░░░░░░░░░░░░░░░░░░░  22.15%
-the-cedarville-app   4h 4m 13s     ████░░░░░░░░░░░░░░░░░░░░░  14.43%
-cedarlogic           4h 1m 0s      ████░░░░░░░░░░░░░░░░░░░░░  14.24%
-dots                 3h 22m 12s    ███░░░░░░░░░░░░░░░░░░░░░░  11.95%
-mycu                 1h 54m 39s    ██░░░░░░░░░░░░░░░░░░░░░░░  6.78%
+kloe                 7h 16m 39s    ███████░░░░░░░░░░░░░░░░░░  24.66%
+the-cedarville-app   4h 4m 13s     ████░░░░░░░░░░░░░░░░░░░░░  13.79%
+cedarlogic           4h 1m 0s      ████░░░░░░░░░░░░░░░░░░░░░  13.61%
+dots                 3h 36m 14s    ████░░░░░░░░░░░░░░░░░░░░░  12.21%
+mycu                 1h 54m 39s    ██░░░░░░░░░░░░░░░░░░░░░░░  6.48%
 
-Total: 23 hrs 23 mins
+Total: 24 hrs 27 mins
 ```
 
 #### 📮  Want to say hi?
