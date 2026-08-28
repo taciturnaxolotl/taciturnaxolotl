@@ -4,14 +4,14 @@ When not doing school or working on a random project, I enjoy working on hardwar
 
 #### 🏗️  The latest repos I've pushed to
 
-- [`dots`](https://github.com/taciturnaxolotl/dots) - _Kieran's opinionated (and ever expanding) nix config_ **(today)**
+- [`cedarville-people-search-raycast`](https://github.com/taciturnaxolotl/cedarville-people-search-raycast) - _people search with keyboard shortcuts_ **(today)**
 - [`kloe`](https://github.com/taciturnaxolotl/kloe) - _llm chat done the right way™_ **(today)**
 - [`integrand`](https://github.com/taciturnaxolotl/integrand) - _math snipping extension_ **(today)**
-- [`cv`](https://github.com/taciturnaxolotl/cv) - _my cv powered by latex_ **(1 day ago)**
-- [`zera`](https://github.com/taciturnaxolotl/zera) - _my new site v4?_ **(2 days ago)**
-- [`crush`](https://github.com/charmbracelet/crush) - _Glamourous agentic coding for all 💘_ **(2 days ago)**
-- [`cachet`](https://github.com/taciturnaxolotl/cachet) - _a cache for slack profile pictures and emojis_ **(2 days ago)**
-- [`the-cedarville-app`](https://github.com/taciturnaxolotl/the-cedarville-app) - _the everything app :D_ **(4 days ago)**
+- [`dots`](https://github.com/taciturnaxolotl/dots) - _Kieran's opinionated (and ever expanding) nix config_ **(1 day ago)**
+- [`cv`](https://github.com/taciturnaxolotl/cv) - _my cv powered by latex_ **(2 days ago)**
+- [`crush`](https://github.com/charmbracelet/crush) - _Glamourous agentic coding for all 💘_ **(3 days ago)**
+- [`cachet`](https://github.com/taciturnaxolotl/cachet) - _a cache for slack profile pictures and emojis_ **(3 days ago)**
+- [`zera`](https://github.com/taciturnaxolotl/zera) - _my new site v4?_ **(3 days ago)**
 
 #### 📦  My latest projects
 
@@ -30,20 +30,20 @@ When not doing school or working on a random project, I enjoy working on hardwar
 
 ```text
 💾 Languages:
-unknown              23h 28m 27s   ███████████████░░░░░░░░░░  56.31%
-JavaScript           6h 15m 10s    ████░░░░░░░░░░░░░░░░░░░░░  15.00%
-TypeScript           4h 29m 53s    ███░░░░░░░░░░░░░░░░░░░░░░  10.79%
-Nix                  2h 24m 19s    ██░░░░░░░░░░░░░░░░░░░░░░░  5.77%
-Markdown             1h 6m 29s     █░░░░░░░░░░░░░░░░░░░░░░░░  2.66%
+unknown      22h 19m 30s   ███████████████░░░░░░░░░░  57.20%
+JavaScript   6h 42m 34s    █████░░░░░░░░░░░░░░░░░░░░  17.19%
+TypeScript   3h 28m 23s    ███░░░░░░░░░░░░░░░░░░░░░░  8.90%
+Nix          1h 46m 31s    ██░░░░░░░░░░░░░░░░░░░░░░░  4.55%
+Go           1h 38m 5s     ██░░░░░░░░░░░░░░░░░░░░░░░  4.19%
 
 💼 Projects:
-kloe                 6h 27m 41s    ████░░░░░░░░░░░░░░░░░░░░░  15.84%
-dots                 6h 27m 26s    ████░░░░░░░░░░░░░░░░░░░░░  15.83%
-integrand            5h 8m 50s     ████░░░░░░░░░░░░░░░░░░░░░  12.62%
-cedarlogic           4h 52m 36s    ███░░░░░░░░░░░░░░░░░░░░░░  11.96%
-the-cedarville-app   4h 37m 28s    ███░░░░░░░░░░░░░░░░░░░░░░  11.34%
+kloe         6h 32m 16s    █████░░░░░░░░░░░░░░░░░░░░  17.02%
+integrand    5h 47m 18s    ████░░░░░░░░░░░░░░░░░░░░░  15.07%
+dots         5h 32m 25s    ████░░░░░░░░░░░░░░░░░░░░░  14.42%
+cedarlogic   4h 52m 36s    ████░░░░░░░░░░░░░░░░░░░░░  12.69%
+crush        3h 55m 47s    ███░░░░░░░░░░░░░░░░░░░░░░  10.23%
 
-Total: 34 hrs 44 mins
+Total: 32 hrs 36 mins
 ```
 
 #### 📮  Want to say hi?
