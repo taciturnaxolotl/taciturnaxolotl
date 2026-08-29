@@ -4,10 +4,10 @@ When not doing school or working on a random project, I enjoy working on hardwar
 
 #### 🏗️  The latest repos I've pushed to
 
+- [`dots`](https://github.com/taciturnaxolotl/dots) - _Kieran's opinionated (and ever expanding) nix config_ **(today)**
 - [`cedarville-people-search-raycast`](https://github.com/taciturnaxolotl/cedarville-people-search-raycast) - _people search with keyboard shortcuts_ **(1 day ago)**
 - [`kloe`](https://github.com/taciturnaxolotl/kloe) - _llm chat done the right way™_ **(1 day ago)**
 - [`integrand`](https://github.com/taciturnaxolotl/integrand) - _math snipping extension_ **(1 day ago)**
-- [`dots`](https://github.com/taciturnaxolotl/dots) - _Kieran's opinionated (and ever expanding) nix config_ **(2 days ago)**
 - [`cv`](https://github.com/taciturnaxolotl/cv) - _my cv powered by latex_ **(3 days ago)**
 - [`crush`](https://github.com/charmbracelet/crush) - _Glamourous agentic coding for all 💘_ **(4 days ago)**
 - [`cachet`](https://github.com/taciturnaxolotl/cachet) - _a cache for slack profile pictures and emojis_ **(4 days ago)**
@@ -30,20 +30,20 @@ When not doing school or working on a random project, I enjoy working on hardwar
 
 ```text
 💾 Languages:
-unknown      20h 39m 26s   ███████████████░░░░░░░░░░  59.16%
-JavaScript   6h 53m 1s     █████░░░░░░░░░░░░░░░░░░░░  19.71%
-TypeScript   2h 33m 25s    ██░░░░░░░░░░░░░░░░░░░░░░░  7.32%
-Go           1h 38m 5s     ██░░░░░░░░░░░░░░░░░░░░░░░  4.68%
-Nix          1h 29m 36s    ██░░░░░░░░░░░░░░░░░░░░░░░  4.28%
+unknown      21h 1m 6s    ███████████████░░░░░░░░░░  59.02%
+JavaScript   7h 12m 59s   ██████░░░░░░░░░░░░░░░░░░░  20.26%
+TypeScript   2h 33m 25s   ██░░░░░░░░░░░░░░░░░░░░░░░  7.18%
+Go           1h 38m 5s    ██░░░░░░░░░░░░░░░░░░░░░░░  4.59%
+Nix          1h 29m 36s   ██░░░░░░░░░░░░░░░░░░░░░░░  4.19%
 
 💼 Projects:
-integrand    5h 47m 18s    █████░░░░░░░░░░░░░░░░░░░░  16.79%
-dots         5h 26m 23s    ████░░░░░░░░░░░░░░░░░░░░░  15.78%
-kloe         5h 22m 46s    ████░░░░░░░░░░░░░░░░░░░░░  15.60%
-cedarlogic   4h 52m 36s    ████░░░░░░░░░░░░░░░░░░░░░  14.14%
-crush        3h 55m 47s    ███░░░░░░░░░░░░░░░░░░░░░░  11.40%
+integrand    5h 47m 18s   █████░░░░░░░░░░░░░░░░░░░░  16.46%
+dots         5h 34m 38s   ████░░░░░░░░░░░░░░░░░░░░░  15.86%
+kloe         5h 22m 46s   ████░░░░░░░░░░░░░░░░░░░░░  15.29%
+cedarlogic   4h 52m 36s   ████░░░░░░░░░░░░░░░░░░░░░  13.86%
+crush        4h 4m 57s    ███░░░░░░░░░░░░░░░░░░░░░░  11.61%
 
-Total: 29 hrs 13 mins
+Total: 29 hrs 50 mins
 ```
 
 #### 📮  Want to say hi?
