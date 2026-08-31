@@ -4,14 +4,14 @@ When not doing school or working on a random project, I enjoy working on hardwar
 
 #### 🏗️  The latest repos I've pushed to
 
-- [`cedarville-people-search-raycast`](https://github.com/taciturnaxolotl/cedarville-people-search-raycast) - _people search with keyboard shortcuts_ **(1 day ago)**
+- [`ennote`](https://github.com/taciturnaxolotl/ennote) - _the best notes app for me_ **(today)**
+- [`sharepoint`](https://github.com/taciturnaxolotl/sharepoint) - _reimplementation of remarkable's quickshare urls_ **(today)**
 - [`l4`](https://github.com/taciturnaxolotl/l4) - _the l4 cache_ **(1 day ago)**
+- [`cedarville-people-search-raycast`](https://github.com/taciturnaxolotl/cedarville-people-search-raycast) - _people search with keyboard shortcuts_ **(1 day ago)**
 - [`dots`](https://github.com/taciturnaxolotl/dots) - _Kieran's opinionated (and ever expanding) nix config_ **(2 days ago)**
 - [`kloe`](https://github.com/taciturnaxolotl/kloe) - _llm chat done the right way™_ **(3 days ago)**
 - [`integrand`](https://github.com/taciturnaxolotl/integrand) - _math snipping extension_ **(3 days ago)**
 - [`cv`](https://github.com/taciturnaxolotl/cv) - _my cv powered by latex_ **(5 days ago)**
-- [`crush`](https://github.com/charmbracelet/crush) - _Glamourous agentic coding for all 💘_ **(6 days ago)**
-- [`cachet`](https://github.com/taciturnaxolotl/cachet) - _a cache for slack profile pictures and emojis_ **(6 days ago)**
 
 #### 📦  My latest projects
 
@@ -30,20 +30,20 @@ When not doing school or working on a random project, I enjoy working on hardwar
 
 ```text
 💾 Languages:
-unknown      15h 27m 13s   █████████████░░░░░░░░░░░░  50.88%
-JavaScript   6h 11m 55s    ██████░░░░░░░░░░░░░░░░░░░  20.41%
-Swift        3h 0m 25s     ███░░░░░░░░░░░░░░░░░░░░░░  9.90%
-TypeScript   1h 46m 14s    ██░░░░░░░░░░░░░░░░░░░░░░░  5.83%
-Markdown     1h 28m 14s    ██░░░░░░░░░░░░░░░░░░░░░░░  4.84%
+unknown      17h 53m 35s   ██████████████░░░░░░░░░░░  54.48%
+JavaScript   6h 11m 55s    █████░░░░░░░░░░░░░░░░░░░░  18.87%
+Swift        3h 0m 25s     ███░░░░░░░░░░░░░░░░░░░░░░  9.15%
+TypeScript   1h 46m 14s    ██░░░░░░░░░░░░░░░░░░░░░░░  5.39%
+Markdown     1h 30m 14s    ██░░░░░░░░░░░░░░░░░░░░░░░  4.58%
 
 💼 Projects:
-integrand    5h 50m 11s    █████░░░░░░░░░░░░░░░░░░░░  19.19%
-cedarlogic   4h 40m 8s     ████░░░░░░░░░░░░░░░░░░░░░  15.35%
-crush        3h 40m 9s     ████░░░░░░░░░░░░░░░░░░░░░  12.07%
-kloe         2h 59m 33s    ███░░░░░░░░░░░░░░░░░░░░░░  9.84%
-ennote       2h 39m 11s    ███░░░░░░░░░░░░░░░░░░░░░░  8.72%
+integrand    5h 50m 11s    █████░░░░░░░░░░░░░░░░░░░░  17.67%
+cedarlogic   4h 40m 8s     ████░░░░░░░░░░░░░░░░░░░░░  14.13%
+ennote       3h 43m 42s    ███░░░░░░░░░░░░░░░░░░░░░░  11.29%
+crush        3h 40m 9s     ███░░░░░░░░░░░░░░░░░░░░░░  11.11%
+kloe         2h 59m 33s    ███░░░░░░░░░░░░░░░░░░░░░░  9.06%
 
-Total: 26 hrs 34 mins
+Total: 29 hrs 1 mins
 ```
 
 #### 📮  Want to say hi?
