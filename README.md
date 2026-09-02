@@ -4,14 +4,14 @@ When not doing school or working on a random project, I enjoy working on hardwar
 
 #### 🏗️  The latest repos I've pushed to
 
-- [`ennote`](https://github.com/taciturnaxolotl/ennote) - _the best notes app for me_ **(1 day ago)**
-- [`sharepoint`](https://github.com/taciturnaxolotl/sharepoint) - _reimplementation of remarkable's quickshare urls_ **(1 day ago)**
-- [`l4`](https://github.com/taciturnaxolotl/l4) - _the l4 cache_ **(2 days ago)**
-- [`cedarville-people-search-raycast`](https://github.com/taciturnaxolotl/cedarville-people-search-raycast) - _people search with keyboard shortcuts_ **(2 days ago)**
-- [`dots`](https://github.com/taciturnaxolotl/dots) - _Kieran's opinionated (and ever expanding) nix config_ **(3 days ago)**
-- [`kloe`](https://github.com/taciturnaxolotl/kloe) - _llm chat done the right way™_ **(4 days ago)**
-- [`integrand`](https://github.com/taciturnaxolotl/integrand) - _math snipping extension_ **(4 days ago)**
-- [`cv`](https://github.com/taciturnaxolotl/cv) - _my cv powered by latex_ **(6 days ago)**
+- [`indiko`](https://github.com/taciturnaxolotl/indiko) - _indieauth and oauth 2.0 compatible auth server for my homelab_ **(1 day ago)**
+- [`status`](https://github.com/taciturnaxolotl/status) - _my own status page_ **(1 day ago)**
+- [`dots`](https://github.com/taciturnaxolotl/dots) - _Kieran's opinionated (and ever expanding) nix config_ **(1 day ago)**
+- [`crush`](https://github.com/charmbracelet/crush) - _Glamourous agentic coding for all 💘_ **(1 day ago)**
+- [`ultraviolet`](https://github.com/charmbracelet/ultraviolet) - _Mystical terminal user interface primitives 🌈_ **(1 day ago)**
+- [`x`](https://github.com/charmbracelet/x) - _Charm experimental packages_ **(1 day ago)**
+- [`sharepoint`](https://github.com/taciturnaxolotl/sharepoint) - _reimplementation of remarkable's quickshare urls_ **(2 days ago)**
+- [`glamour`](https://github.com/charmbracelet/glamour) - _Stylesheet-based markdown rendering for your CLI apps 💇🏻‍♀️_ **(2 days ago)**
 
 #### 📦  My latest projects
 
@@ -30,20 +30,20 @@ When not doing school or working on a random project, I enjoy working on hardwar
 
 ```text
 💾 Languages:
-unknown      20h 16m 9s   ██████████████░░░░░░░░░░░  55.46%
-JavaScript   6h 11m 55s   █████░░░░░░░░░░░░░░░░░░░░  16.96%
-Swift        3h 0m 25s    ███░░░░░░░░░░░░░░░░░░░░░░  8.23%
-Go           2h 9m 2s     ██░░░░░░░░░░░░░░░░░░░░░░░  5.88%
-Markdown     2h 0m 27s    ██░░░░░░░░░░░░░░░░░░░░░░░  5.49%
+unknown        16h 40m 41s   ███████████████░░░░░░░░░░  56.95%
+Swift          4h 6m 28s     ████░░░░░░░░░░░░░░░░░░░░░  14.03%
+Go             2h 0m 11s     ██░░░░░░░░░░░░░░░░░░░░░░░  6.84%
+JavaScript     1h 56m 47s    ██░░░░░░░░░░░░░░░░░░░░░░░  6.65%
+Markdown       1h 56m 40s    ██░░░░░░░░░░░░░░░░░░░░░░░  6.64%
 
 💼 Projects:
-integrand    5h 50m 11s   ████░░░░░░░░░░░░░░░░░░░░░  15.98%
-crush        4h 58m 0s    ████░░░░░░░░░░░░░░░░░░░░░  13.60%
-cedarlogic   4h 40m 8s    ████░░░░░░░░░░░░░░░░░░░░░  12.78%
-ennote       3h 43m 42s   ███░░░░░░░░░░░░░░░░░░░░░░  10.21%
-kloe         2h 59m 33s   ███░░░░░░░░░░░░░░░░░░░░░░  8.19%
+ennote         3h 43m 42s    ████░░░░░░░░░░░░░░░░░░░░░  12.60%
+crush          3h 41m 1s     ████░░░░░░░░░░░░░░░░░░░░░  12.45%
+group-me-not   3h 20m 43s    ███░░░░░░░░░░░░░░░░░░░░░░  11.30%
+integrand      2h 31m 2s     ███░░░░░░░░░░░░░░░░░░░░░░  8.51%
+kloe           2h 29m 29s    ███░░░░░░░░░░░░░░░░░░░░░░  8.42%
 
-Total: 32 hrs 6 mins
+Total: 25 hrs 47 mins
 ```
 
 #### 📮  Want to say hi?
