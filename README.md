@@ -4,21 +4,21 @@ When not doing school or working on a random project, I enjoy working on hardwar
 
 #### 🏗️  The latest repos I've pushed to
 
-- [`dots`](https://github.com/taciturnaxolotl/dots) - _Kieran's opinionated (and ever expanding) nix config_ **(1 day ago)**
-- [`indiko`](https://github.com/taciturnaxolotl/indiko) - _indieauth and oauth 2.0 compatible auth server for my homelab_ **(2 days ago)**
-- [`status`](https://github.com/taciturnaxolotl/status) - _my own status page_ **(2 days ago)**
-- [`crush`](https://github.com/charmbracelet/crush) - _Glamourous agentic coding for all 💘_ **(2 days ago)**
-- [`ultraviolet`](https://github.com/charmbracelet/ultraviolet) - _Mystical terminal user interface primitives 🌈_ **(2 days ago)**
-- [`x`](https://github.com/charmbracelet/x) - _Charm experimental packages_ **(2 days ago)**
-- [`sharepoint`](https://github.com/taciturnaxolotl/sharepoint) - _reimplementation of remarkable's quickshare urls_ **(3 days ago)**
-- [`glamour`](https://github.com/charmbracelet/glamour) - _Stylesheet-based markdown rendering for your CLI apps 💇🏻‍♀️_ **(3 days ago)**
+- [`crush`](https://github.com/charmbracelet/crush) - _Glamourous agentic coding for all 💘_ **(today)**
+- [`group-me-not`](https://github.com/taciturnaxolotl/group-me-not) - _OSS GroupMe app_ **(today)**
+- [`ennote`](https://github.com/taciturnaxolotl/ennote) - _the best notes app for me_ **(1 day ago)**
+- [`dots`](https://github.com/taciturnaxolotl/dots) - _Kieran's opinionated (and ever expanding) nix config_ **(2 days ago)**
+- [`ultraviolet`](https://github.com/charmbracelet/ultraviolet) - _Mystical terminal user interface primitives 🌈_ **(3 days ago)**
+- [`status`](https://github.com/taciturnaxolotl/status) - _my own status page_ **(3 days ago)**
+- [`x`](https://github.com/charmbracelet/x) - _Charm experimental packages_ **(3 days ago)**
+- [`indiko`](https://github.com/taciturnaxolotl/indiko) - _indieauth and oauth 2.0 compatible auth server for my homelab_ **(3 days ago)**
 
 #### 📦  My latest projects
 
+- [`social-graph`](https://github.com/taciturnaxolotl/social-graph) - _graphs go brrr_
 - [`group-me-not`](https://github.com/taciturnaxolotl/group-me-not) - _OSS GroupMe app_
 - [`integrand`](https://github.com/taciturnaxolotl/integrand) - _math snipping extension_
 - [`mycu`](https://github.com/taciturnaxolotl/mycu) - _faster and less aggrevating mycu_
-- [`the-cedarville-app`](https://github.com/taciturnaxolotl/the-cedarville-app) - _the everything app :D_
 
 #### 🪧  The latest posts from [`dunkirk.sh`](https://dunkirk.sh)
 
@@ -30,20 +30,20 @@ When not doing school or working on a random project, I enjoy working on hardwar
 
 ```text
 💾 Languages:
-unknown        19h 0m 53s   ██████████████░░░░░░░░░░░  53.64%
-Swift          4h 6m 28s    ███░░░░░░░░░░░░░░░░░░░░░░  11.59%
-Markdown       3h 39m 34s   ███░░░░░░░░░░░░░░░░░░░░░░  10.32%
-JavaScript     2h 56m 9s    ███░░░░░░░░░░░░░░░░░░░░░░  8.28%
-Go             2h 0m 11s    ██░░░░░░░░░░░░░░░░░░░░░░░  5.65%
+unknown        18h 39m 46s   ███████████░░░░░░░░░░░░░░  41.28%
+JavaScript     9h 0m 15s     █████░░░░░░░░░░░░░░░░░░░░  19.92%
+Swift          5h 19m 49s    ███░░░░░░░░░░░░░░░░░░░░░░  11.79%
+Markdown       5h 9m 8s      ███░░░░░░░░░░░░░░░░░░░░░░  11.40%
+Python         2h 54m 57s    ██░░░░░░░░░░░░░░░░░░░░░░░  6.45%
 
 💼 Projects:
-BotThisSite    5h 6m 43s    ████░░░░░░░░░░░░░░░░░░░░░  14.71%
-ennote         3h 43m 42s   ███░░░░░░░░░░░░░░░░░░░░░░  10.73%
-crush          3h 41m 1s    ███░░░░░░░░░░░░░░░░░░░░░░  10.60%
-group-me-not   3h 20m 43s   ███░░░░░░░░░░░░░░░░░░░░░░  9.63%
-dots           3h 10m 42s   ███░░░░░░░░░░░░░░░░░░░░░░  9.15%
+BotThisSite    13h 31m 37s   ████████░░░░░░░░░░░░░░░░░  30.90%
+crush          6h 7m 44s     ████░░░░░░░░░░░░░░░░░░░░░  14.00%
+ennote         4h 38m 47s    ███░░░░░░░░░░░░░░░░░░░░░░  10.61%
+group-me-not   4h 26m 20s    ███░░░░░░░░░░░░░░░░░░░░░░  10.14%
+dots           2h 38m 44s    ██░░░░░░░░░░░░░░░░░░░░░░░  6.04%
 
-Total: 30 hrs 16 mins
+Total: 36 hrs 17 mins
 ```
 
 #### 📮  Want to say hi?
