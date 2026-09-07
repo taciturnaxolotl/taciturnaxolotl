@@ -4,13 +4,13 @@ When not doing school or working on a random project, I enjoy working on hardwar
 
 #### 🏗️  The latest repos I've pushed to
 
-- [`dots`](https://github.com/taciturnaxolotl/dots) - _Kieran's opinionated (and ever expanding) nix config_ **(1 day ago)**
+- [`ennote`](https://github.com/taciturnaxolotl/ennote) - _the best notes app for me_ **(today)**
+- [`group-me-not`](https://github.com/taciturnaxolotl/group-me-not) - _OSS GroupMe app_ **(today)**
+- [`dots`](https://github.com/taciturnaxolotl/dots) - _Kieran's opinionated (and ever expanding) nix config_ **(today)**
 - [`ultraviolet`](https://github.com/charmbracelet/ultraviolet) - _Mystical terminal user interface primitives 🌈_ **(1 day ago)**
-- [`social-graph`](https://github.com/taciturnaxolotl/social-graph) - _graphs go brrr_ **(2 days ago)**
 - [`status`](https://github.com/taciturnaxolotl/status) - _my own status page_ **(2 days ago)**
+- [`social-graph`](https://github.com/taciturnaxolotl/social-graph) - _graphs go brrr_ **(2 days ago)**
 - [`crush`](https://github.com/charmbracelet/crush) - _Glamourous agentic coding for all 💘_ **(3 days ago)**
-- [`group-me-not`](https://github.com/taciturnaxolotl/group-me-not) - _OSS GroupMe app_ **(3 days ago)**
-- [`ennote`](https://github.com/taciturnaxolotl/ennote) - _the best notes app for me_ **(4 days ago)**
 - [`indiko`](https://github.com/taciturnaxolotl/indiko) - _indieauth and oauth 2.0 compatible auth server for my homelab_ **(6 days ago)**
 
 #### 📦  My latest projects
@@ -30,20 +30,20 @@ When not doing school or working on a random project, I enjoy working on hardwar
 
 ```text
 💾 Languages:
-unknown        26h 28m 55s   ████████████░░░░░░░░░░░░░  45.33%
-JavaScript     9h 45m 25s    █████░░░░░░░░░░░░░░░░░░░░  16.70%
-Python         5h 46m 42s    ███░░░░░░░░░░░░░░░░░░░░░░  9.89%
-Swift          5h 19m 49s    ███░░░░░░░░░░░░░░░░░░░░░░  9.12%
-Markdown       5h 17m 8s     ███░░░░░░░░░░░░░░░░░░░░░░  9.05%
+unknown        26h 32m 10s   ████████████░░░░░░░░░░░░░  45.19%
+JavaScript     9h 27m 7s     █████░░░░░░░░░░░░░░░░░░░░  16.10%
+Python         7h 9m 29s     ████░░░░░░░░░░░░░░░░░░░░░  12.19%
+Swift          5h 31m 0s     ███░░░░░░░░░░░░░░░░░░░░░░  9.39%
+Markdown       4h 4m 28s     ██░░░░░░░░░░░░░░░░░░░░░░░  6.94%
 
 💼 Projects:
-BotThisSite    13h 42m 30s   ██████░░░░░░░░░░░░░░░░░░░  23.92%
-group-me-not   7h 25m 24s    ████░░░░░░░░░░░░░░░░░░░░░  12.96%
-dots           7h 15m 51s    ████░░░░░░░░░░░░░░░░░░░░░  12.68%
-crush          5h 38m 0s     ███░░░░░░░░░░░░░░░░░░░░░░  9.83%
-ennote         4h 38m 47s    ███░░░░░░░░░░░░░░░░░░░░░░  8.11%
+BotThisSite    13h 59m 28s   ███████░░░░░░░░░░░░░░░░░░  24.51%
+dots           7h 8m 0s      ████░░░░░░░░░░░░░░░░░░░░░  12.50%
+group-me-not   6h 8m 5s      ███░░░░░░░░░░░░░░░░░░░░░░  10.75%
+ennote         5h 40m 53s    ███░░░░░░░░░░░░░░░░░░░░░░  9.95%
+crush          5h 18m 44s    ███░░░░░░░░░░░░░░░░░░░░░░  9.31%
 
-Total: 48 hrs 54 mins
+Total: 49 hrs 13 mins
 ```
 
 #### 📮  Want to say hi?
