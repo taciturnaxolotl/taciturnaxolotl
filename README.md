@@ -4,14 +4,14 @@ When not doing school or working on a random project, I enjoy working on hardwar
 
 #### 🏗️  The latest repos I've pushed to
 
-- [`dots`](https://github.com/taciturnaxolotl/dots) - _Kieran's opinionated (and ever expanding) nix config_ **(today)**
-- [`ultraviolet`](https://github.com/charmbracelet/ultraviolet) - _Mystical terminal user interface primitives 🌈_ **(today)**
-- [`social-graph`](https://github.com/taciturnaxolotl/social-graph) - _graphs go brrr_ **(1 day ago)**
-- [`status`](https://github.com/taciturnaxolotl/status) - _my own status page_ **(1 day ago)**
-- [`crush`](https://github.com/charmbracelet/crush) - _Glamourous agentic coding for all 💘_ **(2 days ago)**
-- [`group-me-not`](https://github.com/taciturnaxolotl/group-me-not) - _OSS GroupMe app_ **(2 days ago)**
-- [`ennote`](https://github.com/taciturnaxolotl/ennote) - _the best notes app for me_ **(3 days ago)**
-- [`indiko`](https://github.com/taciturnaxolotl/indiko) - _indieauth and oauth 2.0 compatible auth server for my homelab_ **(5 days ago)**
+- [`dots`](https://github.com/taciturnaxolotl/dots) - _Kieran's opinionated (and ever expanding) nix config_ **(1 day ago)**
+- [`ultraviolet`](https://github.com/charmbracelet/ultraviolet) - _Mystical terminal user interface primitives 🌈_ **(1 day ago)**
+- [`social-graph`](https://github.com/taciturnaxolotl/social-graph) - _graphs go brrr_ **(2 days ago)**
+- [`status`](https://github.com/taciturnaxolotl/status) - _my own status page_ **(2 days ago)**
+- [`crush`](https://github.com/charmbracelet/crush) - _Glamourous agentic coding for all 💘_ **(3 days ago)**
+- [`group-me-not`](https://github.com/taciturnaxolotl/group-me-not) - _OSS GroupMe app_ **(3 days ago)**
+- [`ennote`](https://github.com/taciturnaxolotl/ennote) - _the best notes app for me_ **(4 days ago)**
+- [`indiko`](https://github.com/taciturnaxolotl/indiko) - _indieauth and oauth 2.0 compatible auth server for my homelab_ **(6 days ago)**
 
 #### 📦  My latest projects
 
