@@ -4,21 +4,21 @@ When not doing school or working on a random project, I enjoy working on hardwar
 
 #### 🏗️  The latest repos I've pushed to
 
-- [`ennote`](https://github.com/taciturnaxolotl/ennote) - _the best notes app for me_ **(today)**
 - [`group-me-not`](https://github.com/taciturnaxolotl/group-me-not) - _OSS GroupMe app_ **(today)**
+- [`assassins`](https://github.com/taciturnaxolotl/assassins) - _the ultimate platform for running games of assassin_ **(today)**
 - [`dots`](https://github.com/taciturnaxolotl/dots) - _Kieran's opinionated (and ever expanding) nix config_ **(today)**
-- [`ultraviolet`](https://github.com/charmbracelet/ultraviolet) - _Mystical terminal user interface primitives 🌈_ **(1 day ago)**
-- [`status`](https://github.com/taciturnaxolotl/status) - _my own status page_ **(2 days ago)**
-- [`social-graph`](https://github.com/taciturnaxolotl/social-graph) - _graphs go brrr_ **(2 days ago)**
-- [`crush`](https://github.com/charmbracelet/crush) - _Glamourous agentic coding for all 💘_ **(3 days ago)**
-- [`indiko`](https://github.com/taciturnaxolotl/indiko) - _indieauth and oauth 2.0 compatible auth server for my homelab_ **(6 days ago)**
+- [`ennote`](https://github.com/taciturnaxolotl/ennote) - _the best notes app for me_ **(1 day ago)**
+- [`ultraviolet`](https://github.com/charmbracelet/ultraviolet) - _Mystical terminal user interface primitives 🌈_ **(2 days ago)**
+- [`social-graph`](https://github.com/taciturnaxolotl/social-graph) - _graphs go brrr_ **(3 days ago)**
+- [`status`](https://github.com/taciturnaxolotl/status) - _my own status page_ **(3 days ago)**
+- [`crush`](https://github.com/charmbracelet/crush) - _Glamourous agentic coding for all 💘_ **(4 days ago)**
 
 #### 📦  My latest projects
 
+- [`assassins`](https://github.com/taciturnaxolotl/assassins) - _the ultimate platform for running games of assassin_
 - [`social-graph`](https://github.com/taciturnaxolotl/social-graph) - _graphs go brrr_
 - [`group-me-not`](https://github.com/taciturnaxolotl/group-me-not) - _OSS GroupMe app_
 - [`integrand`](https://github.com/taciturnaxolotl/integrand) - _math snipping extension_
-- [`mycu`](https://github.com/taciturnaxolotl/mycu) - _faster and less aggrevating mycu_
 
 #### 🪧  The latest posts from [`dunkirk.sh`](https://dunkirk.sh)
 
@@ -30,20 +30,20 @@ When not doing school or working on a random project, I enjoy working on hardwar
 
 ```text
 💾 Languages:
-unknown        26h 32m 10s   ████████████░░░░░░░░░░░░░  45.19%
-JavaScript     9h 27m 7s     █████░░░░░░░░░░░░░░░░░░░░  16.10%
-Python         7h 9m 29s     ████░░░░░░░░░░░░░░░░░░░░░  12.19%
-Swift          5h 31m 0s     ███░░░░░░░░░░░░░░░░░░░░░░  9.39%
-Markdown       4h 4m 28s     ██░░░░░░░░░░░░░░░░░░░░░░░  6.94%
+unknown        28h 19m 17s   ████████████░░░░░░░░░░░░░  47.24%
+JavaScript     11h 1m 59s    █████░░░░░░░░░░░░░░░░░░░░  18.40%
+Python         7h 9m 29s     ███░░░░░░░░░░░░░░░░░░░░░░  11.94%
+Swift          4h 57m 5s     ███░░░░░░░░░░░░░░░░░░░░░░  8.26%
+Markdown       3h 24m 29s    ██░░░░░░░░░░░░░░░░░░░░░░░  5.68%
 
 💼 Projects:
-BotThisSite    13h 59m 28s   ███████░░░░░░░░░░░░░░░░░░  24.51%
-dots           7h 8m 0s      ████░░░░░░░░░░░░░░░░░░░░░  12.50%
-group-me-not   6h 8m 5s      ███░░░░░░░░░░░░░░░░░░░░░░  10.75%
-ennote         5h 40m 53s    ███░░░░░░░░░░░░░░░░░░░░░░  9.95%
-crush          5h 18m 44s    ███░░░░░░░░░░░░░░░░░░░░░░  9.31%
+BotThisSite    13h 59m 28s   ███████░░░░░░░░░░░░░░░░░░  24.03%
+dots           7h 27m 54s    ████░░░░░░░░░░░░░░░░░░░░░  12.82%
+assassins      6h 15m 33s    ███░░░░░░░░░░░░░░░░░░░░░░  10.75%
+group-me-not   4h 44m 58s    ███░░░░░░░░░░░░░░░░░░░░░░  8.16%
+crush          4h 19m 27s    ██░░░░░░░░░░░░░░░░░░░░░░░  7.43%
 
-Total: 49 hrs 13 mins
+Total: 50 hrs 34 mins
 ```
 
 #### 📮  Want to say hi?
