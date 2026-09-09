@@ -4,8 +4,8 @@ When not doing school or working on a random project, I enjoy working on hardwar
 
 #### 🏗️  The latest repos I've pushed to
 
-- [`assassins`](https://github.com/taciturnaxolotl/assassins) - _the ultimate platform for running games of assassin_ **(1 day ago)**
 - [`group-me-not`](https://github.com/taciturnaxolotl/group-me-not) - _OSS GroupMe app_ **(1 day ago)**
+- [`assassins`](https://github.com/taciturnaxolotl/assassins) - _the ultimate platform for running games of assassin_ **(1 day ago)**
 - [`cachet`](https://github.com/taciturnaxolotl/cachet) - _a cache for slack profile pictures and emojis_ **(1 day ago)**
 - [`dots`](https://github.com/taciturnaxolotl/dots) - _Kieran's opinionated (and ever expanding) nix config_ **(1 day ago)**
 - [`ennote`](https://github.com/taciturnaxolotl/ennote) - _the best notes app for me_ **(2 days ago)**
@@ -30,20 +30,20 @@ When not doing school or working on a random project, I enjoy working on hardwar
 
 ```text
 💾 Languages:
-unknown        30h 15m 4s    █████████████░░░░░░░░░░░░  48.41%
-JavaScript     11h 1m 59s    █████░░░░░░░░░░░░░░░░░░░░  17.66%
-Python         7h 9m 29s     ███░░░░░░░░░░░░░░░░░░░░░░  11.45%
-Swift          4h 57m 5s     ██░░░░░░░░░░░░░░░░░░░░░░░  7.92%
-Markdown       3h 26m 29s    ██░░░░░░░░░░░░░░░░░░░░░░░  5.51%
+unknown        27h 32m 11s   ████████████░░░░░░░░░░░░░  46.98%
+JavaScript     10h 55m 36s   █████░░░░░░░░░░░░░░░░░░░░  18.64%
+Python         7h 9m 29s     ████░░░░░░░░░░░░░░░░░░░░░  12.21%
+Swift          3h 51m 3s     ██░░░░░░░░░░░░░░░░░░░░░░░  6.57%
+Markdown       3h 26m 29s    ██░░░░░░░░░░░░░░░░░░░░░░░  5.87%
 
 💼 Projects:
-BotThisSite    13h 59m 28s   ██████░░░░░░░░░░░░░░░░░░░  22.98%
-dots           7h 29m 54s    ████░░░░░░░░░░░░░░░░░░░░░  12.32%
-assassins      6h 37m 32s    ███░░░░░░░░░░░░░░░░░░░░░░  10.88%
-group-me-not   4h 44m 58s    ██░░░░░░░░░░░░░░░░░░░░░░░  7.80%
-BurnCoastSim   4h 33m 5s     ██░░░░░░░░░░░░░░░░░░░░░░░  7.48%
+BotThisSite    12h 26m 18s   ██████░░░░░░░░░░░░░░░░░░░  22.23%
+assassins      6h 52m 44s    ████░░░░░░░░░░░░░░░░░░░░░  12.29%
+dots           6h 30m 24s    ███░░░░░░░░░░░░░░░░░░░░░░  11.63%
+group-me-not   4h 44m 58s    ███░░░░░░░░░░░░░░░░░░░░░░  8.49%
+BurnCoastSim   4h 33m 5s     ███░░░░░░░░░░░░░░░░░░░░░░  8.13%
 
-Total: 52 hrs 52 mins
+Total: 49 hrs 2 mins
 ```
 
 #### 📮  Want to say hi?
