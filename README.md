@@ -4,21 +4,21 @@ When not doing school or working on a random project, I enjoy working on hardwar
 
 #### 🏗️  The latest repos I've pushed to
 
-- [`dots`](https://github.com/taciturnaxolotl/dots) - _Kieran's opinionated (and ever expanding) nix config_ **(today)**
-- [`catalyst`](https://github.com/taciturnaxolotl/catalyst) - __ **(1 day ago)**
-- [`wish`](https://github.com/charmbracelet/wish) - _Make SSH apps, just like that! 💫_ **(2 days ago)**
-- [`ultraviolet`](https://github.com/charmbracelet/ultraviolet) - _Mystical terminal user interface primitives 🌈_ **(2 days ago)**
-- [`cedarengine`](https://github.com/taciturnaxolotl/cedarengine) - _data_ **(3 days ago)**
-- [`group-me-not`](https://github.com/taciturnaxolotl/group-me-not) - _OSS GroupMe app_ **(3 days ago)**
-- [`assassins`](https://github.com/taciturnaxolotl/assassins) - _the ultimate platform for running games of assassin_ **(4 days ago)**
-- [`cachet`](https://github.com/taciturnaxolotl/cachet) - _a cache for slack profile pictures and emojis_ **(4 days ago)**
+- [`dots`](https://github.com/taciturnaxolotl/dots) - _Kieran's opinionated (and ever expanding) nix config_ **(1 day ago)**
+- [`ultraviolet`](https://github.com/charmbracelet/ultraviolet) - _Mystical terminal user interface primitives 🌈_ **(3 days ago)**
+- [`wish`](https://github.com/charmbracelet/wish) - _Make SSH apps, just like that! 💫_ **(3 days ago)**
+- [`cedarengine`](https://github.com/taciturnaxolotl/cedarengine) - _data_ **(4 days ago)**
+- [`group-me-not`](https://github.com/taciturnaxolotl/group-me-not) - _OSS GroupMe app_ **(4 days ago)**
+- [`cachet`](https://github.com/taciturnaxolotl/cachet) - _a cache for slack profile pictures and emojis_ **(5 days ago)**
+- [`assassins`](https://github.com/taciturnaxolotl/assassins) - _the ultimate platform for running games of assassin_ **(5 days ago)**
+- [`ennote`](https://github.com/taciturnaxolotl/ennote) - _the best notes app for me_ **(6 days ago)**
 
 #### 📦  My latest projects
 
+- [`prickly`](https://github.com/taciturnaxolotl/prickly) - _browser use! but slightly less prickly_
 - [`catalyst`](https://github.com/taciturnaxolotl/catalyst) - __
 - [`cedarengine`](https://github.com/taciturnaxolotl/cedarengine) - _data_
 - [`assassins`](https://github.com/taciturnaxolotl/assassins) - _the ultimate platform for running games of assassin_
-- [`social-graph`](https://github.com/taciturnaxolotl/social-graph) - _graphs go brrr_
 
 #### 🪧  The latest posts from [`dunkirk.sh`](https://dunkirk.sh)
 
@@ -30,20 +30,20 @@ When not doing school or working on a random project, I enjoy working on hardwar
 
 ```text
 💾 Languages:
-unknown              26h 54m 59s   ████████████████░░░░░░░░░  62.22%
-JavaScript           4h 16m 40s    ███░░░░░░░░░░░░░░░░░░░░░░  9.89%
-Swift                2h 37m 42s    ██░░░░░░░░░░░░░░░░░░░░░░░  6.08%
-Go                   1h 49m 21s    ██░░░░░░░░░░░░░░░░░░░░░░░  4.21%
-Python               1h 26m 31s    █░░░░░░░░░░░░░░░░░░░░░░░░  3.33%
+unknown              33h 47m 47s   ████████████████░░░░░░░░░  63.88%
+JavaScript           4h 24m 40s    ███░░░░░░░░░░░░░░░░░░░░░░  8.34%
+Swift                2h 37m 42s    ██░░░░░░░░░░░░░░░░░░░░░░░  4.97%
+Go                   2h 33m 47s    ██░░░░░░░░░░░░░░░░░░░░░░░  4.84%
+TypeScript           1h 28m 34s    █░░░░░░░░░░░░░░░░░░░░░░░░  2.79%
 
 💼 Projects:
-assassins            7h 33m 9s     █████░░░░░░░░░░░░░░░░░░░░  17.46%
-crush                6h 15m 19s    ████░░░░░░░░░░░░░░░░░░░░░  14.46%
-BurnCoastSim         4h 57m 3s     ███░░░░░░░░░░░░░░░░░░░░░░  11.44%
-dots                 4h 4m 42s     ███░░░░░░░░░░░░░░░░░░░░░░  9.43%
-cedarstalk-raycast   3h 51m 43s    ███░░░░░░░░░░░░░░░░░░░░░░  8.93%
+crush                11h 22m 29s   ██████░░░░░░░░░░░░░░░░░░░  21.17%
+assassins            7h 33m 9s     ████░░░░░░░░░░░░░░░░░░░░░  14.06%
+BurnCoastSim         5h 59m 20s    ███░░░░░░░░░░░░░░░░░░░░░░  11.15%
+dots                 4h 11m 41s    ██░░░░░░░░░░░░░░░░░░░░░░░  7.81%
+cedarstalk-raycast   3h 51m 43s    ██░░░░░░░░░░░░░░░░░░░░░░░  7.19%
 
-Total: 37 hrs 41 mins
+Total: 44 hrs 58 mins
 ```
 
 #### 📮  Want to say hi?
