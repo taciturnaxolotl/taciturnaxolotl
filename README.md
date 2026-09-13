@@ -30,20 +30,20 @@ When not doing school or working on a random project, I enjoy working on hardwar
 
 ```text
 💾 Languages:
-unknown              33h 47m 47s   ████████████████░░░░░░░░░  63.88%
-JavaScript           4h 24m 40s    ███░░░░░░░░░░░░░░░░░░░░░░  8.34%
-Swift                2h 37m 42s    ██░░░░░░░░░░░░░░░░░░░░░░░  4.97%
-Go                   2h 33m 47s    ██░░░░░░░░░░░░░░░░░░░░░░░  4.84%
-TypeScript           1h 28m 34s    █░░░░░░░░░░░░░░░░░░░░░░░░  2.79%
+unknown        34h 37m 21s   █████████████████░░░░░░░░  66.37%
+Go             2h 47m 47s    ██░░░░░░░░░░░░░░░░░░░░░░░  5.36%
+Swift          2h 37m 42s    ██░░░░░░░░░░░░░░░░░░░░░░░  5.04%
+TypeScript     2h 25m 17s    ██░░░░░░░░░░░░░░░░░░░░░░░  4.64%
+JavaScript     2h 25m 10s    ██░░░░░░░░░░░░░░░░░░░░░░░  4.64%
 
 💼 Projects:
-crush                11h 22m 29s   ██████░░░░░░░░░░░░░░░░░░░  21.17%
-assassins            7h 33m 9s     ████░░░░░░░░░░░░░░░░░░░░░  14.06%
-BurnCoastSim         5h 59m 20s    ███░░░░░░░░░░░░░░░░░░░░░░  11.15%
-dots                 4h 11m 41s    ██░░░░░░░░░░░░░░░░░░░░░░░  7.81%
-cedarstalk-raycast   3h 51m 43s    ██░░░░░░░░░░░░░░░░░░░░░░░  7.19%
+crush          13h 22m 32s   ███████░░░░░░░░░░░░░░░░░░  24.77%
+assassins      7h 33m 9s     ████░░░░░░░░░░░░░░░░░░░░░  13.99%
+prickly        3h 39m 13s    ██░░░░░░░░░░░░░░░░░░░░░░░  6.77%
+BurnCoastSim   3h 22m 21s    ██░░░░░░░░░░░░░░░░░░░░░░░  6.25%
+dots           3h 11m 31s    ██░░░░░░░░░░░░░░░░░░░░░░░  5.91%
 
-Total: 44 hrs 58 mins
+Total: 43 hrs 27 mins
 ```
 
 #### 📮  Want to say hi?
