@@ -4,14 +4,14 @@ When not doing school or working on a random project, I enjoy working on hardwar
 
 #### 🏗️  The latest repos I've pushed to
 
-- [`dots`](https://github.com/taciturnaxolotl/dots) - _Kieran's opinionated (and ever expanding) nix config_ **(1 day ago)**
-- [`ultraviolet`](https://github.com/charmbracelet/ultraviolet) - _Mystical terminal user interface primitives 🌈_ **(3 days ago)**
-- [`wish`](https://github.com/charmbracelet/wish) - _Make SSH apps, just like that! 💫_ **(3 days ago)**
-- [`cedarengine`](https://github.com/taciturnaxolotl/cedarengine) - _data_ **(4 days ago)**
-- [`group-me-not`](https://github.com/taciturnaxolotl/group-me-not) - _OSS GroupMe app_ **(4 days ago)**
-- [`cachet`](https://github.com/taciturnaxolotl/cachet) - _a cache for slack profile pictures and emojis_ **(5 days ago)**
-- [`assassins`](https://github.com/taciturnaxolotl/assassins) - _the ultimate platform for running games of assassin_ **(5 days ago)**
-- [`ennote`](https://github.com/taciturnaxolotl/ennote) - _the best notes app for me_ **(6 days ago)**
+- [`dots`](https://github.com/taciturnaxolotl/dots) - _Kieran's opinionated (and ever expanding) nix config_ **(2 days ago)**
+- [`ultraviolet`](https://github.com/charmbracelet/ultraviolet) - _Mystical terminal user interface primitives 🌈_ **(4 days ago)**
+- [`wish`](https://github.com/charmbracelet/wish) - _Make SSH apps, just like that! 💫_ **(4 days ago)**
+- [`cedarengine`](https://github.com/taciturnaxolotl/cedarengine) - _data_ **(5 days ago)**
+- [`group-me-not`](https://github.com/taciturnaxolotl/group-me-not) - _OSS GroupMe app_ **(5 days ago)**
+- [`cachet`](https://github.com/taciturnaxolotl/cachet) - _a cache for slack profile pictures and emojis_ **(6 days ago)**
+- [`assassins`](https://github.com/taciturnaxolotl/assassins) - _the ultimate platform for running games of assassin_ **(6 days ago)**
+- [`ennote`](https://github.com/taciturnaxolotl/ennote) - _the best notes app for me_ **(1 week ago)**
 
 #### 📦  My latest projects
 
@@ -30,20 +30,20 @@ When not doing school or working on a random project, I enjoy working on hardwar
 
 ```text
 💾 Languages:
-unknown        34h 37m 21s   █████████████████░░░░░░░░  66.37%
-Go             2h 47m 47s    ██░░░░░░░░░░░░░░░░░░░░░░░  5.36%
-Swift          2h 37m 42s    ██░░░░░░░░░░░░░░░░░░░░░░░  5.04%
-TypeScript     2h 25m 17s    ██░░░░░░░░░░░░░░░░░░░░░░░  4.64%
-JavaScript     2h 25m 10s    ██░░░░░░░░░░░░░░░░░░░░░░░  4.64%
+unknown        36h 25m 30s   █████████████████░░░░░░░░  66.72%
+Go             3h 5m 58s     ██░░░░░░░░░░░░░░░░░░░░░░░  5.68%
+TypeScript     2h 40m 1s     ██░░░░░░░░░░░░░░░░░░░░░░░  4.89%
+Swift          2h 37m 42s    ██░░░░░░░░░░░░░░░░░░░░░░░  4.81%
+JavaScript     2h 25m 10s    ██░░░░░░░░░░░░░░░░░░░░░░░  4.43%
 
 💼 Projects:
-crush          13h 22m 32s   ███████░░░░░░░░░░░░░░░░░░  24.77%
-assassins      7h 33m 9s     ████░░░░░░░░░░░░░░░░░░░░░  13.99%
-prickly        3h 39m 13s    ██░░░░░░░░░░░░░░░░░░░░░░░  6.77%
-BurnCoastSim   3h 22m 21s    ██░░░░░░░░░░░░░░░░░░░░░░░  6.25%
-dots           3h 11m 31s    ██░░░░░░░░░░░░░░░░░░░░░░░  5.91%
+crush          14h 39m 27s   ███████░░░░░░░░░░░░░░░░░░  25.54%
+assassins      7h 33m 9s     ████░░░░░░░░░░░░░░░░░░░░░  13.16%
+prickly        4h 37m 28s    ███░░░░░░░░░░░░░░░░░░░░░░  8.06%
+BurnCoastSim   3h 22m 21s    ██░░░░░░░░░░░░░░░░░░░░░░░  5.88%
+dots           3h 11m 31s    ██░░░░░░░░░░░░░░░░░░░░░░░  5.56%
 
-Total: 43 hrs 27 mins
+Total: 45 hrs 16 mins
 ```
 
 #### 📮  Want to say hi?
