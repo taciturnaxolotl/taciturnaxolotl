@@ -4,14 +4,14 @@ When not doing school or working on a random project, I enjoy working on hardwar
 
 #### 🏗️  The latest repos I've pushed to
 
+- [`prickly`](https://github.com/taciturnaxolotl/prickly) - _browser use! but slightly less prickly_ **(1 day ago)**
 - [`dots`](https://github.com/taciturnaxolotl/dots) - _Kieran's opinionated (and ever expanding) nix config_ **(2 days ago)**
-- [`ultraviolet`](https://github.com/charmbracelet/ultraviolet) - _Mystical terminal user interface primitives 🌈_ **(4 days ago)**
+- [`catalyst`](https://github.com/taciturnaxolotl/catalyst) - __ **(3 days ago)**
 - [`wish`](https://github.com/charmbracelet/wish) - _Make SSH apps, just like that! 💫_ **(4 days ago)**
-- [`cedarengine`](https://github.com/taciturnaxolotl/cedarengine) - _data_ **(5 days ago)**
+- [`ultraviolet`](https://github.com/charmbracelet/ultraviolet) - _Mystical terminal user interface primitives 🌈_ **(4 days ago)**
 - [`group-me-not`](https://github.com/taciturnaxolotl/group-me-not) - _OSS GroupMe app_ **(5 days ago)**
+- [`cedarengine`](https://github.com/taciturnaxolotl/cedarengine) - _data_ **(5 days ago)**
 - [`cachet`](https://github.com/taciturnaxolotl/cachet) - _a cache for slack profile pictures and emojis_ **(6 days ago)**
-- [`assassins`](https://github.com/taciturnaxolotl/assassins) - _the ultimate platform for running games of assassin_ **(6 days ago)**
-- [`ennote`](https://github.com/taciturnaxolotl/ennote) - _the best notes app for me_ **(1 week ago)**
 
 #### 📦  My latest projects
 
@@ -30,20 +30,20 @@ When not doing school or working on a random project, I enjoy working on hardwar
 
 ```text
 💾 Languages:
-unknown        36h 25m 30s   █████████████████░░░░░░░░  66.72%
-Go             3h 5m 58s     ██░░░░░░░░░░░░░░░░░░░░░░░  5.68%
-TypeScript     2h 40m 1s     ██░░░░░░░░░░░░░░░░░░░░░░░  4.89%
-Swift          2h 37m 42s    ██░░░░░░░░░░░░░░░░░░░░░░░  4.81%
-JavaScript     2h 25m 10s    ██░░░░░░░░░░░░░░░░░░░░░░░  4.43%
+unknown       35h 50m 14s   █████████████████░░░░░░░░  64.90%
+Go            4h 34m 22s    ███░░░░░░░░░░░░░░░░░░░░░░  8.28%
+TypeScript    3h 2m 4s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.50%
+Swift         2h 37m 42s    ██░░░░░░░░░░░░░░░░░░░░░░░  4.76%
+JavaScript    2h 25m 10s    ██░░░░░░░░░░░░░░░░░░░░░░░  4.38%
 
 💼 Projects:
-crush          14h 39m 27s   ███████░░░░░░░░░░░░░░░░░░  25.54%
-assassins      7h 33m 9s     ████░░░░░░░░░░░░░░░░░░░░░  13.16%
-prickly        4h 37m 28s    ███░░░░░░░░░░░░░░░░░░░░░░  8.06%
-BurnCoastSim   3h 22m 21s    ██░░░░░░░░░░░░░░░░░░░░░░░  5.88%
-dots           3h 11m 31s    ██░░░░░░░░░░░░░░░░░░░░░░░  5.56%
+crush         17h 27m 0s    ████████░░░░░░░░░░░░░░░░░  30.69%
+assassins     7h 33m 9s     ████░░░░░░░░░░░░░░░░░░░░░  13.28%
+prickly       5h 4m 27s     ███░░░░░░░░░░░░░░░░░░░░░░  8.92%
+CarDisplay    2h 58m 34s    ██░░░░░░░░░░░░░░░░░░░░░░░  5.23%
+BotThisSite   2h 26m 30s    ██░░░░░░░░░░░░░░░░░░░░░░░  4.29%
 
-Total: 45 hrs 16 mins
+Total: 43 hrs 21 mins
 ```
 
 #### 📮  Want to say hi?
