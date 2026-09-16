@@ -4,14 +4,14 @@ When not doing school or working on a random project, I enjoy working on hardwar
 
 #### 🏗️  The latest repos I've pushed to
 
-- [`crush`](https://github.com/charmbracelet/crush) - _Glamourous agentic coding for all 💘_ **(1 day ago)**
+- [`crush`](https://github.com/charmbracelet/crush) - _Glamourous agentic coding for all 💘_ **(today)**
+- [`dots`](https://github.com/taciturnaxolotl/dots) - _Kieran's opinionated (and ever expanding) nix config_ **(today)**
 - [`group-me-not`](https://github.com/taciturnaxolotl/group-me-not) - _OSS GroupMe app_ **(1 day ago)**
 - [`cachet`](https://github.com/taciturnaxolotl/cachet) - _a cache for slack profile pictures and emojis_ **(1 day ago)**
 - [`cedarengine`](https://github.com/taciturnaxolotl/cedarengine) - _data_ **(1 day ago)**
 - [`fantasy`](https://github.com/charmbracelet/fantasy) - _Build AI agents with Go. Multiple providers, multiple models, one API. 🧙_ **(2 days ago)**
 - [`zera`](https://github.com/taciturnaxolotl/zera) - _my new site v4?_ **(2 days ago)**
 - [`prickly`](https://github.com/taciturnaxolotl/prickly) - _browser use! but slightly less prickly_ **(3 days ago)**
-- [`dots`](https://github.com/taciturnaxolotl/dots) - _Kieran's opinionated (and ever expanding) nix config_ **(4 days ago)**
 
 #### 📦  My latest projects
 
@@ -30,20 +30,20 @@ When not doing school or working on a random project, I enjoy working on hardwar
 
 ```text
 💾 Languages:
-unknown            36h 30m 48s   ███████████████░░░░░░░░░░  56.22%
-Markdown           8h 30m 50s    ████░░░░░░░░░░░░░░░░░░░░░  13.11%
-Go                 6h 16m 45s    ███░░░░░░░░░░░░░░░░░░░░░░  9.67%
-TypeScript         4h 24m 10s    ██░░░░░░░░░░░░░░░░░░░░░░░  6.78%
-Python             1h 53m 34s    █░░░░░░░░░░░░░░░░░░░░░░░░  2.91%
+unknown            39h 10m 28s   ███████████████░░░░░░░░░░  57.40%
+Markdown           8h 39m 25s    ████░░░░░░░░░░░░░░░░░░░░░  12.68%
+Go                 6h 40m 43s    ███░░░░░░░░░░░░░░░░░░░░░░  9.78%
+TypeScript         4h 24m 10s    ██░░░░░░░░░░░░░░░░░░░░░░░  6.45%
+Python             1h 53m 34s    █░░░░░░░░░░░░░░░░░░░░░░░░  2.77%
 
 💼 Projects:
-crush              21h 13m 23s   ████████░░░░░░░░░░░░░░░░░  29.08%
-bcd-minimization   17h 1m 44s    ██████░░░░░░░░░░░░░░░░░░░  23.34%
-prickly            5h 4m 27s     ██░░░░░░░░░░░░░░░░░░░░░░░  6.95%
-CarDisplay         3h 0m 56s     ██░░░░░░░░░░░░░░░░░░░░░░░  4.13%
-group-me-not       3h 0m 7s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.11%
+crush              22h 45m 2s    ████████░░░░░░░░░░░░░░░░░  29.69%
+bcd-minimization   18h 50m 59s   ███████░░░░░░░░░░░░░░░░░░  24.60%
+prickly            5h 6m 27s     ██░░░░░░░░░░░░░░░░░░░░░░░  6.67%
+group-me-not       3h 4m 7s      █░░░░░░░░░░░░░░░░░░░░░░░░  4.00%
+CarDisplay         3h 0m 56s     █░░░░░░░░░░░░░░░░░░░░░░░░  3.94%
 
-Total: 39 hrs 10 mins
+Total: 41 hrs 49 mins
 ```
 
 #### 📮  Want to say hi?
