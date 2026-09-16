@@ -4,14 +4,14 @@ When not doing school or working on a random project, I enjoy working on hardwar
 
 #### 🏗️  The latest repos I've pushed to
 
-- [`prickly`](https://github.com/taciturnaxolotl/prickly) - _browser use! but slightly less prickly_ **(2 days ago)**
-- [`dots`](https://github.com/taciturnaxolotl/dots) - _Kieran's opinionated (and ever expanding) nix config_ **(3 days ago)**
-- [`catalyst`](https://github.com/taciturnaxolotl/catalyst) - __ **(4 days ago)**
-- [`wish`](https://github.com/charmbracelet/wish) - _Make SSH apps, just like that! 💫_ **(5 days ago)**
-- [`ultraviolet`](https://github.com/charmbracelet/ultraviolet) - _Mystical terminal user interface primitives 🌈_ **(5 days ago)**
-- [`group-me-not`](https://github.com/taciturnaxolotl/group-me-not) - _OSS GroupMe app_ **(6 days ago)**
-- [`cedarengine`](https://github.com/taciturnaxolotl/cedarengine) - _data_ **(6 days ago)**
-- [`cachet`](https://github.com/taciturnaxolotl/cachet) - _a cache for slack profile pictures and emojis_ **(1 week ago)**
+- [`crush`](https://github.com/charmbracelet/crush) - _Glamourous agentic coding for all 💘_ **(1 day ago)**
+- [`group-me-not`](https://github.com/taciturnaxolotl/group-me-not) - _OSS GroupMe app_ **(1 day ago)**
+- [`cachet`](https://github.com/taciturnaxolotl/cachet) - _a cache for slack profile pictures and emojis_ **(1 day ago)**
+- [`cedarengine`](https://github.com/taciturnaxolotl/cedarengine) - _data_ **(1 day ago)**
+- [`fantasy`](https://github.com/charmbracelet/fantasy) - _Build AI agents with Go. Multiple providers, multiple models, one API. 🧙_ **(2 days ago)**
+- [`zera`](https://github.com/taciturnaxolotl/zera) - _my new site v4?_ **(2 days ago)**
+- [`prickly`](https://github.com/taciturnaxolotl/prickly) - _browser use! but slightly less prickly_ **(3 days ago)**
+- [`dots`](https://github.com/taciturnaxolotl/dots) - _Kieran's opinionated (and ever expanding) nix config_ **(4 days ago)**
 
 #### 📦  My latest projects
 
@@ -22,28 +22,28 @@ When not doing school or working on a random project, I enjoy working on hardwar
 
 #### 🪧  The latest posts from [`dunkirk.sh`](https://dunkirk.sh)
 
+- [`Breaking macOS Screen Time for fun and profit`](https://dunkirk.sh/blog/screentime/) **(2 days ago)**
 - [`The Joy of Hardware`](https://dunkirk.sh/blog/joy-of-hardware/) **(1 month ago)**
 - [`LLMs are like handwritten notes`](https://dunkirk.sh/blog/llms/) **(2 months ago)**
-- [`Reverse engineering the FRC SystemCore image`](https://dunkirk.sh/blog/frc-systemcore-image/) **(4 months ago)**
 
 #### 📡  My [_`hackatime`_](https://waka.hackclub.com) stats from this week
 
 ```text
 💾 Languages:
-unknown       36h 32m 45s   █████████████████░░░░░░░░  64.84%
-Go            4h 52m 1s     ███░░░░░░░░░░░░░░░░░░░░░░  8.63%
-TypeScript    3h 2m 4s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.38%
-Swift         2h 37m 42s    ██░░░░░░░░░░░░░░░░░░░░░░░  4.66%
-JavaScript    2h 27m 10s    ██░░░░░░░░░░░░░░░░░░░░░░░  4.35%
+unknown            36h 30m 48s   ███████████████░░░░░░░░░░  56.22%
+Markdown           8h 30m 50s    ████░░░░░░░░░░░░░░░░░░░░░  13.11%
+Go                 6h 16m 45s    ███░░░░░░░░░░░░░░░░░░░░░░  9.67%
+TypeScript         4h 24m 10s    ██░░░░░░░░░░░░░░░░░░░░░░░  6.78%
+Python             1h 53m 34s    █░░░░░░░░░░░░░░░░░░░░░░░░  2.91%
 
 💼 Projects:
-crush         18h 6m 43s    ████████░░░░░░░░░░░░░░░░░  31.45%
-assassins     7h 33m 9s     ████░░░░░░░░░░░░░░░░░░░░░  13.11%
-prickly       5h 4m 27s     ███░░░░░░░░░░░░░░░░░░░░░░  8.81%
-CarDisplay    2h 58m 34s    ██░░░░░░░░░░░░░░░░░░░░░░░  5.17%
-BotThisSite   2h 26m 30s    ██░░░░░░░░░░░░░░░░░░░░░░░  4.24%
+crush              21h 13m 23s   ████████░░░░░░░░░░░░░░░░░  29.08%
+bcd-minimization   17h 1m 44s    ██████░░░░░░░░░░░░░░░░░░░  23.34%
+prickly            5h 4m 27s     ██░░░░░░░░░░░░░░░░░░░░░░░  6.95%
+CarDisplay         3h 0m 56s     ██░░░░░░░░░░░░░░░░░░░░░░░  4.13%
+group-me-not       3h 0m 7s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.11%
 
-Total: 44 hrs 7 mins
+Total: 39 hrs 10 mins
 ```
 
 #### 📮  Want to say hi?
