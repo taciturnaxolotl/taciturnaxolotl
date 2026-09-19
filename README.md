@@ -4,14 +4,14 @@ When not doing school or working on a random project, I enjoy working on hardwar
 
 #### 🏗️  The latest repos I've pushed to
 
-- [`dots`](https://github.com/taciturnaxolotl/dots) - _Kieran's opinionated (and ever expanding) nix config_ **(today)**
-- [`cedarville-people-search-raycast`](https://github.com/taciturnaxolotl/cedarville-people-search-raycast) - _people search with keyboard shortcuts_ **(today)**
-- [`crush`](https://github.com/charmbracelet/crush) - _Glamourous agentic coding for all 💘_ **(today)**
-- [`group-me-not`](https://github.com/taciturnaxolotl/group-me-not) - _OSS GroupMe app_ **(today)**
-- [`cachet`](https://github.com/taciturnaxolotl/cachet) - _a cache for slack profile pictures and emojis_ **(3 days ago)**
-- [`cedarengine`](https://github.com/taciturnaxolotl/cedarengine) - _data_ **(3 days ago)**
-- [`fantasy`](https://github.com/charmbracelet/fantasy) - _Build AI agents with Go. Multiple providers, multiple models, one API. 🧙_ **(4 days ago)**
-- [`zera`](https://github.com/taciturnaxolotl/zera) - _my new site v4?_ **(4 days ago)**
+- [`dots`](https://github.com/taciturnaxolotl/dots) - _Kieran's opinionated (and ever expanding) nix config_ **(1 day ago)**
+- [`cedarville-people-search-raycast`](https://github.com/taciturnaxolotl/cedarville-people-search-raycast) - _people search with keyboard shortcuts_ **(1 day ago)**
+- [`crush`](https://github.com/charmbracelet/crush) - _Glamourous agentic coding for all 💘_ **(1 day ago)**
+- [`group-me-not`](https://github.com/taciturnaxolotl/group-me-not) - _OSS GroupMe app_ **(1 day ago)**
+- [`cachet`](https://github.com/taciturnaxolotl/cachet) - _a cache for slack profile pictures and emojis_ **(4 days ago)**
+- [`cedarengine`](https://github.com/taciturnaxolotl/cedarengine) - _data_ **(4 days ago)**
+- [`fantasy`](https://github.com/charmbracelet/fantasy) - _Build AI agents with Go. Multiple providers, multiple models, one API. 🧙_ **(5 days ago)**
+- [`zera`](https://github.com/taciturnaxolotl/zera) - _my new site v4?_ **(5 days ago)**
 
 #### 📦  My latest projects
 
@@ -22,7 +22,7 @@ When not doing school or working on a random project, I enjoy working on hardwar
 
 #### 🪧  The latest posts from [`dunkirk.sh`](https://dunkirk.sh)
 
-- [`Breaking macOS Screen Time for fun and profit`](https://dunkirk.sh/blog/screentime/) **(4 days ago)**
+- [`Breaking macOS Screen Time for fun and profit`](https://dunkirk.sh/blog/screentime/) **(5 days ago)**
 - [`The Joy of Hardware`](https://dunkirk.sh/blog/joy-of-hardware/) **(1 month ago)**
 - [`LLMs are like handwritten notes`](https://dunkirk.sh/blog/llms/) **(2 months ago)**
 
@@ -30,20 +30,20 @@ When not doing school or working on a random project, I enjoy working on hardwar
 
 ```text
 💾 Languages:
-unknown            46h 8m 36s    ███████████████░░░░░░░░░░  59.88%
-Markdown           9h 0m 50s     ███░░░░░░░░░░░░░░░░░░░░░░  11.70%
-Go                 8h 24m 21s    ███░░░░░░░░░░░░░░░░░░░░░░  10.91%
-TypeScript         3h 24m 26s    ██░░░░░░░░░░░░░░░░░░░░░░░  4.42%
-C++                2h 24m 34s    █░░░░░░░░░░░░░░░░░░░░░░░░  3.13%
+unknown            43h 56m 51s   ████████████████░░░░░░░░░  60.74%
+Markdown           8h 58m 50s    ████░░░░░░░░░░░░░░░░░░░░░  12.41%
+Go                 7h 16m 20s    ███░░░░░░░░░░░░░░░░░░░░░░  10.05%
+TypeScript         3h 24m 26s    ██░░░░░░░░░░░░░░░░░░░░░░░  4.71%
+C++                2h 24m 34s    █░░░░░░░░░░░░░░░░░░░░░░░░  3.33%
 
 💼 Projects:
-crush              26h 14m 50s   █████████░░░░░░░░░░░░░░░░  32.27%
-bcd-minimization   16h 11m 55s   █████░░░░░░░░░░░░░░░░░░░░  19.91%
-cedarlogic         6h 44m 44s    ███░░░░░░░░░░░░░░░░░░░░░░  8.29%
-prickly            5h 6m 27s     ██░░░░░░░░░░░░░░░░░░░░░░░  6.28%
-group-me-not       4h 3m 51s     ██░░░░░░░░░░░░░░░░░░░░░░░  5.00%
+crush              23h 20m 59s   ████████░░░░░░░░░░░░░░░░░  30.40%
+bcd-minimization   15h 44m 40s   ██████░░░░░░░░░░░░░░░░░░░  20.50%
+cedarlogic         6h 44m 44s    ███░░░░░░░░░░░░░░░░░░░░░░  8.78%
+prickly            5h 6m 27s     ██░░░░░░░░░░░░░░░░░░░░░░░  6.65%
+group-me-not       4h 3m 51s     ██░░░░░░░░░░░░░░░░░░░░░░░  5.29%
 
-Total: 47 hrs 22 mins
+Total: 44 hrs 43 mins
 ```
 
 #### 📮  Want to say hi?
