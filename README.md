@@ -4,11 +4,11 @@ When not doing school or working on a random project, I enjoy working on hardwar
 
 #### 🏗️  The latest repos I've pushed to
 
+- [`dots`](https://github.com/taciturnaxolotl/dots) - _Kieran's opinionated (and ever expanding) nix config_ **(today)**
 - [`crush`](https://github.com/charmbracelet/crush) - _Glamourous agentic coding for all 💘_ **(today)**
-- [`pear`](https://github.com/taciturnaxolotl/pear) - _making recipe websites palatable again_ **(1 day ago)**
-- [`dots`](https://github.com/taciturnaxolotl/dots) - _Kieran's opinionated (and ever expanding) nix config_ **(1 day ago)**
-- [`group-me-not`](https://github.com/taciturnaxolotl/group-me-not) - _OSS GroupMe app_ **(1 day ago)**
 - [`cull`](https://github.com/taciturnaxolotl/cull) - _as the title says; culls raw photos_ **(1 day ago)**
+- [`group-me-not`](https://github.com/taciturnaxolotl/group-me-not) - _OSS GroupMe app_ **(1 day ago)**
+- [`pear`](https://github.com/taciturnaxolotl/pear) - _making recipe websites palatable again_ **(1 day ago)**
 - [`cedarville-people-search-raycast`](https://github.com/taciturnaxolotl/cedarville-people-search-raycast) - _people search with keyboard shortcuts_ **(2 days ago)**
 - [`cachet`](https://github.com/taciturnaxolotl/cachet) - _a cache for slack profile pictures and emojis_ **(5 days ago)**
 - [`cedarengine`](https://github.com/taciturnaxolotl/cedarengine) - _data_ **(5 days ago)**
@@ -30,20 +30,20 @@ When not doing school or working on a random project, I enjoy working on hardwar
 
 ```text
 💾 Languages:
-unknown            41h 27m 59s   █████████████████░░░░░░░░  65.81%
-Go                 7h 4m 32s     ███░░░░░░░░░░░░░░░░░░░░░░  11.23%
-Markdown           2h 43m 59s    ██░░░░░░░░░░░░░░░░░░░░░░░  4.34%
-TypeScript         2h 29m 53s    █░░░░░░░░░░░░░░░░░░░░░░░░  3.96%
-C++                2h 10m 25s    █░░░░░░░░░░░░░░░░░░░░░░░░  3.45%
+unknown            42h 49m 27s   █████████████████░░░░░░░░  66.14%
+Go                 7h 22m 35s    ███░░░░░░░░░░░░░░░░░░░░░░  11.39%
+Markdown           2h 45m 59s    ██░░░░░░░░░░░░░░░░░░░░░░░  4.27%
+TypeScript         2h 29m 53s    █░░░░░░░░░░░░░░░░░░░░░░░░  3.86%
+C++                2h 10m 25s    █░░░░░░░░░░░░░░░░░░░░░░░░  3.36%
 
 💼 Projects:
-crush              17h 30m 47s   ███████░░░░░░░░░░░░░░░░░░  27.05%
-bcd-minimization   9h 4m 4s      ████░░░░░░░░░░░░░░░░░░░░░  14.00%
-cedarlogic         7h 9m 38s     ███░░░░░░░░░░░░░░░░░░░░░░  11.06%
-group-me-not       5h 4m 19s     ██░░░░░░░░░░░░░░░░░░░░░░░  7.83%
-ultraviolet        3h 28m 2s     ██░░░░░░░░░░░░░░░░░░░░░░░  5.35%
+crush              18h 51m 25s   ████████░░░░░░░░░░░░░░░░░  28.34%
+bcd-minimization   9h 21m 58s    ████░░░░░░░░░░░░░░░░░░░░░  14.07%
+cedarlogic         7h 9m 38s     ███░░░░░░░░░░░░░░░░░░░░░░  10.76%
+group-me-not       5h 4m 19s     ██░░░░░░░░░░░░░░░░░░░░░░░  7.62%
+ultraviolet        3h 28m 2s     ██░░░░░░░░░░░░░░░░░░░░░░░  5.21%
 
-Total: 42 hrs 1 mins
+Total: 43 hrs 23 mins
 ```
 
 #### 📮  Want to say hi?
