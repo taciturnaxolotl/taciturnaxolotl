@@ -30,20 +30,20 @@ When not doing school or working on a random project, I enjoy working on hardwar
 
 ```text
 💾 Languages:
-unknown            42h 49m 27s   █████████████████░░░░░░░░  66.14%
-Go                 7h 22m 35s    ███░░░░░░░░░░░░░░░░░░░░░░  11.39%
-Markdown           2h 45m 59s    ██░░░░░░░░░░░░░░░░░░░░░░░  4.27%
-TypeScript         2h 29m 53s    █░░░░░░░░░░░░░░░░░░░░░░░░  3.86%
-C++                2h 10m 25s    █░░░░░░░░░░░░░░░░░░░░░░░░  3.36%
+unknown            43h 39m 33s   █████████████████░░░░░░░░  66.10%
+Go                 7h 22m 35s    ███░░░░░░░░░░░░░░░░░░░░░░  11.17%
+Markdown           2h 45m 59s    ██░░░░░░░░░░░░░░░░░░░░░░░  4.19%
+TypeScript         2h 29m 53s    █░░░░░░░░░░░░░░░░░░░░░░░░  3.78%
+C++                2h 14m 45s    █░░░░░░░░░░░░░░░░░░░░░░░░  3.40%
 
 💼 Projects:
-crush              18h 51m 25s   ████████░░░░░░░░░░░░░░░░░  28.34%
-bcd-minimization   9h 21m 58s    ████░░░░░░░░░░░░░░░░░░░░░  14.07%
-cedarlogic         7h 9m 38s     ███░░░░░░░░░░░░░░░░░░░░░░  10.76%
-group-me-not       5h 4m 19s     ██░░░░░░░░░░░░░░░░░░░░░░░  7.62%
-ultraviolet        3h 28m 2s     ██░░░░░░░░░░░░░░░░░░░░░░░  5.21%
+crush              19h 33m 33s   ████████░░░░░░░░░░░░░░░░░  28.73%
+bcd-minimization   9h 37m 12s    ████░░░░░░░░░░░░░░░░░░░░░  14.13%
+cedarlogic         7h 26m 5s     ███░░░░░░░░░░░░░░░░░░░░░░  10.92%
+group-me-not       5h 4m 19s     ██░░░░░░░░░░░░░░░░░░░░░░░  7.45%
+ultraviolet        3h 28m 2s     ██░░░░░░░░░░░░░░░░░░░░░░░  5.09%
 
-Total: 43 hrs 23 mins
+Total: 44 hrs 13 mins
 ```
 
 #### 📮  Want to say hi?
