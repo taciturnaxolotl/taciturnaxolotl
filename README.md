@@ -4,8 +4,8 @@ When not doing school or working on a random project, I enjoy working on hardwar
 
 #### 🏗️  The latest repos I've pushed to
 
+- [`dots`](https://github.com/taciturnaxolotl/dots) - _Kieran's opinionated (and ever expanding) nix config_ **(today)**
 - [`crush`](https://github.com/charmbracelet/crush) - _Glamourous agentic coding for all 💘_ **(1 day ago)**
-- [`dots`](https://github.com/taciturnaxolotl/dots) - _Kieran's opinionated (and ever expanding) nix config_ **(1 day ago)**
 - [`pear`](https://github.com/taciturnaxolotl/pear) - _making recipe websites palatable again_ **(2 days ago)**
 - [`cull`](https://github.com/taciturnaxolotl/cull) - _as the title says; culls raw photos_ **(2 days ago)**
 - [`group-me-not`](https://github.com/taciturnaxolotl/group-me-not) - _OSS GroupMe app_ **(2 days ago)**
@@ -30,20 +30,20 @@ When not doing school or working on a random project, I enjoy working on hardwar
 
 ```text
 💾 Languages:
-unknown            42h 56m 47s   █████████████████░░░░░░░░  64.78%
-Go                 7h 42m 27s    ███░░░░░░░░░░░░░░░░░░░░░░  11.63%
-Markdown           2h 25m 43s    █░░░░░░░░░░░░░░░░░░░░░░░░  3.66%
-C++                2h 23m 26s    █░░░░░░░░░░░░░░░░░░░░░░░░  3.61%
-Swift              2h 1m 28s     █░░░░░░░░░░░░░░░░░░░░░░░░  3.05%
+unknown            46h 3m 38s   ████████████████░░░░░░░░░  63.99%
+Go                 8h 32m 41s   ███░░░░░░░░░░░░░░░░░░░░░░  11.87%
+Markdown           2h 51m 30s   █░░░░░░░░░░░░░░░░░░░░░░░░  3.97%
+C++                2h 46m 10s   █░░░░░░░░░░░░░░░░░░░░░░░░  3.85%
+Swift              2h 1m 28s    █░░░░░░░░░░░░░░░░░░░░░░░░  2.81%
 
 💼 Projects:
-crush              19h 31m 12s   ████████░░░░░░░░░░░░░░░░░  30.12%
-cedarlogic         9h 12m 33s    ████░░░░░░░░░░░░░░░░░░░░░  14.21%
-bcd-minimization   7h 50m 35s    ████░░░░░░░░░░░░░░░░░░░░░  12.10%
-group-me-not       4h 39m 46s    ██░░░░░░░░░░░░░░░░░░░░░░░  7.19%
-dots               3h 50m 37s    ██░░░░░░░░░░░░░░░░░░░░░░░  5.93%
+crush              21h 32m 8s   ████████░░░░░░░░░░░░░░░░░  30.10%
+cedarlogic         11h 8m 33s   ████░░░░░░░░░░░░░░░░░░░░░  15.57%
+bcd-minimization   7h 50m 35s   ███░░░░░░░░░░░░░░░░░░░░░░  10.96%
+dots               6h 8m 50s    ███░░░░░░░░░░░░░░░░░░░░░░  8.59%
+group-me-not       4h 39m 46s   ██░░░░░░░░░░░░░░░░░░░░░░░  6.52%
 
-Total: 43 hrs 29 mins
+Total: 46 hrs 36 mins
 ```
 
 #### 📮  Want to say hi?
