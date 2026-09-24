@@ -4,6 +4,7 @@ When not doing school or working on a random project, I enjoy working on hardwar
 
 #### 🏗️  The latest repos I've pushed to
 
+- [`cedarengine`](https://github.com/taciturnaxolotl/cedarengine) - _data_ **(today)**
 - [`dots`](https://github.com/taciturnaxolotl/dots) - _Kieran's opinionated (and ever expanding) nix config_ **(2 days ago)**
 - [`crush`](https://github.com/charmbracelet/crush) - _Glamourous agentic coding for all 💘_ **(4 days ago)**
 - [`pear`](https://github.com/taciturnaxolotl/pear) - _making recipe websites palatable again_ **(5 days ago)**
@@ -11,7 +12,6 @@ When not doing school or working on a random project, I enjoy working on hardwar
 - [`group-me-not`](https://github.com/taciturnaxolotl/group-me-not) - _OSS GroupMe app_ **(5 days ago)**
 - [`cedarville-people-search-raycast`](https://github.com/taciturnaxolotl/cedarville-people-search-raycast) - _people search with keyboard shortcuts_ **(6 days ago)**
 - [`cachet`](https://github.com/taciturnaxolotl/cachet) - _a cache for slack profile pictures and emojis_ **(1 week ago)**
-- [`cedarengine`](https://github.com/taciturnaxolotl/cedarengine) - _data_ **(1 week ago)**
 
 #### 📦  My latest projects
 
@@ -30,20 +30,20 @@ When not doing school or working on a random project, I enjoy working on hardwar
 
 ```text
 💾 Languages:
-unknown            43h 46m 43s   ████████████████░░░░░░░░░  63.40%
-Go                 7h 9m 55s     ███░░░░░░░░░░░░░░░░░░░░░░  10.38%
-C++                3h 12m 30s    ██░░░░░░░░░░░░░░░░░░░░░░░  4.65%
-Markdown           3h 5m 44s     ██░░░░░░░░░░░░░░░░░░░░░░░  4.48%
-Swift              1h 40m 49s    █░░░░░░░░░░░░░░░░░░░░░░░░  2.43%
+unknown            45h 1m 59s    ████████████████░░░░░░░░░  63.18%
+Go                 7h 9m 55s     ███░░░░░░░░░░░░░░░░░░░░░░  10.05%
+Markdown           3h 20m 53s    ██░░░░░░░░░░░░░░░░░░░░░░░  4.70%
+C++                3h 12m 30s    ██░░░░░░░░░░░░░░░░░░░░░░░  4.50%
+Nix                1h 41m 43s    █░░░░░░░░░░░░░░░░░░░░░░░░  2.38%
 
 💼 Projects:
-crush              18h 2m 14s    ███████░░░░░░░░░░░░░░░░░░  26.95%
-cedarlogic         16h 28m 33s   ███████░░░░░░░░░░░░░░░░░░  24.62%
-dots               7h 37m 0s     ███░░░░░░░░░░░░░░░░░░░░░░  11.38%
-bcd-minimization   4h 3m 58s     ██░░░░░░░░░░░░░░░░░░░░░░░  6.08%
-test               2h 32m 44s    █░░░░░░░░░░░░░░░░░░░░░░░░  3.80%
+crush              18h 9m 40s    ███████░░░░░░░░░░░░░░░░░░  26.24%
+cedarlogic         16h 28m 33s   ██████░░░░░░░░░░░░░░░░░░░  23.81%
+dots               7h 52m 16s    ███░░░░░░░░░░░░░░░░░░░░░░  11.37%
+bcd-minimization   4h 17m 17s    ██░░░░░░░░░░░░░░░░░░░░░░░  6.20%
+test               2h 39m 27s    █░░░░░░░░░░░░░░░░░░░░░░░░  3.84%
 
-Total: 44 hrs 50 mins
+Total: 46 hrs 11 mins
 ```
 
 #### 📮  Want to say hi?
