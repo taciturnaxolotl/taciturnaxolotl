@@ -4,14 +4,14 @@ When not doing school or working on a random project, I enjoy working on hardwar
 
 #### 🏗️  The latest repos I've pushed to
 
+- [`assassins`](https://github.com/taciturnaxolotl/assassins) - _the ultimate platform for running games of assassin_ **(today)**
 - [`cedarengine`](https://github.com/taciturnaxolotl/cedarengine) - _data_ **(today)**
 - [`dots`](https://github.com/taciturnaxolotl/dots) - _Kieran's opinionated (and ever expanding) nix config_ **(today)**
-- [`crush`](https://github.com/charmbracelet/crush) - _Glamourous agentic coding for all 💘_ **(5 days ago)**
+- [`crush`](https://github.com/charmbracelet/crush) - _Glamourous agentic coding for all 💘_ **(today)**
 - [`group-me-not`](https://github.com/taciturnaxolotl/group-me-not) - _OSS GroupMe app_ **(6 days ago)**
 - [`cull`](https://github.com/taciturnaxolotl/cull) - _as the title says; culls raw photos_ **(6 days ago)**
 - [`pear`](https://github.com/taciturnaxolotl/pear) - _making recipe websites palatable again_ **(6 days ago)**
 - [`cedarville-people-search-raycast`](https://github.com/taciturnaxolotl/cedarville-people-search-raycast) - _people search with keyboard shortcuts_ **(1 week ago)**
-- [`cachet`](https://github.com/taciturnaxolotl/cachet) - _a cache for slack profile pictures and emojis_ **(1 week ago)**
 
 #### 📦  My latest projects
 
@@ -30,20 +30,20 @@ When not doing school or working on a random project, I enjoy working on hardwar
 
 ```text
 💾 Languages:
-unknown            40h 22m 18s   ████████████████░░░░░░░░░  62.83%
-Go                 6h 22m 40s    ███░░░░░░░░░░░░░░░░░░░░░░  9.93%
-Markdown           3h 4m 0s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.77%
-C++                2h 21m 48s    █░░░░░░░░░░░░░░░░░░░░░░░░  3.68%
-Nix                1h 59m 0s     █░░░░░░░░░░░░░░░░░░░░░░░░  3.09%
+unknown            42h 44m 46s   ████████████████░░░░░░░░░  62.74%
+Go                 7h 10m 7s     ███░░░░░░░░░░░░░░░░░░░░░░  10.52%
+Markdown           3h 17m 10s    ██░░░░░░░░░░░░░░░░░░░░░░░  4.82%
+C++                2h 21m 48s    █░░░░░░░░░░░░░░░░░░░░░░░░  3.47%
+Nix                1h 59m 0s     █░░░░░░░░░░░░░░░░░░░░░░░░  2.91%
 
 💼 Projects:
-crush              16h 35m 48s   ███████░░░░░░░░░░░░░░░░░░  26.62%
-cedarlogic         12h 34m 30s   ██████░░░░░░░░░░░░░░░░░░░  20.17%
-dots               8h 26m 32s    ████░░░░░░░░░░░░░░░░░░░░░  13.54%
-bcd-minimization   2h 57m 21s    ██░░░░░░░░░░░░░░░░░░░░░░░  4.74%
-test               2h 51m 36s    ██░░░░░░░░░░░░░░░░░░░░░░░  4.59%
+crush              18h 6m 32s    ███████░░░░░░░░░░░░░░░░░░  26.84%
+cedarlogic         12h 34m 30s   █████░░░░░░░░░░░░░░░░░░░░  18.64%
+dots               8h 26m 32s    ████░░░░░░░░░░░░░░░░░░░░░  12.51%
+bcd-minimization   2h 57m 21s    ██░░░░░░░░░░░░░░░░░░░░░░░  4.38%
+codebreaker        2h 52m 27s    ██░░░░░░░░░░░░░░░░░░░░░░░  4.26%
 
-Total: 41 hrs 28 mins
+Total: 43 hrs 50 mins
 ```
 
 #### 📮  Want to say hi?
