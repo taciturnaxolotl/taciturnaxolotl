@@ -4,13 +4,13 @@ When not doing school or working on a random project, I enjoy working on hardwar
 
 #### 🏗️  The latest repos I've pushed to
 
-- [`assassins`](https://github.com/taciturnaxolotl/assassins) - _the ultimate platform for running games of assassin_ **(today)**
-- [`cedarengine`](https://github.com/taciturnaxolotl/cedarengine) - _data_ **(today)**
-- [`dots`](https://github.com/taciturnaxolotl/dots) - _Kieran's opinionated (and ever expanding) nix config_ **(today)**
-- [`crush`](https://github.com/charmbracelet/crush) - _Glamourous agentic coding for all 💘_ **(today)**
-- [`group-me-not`](https://github.com/taciturnaxolotl/group-me-not) - _OSS GroupMe app_ **(6 days ago)**
-- [`cull`](https://github.com/taciturnaxolotl/cull) - _as the title says; culls raw photos_ **(6 days ago)**
-- [`pear`](https://github.com/taciturnaxolotl/pear) - _making recipe websites palatable again_ **(6 days ago)**
+- [`assassins`](https://github.com/taciturnaxolotl/assassins) - _the ultimate platform for running games of assassin_ **(1 day ago)**
+- [`cedarengine`](https://github.com/taciturnaxolotl/cedarengine) - _data_ **(1 day ago)**
+- [`dots`](https://github.com/taciturnaxolotl/dots) - _Kieran's opinionated (and ever expanding) nix config_ **(1 day ago)**
+- [`crush`](https://github.com/charmbracelet/crush) - _Glamourous agentic coding for all 💘_ **(1 day ago)**
+- [`group-me-not`](https://github.com/taciturnaxolotl/group-me-not) - _OSS GroupMe app_ **(1 week ago)**
+- [`cull`](https://github.com/taciturnaxolotl/cull) - _as the title says; culls raw photos_ **(1 week ago)**
+- [`pear`](https://github.com/taciturnaxolotl/pear) - _making recipe websites palatable again_ **(1 week ago)**
 - [`cedarville-people-search-raycast`](https://github.com/taciturnaxolotl/cedarville-people-search-raycast) - _people search with keyboard shortcuts_ **(1 week ago)**
 
 #### 📦  My latest projects
@@ -23,27 +23,27 @@ When not doing school or working on a random project, I enjoy working on hardwar
 #### 🪧  The latest posts from [`dunkirk.sh`](https://dunkirk.sh)
 
 - [`Breaking macOS Screen Time for fun and profit`](https://dunkirk.sh/blog/screentime/) **(1 week ago)**
-- [`The Joy of Hardware`](https://dunkirk.sh/blog/joy-of-hardware/) **(1 month ago)**
+- [`The Joy of Hardware`](https://dunkirk.sh/blog/joy-of-hardware/) **(2 months ago)**
 - [`LLMs are like handwritten notes`](https://dunkirk.sh/blog/llms/) **(2 months ago)**
 
 #### 📡  My [_`hackatime`_](https://waka.hackclub.com) stats from this week
 
 ```text
 💾 Languages:
-unknown            42h 44m 46s   ████████████████░░░░░░░░░  62.74%
-Go                 7h 10m 7s     ███░░░░░░░░░░░░░░░░░░░░░░  10.52%
-Markdown           3h 17m 10s    ██░░░░░░░░░░░░░░░░░░░░░░░  4.82%
-C++                2h 21m 48s    █░░░░░░░░░░░░░░░░░░░░░░░░  3.47%
-Nix                1h 59m 0s     █░░░░░░░░░░░░░░░░░░░░░░░░  2.91%
+unknown       39h 11m 23s   ████████████████░░░░░░░░░  62.17%
+Go            6h 17m 16s    ███░░░░░░░░░░░░░░░░░░░░░░  9.98%
+Markdown      3h 12m 48s    ██░░░░░░░░░░░░░░░░░░░░░░░  5.10%
+C++           2h 26m 18s    █░░░░░░░░░░░░░░░░░░░░░░░░  3.87%
+Nix           1h 53m 13s    █░░░░░░░░░░░░░░░░░░░░░░░░  2.99%
 
 💼 Projects:
-crush              18h 6m 32s    ███████░░░░░░░░░░░░░░░░░░  26.84%
-cedarlogic         12h 34m 30s   █████░░░░░░░░░░░░░░░░░░░░  18.64%
-dots               8h 26m 32s    ████░░░░░░░░░░░░░░░░░░░░░  12.51%
-bcd-minimization   2h 57m 21s    ██░░░░░░░░░░░░░░░░░░░░░░░  4.38%
-codebreaker        2h 52m 27s    ██░░░░░░░░░░░░░░░░░░░░░░░  4.26%
+crush         16h 37m 8s    ███████░░░░░░░░░░░░░░░░░░  26.42%
+cedarlogic    12h 23m 13s   █████░░░░░░░░░░░░░░░░░░░░  19.69%
+dots          8h 13m 34s    ████░░░░░░░░░░░░░░░░░░░░░  13.08%
+codebreaker   3h 48m 42s    ██░░░░░░░░░░░░░░░░░░░░░░░  6.06%
+rpi           3h 19m 4s     ██░░░░░░░░░░░░░░░░░░░░░░░  5.27%
 
-Total: 43 hrs 50 mins
+Total: 40 hrs 13 mins
 ```
 
 #### 📮  Want to say hi?
