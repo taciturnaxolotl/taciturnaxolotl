@@ -4,14 +4,14 @@ When not doing school or working on a random project, I enjoy working on hardwar
 
 #### 🏗️  The latest repos I've pushed to
 
+- [`wasup-chucks`](https://github.com/taciturnaxolotl/wasup-chucks) - _ios widget showing what is available at chucks_ **(today)**
+- [`crush`](https://github.com/charmbracelet/crush) - _Glamourous agentic coding for all 💘_ **(today)**
+- [`dots`](https://github.com/taciturnaxolotl/dots) - _Kieran's opinionated (and ever expanding) nix config_ **(today)**
+- [`ultraviolet`](https://github.com/charmbracelet/ultraviolet) - _Mystical terminal user interface primitives 🌈_ **(today)**
 - [`assassins`](https://github.com/taciturnaxolotl/assassins) - _the ultimate platform for running games of assassin_ **(2 days ago)**
 - [`cedarengine`](https://github.com/taciturnaxolotl/cedarengine) - _data_ **(2 days ago)**
-- [`dots`](https://github.com/taciturnaxolotl/dots) - _Kieran's opinionated (and ever expanding) nix config_ **(2 days ago)**
-- [`crush`](https://github.com/charmbracelet/crush) - _Glamourous agentic coding for all 💘_ **(2 days ago)**
 - [`group-me-not`](https://github.com/taciturnaxolotl/group-me-not) - _OSS GroupMe app_ **(1 week ago)**
 - [`cull`](https://github.com/taciturnaxolotl/cull) - _as the title says; culls raw photos_ **(1 week ago)**
-- [`pear`](https://github.com/taciturnaxolotl/pear) - _making recipe websites palatable again_ **(1 week ago)**
-- [`cedarville-people-search-raycast`](https://github.com/taciturnaxolotl/cedarville-people-search-raycast) - _people search with keyboard shortcuts_ **(1 week ago)**
 
 #### 📦  My latest projects
 
@@ -30,20 +30,20 @@ When not doing school or working on a random project, I enjoy working on hardwar
 
 ```text
 💾 Languages:
-unknown       36h 35m 2s    ████████████████░░░░░░░░░  63.49%
-Go            6h 28m 24s    ███░░░░░░░░░░░░░░░░░░░░░░  11.23%
-Markdown      2h 54m 47s    ██░░░░░░░░░░░░░░░░░░░░░░░  5.06%
-C++           2h 9m 56s     █░░░░░░░░░░░░░░░░░░░░░░░░  3.76%
-Nix           1h 51m 4s     █░░░░░░░░░░░░░░░░░░░░░░░░  3.21%
+unknown       39h 58m 10s   ████████████████░░░░░░░░░  63.36%
+Go            6h 49m 51s    ███░░░░░░░░░░░░░░░░░░░░░░  10.83%
+Markdown      3h 4m 55s     ██░░░░░░░░░░░░░░░░░░░░░░░  4.89%
+Nix           2h 13m 55s    █░░░░░░░░░░░░░░░░░░░░░░░░  3.54%
+C++           2h 9m 56s     █░░░░░░░░░░░░░░░░░░░░░░░░  3.43%
 
 💼 Projects:
-crush         17h 35m 4s    ████████░░░░░░░░░░░░░░░░░  29.28%
-cedarlogic    11h 58m 19s   █████░░░░░░░░░░░░░░░░░░░░  19.94%
-dots          8h 7m 10s     ████░░░░░░░░░░░░░░░░░░░░░  13.52%
-codebreaker   3h 54m 54s    ██░░░░░░░░░░░░░░░░░░░░░░░  6.52%
-rpi           3h 9m 50s     ██░░░░░░░░░░░░░░░░░░░░░░░  5.27%
+crush         18h 22m 0s    ███████░░░░░░░░░░░░░░░░░░  27.94%
+cedarlogic    11h 58m 19s   █████░░░░░░░░░░░░░░░░░░░░  18.21%
+dots          9h 17m 41s    ████░░░░░░░░░░░░░░░░░░░░░  14.14%
+codebreaker   3h 54m 54s    ██░░░░░░░░░░░░░░░░░░░░░░░  5.96%
+rpi           3h 11m 50s    ██░░░░░░░░░░░░░░░░░░░░░░░  4.86%
 
-Total: 37 hrs 28 mins
+Total: 40 hrs 54 mins
 ```
 
 #### 📮  Want to say hi?
