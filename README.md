@@ -30,20 +30,20 @@ When not doing school or working on a random project, I enjoy working on hardwar
 
 ```text
 💾 Languages:
-unknown            34h 15m 41s   ██████████████████░░░░░░░  70.77%
-Go                 4h 41m 20s    ███░░░░░░░░░░░░░░░░░░░░░░  9.68%
-Markdown           2h 12m 25s    ██░░░░░░░░░░░░░░░░░░░░░░░  4.56%
-TypeScript         1h 34m 3s     █░░░░░░░░░░░░░░░░░░░░░░░░  3.24%
-TeX                1h 28m 55s    █░░░░░░░░░░░░░░░░░░░░░░░░  3.06%
+unknown            34h 25m 5s   ██████████████████░░░░░░░  70.76%
+Go                 4h 41m 20s   ███░░░░░░░░░░░░░░░░░░░░░░  9.64%
+Markdown           2h 12m 25s   ██░░░░░░░░░░░░░░░░░░░░░░░  4.54%
+TypeScript         1h 34m 3s    █░░░░░░░░░░░░░░░░░░░░░░░░  3.22%
+TeX                1h 30m 55s   █░░░░░░░░░░░░░░░░░░░░░░░░  3.12%
 
 💼 Projects:
-crush              9h 38m 21s    █████░░░░░░░░░░░░░░░░░░░░  19.43%
-tmp                4h 56m 0s     ███░░░░░░░░░░░░░░░░░░░░░░  9.94%
-codebreaker        3h 54m 54s    ██░░░░░░░░░░░░░░░░░░░░░░░  7.89%
-ultraviolet        3h 53m 3s     ██░░░░░░░░░░░░░░░░░░░░░░░  7.83%
-bcd-minimization   3h 43m 2s     ██░░░░░░░░░░░░░░░░░░░░░░░  7.49%
+crush              9h 38m 21s   █████░░░░░░░░░░░░░░░░░░░░  19.35%
+tmp                4h 56m 0s    ███░░░░░░░░░░░░░░░░░░░░░░  9.90%
+codebreaker        3h 54m 54s   ██░░░░░░░░░░░░░░░░░░░░░░░  7.86%
+ultraviolet        3h 53m 3s    ██░░░░░░░░░░░░░░░░░░░░░░░  7.80%
+bcd-minimization   3h 43m 2s    ██░░░░░░░░░░░░░░░░░░░░░░░  7.46%
 
-Total: 34 hrs 33 mins
+Total: 34 hrs 43 mins
 ```
 
 #### 📮  Want to say hi?
