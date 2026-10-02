@@ -4,14 +4,14 @@ When not doing school or working on a random project, I enjoy working on hardwar
 
 #### 🏗️  The latest repos I've pushed to
 
-- [`crush`](https://github.com/charmbracelet/crush) - _Glamourous agentic coding for all 💘_ **(1 day ago)**
+- [`wish`](https://github.com/charmbracelet/wish) - _Make SSH apps, just like that! 💫_ **(today)**
+- [`group-me-not`](https://github.com/taciturnaxolotl/group-me-not) - _OSS GroupMe app_ **(1 day ago)**
 - [`dots`](https://github.com/taciturnaxolotl/dots) - _Kieran's opinionated (and ever expanding) nix config_ **(1 day ago)**
-- [`fantasy`](https://github.com/charmbracelet/fantasy) - _Build AI agents with Go. Multiple providers, multiple models, one API. 🧙_ **(2 days ago)**
+- [`ennote`](https://github.com/taciturnaxolotl/ennote) - _the best notes app for me_ **(1 day ago)**
+- [`turnout`](https://github.com/df1317/turnout) - _sir says fill out your availability_ **(2 days ago)**
 - [`ultraviolet`](https://github.com/charmbracelet/ultraviolet) - _Mystical terminal user interface primitives 🌈_ **(2 days ago)**
-- [`BotThisSite`](https://github.com/opticaldrive/BotThisSite) - __ **(3 days ago)**
-- [`wasup-chucks`](https://github.com/taciturnaxolotl/wasup-chucks) - _ios widget showing what is available at chucks_ **(3 days ago)**
-- [`cedarengine`](https://github.com/taciturnaxolotl/cedarengine) - _data_ **(5 days ago)**
-- [`assassins`](https://github.com/taciturnaxolotl/assassins) - _the ultimate platform for running games of assassin_ **(5 days ago)**
+- [`the-cedarville-app`](https://github.com/taciturnaxolotl/the-cedarville-app) - _the everything app :D_ **(2 days ago)**
+- [`crush`](https://github.com/charmbracelet/crush) - _Glamourous agentic coding for all 💘_ **(3 days ago)**
 
 #### 📦  My latest projects
 
@@ -30,20 +30,20 @@ When not doing school or working on a random project, I enjoy working on hardwar
 
 ```text
 💾 Languages:
-unknown            33h 11m 30s   ██████████████████░░░░░░░  69.83%
-Go                 4h 25m 42s    ███░░░░░░░░░░░░░░░░░░░░░░  9.32%
-Markdown           2h 3m 39s     ██░░░░░░░░░░░░░░░░░░░░░░░  4.34%
-TeX                1h 44m 55s    █░░░░░░░░░░░░░░░░░░░░░░░░  3.68%
-TypeScript         1h 21m 11s    █░░░░░░░░░░░░░░░░░░░░░░░░  2.85%
+unknown            34h 15m 41s   ██████████████████░░░░░░░  70.77%
+Go                 4h 41m 20s    ███░░░░░░░░░░░░░░░░░░░░░░  9.68%
+Markdown           2h 12m 25s    ██░░░░░░░░░░░░░░░░░░░░░░░  4.56%
+TypeScript         1h 34m 3s     █░░░░░░░░░░░░░░░░░░░░░░░░  3.24%
+TeX                1h 28m 55s    █░░░░░░░░░░░░░░░░░░░░░░░░  3.06%
 
 💼 Projects:
-crush              11h 7m 18s    ██████░░░░░░░░░░░░░░░░░░░  22.60%
-bcd-minimization   4h 20m 10s    ███░░░░░░░░░░░░░░░░░░░░░░  8.81%
-codebreaker        3h 54m 54s    ██░░░░░░░░░░░░░░░░░░░░░░░  7.96%
-tmp                3h 47m 55s    ██░░░░░░░░░░░░░░░░░░░░░░░  7.72%
-cedarlogic         3h 26m 46s    ██░░░░░░░░░░░░░░░░░░░░░░░  7.00%
+crush              9h 38m 21s    █████░░░░░░░░░░░░░░░░░░░░  19.43%
+tmp                4h 56m 0s     ███░░░░░░░░░░░░░░░░░░░░░░  9.94%
+codebreaker        3h 54m 54s    ██░░░░░░░░░░░░░░░░░░░░░░░  7.89%
+ultraviolet        3h 53m 3s     ██░░░░░░░░░░░░░░░░░░░░░░░  7.83%
+bcd-minimization   3h 43m 2s     ██░░░░░░░░░░░░░░░░░░░░░░░  7.49%
 
-Total: 33 hrs 30 mins
+Total: 34 hrs 33 mins
 ```
 
 #### 📮  Want to say hi?
