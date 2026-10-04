@@ -4,14 +4,14 @@ When not doing school or working on a random project, I enjoy working on hardwar
 
 #### 🏗️  The latest repos I've pushed to
 
-- [`wish`](https://github.com/charmbracelet/wish) - _Make SSH apps, just like that! 💫_ **(1 day ago)**
-- [`group-me-not`](https://github.com/taciturnaxolotl/group-me-not) - _OSS GroupMe app_ **(2 days ago)**
-- [`dots`](https://github.com/taciturnaxolotl/dots) - _Kieran's opinionated (and ever expanding) nix config_ **(2 days ago)**
-- [`ennote`](https://github.com/taciturnaxolotl/ennote) - _the best notes app for me_ **(2 days ago)**
-- [`turnout`](https://github.com/df1317/turnout) - _sir says fill out your availability_ **(3 days ago)**
-- [`ultraviolet`](https://github.com/charmbracelet/ultraviolet) - _Mystical terminal user interface primitives 🌈_ **(3 days ago)**
-- [`the-cedarville-app`](https://github.com/taciturnaxolotl/the-cedarville-app) - _the everything app :D_ **(3 days ago)**
-- [`crush`](https://github.com/charmbracelet/crush) - _Glamourous agentic coding for all 💘_ **(4 days ago)**
+- [`crush`](https://github.com/charmbracelet/crush) - _Glamourous agentic coding for all 💘_ **(1 day ago)**
+- [`wish`](https://github.com/charmbracelet/wish) - _Make SSH apps, just like that! 💫_ **(2 days ago)**
+- [`group-me-not`](https://github.com/taciturnaxolotl/group-me-not) - _OSS GroupMe app_ **(3 days ago)**
+- [`dots`](https://github.com/taciturnaxolotl/dots) - _Kieran's opinionated (and ever expanding) nix config_ **(3 days ago)**
+- [`ennote`](https://github.com/taciturnaxolotl/ennote) - _the best notes app for me_ **(3 days ago)**
+- [`the-cedarville-app`](https://github.com/taciturnaxolotl/the-cedarville-app) - _the everything app :D_ **(4 days ago)**
+- [`ultraviolet`](https://github.com/charmbracelet/ultraviolet) - _Mystical terminal user interface primitives 🌈_ **(4 days ago)**
+- [`turnout`](https://github.com/df1317/turnout) - _sir says fill out your availability_ **(4 days ago)**
 
 #### 📦  My latest projects
 
@@ -30,20 +30,20 @@ When not doing school or working on a random project, I enjoy working on hardwar
 
 ```text
 💾 Languages:
-unknown            31h 37m 48s   ██████████████████░░░░░░░  71.26%
-Go                 4h 0m 18s     ███░░░░░░░░░░░░░░░░░░░░░░  9.02%
-Markdown           1h 55m 11s    ██░░░░░░░░░░░░░░░░░░░░░░░  4.32%
-TeX                1h 30m 55s    █░░░░░░░░░░░░░░░░░░░░░░░░  3.41%
-TypeScript         1h 26m 9s     █░░░░░░░░░░░░░░░░░░░░░░░░  3.23%
+unknown            39h 17m 40s   ██████████████████░░░░░░░  71.64%
+Go                 4h 10m 23s    ██░░░░░░░░░░░░░░░░░░░░░░░  7.61%
+Markdown           2h 56m 5s     ██░░░░░░░░░░░░░░░░░░░░░░░  5.35%
+TeX                1h 30m 55s    █░░░░░░░░░░░░░░░░░░░░░░░░  2.76%
+TypeScript         1h 26m 9s     █░░░░░░░░░░░░░░░░░░░░░░░░  2.62%
 
 💼 Projects:
-crush              7h 47m 28s    █████░░░░░░░░░░░░░░░░░░░░  17.78%
-tmp                4h 56m 0s     ███░░░░░░░░░░░░░░░░░░░░░░  11.26%
-ultraviolet        3h 53m 3s     ███░░░░░░░░░░░░░░░░░░░░░░  8.87%
-bcd-minimization   3h 43m 2s     ███░░░░░░░░░░░░░░░░░░░░░░  8.48%
-rpi                3h 11m 50s    ██░░░░░░░░░░░░░░░░░░░░░░░  7.30%
+crush              8h 21m 48s    ████░░░░░░░░░░░░░░░░░░░░░  15.42%
+cdtf-2026          5h 51m 27s    ███░░░░░░░░░░░░░░░░░░░░░░  10.80%
+tmp                4h 58m 4s     ███░░░░░░░░░░░░░░░░░░░░░░  9.16%
+ultraviolet        3h 55m 10s    ██░░░░░░░░░░░░░░░░░░░░░░░  7.23%
+bcd-minimization   3h 43m 2s     ██░░░░░░░░░░░░░░░░░░░░░░░  6.85%
 
-Total: 31 hrs 58 mins
+Total: 40 hrs 2 mins
 ```
 
 #### 📮  Want to say hi?
