@@ -4,14 +4,14 @@ When not doing school or working on a random project, I enjoy working on hardwar
 
 #### 🏗️  The latest repos I've pushed to
 
-- [`crush`](https://github.com/charmbracelet/crush) - _Glamourous agentic coding for all 💘_ **(1 day ago)**
-- [`wish`](https://github.com/charmbracelet/wish) - _Make SSH apps, just like that! 💫_ **(2 days ago)**
-- [`group-me-not`](https://github.com/taciturnaxolotl/group-me-not) - _OSS GroupMe app_ **(3 days ago)**
-- [`dots`](https://github.com/taciturnaxolotl/dots) - _Kieran's opinionated (and ever expanding) nix config_ **(3 days ago)**
-- [`ennote`](https://github.com/taciturnaxolotl/ennote) - _the best notes app for me_ **(3 days ago)**
-- [`the-cedarville-app`](https://github.com/taciturnaxolotl/the-cedarville-app) - _the everything app :D_ **(4 days ago)**
-- [`ultraviolet`](https://github.com/charmbracelet/ultraviolet) - _Mystical terminal user interface primitives 🌈_ **(4 days ago)**
-- [`turnout`](https://github.com/df1317/turnout) - _sir says fill out your availability_ **(4 days ago)**
+- [`crush`](https://github.com/charmbracelet/crush) - _Glamourous agentic coding for all 💘_ **(today)**
+- [`pirateship-api`](https://github.com/taciturnaxolotl/pirateship-api) - _the pirateship api - typed_ **(1 day ago)**
+- [`dots`](https://github.com/taciturnaxolotl/dots) - _Kieran's opinionated (and ever expanding) nix config_ **(1 day ago)**
+- [`prickly`](https://github.com/taciturnaxolotl/prickly) - _browser use! but slightly less prickly_ **(1 day ago)**
+- [`the-cedarville-app`](https://github.com/taciturnaxolotl/the-cedarville-app) - _the everything app :D_ **(1 day ago)**
+- [`turnout`](https://github.com/df1317/turnout) - _sir says fill out your availability_ **(1 day ago)**
+- [`cv`](https://github.com/taciturnaxolotl/cv) - _my cv powered by latex_ **(1 day ago)**
+- [`soft-serve`](https://github.com/charmbracelet/soft-serve) - _The mighty, self-hostable Git server for the command line🍦_ **(3 days ago)**
 
 #### 📦  My latest projects
 
@@ -22,7 +22,7 @@ When not doing school or working on a random project, I enjoy working on hardwar
 
 #### 🪧  The latest posts from [`dunkirk.sh`](https://dunkirk.sh)
 
-- [`Breaking macOS Screen Time for fun and profit`](https://dunkirk.sh/blog/screentime/) **(2 weeks ago)**
+- [`Breaking macOS Screen Time for fun and profit`](https://dunkirk.sh/blog/screentime/) **(3 weeks ago)**
 - [`The Joy of Hardware`](https://dunkirk.sh/blog/joy-of-hardware/) **(2 months ago)**
 - [`LLMs are like handwritten notes`](https://dunkirk.sh/blog/llms/) **(2 months ago)**
 
@@ -30,20 +30,20 @@ When not doing school or working on a random project, I enjoy working on hardwar
 
 ```text
 💾 Languages:
-unknown            33h 16m 58s   ██████████████████░░░░░░░  70.47%
-Go                 3h 7m 40s     ██░░░░░░░░░░░░░░░░░░░░░░░  6.62%
-Markdown           2h 47m 13s    ██░░░░░░░░░░░░░░░░░░░░░░░  5.90%
-TeX                1h 30m 55s    █░░░░░░░░░░░░░░░░░░░░░░░░  3.21%
-TypeScript         1h 26m 9s     █░░░░░░░░░░░░░░░░░░░░░░░░  3.04%
+unknown       33h 33m 14s   ██████████████████░░░░░░░  70.88%
+Markdown      3h 31m 59s    ██░░░░░░░░░░░░░░░░░░░░░░░  7.46%
+Go            2h 56m 8s     ██░░░░░░░░░░░░░░░░░░░░░░░  6.20%
+TypeScript    1h 46m 51s    █░░░░░░░░░░░░░░░░░░░░░░░░  3.76%
+Shell         1h 4m 46s     █░░░░░░░░░░░░░░░░░░░░░░░░  2.28%
 
 💼 Projects:
-cdtf-2026          6h 2m 17s     ████░░░░░░░░░░░░░░░░░░░░░  13.36%
-crush              5h 30m 14s    ████░░░░░░░░░░░░░░░░░░░░░  12.18%
-tmp                4h 58m 4s     ███░░░░░░░░░░░░░░░░░░░░░░  11.00%
-bcd-minimization   3h 43m 2s     ███░░░░░░░░░░░░░░░░░░░░░░  8.23%
-ultraviolet        3h 0m 29s     ██░░░░░░░░░░░░░░░░░░░░░░░  6.66%
+crush         6h 31m 28s    ████░░░░░░░░░░░░░░░░░░░░░  13.23%
+cdtf-2026     6h 2m 17s     ████░░░░░░░░░░░░░░░░░░░░░  12.24%
+tmp           4h 29m 34s    ███░░░░░░░░░░░░░░░░░░░░░░  9.11%
+hyper         3h 18m 29s    ██░░░░░░░░░░░░░░░░░░░░░░░  6.71%
+CarComputer   3h 17m 1s     ██░░░░░░░░░░░░░░░░░░░░░░░  6.66%
 
-Total: 34 hrs 1 mins
+Total: 34 hrs 15 mins
 ```
 
 #### 📮  Want to say hi?
