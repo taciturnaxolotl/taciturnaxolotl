@@ -4,14 +4,14 @@ When not doing school or working on a random project, I enjoy working on hardwar
 
 #### 🏗️  The latest repos I've pushed to
 
-- [`crush`](https://github.com/charmbracelet/crush) - _Glamourous agentic coding for all 💘_ **(1 day ago)**
-- [`prickly`](https://github.com/taciturnaxolotl/prickly) - _browser use! but slightly less prickly_ **(1 day ago)**
-- [`fantasy`](https://github.com/charmbracelet/fantasy) - _Build AI agents with Go. Multiple providers, multiple models, one API. 🧙_ **(1 day ago)**
-- [`turnout`](https://github.com/df1317/turnout) - _sir says fill out your availability_ **(2 days ago)**
-- [`pirateship-api`](https://github.com/taciturnaxolotl/pirateship-api) - _the pirateship api - typed_ **(2 days ago)**
-- [`dots`](https://github.com/taciturnaxolotl/dots) - _Kieran's opinionated (and ever expanding) nix config_ **(2 days ago)**
-- [`cv`](https://github.com/taciturnaxolotl/cv) - _my cv powered by latex_ **(2 days ago)**
-- [`the-cedarville-app`](https://github.com/taciturnaxolotl/the-cedarville-app) - _the everything app :D_ **(2 days ago)**
+- [`dots`](https://github.com/taciturnaxolotl/dots) - _Kieran's opinionated (and ever expanding) nix config_ **(1 day ago)**
+- [`the-cedarville-app`](https://github.com/taciturnaxolotl/the-cedarville-app) - _the everything app :D_ **(1 day ago)**
+- [`fantasy`](https://github.com/charmbracelet/fantasy) - _Build AI agents with Go. Multiple providers, multiple models, one API. 🧙_ **(2 days ago)**
+- [`prickly`](https://github.com/taciturnaxolotl/prickly) - _browser use! but slightly less prickly_ **(2 days ago)**
+- [`crush`](https://github.com/charmbracelet/crush) - _Glamourous agentic coding for all 💘_ **(2 days ago)**
+- [`turnout`](https://github.com/df1317/turnout) - _sir says fill out your availability_ **(3 days ago)**
+- [`pirateship-api`](https://github.com/taciturnaxolotl/pirateship-api) - _the pirateship api - typed_ **(3 days ago)**
+- [`cv`](https://github.com/taciturnaxolotl/cv) - _my cv powered by latex_ **(3 days ago)**
 
 #### 📦  My latest projects
 
@@ -30,20 +30,20 @@ When not doing school or working on a random project, I enjoy working on hardwar
 
 ```text
 💾 Languages:
-unknown       32h 23m 15s   ██████████████████░░░░░░░  70.48%
-Markdown      3h 36m 44s    ██░░░░░░░░░░░░░░░░░░░░░░░  7.86%
-Go            2h 43m 54s    ██░░░░░░░░░░░░░░░░░░░░░░░  5.94%
-TypeScript    2h 29m 6s     ██░░░░░░░░░░░░░░░░░░░░░░░  5.41%
-Shell         1h 4m 46s     █░░░░░░░░░░░░░░░░░░░░░░░░  2.35%
+unknown              31h 35m 38s   ██████████████████░░░░░░░  71.63%
+Markdown             3h 15m 52s    ██░░░░░░░░░░░░░░░░░░░░░░░  7.40%
+Go                   2h 9m 13s     ██░░░░░░░░░░░░░░░░░░░░░░░  4.88%
+TypeScript           2h 3m 13s     ██░░░░░░░░░░░░░░░░░░░░░░░  4.66%
+Shell                1h 4m 46s     █░░░░░░░░░░░░░░░░░░░░░░░░  2.45%
 
 💼 Projects:
-crush         6h 12m 41s    ████░░░░░░░░░░░░░░░░░░░░░  13.29%
-cdtf-2026     6h 2m 17s     ████░░░░░░░░░░░░░░░░░░░░░  12.92%
-hyper         3h 22m 29s    ██░░░░░░░░░░░░░░░░░░░░░░░  7.22%
-CarComputer   3h 17m 1s     ██░░░░░░░░░░░░░░░░░░░░░░░  7.02%
-test          3h 11m 1s     ██░░░░░░░░░░░░░░░░░░░░░░░  6.81%
+cdtf-2026            6h 2m 17s     ████░░░░░░░░░░░░░░░░░░░░░  13.10%
+crush                5h 42m 17s    ████░░░░░░░░░░░░░░░░░░░░░  12.37%
+the-cedarville-app   3h 45m 28s    ███░░░░░░░░░░░░░░░░░░░░░░  8.15%
+test                 3h 30m 41s    ██░░░░░░░░░░░░░░░░░░░░░░░  7.62%
+CarComputer          3h 17m 1s     ██░░░░░░░░░░░░░░░░░░░░░░░  7.12%
 
-Total: 33 hrs 12 mins
+Total: 32 hrs 27 mins
 ```
 
 #### 📮  Want to say hi?
