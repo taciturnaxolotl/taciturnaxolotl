@@ -4,14 +4,14 @@ When not doing school or working on a random project, I enjoy working on hardwar
 
 #### 🏗️  The latest repos I've pushed to
 
-- [`ennote`](https://github.com/taciturnaxolotl/ennote) - _the best notes app for me_ **(1 day ago)**
-- [`dots`](https://github.com/taciturnaxolotl/dots) - _Kieran's opinionated (and ever expanding) nix config_ **(3 days ago)**
-- [`the-cedarville-app`](https://github.com/taciturnaxolotl/the-cedarville-app) - _the everything app :D_ **(3 days ago)**
-- [`fantasy`](https://github.com/charmbracelet/fantasy) - _Build AI agents with Go. Multiple providers, multiple models, one API. 🧙_ **(4 days ago)**
-- [`crush`](https://github.com/charmbracelet/crush) - _Glamourous agentic coding for all 💘_ **(4 days ago)**
-- [`prickly`](https://github.com/taciturnaxolotl/prickly) - _browser use! but slightly less prickly_ **(4 days ago)**
-- [`turnout`](https://github.com/df1317/turnout) - _sir says fill out your availability_ **(5 days ago)**
-- [`pirateship-api`](https://github.com/taciturnaxolotl/pirateship-api) - _the pirateship api - typed_ **(5 days ago)**
+- [`ennote`](https://github.com/taciturnaxolotl/ennote) - _the best notes app for me_ **(2 days ago)**
+- [`dots`](https://github.com/taciturnaxolotl/dots) - _Kieran's opinionated (and ever expanding) nix config_ **(4 days ago)**
+- [`the-cedarville-app`](https://github.com/taciturnaxolotl/the-cedarville-app) - _the everything app :D_ **(4 days ago)**
+- [`fantasy`](https://github.com/charmbracelet/fantasy) - _Build AI agents with Go. Multiple providers, multiple models, one API. 🧙_ **(5 days ago)**
+- [`crush`](https://github.com/charmbracelet/crush) - _Glamourous agentic coding for all 💘_ **(5 days ago)**
+- [`prickly`](https://github.com/taciturnaxolotl/prickly) - _browser use! but slightly less prickly_ **(5 days ago)**
+- [`turnout`](https://github.com/df1317/turnout) - _sir says fill out your availability_ **(6 days ago)**
+- [`pirateship-api`](https://github.com/taciturnaxolotl/pirateship-api) - _the pirateship api - typed_ **(6 days ago)**
 
 #### 📦  My latest projects
 
