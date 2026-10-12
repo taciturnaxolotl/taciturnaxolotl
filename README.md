@@ -4,14 +4,14 @@ When not doing school or working on a random project, I enjoy working on hardwar
 
 #### 🏗️  The latest repos I've pushed to
 
-- [`ennote`](https://github.com/taciturnaxolotl/ennote) - _the best notes app for me_ **(2 days ago)**
-- [`dots`](https://github.com/taciturnaxolotl/dots) - _Kieran's opinionated (and ever expanding) nix config_ **(4 days ago)**
-- [`the-cedarville-app`](https://github.com/taciturnaxolotl/the-cedarville-app) - _the everything app :D_ **(4 days ago)**
-- [`fantasy`](https://github.com/charmbracelet/fantasy) - _Build AI agents with Go. Multiple providers, multiple models, one API. 🧙_ **(5 days ago)**
-- [`crush`](https://github.com/charmbracelet/crush) - _Glamourous agentic coding for all 💘_ **(5 days ago)**
-- [`prickly`](https://github.com/taciturnaxolotl/prickly) - _browser use! but slightly less prickly_ **(5 days ago)**
-- [`turnout`](https://github.com/df1317/turnout) - _sir says fill out your availability_ **(6 days ago)**
-- [`pirateship-api`](https://github.com/taciturnaxolotl/pirateship-api) - _the pirateship api - typed_ **(6 days ago)**
+- [`dots`](https://github.com/taciturnaxolotl/dots) - _Kieran's opinionated (and ever expanding) nix config_ **(1 day ago)**
+- [`ennote`](https://github.com/taciturnaxolotl/ennote) - _the best notes app for me_ **(3 days ago)**
+- [`the-cedarville-app`](https://github.com/taciturnaxolotl/the-cedarville-app) - _the everything app :D_ **(5 days ago)**
+- [`crush`](https://github.com/charmbracelet/crush) - _Glamourous agentic coding for all 💘_ **(6 days ago)**
+- [`prickly`](https://github.com/taciturnaxolotl/prickly) - _browser use! but slightly less prickly_ **(6 days ago)**
+- [`fantasy`](https://github.com/charmbracelet/fantasy) - _Build AI agents with Go. Multiple providers, multiple models, one API. 🧙_ **(6 days ago)**
+- [`cv`](https://github.com/taciturnaxolotl/cv) - _my cv powered by latex_ **(1 week ago)**
+- [`pirateship-api`](https://github.com/taciturnaxolotl/pirateship-api) - _the pirateship api - typed_ **(1 week ago)**
 
 #### 📦  My latest projects
 
@@ -22,7 +22,7 @@ When not doing school or working on a random project, I enjoy working on hardwar
 
 #### 🪧  The latest posts from [`dunkirk.sh`](https://dunkirk.sh)
 
-- [`Breaking macOS Screen Time for fun and profit`](https://dunkirk.sh/blog/screentime/) **(3 weeks ago)**
+- [`Breaking macOS Screen Time for fun and profit`](https://dunkirk.sh/blog/screentime/) **(4 weeks ago)**
 - [`The Joy of Hardware`](https://dunkirk.sh/blog/joy-of-hardware/) **(2 months ago)**
 - [`LLMs are like handwritten notes`](https://dunkirk.sh/blog/llms/) **(2 months ago)**
 
@@ -30,20 +30,20 @@ When not doing school or working on a random project, I enjoy working on hardwar
 
 ```text
 💾 Languages:
-unknown              22h 30m 59s   ██████████████████░░░░░░░  68.60%
-Markdown             2h 37m 52s    ███░░░░░░░░░░░░░░░░░░░░░░  8.02%
-Go                   1h 57m 53s    ██░░░░░░░░░░░░░░░░░░░░░░░  5.99%
-TypeScript           1h 46m 49s    ██░░░░░░░░░░░░░░░░░░░░░░░  5.42%
-Shell                49m 9s        █░░░░░░░░░░░░░░░░░░░░░░░░  2.50%
+unknown              23h 3m 20s   ██████████████████░░░░░░░  68.37%
+Markdown             2h 38m 27s   ██░░░░░░░░░░░░░░░░░░░░░░░  7.83%
+Go                   1h 57m 53s   ██░░░░░░░░░░░░░░░░░░░░░░░  5.83%
+TypeScript           1h 46m 49s   ██░░░░░░░░░░░░░░░░░░░░░░░  5.28%
+Shell                55m 37s      █░░░░░░░░░░░░░░░░░░░░░░░░  2.75%
 
 💼 Projects:
-crush                6h 6m 21s     █████░░░░░░░░░░░░░░░░░░░░  17.86%
-the-cedarville-app   3h 45m 28s    ███░░░░░░░░░░░░░░░░░░░░░░  10.99%
-test                 3h 36m 28s    ███░░░░░░░░░░░░░░░░░░░░░░  10.55%
-hyper                2h 35m 33s    ██░░░░░░░░░░░░░░░░░░░░░░░  7.58%
-CarComputer          2h 33m 17s    ██░░░░░░░░░░░░░░░░░░░░░░░  7.47%
+crush                6h 6m 21s    █████░░░░░░░░░░░░░░░░░░░░  17.46%
+the-cedarville-app   3h 45m 28s   ███░░░░░░░░░░░░░░░░░░░░░░  10.75%
+test                 3h 40m 45s   ███░░░░░░░░░░░░░░░░░░░░░░  10.52%
+CarComputer          2h 43m 14s   ██░░░░░░░░░░░░░░░░░░░░░░░  7.78%
+hyper                2h 39m 52s   ██░░░░░░░░░░░░░░░░░░░░░░░  7.62%
 
-Total: 22 hrs 58 mins
+Total: 23 hrs 31 mins
 ```
 
 #### 📮  Want to say hi?
