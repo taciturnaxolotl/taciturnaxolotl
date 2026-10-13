@@ -4,14 +4,14 @@ When not doing school or working on a random project, I enjoy working on hardwar
 
 #### 🏗️  The latest repos I've pushed to
 
+- [`civil-war`](https://github.com/taciturnaxolotl/civil-war) - _civil warrrrr_ **(today)**
 - [`unowheel`](https://github.com/taciturnaxolotl/unowheel) - _onewheel ios app_ **(1 day ago)**
-- [`civil-war`](https://github.com/taciturnaxolotl/civil-war) - _civil warrrrr_ **(1 day ago)**
 - [`dots`](https://github.com/taciturnaxolotl/dots) - _Kieran's opinionated (and ever expanding) nix config_ **(2 days ago)**
 - [`ennote`](https://github.com/taciturnaxolotl/ennote) - _the best notes app for me_ **(4 days ago)**
 - [`the-cedarville-app`](https://github.com/taciturnaxolotl/the-cedarville-app) - _the everything app :D_ **(6 days ago)**
-- [`prickly`](https://github.com/taciturnaxolotl/prickly) - _browser use! but slightly less prickly_ **(1 week ago)**
 - [`crush`](https://github.com/charmbracelet/crush) - _Glamourous agentic coding for all 💘_ **(1 week ago)**
 - [`fantasy`](https://github.com/charmbracelet/fantasy) - _Build AI agents with Go. Multiple providers, multiple models, one API. 🧙_ **(1 week ago)**
+- [`prickly`](https://github.com/taciturnaxolotl/prickly) - _browser use! but slightly less prickly_ **(1 week ago)**
 
 #### 📦  My latest projects
 
@@ -30,20 +30,20 @@ When not doing school or working on a random project, I enjoy working on hardwar
 
 ```text
 💾 Languages:
-unknown              18h 48m 37s   ██████████████████░░░░░░░  69.18%
-Markdown             1h 59m 15s    ██░░░░░░░░░░░░░░░░░░░░░░░  7.31%
-Go                   1h 36m 1s     ██░░░░░░░░░░░░░░░░░░░░░░░  5.89%
-TypeScript           1h 8m 33s     ██░░░░░░░░░░░░░░░░░░░░░░░  4.20%
-Swift                54m 11s       █░░░░░░░░░░░░░░░░░░░░░░░░  3.32%
+unknown              19h 19m 15s   ██████████████████░░░░░░░  68.98%
+Markdown             1h 59m 15s    ██░░░░░░░░░░░░░░░░░░░░░░░  7.10%
+Go                   1h 36m 1s     ██░░░░░░░░░░░░░░░░░░░░░░░  5.71%
+TypeScript           1h 8m 33s     ██░░░░░░░░░░░░░░░░░░░░░░░  4.08%
+Swift                1h 8m 33s     ██░░░░░░░░░░░░░░░░░░░░░░░  4.08%
 
 💼 Projects:
-crush                4h 19m 14s    █████░░░░░░░░░░░░░░░░░░░░  16.58%
-the-cedarville-app   3h 13m 24s    ████░░░░░░░░░░░░░░░░░░░░░  12.37%
-unowheel             2h 0m 28s     ██░░░░░░░░░░░░░░░░░░░░░░░  7.70%
-codebreaker          1h 56m 32s    ██░░░░░░░░░░░░░░░░░░░░░░░  7.45%
-hyper                1h 52m 45s    ██░░░░░░░░░░░░░░░░░░░░░░░  7.21%
+crush                4h 19m 14s    █████░░░░░░░░░░░░░░░░░░░░  16.06%
+the-cedarville-app   3h 15m 24s    ████░░░░░░░░░░░░░░░░░░░░░  12.11%
+unowheel             2h 0m 28s     ██░░░░░░░░░░░░░░░░░░░░░░░  7.46%
+codebreaker          1h 56m 32s    ██░░░░░░░░░░░░░░░░░░░░░░░  7.22%
+hyper                1h 52m 45s    ██░░░░░░░░░░░░░░░░░░░░░░░  6.99%
 
-Total: 19 hrs 16 mins
+Total: 19 hrs 48 mins
 ```
 
 #### 📮  Want to say hi?
