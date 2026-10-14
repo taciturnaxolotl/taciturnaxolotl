@@ -5,10 +5,10 @@ When not doing school or working on a random project, I enjoy working on hardwar
 #### 🏗️  The latest repos I've pushed to
 
 - [`crush`](https://github.com/charmbracelet/crush) - _Glamourous agentic coding for all 💘_ **(today)**
-- [`fantasy`](https://github.com/charmbracelet/fantasy) - _Build AI agents with Go. Multiple providers, multiple models, one API. 🧙_ **(1 day ago)**
 - [`unowheel`](https://github.com/taciturnaxolotl/unowheel) - _onewheel ios app_ **(1 day ago)**
 - [`civil-war`](https://github.com/taciturnaxolotl/civil-war) - _civil warrrrr_ **(1 day ago)**
 - [`group-me-not`](https://github.com/taciturnaxolotl/group-me-not) - _OSS GroupMe app_ **(1 day ago)**
+- [`fantasy`](https://github.com/charmbracelet/fantasy) - _Build AI agents with Go. Multiple providers, multiple models, one API. 🧙_ **(1 day ago)**
 - [`dots`](https://github.com/taciturnaxolotl/dots) - _Kieran's opinionated (and ever expanding) nix config_ **(3 days ago)**
 - [`ennote`](https://github.com/taciturnaxolotl/ennote) - _the best notes app for me_ **(5 days ago)**
 - [`the-cedarville-app`](https://github.com/taciturnaxolotl/the-cedarville-app) - _the everything app :D_ **(1 week ago)**
@@ -30,20 +30,20 @@ When not doing school or working on a random project, I enjoy working on hardwar
 
 ```text
 💾 Languages:
-unknown              17h 17m 17s   ██████████████████░░░░░░░  70.70%
-Markdown             1h 41m 42s    ██░░░░░░░░░░░░░░░░░░░░░░░  6.93%
-Swift                1h 28m 14s    ██░░░░░░░░░░░░░░░░░░░░░░░  6.01%
-Go                   57m 34s       █░░░░░░░░░░░░░░░░░░░░░░░░  3.92%
-C++                  35m 6s        █░░░░░░░░░░░░░░░░░░░░░░░░  2.39%
+unknown              17h 37m 52s   ██████████████████░░░░░░░  70.92%
+Markdown             1h 41m 42s    ██░░░░░░░░░░░░░░░░░░░░░░░  6.82%
+Swift                1h 28m 14s    ██░░░░░░░░░░░░░░░░░░░░░░░  5.92%
+Go                   1h 1m 34s     ██░░░░░░░░░░░░░░░░░░░░░░░  4.13%
+C++                  35m 6s        █░░░░░░░░░░░░░░░░░░░░░░░░  2.35%
 
 💼 Projects:
-unowheel             3h 8m 10s     ████░░░░░░░░░░░░░░░░░░░░░  14.43%
-crush                3h 1m 11s     ████░░░░░░░░░░░░░░░░░░░░░  13.90%
-the-cedarville-app   2h 31m 46s    ███░░░░░░░░░░░░░░░░░░░░░░  11.64%
-hyper                1h 50m 49s    ███░░░░░░░░░░░░░░░░░░░░░░  8.50%
-dots                 1h 39m 1s     ██░░░░░░░░░░░░░░░░░░░░░░░  7.59%
+crush                3h 16m 42s    ████░░░░░░░░░░░░░░░░░░░░░  14.84%
+unowheel             3h 8m 10s     ████░░░░░░░░░░░░░░░░░░░░░  14.20%
+the-cedarville-app   2h 31m 46s    ███░░░░░░░░░░░░░░░░░░░░░░  11.45%
+hyper                1h 50m 49s    ███░░░░░░░░░░░░░░░░░░░░░░  8.36%
+dots                 1h 39m 1s     ██░░░░░░░░░░░░░░░░░░░░░░░  7.47%
 
-Total: 17 hrs 41 mins
+Total: 18 hrs 2 mins
 ```
 
 #### 📮  Want to say hi?
