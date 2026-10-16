@@ -4,8 +4,8 @@ When not doing school or working on a random project, I enjoy working on hardwar
 
 #### 🏗️  The latest repos I've pushed to
 
-- [`crush`](https://github.com/charmbracelet/crush) - _Glamourous agentic coding for all 💘_ **(1 day ago)**
-- [`the-cedarville-app`](https://github.com/taciturnaxolotl/the-cedarville-app) - _the everything app :D_ **(2 days ago)**
+- [`the-cedarville-app`](https://github.com/taciturnaxolotl/the-cedarville-app) - _the everything app :D_ **(today)**
+- [`crush`](https://github.com/charmbracelet/crush) - _Glamourous agentic coding for all 💘_ **(today)**
 - [`fantasy`](https://github.com/charmbracelet/fantasy) - _Build AI agents with Go. Multiple providers, multiple models, one API. 🧙_ **(3 days ago)**
 - [`group-me-not`](https://github.com/taciturnaxolotl/group-me-not) - _OSS GroupMe app_ **(3 days ago)**
 - [`civil-war`](https://github.com/taciturnaxolotl/civil-war) - _civil warrrrr_ **(3 days ago)**
@@ -30,20 +30,20 @@ When not doing school or working on a random project, I enjoy working on hardwar
 
 ```text
 💾 Languages:
-unknown        12h 3m 41s   ██████████████████░░░░░░░  69.21%
-Swift          1h 28m 14s   ███░░░░░░░░░░░░░░░░░░░░░░  8.44%
-Markdown       1h 12m 51s   ██░░░░░░░░░░░░░░░░░░░░░░░  6.97%
-Go             39m 49s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.81%
-Shell          29m 24s      █░░░░░░░░░░░░░░░░░░░░░░░░  2.81%
+unknown       13h 33m 10s   ██████████████████░░░░░░░  70.00%
+Swift         1h 28m 14s    ██░░░░░░░░░░░░░░░░░░░░░░░  7.60%
+Markdown      1h 22m 51s    ██░░░░░░░░░░░░░░░░░░░░░░░  7.13%
+Go            51m 23s       ██░░░░░░░░░░░░░░░░░░░░░░░  4.42%
+Shell         29m 24s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.53%
 
 💼 Projects:
-unowheel       3h 8m 10s    ██████░░░░░░░░░░░░░░░░░░░  21.48%
-crush          2h 27m 6s    █████░░░░░░░░░░░░░░░░░░░░  16.79%
-civil-war      1h 20m 35s   ███░░░░░░░░░░░░░░░░░░░░░░  9.20%
-CarComputer    59m 52s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.83%
-group-me-not   53m 39s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.12%
+crush         3h 29m 54s    ██████░░░░░░░░░░░░░░░░░░░  20.91%
+unowheel      3h 8m 10s     █████░░░░░░░░░░░░░░░░░░░░  18.74%
+civil-war     1h 20m 35s    ███░░░░░░░░░░░░░░░░░░░░░░  8.03%
+dots          1h 8m 25s     ██░░░░░░░░░░░░░░░░░░░░░░░  6.81%
+CarComputer   1h 3m 52s     ██░░░░░░░░░░░░░░░░░░░░░░░  6.36%
 
-Total: 12 hrs 11 mins
+Total: 13 hrs 41 mins
 ```
 
 #### 📮  Want to say hi?
