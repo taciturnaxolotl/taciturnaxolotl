@@ -4,7 +4,7 @@ When not doing school or working on a random project, I enjoy working on hardwar
 
 #### 🏗️  The latest repos I've pushed to
 
-- [`crush`](https://github.com/charmbracelet/crush) - _Glamourous agentic coding for all 💘_ **(1 day ago)**
+- [`crush`](https://github.com/charmbracelet/crush) - _Glamourous agentic coding for all 💘_ **(today)**
 - [`dots`](https://github.com/taciturnaxolotl/dots) - _Kieran's opinionated (and ever expanding) nix config_ **(1 day ago)**
 - [`herald`](https://github.com/taciturnaxolotl/herald) - _rss email digests over ssh because you're a cool kid_ **(1 day ago)**
 - [`the-cedarville-app`](https://github.com/taciturnaxolotl/the-cedarville-app) - _the everything app :D_ **(1 day ago)**
@@ -30,20 +30,20 @@ When not doing school or working on a random project, I enjoy working on hardwar
 
 ```text
 💾 Languages:
-unknown       13h 27m 35s   ██████████████████░░░░░░░  71.32%
-Markdown      1h 14m 43s    ██░░░░░░░░░░░░░░░░░░░░░░░  6.60%
-Go            1h 5m 20s     ██░░░░░░░░░░░░░░░░░░░░░░░  5.77%
-Swift         52m 48s       ██░░░░░░░░░░░░░░░░░░░░░░░  4.66%
-Shell         27m 24s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.42%
+unknown       14h 31m 24s   ██████████████████░░░░░░░  70.87%
+Go            1h 28m 50s    ██░░░░░░░░░░░░░░░░░░░░░░░  7.22%
+Markdown      1h 24m 43s    ██░░░░░░░░░░░░░░░░░░░░░░░  6.89%
+Swift         52m 48s       ██░░░░░░░░░░░░░░░░░░░░░░░  4.29%
+Shell         27m 24s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.23%
 
 💼 Projects:
-crush         3h 50m 26s    ██████░░░░░░░░░░░░░░░░░░░  23.50%
-unowheel      3h 8m 10s     █████░░░░░░░░░░░░░░░░░░░░  19.19%
-dots          1h 31m 12s    ███░░░░░░░░░░░░░░░░░░░░░░  9.30%
-civil-war     1h 20m 35s    ███░░░░░░░░░░░░░░░░░░░░░░  8.22%
-CarComputer   1h 5m 52s     ██░░░░░░░░░░░░░░░░░░░░░░░  6.72%
+crush         4h 37m 35s    ███████░░░░░░░░░░░░░░░░░░  25.93%
+unowheel      3h 8m 10s     █████░░░░░░░░░░░░░░░░░░░░  17.58%
+dots          1h 31m 12s    ███░░░░░░░░░░░░░░░░░░░░░░  8.52%
+civil-war     1h 20m 35s    ██░░░░░░░░░░░░░░░░░░░░░░░  7.53%
+CarComputer   1h 5m 52s     ██░░░░░░░░░░░░░░░░░░░░░░░  6.15%
 
-Total: 13 hrs 34 mins
+Total: 14 hrs 38 mins
 ```
 
 #### 📮  Want to say hi?
