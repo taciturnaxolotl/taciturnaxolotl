@@ -4,14 +4,14 @@ When not doing school or working on a random project, I enjoy working on hardwar
 
 #### 🏗️  The latest repos I've pushed to
 
-- [`crush`](https://github.com/charmbracelet/crush) - _Glamourous agentic coding for all 💘_ **(today)**
-- [`dots`](https://github.com/taciturnaxolotl/dots) - _Kieran's opinionated (and ever expanding) nix config_ **(today)**
-- [`herald`](https://github.com/taciturnaxolotl/herald) - _rss email digests over ssh because you're a cool kid_ **(today)**
-- [`the-cedarville-app`](https://github.com/taciturnaxolotl/the-cedarville-app) - _the everything app :D_ **(today)**
-- [`fantasy`](https://github.com/charmbracelet/fantasy) - _Build AI agents with Go. Multiple providers, multiple models, one API. 🧙_ **(3 days ago)**
-- [`group-me-not`](https://github.com/taciturnaxolotl/group-me-not) - _OSS GroupMe app_ **(3 days ago)**
-- [`civil-war`](https://github.com/taciturnaxolotl/civil-war) - _civil warrrrr_ **(3 days ago)**
-- [`unowheel`](https://github.com/taciturnaxolotl/unowheel) - _onewheel ios app_ **(3 days ago)**
+- [`crush`](https://github.com/charmbracelet/crush) - _Glamourous agentic coding for all 💘_ **(1 day ago)**
+- [`dots`](https://github.com/taciturnaxolotl/dots) - _Kieran's opinionated (and ever expanding) nix config_ **(1 day ago)**
+- [`herald`](https://github.com/taciturnaxolotl/herald) - _rss email digests over ssh because you're a cool kid_ **(1 day ago)**
+- [`the-cedarville-app`](https://github.com/taciturnaxolotl/the-cedarville-app) - _the everything app :D_ **(1 day ago)**
+- [`fantasy`](https://github.com/charmbracelet/fantasy) - _Build AI agents with Go. Multiple providers, multiple models, one API. 🧙_ **(4 days ago)**
+- [`group-me-not`](https://github.com/taciturnaxolotl/group-me-not) - _OSS GroupMe app_ **(4 days ago)**
+- [`civil-war`](https://github.com/taciturnaxolotl/civil-war) - _civil warrrrr_ **(4 days ago)**
+- [`unowheel`](https://github.com/taciturnaxolotl/unowheel) - _onewheel ios app_ **(4 days ago)**
 
 #### 📦  My latest projects
 
@@ -30,20 +30,20 @@ When not doing school or working on a random project, I enjoy working on hardwar
 
 ```text
 💾 Languages:
-unknown       14h 19m 40s   ██████████████████░░░░░░░  69.89%
-Swift         1h 28m 14s    ██░░░░░░░░░░░░░░░░░░░░░░░  7.17%
-Markdown      1h 26m 51s    ██░░░░░░░░░░░░░░░░░░░░░░░  7.06%
-Go            1h 5m 20s     ██░░░░░░░░░░░░░░░░░░░░░░░  5.31%
-Shell         29m 24s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.39%
+unknown       14h 24m 33s   ██████████████████░░░░░░░  70.00%
+Swift         1h 28m 14s    ██░░░░░░░░░░░░░░░░░░░░░░░  7.14%
+Markdown      1h 26m 51s    ██░░░░░░░░░░░░░░░░░░░░░░░  7.03%
+Go            1h 5m 20s     ██░░░░░░░░░░░░░░░░░░░░░░░  5.29%
+Shell         29m 24s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.38%
 
 💼 Projects:
-crush         3h 50m 26s    ██████░░░░░░░░░░░░░░░░░░░  21.81%
-unowheel      3h 8m 10s     █████░░░░░░░░░░░░░░░░░░░░  17.81%
-civil-war     1h 20m 35s    ██░░░░░░░░░░░░░░░░░░░░░░░  7.63%
-dots          1h 10m 25s    ██░░░░░░░░░░░░░░░░░░░░░░░  6.66%
-CarComputer   1h 3m 52s     ██░░░░░░░░░░░░░░░░░░░░░░░  6.04%
+crush         3h 50m 26s    ██████░░░░░░░░░░░░░░░░░░░  21.67%
+unowheel      3h 8m 10s     █████░░░░░░░░░░░░░░░░░░░░  17.70%
+civil-war     1h 20m 35s    ██░░░░░░░░░░░░░░░░░░░░░░░  7.58%
+dots          1h 14m 31s    ██░░░░░░░░░░░░░░░░░░░░░░░  7.01%
+CarComputer   1h 3m 52s     ██░░░░░░░░░░░░░░░░░░░░░░░  6.01%
 
-Total: 14 hrs 27 mins
+Total: 14 hrs 32 mins
 ```
 
 #### 📮  Want to say hi?
