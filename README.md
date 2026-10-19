@@ -4,14 +4,14 @@ When not doing school or working on a random project, I enjoy working on hardwar
 
 #### 🏗️  The latest repos I've pushed to
 
-- [`crush`](https://github.com/charmbracelet/crush) - _Glamourous agentic coding for all 💘_ **(2 days ago)**
-- [`dots`](https://github.com/taciturnaxolotl/dots) - _Kieran's opinionated (and ever expanding) nix config_ **(3 days ago)**
-- [`herald`](https://github.com/taciturnaxolotl/herald) - _rss email digests over ssh because you're a cool kid_ **(3 days ago)**
+- [`dots`](https://github.com/taciturnaxolotl/dots) - _Kieran's opinionated (and ever expanding) nix config_ **(today)**
+- [`crush`](https://github.com/charmbracelet/crush) - _Glamourous agentic coding for all 💘_ **(1 day ago)**
 - [`the-cedarville-app`](https://github.com/taciturnaxolotl/the-cedarville-app) - _the everything app :D_ **(3 days ago)**
-- [`fantasy`](https://github.com/charmbracelet/fantasy) - _Build AI agents with Go. Multiple providers, multiple models, one API. 🧙_ **(6 days ago)**
-- [`group-me-not`](https://github.com/taciturnaxolotl/group-me-not) - _OSS GroupMe app_ **(6 days ago)**
+- [`herald`](https://github.com/taciturnaxolotl/herald) - _rss email digests over ssh because you're a cool kid_ **(3 days ago)**
 - [`civil-war`](https://github.com/taciturnaxolotl/civil-war) - _civil warrrrr_ **(6 days ago)**
+- [`group-me-not`](https://github.com/taciturnaxolotl/group-me-not) - _OSS GroupMe app_ **(6 days ago)**
 - [`unowheel`](https://github.com/taciturnaxolotl/unowheel) - _onewheel ios app_ **(6 days ago)**
+- [`fantasy`](https://github.com/charmbracelet/fantasy) - _Build AI agents with Go. Multiple providers, multiple models, one API. 🧙_ **(6 days ago)**
 
 #### 📦  My latest projects
 
@@ -30,20 +30,20 @@ When not doing school or working on a random project, I enjoy working on hardwar
 
 ```text
 💾 Languages:
-unknown      13h 32m 8s   ███████████████████░░░░░░  72.19%
-Go           1h 26m 42s   ██░░░░░░░░░░░░░░░░░░░░░░░  7.71%
-Markdown     1h 13m 9s    ██░░░░░░░░░░░░░░░░░░░░░░░  6.50%
-Swift        52m 48s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.69%
-TypeScript   23m 50s      █░░░░░░░░░░░░░░░░░░░░░░░░  2.12%
+unknown      14h 36m 34s   ███████████████████░░░░░░  73.97%
+Go           1h 42m 19s    ███░░░░░░░░░░░░░░░░░░░░░░  8.63%
+Markdown     1h 13m 9s     ██░░░░░░░░░░░░░░░░░░░░░░░  6.17%
+Swift        52m 48s       ██░░░░░░░░░░░░░░░░░░░░░░░  4.46%
+TypeScript   23m 50s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.01%
 
 💼 Projects:
-crush        4h 37m 29s   ████████░░░░░░░░░░░░░░░░░  28.11%
-unowheel     3h 8m 10s    █████░░░░░░░░░░░░░░░░░░░░  19.07%
-dots         1h 31m 12s   ███░░░░░░░░░░░░░░░░░░░░░░  9.24%
-civil-war    1h 20m 35s   ███░░░░░░░░░░░░░░░░░░░░░░  8.16%
-soft-serve   57m 17s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.80%
+crush        6h 17m 12s    █████████░░░░░░░░░░░░░░░░  33.96%
+unowheel     3h 8m 10s     █████░░░░░░░░░░░░░░░░░░░░  16.94%
+soft-serve   1h 52m 3s     ███░░░░░░░░░░░░░░░░░░░░░░  10.09%
+dots         1h 49m 44s    ███░░░░░░░░░░░░░░░░░░░░░░  9.88%
+civil-war    1h 20m 35s    ██░░░░░░░░░░░░░░░░░░░░░░░  7.25%
 
-Total: 13 hrs 39 mins
+Total: 14 hrs 42 mins
 ```
 
 #### 📮  Want to say hi?
