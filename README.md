@@ -4,14 +4,14 @@ When not doing school or working on a random project, I enjoy working on hardwar
 
 #### 🏗️  The latest repos I've pushed to
 
-- [`cedarplan`](https://github.com/taciturnaxolotl/cedarplan) - _the everything app :D_ **(today)**
-- [`pirateship-api`](https://github.com/taciturnaxolotl/pirateship-api) - _the pirateship api - typed_ **(today)**
-- [`userscripts`](https://github.com/taciturnaxolotl/userscripts) - _kieran's fancy userscripts_ **(today)**
-- [`dots`](https://github.com/taciturnaxolotl/dots) - _Kieran's opinionated (and ever expanding) nix config_ **(today)**
+- [`cedarplan`](https://github.com/taciturnaxolotl/cedarplan) - _the everything app :D_ **(1 day ago)**
+- [`pirateship-api`](https://github.com/taciturnaxolotl/pirateship-api) - _the pirateship api - typed_ **(1 day ago)**
+- [`userscripts`](https://github.com/taciturnaxolotl/userscripts) - _kieran's fancy userscripts_ **(1 day ago)**
 - [`crush`](https://github.com/charmbracelet/crush) - _Glamourous agentic coding for all 💘_ **(1 day ago)**
-- [`herald`](https://github.com/taciturnaxolotl/herald) - _rss email digests over ssh because you're a cool kid_ **(3 days ago)**
-- [`group-me-not`](https://github.com/taciturnaxolotl/group-me-not) - _OSS GroupMe app_ **(6 days ago)**
-- [`fantasy`](https://github.com/charmbracelet/fantasy) - _Build AI agents with Go. Multiple providers, multiple models, one API. 🧙_ **(6 days ago)**
+- [`dots`](https://github.com/taciturnaxolotl/dots) - _Kieran's opinionated (and ever expanding) nix config_ **(1 day ago)**
+- [`herald`](https://github.com/taciturnaxolotl/herald) - _rss email digests over ssh because you're a cool kid_ **(4 days ago)**
+- [`group-me-not`](https://github.com/taciturnaxolotl/group-me-not) - _OSS GroupMe app_ **(1 week ago)**
+- [`fantasy`](https://github.com/charmbracelet/fantasy) - _Build AI agents with Go. Multiple providers, multiple models, one API. 🧙_ **(1 week ago)**
 
 #### 📦  My latest projects
 
@@ -30,20 +30,20 @@ When not doing school or working on a random project, I enjoy working on hardwar
 
 ```text
 💾 Languages:
-unknown       17h 50m 3s   ███████████████████░░░░░░  72.75%
-Go            1h 47m 22s   ██░░░░░░░░░░░░░░░░░░░░░░░  7.30%
-Markdown      1h 31m 0s    ██░░░░░░░░░░░░░░░░░░░░░░░  6.19%
-JavaScript    1h 2m 45s    ██░░░░░░░░░░░░░░░░░░░░░░░  4.27%
-Swift         52m 48s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.59%
+unknown       19h 25m 30s   ███████████████████░░░░░░  72.04%
+Go            2h 12m 42s    ███░░░░░░░░░░░░░░░░░░░░░░  8.20%
+Markdown      1h 49m 6s     ██░░░░░░░░░░░░░░░░░░░░░░░  6.74%
+JavaScript    1h 2m 45s     █░░░░░░░░░░░░░░░░░░░░░░░░  3.88%
+Swift         52m 48s       █░░░░░░░░░░░░░░░░░░░░░░░░  3.26%
 
 💼 Projects:
-crush         6h 59m 19s   ████████░░░░░░░░░░░░░░░░░  31.01%
-unowheel      3h 8m 10s    ████░░░░░░░░░░░░░░░░░░░░░  13.91%
-soft-serve    2h 16m 27s   ███░░░░░░░░░░░░░░░░░░░░░░  10.09%
-dots          1h 54m 34s   ███░░░░░░░░░░░░░░░░░░░░░░  8.47%
-userscripts   1h 46m 51s   ██░░░░░░░░░░░░░░░░░░░░░░░  7.90%
+crush         8h 36m 18s    █████████░░░░░░░░░░░░░░░░  35.20%
+unowheel      3h 8m 10s     ████░░░░░░░░░░░░░░░░░░░░░  12.83%
+soft-serve    2h 16m 27s    ███░░░░░░░░░░░░░░░░░░░░░░  9.30%
+dots          1h 54m 34s    ██░░░░░░░░░░░░░░░░░░░░░░░  7.81%
+userscripts   1h 46m 51s    ██░░░░░░░░░░░░░░░░░░░░░░░  7.29%
 
-Total: 17 hrs 55 mins
+Total: 19 hrs 32 mins
 ```
 
 #### 📮  Want to say hi?
