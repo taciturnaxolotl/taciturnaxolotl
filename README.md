@@ -4,14 +4,14 @@ When not doing school or working on a random project, I enjoy working on hardwar
 
 #### 🏗️  The latest repos I've pushed to
 
+- [`cedarengine`](https://github.com/taciturnaxolotl/cedarengine) - _data_ **(today)**
 - [`civil-war`](https://github.com/taciturnaxolotl/civil-war) - _civil warrrrr_ **(1 day ago)**
+- [`mycu`](https://github.com/taciturnaxolotl/mycu) - _faster and less aggrevating mycu_ **(2 days ago)**
 - [`dots`](https://github.com/taciturnaxolotl/dots) - _Kieran's opinionated (and ever expanding) nix config_ **(2 days ago)**
 - [`cedarplan`](https://github.com/taciturnaxolotl/cedarplan) - _the everything app :D_ **(2 days ago)**
-- [`mycu`](https://github.com/taciturnaxolotl/mycu) - _faster and less aggrevating mycu_ **(2 days ago)**
 - [`userscripts`](https://github.com/taciturnaxolotl/userscripts) - _kieran's fancy userscripts_ **(3 days ago)**
 - [`crush`](https://github.com/charmbracelet/crush) - _Glamourous agentic coding for all 💘_ **(3 days ago)**
 - [`pirateship-api`](https://github.com/taciturnaxolotl/pirateship-api) - _the pirateship api - typed_ **(3 days ago)**
-- [`herald`](https://github.com/taciturnaxolotl/herald) - _rss email digests over ssh because you're a cool kid_ **(6 days ago)**
 
 #### 📦  My latest projects
 
@@ -30,20 +30,20 @@ When not doing school or working on a random project, I enjoy working on hardwar
 
 ```text
 💾 Languages:
-unknown       21h 11m 3s   ████████████████████░░░░░  76.62%
-Go            2h 23m 3s    ███░░░░░░░░░░░░░░░░░░░░░░  8.62%
-Markdown      1h 48m 53s   ██░░░░░░░░░░░░░░░░░░░░░░░  6.56%
-JavaScript    38m 17s      █░░░░░░░░░░░░░░░░░░░░░░░░  2.31%
-TypeScript    31m 41s      █░░░░░░░░░░░░░░░░░░░░░░░░  1.91%
+unknown      21h 56m 38s   ███████████████████░░░░░░  75.89%
+Go           2h 23m 3s     ███░░░░░░░░░░░░░░░░░░░░░░  8.25%
+Markdown     1h 51m 53s    ██░░░░░░░░░░░░░░░░░░░░░░░  6.45%
+JavaScript   42m 29s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.45%
+TypeScript   38m 52s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.24%
 
 💼 Projects:
-crush         8h 20m 10s   █████████░░░░░░░░░░░░░░░░  32.86%
-test          3h 47m 26s   ████░░░░░░░░░░░░░░░░░░░░░  14.94%
-cedarlogic    2h 54m 15s   ███░░░░░░░░░░░░░░░░░░░░░░  11.45%
-soft-serve    2h 20m 27s   ███░░░░░░░░░░░░░░░░░░░░░░  9.23%
-userscripts   1h 46m 51s   ██░░░░░░░░░░░░░░░░░░░░░░░  7.02%
+crush        8h 20m 10s    ████████░░░░░░░░░░░░░░░░░  31.88%
+test         3h 47m 26s    ████░░░░░░░░░░░░░░░░░░░░░  14.50%
+cedarlogic   2h 54m 15s    ███░░░░░░░░░░░░░░░░░░░░░░  11.11%
+soft-serve   2h 20m 27s    ███░░░░░░░░░░░░░░░░░░░░░░  8.95%
+dots         1h 48m 46s    ██░░░░░░░░░░░░░░░░░░░░░░░  6.93%
 
-Total: 21 hrs 18 mins
+Total: 22 hrs 4 mins
 ```
 
 #### 📮  Want to say hi?
