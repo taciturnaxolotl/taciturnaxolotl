@@ -4,14 +4,14 @@ When not doing school or working on a random project, I enjoy working on hardwar
 
 #### 🏗️  The latest repos I've pushed to
 
-- [`unowheel`](https://github.com/taciturnaxolotl/unowheel) - _onewheel ios app_ **(1 day ago)**
+- [`ultraviolet`](https://github.com/charmbracelet/ultraviolet) - _Mystical terminal user interface primitives 🌈_ **(today)**
+- [`cedarengine`](https://github.com/taciturnaxolotl/cedarengine) - _data_ **(today)**
+- [`soft-serve`](https://github.com/charmbracelet/soft-serve) - _The mighty, self-hostable Git server for the command line🍦_ **(today)**
 - [`assassins`](https://github.com/taciturnaxolotl/assassins) - _the ultimate platform for running games of assassin_ **(1 day ago)**
-- [`cedarengine`](https://github.com/taciturnaxolotl/cedarengine) - _data_ **(1 day ago)**
 - [`civil-war`](https://github.com/taciturnaxolotl/civil-war) - _civil warrrrr_ **(1 day ago)**
+- [`unowheel`](https://github.com/taciturnaxolotl/unowheel) - _onewheel ios app_ **(1 day ago)**
 - [`mycu`](https://github.com/taciturnaxolotl/mycu) - _faster and less aggrevating mycu_ **(3 days ago)**
-- [`cedarplan`](https://github.com/taciturnaxolotl/cedarplan) - _the everything app :D_ **(3 days ago)**
 - [`dots`](https://github.com/taciturnaxolotl/dots) - _Kieran's opinionated (and ever expanding) nix config_ **(3 days ago)**
-- [`pirateship-api`](https://github.com/taciturnaxolotl/pirateship-api) - _the pirateship api - typed_ **(4 days ago)**
 
 #### 📦  My latest projects
 
@@ -30,20 +30,20 @@ When not doing school or working on a random project, I enjoy working on hardwar
 
 ```text
 💾 Languages:
-unknown      24h 25m 8s   ████████████████████░░░░░  76.93%
-Go           2h 23m 3s    ██░░░░░░░░░░░░░░░░░░░░░░░  7.51%
-Markdown     1h 53m 53s   ██░░░░░░░░░░░░░░░░░░░░░░░  5.98%
-JavaScript   42m 29s      █░░░░░░░░░░░░░░░░░░░░░░░░  2.23%
-TypeScript   38m 52s      █░░░░░░░░░░░░░░░░░░░░░░░░  2.04%
+unknown      26h 20m 58s   ████████████████████░░░░░  77.33%
+Go           2h 43m 12s    ██░░░░░░░░░░░░░░░░░░░░░░░  7.98%
+Markdown     1h 57m 53s    ██░░░░░░░░░░░░░░░░░░░░░░░  5.77%
+JavaScript   42m 29s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.08%
+TypeScript   38m 52s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.90%
 
 💼 Projects:
-crush        8h 22m 10s   ████████░░░░░░░░░░░░░░░░░  28.87%
-test         3h 47m 26s   ████░░░░░░░░░░░░░░░░░░░░░  13.07%
-cedarlogic   3h 9m 22s    ███░░░░░░░░░░░░░░░░░░░░░░  10.89%
-soft-serve   2h 22m 27s   ███░░░░░░░░░░░░░░░░░░░░░░  8.19%
-unowheel     1h 51m 6s    ██░░░░░░░░░░░░░░░░░░░░░░░  6.39%
+crush        10h 0m 25s    ████████░░░░░░░░░░░░░░░░░  31.39%
+test         3h 49m 26s    ███░░░░░░░░░░░░░░░░░░░░░░  12.00%
+cedarlogic   3h 9m 47s     ███░░░░░░░░░░░░░░░░░░░░░░  9.92%
+soft-serve   2h 48m 30s    ███░░░░░░░░░░░░░░░░░░░░░░  8.81%
+unowheel     2h 19m 23s    ██░░░░░░░░░░░░░░░░░░░░░░░  7.29%
 
-Total: 24 hrs 34 mins
+Total: 26 hrs 30 mins
 ```
 
 #### 📮  Want to say hi?
