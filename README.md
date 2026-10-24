@@ -30,20 +30,20 @@ When not doing school or working on a random project, I enjoy working on hardwar
 
 ```text
 💾 Languages:
-unknown      27h 25m 10s   ████████████████████░░░░░  78.85%
+unknown      27h 27m 10s   ████████████████████░░░░░  78.87%
 Go           2h 30m 30s    ██░░░░░░░░░░░░░░░░░░░░░░░  7.21%
 Markdown     1h 52m 4s     ██░░░░░░░░░░░░░░░░░░░░░░░  5.37%
 JavaScript   44m 29s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.13%
 TypeScript   35m 55s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.72%
 
 💼 Projects:
-crush        9h 37m 53s    ████████░░░░░░░░░░░░░░░░░  28.80%
-test         4h 17m 53s    ████░░░░░░░░░░░░░░░░░░░░░  12.85%
-unowheel     3h 13m 4s     ███░░░░░░░░░░░░░░░░░░░░░░  9.62%
-cedarlogic   3h 9m 47s     ███░░░░░░░░░░░░░░░░░░░░░░  9.46%
+crush        9h 39m 53s    ████████░░░░░░░░░░░░░░░░░  28.87%
+test         4h 17m 53s    ████░░░░░░░░░░░░░░░░░░░░░  12.84%
+unowheel     3h 13m 4s     ███░░░░░░░░░░░░░░░░░░░░░░  9.61%
+cedarlogic   3h 9m 47s     ███░░░░░░░░░░░░░░░░░░░░░░  9.45%
 soft-serve   2h 34m 46s    ██░░░░░░░░░░░░░░░░░░░░░░░  7.71%
 
-Total: 27 hrs 34 mins
+Total: 27 hrs 36 mins
 ```
 
 #### 📮  Want to say hi?
