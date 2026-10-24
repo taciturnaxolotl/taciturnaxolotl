@@ -4,14 +4,14 @@ When not doing school or working on a random project, I enjoy working on hardwar
 
 #### 🏗️  The latest repos I've pushed to
 
-- [`soft-serve`](https://github.com/charmbracelet/soft-serve) - _The mighty, self-hostable Git server for the command line🍦_ **(today)**
-- [`cedarengine`](https://github.com/taciturnaxolotl/cedarengine) - _data_ **(today)**
-- [`ultraviolet`](https://github.com/charmbracelet/ultraviolet) - _Mystical terminal user interface primitives 🌈_ **(today)**
-- [`cedarville-people-search-raycast`](https://github.com/taciturnaxolotl/cedarville-people-search-raycast) - _people search with keyboard shortcuts_ **(today)**
-- [`unowheel`](https://github.com/taciturnaxolotl/unowheel) - _onewheel ios app_ **(today)**
-- [`civil-war`](https://github.com/taciturnaxolotl/civil-war) - _civil warrrrr_ **(1 day ago)**
-- [`assassins`](https://github.com/taciturnaxolotl/assassins) - _the ultimate platform for running games of assassin_ **(1 day ago)**
-- [`cedarplan`](https://github.com/taciturnaxolotl/cedarplan) - _the everything app :D_ **(3 days ago)**
+- [`soft-serve`](https://github.com/charmbracelet/soft-serve) - _The mighty, self-hostable Git server for the command line🍦_ **(1 day ago)**
+- [`cedarengine`](https://github.com/taciturnaxolotl/cedarengine) - _data_ **(1 day ago)**
+- [`ultraviolet`](https://github.com/charmbracelet/ultraviolet) - _Mystical terminal user interface primitives 🌈_ **(1 day ago)**
+- [`cedarville-people-search-raycast`](https://github.com/taciturnaxolotl/cedarville-people-search-raycast) - _people search with keyboard shortcuts_ **(1 day ago)**
+- [`unowheel`](https://github.com/taciturnaxolotl/unowheel) - _onewheel ios app_ **(1 day ago)**
+- [`civil-war`](https://github.com/taciturnaxolotl/civil-war) - _civil warrrrr_ **(2 days ago)**
+- [`assassins`](https://github.com/taciturnaxolotl/assassins) - _the ultimate platform for running games of assassin_ **(2 days ago)**
+- [`cedarplan`](https://github.com/taciturnaxolotl/cedarplan) - _the everything app :D_ **(4 days ago)**
 
 #### 📦  My latest projects
 
@@ -30,20 +30,20 @@ When not doing school or working on a random project, I enjoy working on hardwar
 
 ```text
 💾 Languages:
-unknown      28h 41m 39s   ████████████████████░░░░░  77.90%
-Go           2h 56m 2s     ██░░░░░░░░░░░░░░░░░░░░░░░  7.97%
-Markdown     2h 4m 4s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.61%
-JavaScript   44m 29s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.01%
-TypeScript   38m 52s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.76%
+unknown      29h 11m 21s   ████████████████████░░░░░  78.19%
+Go           2h 56m 2s     ██░░░░░░░░░░░░░░░░░░░░░░░  7.86%
+Markdown     2h 4m 4s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.54%
+JavaScript   44m 29s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.99%
+TypeScript   38m 52s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.74%
 
 💼 Projects:
-crush        11h 1m 13s    ████████░░░░░░░░░░░░░░░░░  31.35%
-test         4h 10m 59s    ███░░░░░░░░░░░░░░░░░░░░░░  11.90%
-cedarlogic   3h 9m 47s     ███░░░░░░░░░░░░░░░░░░░░░░  9.00%
-soft-serve   2h 53m 2s     ███░░░░░░░░░░░░░░░░░░░░░░  8.20%
-unowheel     2h 48m 15s    ██░░░░░░░░░░░░░░░░░░░░░░░  7.98%
+crush        11h 1m 13s    ████████░░░░░░░░░░░░░░░░░  30.87%
+test         4h 10m 59s    ███░░░░░░░░░░░░░░░░░░░░░░  11.72%
+cedarlogic   3h 9m 47s     ███░░░░░░░░░░░░░░░░░░░░░░  8.86%
+soft-serve   2h 53m 2s     ███░░░░░░░░░░░░░░░░░░░░░░  8.08%
+unowheel     2h 48m 23s    ██░░░░░░░░░░░░░░░░░░░░░░░  7.86%
 
-Total: 28 hrs 51 mins
+Total: 29 hrs 21 mins
 ```
 
 #### 📮  Want to say hi?
