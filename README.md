@@ -4,14 +4,14 @@ When not doing school or working on a random project, I enjoy working on hardwar
 
 #### 🏗️  The latest repos I've pushed to
 
+- [`civil-war`](https://github.com/taciturnaxolotl/civil-war) - _civil warrrrr_ **(today)**
 - [`dots`](https://github.com/taciturnaxolotl/dots) - _Kieran's opinionated (and ever expanding) nix config_ **(today)**
 - [`unowheel`](https://github.com/taciturnaxolotl/unowheel) - _onewheel ios app_ **(today)**
-- [`cedarville-people-search-raycast`](https://github.com/taciturnaxolotl/cedarville-people-search-raycast) - _people search with keyboard shortcuts_ **(2 days ago)**
-- [`ultraviolet`](https://github.com/charmbracelet/ultraviolet) - _Mystical terminal user interface primitives 🌈_ **(2 days ago)**
 - [`soft-serve`](https://github.com/charmbracelet/soft-serve) - _The mighty, self-hostable Git server for the command line🍦_ **(2 days ago)**
+- [`ultraviolet`](https://github.com/charmbracelet/ultraviolet) - _Mystical terminal user interface primitives 🌈_ **(2 days ago)**
+- [`cedarville-people-search-raycast`](https://github.com/taciturnaxolotl/cedarville-people-search-raycast) - _people search with keyboard shortcuts_ **(2 days ago)**
 - [`cedarengine`](https://github.com/taciturnaxolotl/cedarengine) - _data_ **(2 days ago)**
 - [`assassins`](https://github.com/taciturnaxolotl/assassins) - _the ultimate platform for running games of assassin_ **(3 days ago)**
-- [`civil-war`](https://github.com/taciturnaxolotl/civil-war) - _civil warrrrr_ **(3 days ago)**
 
 #### 📦  My latest projects
 
@@ -30,20 +30,20 @@ When not doing school or working on a random project, I enjoy working on hardwar
 
 ```text
 💾 Languages:
-unknown          31h 15m 28s   ████████████████████░░░░░  76.94%
-Markdown         3h 3m 36s     ██░░░░░░░░░░░░░░░░░░░░░░░  7.53%
-Go               2h 7m 0s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.21%
-JavaScript       44m 29s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.83%
-Swift            43m 49s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.80%
+unknown          33h 19m 44s   ████████████████████░░░░░  77.77%
+Markdown         3h 8m 39s     ██░░░░░░░░░░░░░░░░░░░░░░░  7.34%
+Go               2h 7m 0s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.94%
+JavaScript       44m 29s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.73%
+Swift            43m 49s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.70%
 
 💼 Projects:
-crush            10h 8m 59s    ███████░░░░░░░░░░░░░░░░░░  24.60%
-unowheel         4h 40m 34s    ███░░░░░░░░░░░░░░░░░░░░░░  11.33%
-cedarlogic       4h 34m 47s    ███░░░░░░░░░░░░░░░░░░░░░░  11.10%
-test             4h 17m 53s    ███░░░░░░░░░░░░░░░░░░░░░░  10.42%
-CO.A.40_116127   3h 38m 33s    ███░░░░░░░░░░░░░░░░░░░░░░  8.83%
+crush            10h 8m 59s    ██████░░░░░░░░░░░░░░░░░░░  22.28%
+unowheel         5h 7m 52s     ███░░░░░░░░░░░░░░░░░░░░░░  11.26%
+cedarlogic       4h 34m 47s    ███░░░░░░░░░░░░░░░░░░░░░░  10.05%
+test             4h 17m 53s    ███░░░░░░░░░░░░░░░░░░░░░░  9.43%
+CO.A.40_116127   3h 38m 33s    ██░░░░░░░░░░░░░░░░░░░░░░░  8.00%
 
-Total: 32 hrs 39 mins
+Total: 34 hrs 44 mins
 ```
 
 #### 📮  Want to say hi?
