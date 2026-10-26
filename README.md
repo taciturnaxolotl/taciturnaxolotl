@@ -4,14 +4,14 @@ When not doing school or working on a random project, I enjoy working on hardwar
 
 #### 🏗️  The latest repos I've pushed to
 
-- [`civil-war`](https://github.com/taciturnaxolotl/civil-war) - _civil warrrrr_ **(today)**
-- [`dots`](https://github.com/taciturnaxolotl/dots) - _Kieran's opinionated (and ever expanding) nix config_ **(today)**
-- [`unowheel`](https://github.com/taciturnaxolotl/unowheel) - _onewheel ios app_ **(today)**
-- [`soft-serve`](https://github.com/charmbracelet/soft-serve) - _The mighty, self-hostable Git server for the command line🍦_ **(2 days ago)**
-- [`ultraviolet`](https://github.com/charmbracelet/ultraviolet) - _Mystical terminal user interface primitives 🌈_ **(2 days ago)**
-- [`cedarville-people-search-raycast`](https://github.com/taciturnaxolotl/cedarville-people-search-raycast) - _people search with keyboard shortcuts_ **(2 days ago)**
-- [`cedarengine`](https://github.com/taciturnaxolotl/cedarengine) - _data_ **(2 days ago)**
-- [`assassins`](https://github.com/taciturnaxolotl/assassins) - _the ultimate platform for running games of assassin_ **(3 days ago)**
+- [`civil-war`](https://github.com/taciturnaxolotl/civil-war) - _civil warrrrr_ **(1 day ago)**
+- [`dots`](https://github.com/taciturnaxolotl/dots) - _Kieran's opinionated (and ever expanding) nix config_ **(1 day ago)**
+- [`unowheel`](https://github.com/taciturnaxolotl/unowheel) - _onewheel ios app_ **(1 day ago)**
+- [`soft-serve`](https://github.com/charmbracelet/soft-serve) - _The mighty, self-hostable Git server for the command line🍦_ **(3 days ago)**
+- [`ultraviolet`](https://github.com/charmbracelet/ultraviolet) - _Mystical terminal user interface primitives 🌈_ **(3 days ago)**
+- [`cedarville-people-search-raycast`](https://github.com/taciturnaxolotl/cedarville-people-search-raycast) - _people search with keyboard shortcuts_ **(3 days ago)**
+- [`cedarengine`](https://github.com/taciturnaxolotl/cedarengine) - _data_ **(3 days ago)**
+- [`assassins`](https://github.com/taciturnaxolotl/assassins) - _the ultimate platform for running games of assassin_ **(4 days ago)**
 
 #### 📦  My latest projects
 
@@ -23,27 +23,27 @@ When not doing school or working on a random project, I enjoy working on hardwar
 #### 🪧  The latest posts from [`dunkirk.sh`](https://dunkirk.sh)
 
 - [`Breaking macOS Screen Time for fun and profit`](https://dunkirk.sh/blog/screentime/) **(1 month ago)**
-- [`The Joy of Hardware`](https://dunkirk.sh/blog/joy-of-hardware/) **(2 months ago)**
+- [`The Joy of Hardware`](https://dunkirk.sh/blog/joy-of-hardware/) **(3 months ago)**
 - [`LLMs are like handwritten notes`](https://dunkirk.sh/blog/llms/) **(3 months ago)**
 
 #### 📡  My [_`hackatime`_](https://waka.hackclub.com) stats from this week
 
 ```text
 💾 Languages:
-unknown          33h 19m 44s   ████████████████████░░░░░  77.77%
-Markdown         3h 8m 39s     ██░░░░░░░░░░░░░░░░░░░░░░░  7.34%
-Go               2h 7m 0s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.94%
-JavaScript       44m 29s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.73%
-Swift            43m 49s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.70%
+unknown      35h 13m 25s   ████████████████████░░░░░  77.77%
+Markdown     3h 21m 10s    ██░░░░░░░░░░░░░░░░░░░░░░░  7.40%
+Go           2h 18m 39s    ██░░░░░░░░░░░░░░░░░░░░░░░  5.10%
+JavaScript   44m 29s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.64%
+Swift        43m 49s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.61%
 
 💼 Projects:
-crush            10h 8m 59s    ██████░░░░░░░░░░░░░░░░░░░  22.28%
-unowheel         5h 7m 52s     ███░░░░░░░░░░░░░░░░░░░░░░  11.26%
-cedarlogic       4h 34m 47s    ███░░░░░░░░░░░░░░░░░░░░░░  10.05%
-test             4h 17m 53s    ███░░░░░░░░░░░░░░░░░░░░░░  9.43%
-CO.A.40_116127   3h 38m 33s    ██░░░░░░░░░░░░░░░░░░░░░░░  8.00%
+crush        10h 34m 28s   ██████░░░░░░░░░░░░░░░░░░░  21.70%
+unowheel     5h 7m 52s     ███░░░░░░░░░░░░░░░░░░░░░░  10.53%
+cedarlogic   4h 39m 35s    ███░░░░░░░░░░░░░░░░░░░░░░  9.56%
+ncl          4h 39m 30s    ███░░░░░░░░░░░░░░░░░░░░░░  9.56%
+test         4h 17m 53s    ███░░░░░░░░░░░░░░░░░░░░░░  8.82%
 
-Total: 34 hrs 44 mins
+Total: 36 hrs 38 mins
 ```
 
 #### 📮  Want to say hi?
