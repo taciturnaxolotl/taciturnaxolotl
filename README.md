@@ -5,13 +5,13 @@ When not doing school or working on a random project, I enjoy working on hardwar
 #### 🏗️  The latest repos I've pushed to
 
 - [`mycu`](https://github.com/taciturnaxolotl/mycu) - _faster and less aggrevating mycu_ **(today)**
+- [`group-me-not`](https://github.com/taciturnaxolotl/group-me-not) - _OSS GroupMe app_ **(today)**
+- [`zera`](https://github.com/taciturnaxolotl/zera) - _my new site v4?_ **(1 day ago)**
 - [`userscripts`](https://github.com/taciturnaxolotl/userscripts) - _kieran's fancy userscripts_ **(1 day ago)**
 - [`cedarengine`](https://github.com/taciturnaxolotl/cedarengine) - _data_ **(1 day ago)**
-- [`zera`](https://github.com/taciturnaxolotl/zera) - _my new site v4?_ **(1 day ago)**
-- [`civil-war`](https://github.com/taciturnaxolotl/civil-war) - _civil warrrrr_ **(2 days ago)**
 - [`unowheel`](https://github.com/taciturnaxolotl/unowheel) - _onewheel ios app_ **(2 days ago)**
+- [`crush`](https://github.com/charmbracelet/crush) - _Glamourous agentic coding for all 💘_ **(2 days ago)**
 - [`dots`](https://github.com/taciturnaxolotl/dots) - _Kieran's opinionated (and ever expanding) nix config_ **(2 days ago)**
-- [`ultraviolet`](https://github.com/charmbracelet/ultraviolet) - _Mystical terminal user interface primitives 🌈_ **(4 days ago)**
 
 #### 📦  My latest projects
 
@@ -30,20 +30,20 @@ When not doing school or working on a random project, I enjoy working on hardwar
 
 ```text
 💾 Languages:
-unknown      34h 54m 4s   ████████████████████░░░░░  76.53%
-Markdown     3h 3m 29s    ██░░░░░░░░░░░░░░░░░░░░░░░  6.71%
-Go           2h 49m 51s   ██░░░░░░░░░░░░░░░░░░░░░░░  6.21%
-Swift        1h 3m 26s    █░░░░░░░░░░░░░░░░░░░░░░░░  2.32%
-TypeScript   43m 54s      █░░░░░░░░░░░░░░░░░░░░░░░░  1.60%
+unknown      36h 21m 44s   ████████████████████░░░░░  76.82%
+Markdown     3h 7m 29s     ██░░░░░░░░░░░░░░░░░░░░░░░  6.60%
+Go           3h 1m 52s     ██░░░░░░░░░░░░░░░░░░░░░░░  6.40%
+Swift        1h 3m 26s     █░░░░░░░░░░░░░░░░░░░░░░░░  2.23%
+TypeScript   43m 54s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.55%
 
 💼 Projects:
-crush        9h 47m 17s   ██████░░░░░░░░░░░░░░░░░░░  20.31%
-test         5h 52m 53s   ████░░░░░░░░░░░░░░░░░░░░░  12.21%
-unowheel     5h 7m 52s    ███░░░░░░░░░░░░░░░░░░░░░░  10.65%
-cedarlogic   4h 41m 37s   ███░░░░░░░░░░░░░░░░░░░░░░  9.74%
-ncl          4h 39m 30s   ███░░░░░░░░░░░░░░░░░░░░░░  9.67%
+crush        10h 55m 19s   ██████░░░░░░░░░░░░░░░░░░░  21.82%
+test         6h 30m 2s     ████░░░░░░░░░░░░░░░░░░░░░  12.99%
+unowheel     5h 7m 52s     ███░░░░░░░░░░░░░░░░░░░░░░  10.25%
+cedarlogic   4h 41m 37s    ███░░░░░░░░░░░░░░░░░░░░░░  9.38%
+ncl          4h 39m 30s    ███░░░░░░░░░░░░░░░░░░░░░░  9.31%
 
-Total: 36 hrs 26 mins
+Total: 37 hrs 54 mins
 ```
 
 #### 📮  Want to say hi?
