@@ -4,11 +4,11 @@ When not doing school or working on a random project, I enjoy working on hardwar
 
 #### 🏗️  The latest repos I've pushed to
 
+- [`herald`](https://github.com/taciturnaxolotl/herald) - _rss email digests over ssh because you're a cool kid_ **(today)**
 - [`overpass`](https://github.com/taciturnaxolotl/overpass) - _gas tracking without the ads_ **(today)**
-- [`control`](https://github.com/taciturnaxolotl/control) - __ **(today)**
 - [`kloe`](https://github.com/taciturnaxolotl/kloe) - _llm chat done the right way™_ **(today)**
-- [`crush`](https://github.com/charmbracelet/crush) - _Glamourous agentic coding for all 💘_ **(today)**
-- [`cedarengine`](https://github.com/taciturnaxolotl/cedarengine) - _data_ **(today)**
+- [`dots`](https://github.com/taciturnaxolotl/dots) - _Kieran's opinionated (and ever expanding) nix config_ **(today)**
+- [`l4`](https://github.com/taciturnaxolotl/l4) - _the l4 cache_ **(today)**
 - [`canvas-mcp`](https://github.com/taciturnaxolotl/canvas-mcp) - _a fancy canvas mcp server!_ **(today)**
 - [`indiko`](https://github.com/taciturnaxolotl/indiko) - _indieauth and oauth 2.0 compatible auth server for my homelab_ **(today)**
 - [`unowheel`](https://github.com/taciturnaxolotl/unowheel) - _onewheel ios app_ **(today)**
@@ -30,20 +30,20 @@ When not doing school or working on a random project, I enjoy working on hardwar
 
 ```text
 💾 Languages:
-unknown          36h 34m 26s   ████████████████████░░░░░  76.96%
-Go               3h 5m 30s     ██░░░░░░░░░░░░░░░░░░░░░░░  6.51%
-Markdown         2h 52m 43s    ██░░░░░░░░░░░░░░░░░░░░░░░  6.06%
-Swift            1h 16m 56s    █░░░░░░░░░░░░░░░░░░░░░░░░  2.70%
-TypeScript       46m 53s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.64%
+unknown          37h 22m 35s   ████████████████████░░░░░  76.63%
+Go               3h 28m 37s    ██░░░░░░░░░░░░░░░░░░░░░░░  7.13%
+Markdown         2h 56m 43s    ██░░░░░░░░░░░░░░░░░░░░░░░  6.04%
+Swift            1h 16m 56s    █░░░░░░░░░░░░░░░░░░░░░░░░  2.63%
+TypeScript       46m 53s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.60%
 
 💼 Projects:
-crush            13h 4m 52s    ███████░░░░░░░░░░░░░░░░░░  25.00%
-test             8h 17m 18s    ████░░░░░░░░░░░░░░░░░░░░░  15.84%
-unowheel         5h 41m 3s     ███░░░░░░░░░░░░░░░░░░░░░░  10.86%
-ncl              4h 39m 30s    ███░░░░░░░░░░░░░░░░░░░░░░  8.90%
-CO.A.40_116127   3h 38m 33s    ██░░░░░░░░░░░░░░░░░░░░░░░  6.96%
+crush            13h 47m 7s    ███████░░░░░░░░░░░░░░░░░░  25.71%
+test             8h 17m 18s    ████░░░░░░░░░░░░░░░░░░░░░  15.46%
+unowheel         5h 51m 11s    ███░░░░░░░░░░░░░░░░░░░░░░  10.92%
+ncl              4h 39m 30s    ███░░░░░░░░░░░░░░░░░░░░░░  8.69%
+CO.A.40_116127   3h 38m 33s    ██░░░░░░░░░░░░░░░░░░░░░░░  6.79%
 
-Total: 38 hrs 3 mins
+Total: 38 hrs 51 mins
 ```
 
 #### 📮  Want to say hi?
