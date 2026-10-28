@@ -4,14 +4,14 @@ When not doing school or working on a random project, I enjoy working on hardwar
 
 #### 🏗️  The latest repos I've pushed to
 
-- [`herald`](https://github.com/taciturnaxolotl/herald) - _rss email digests over ssh because you're a cool kid_ **(today)**
-- [`overpass`](https://github.com/taciturnaxolotl/overpass) - _gas tracking without the ads_ **(today)**
+- [`cedarengine`](https://github.com/taciturnaxolotl/cedarengine) - _data_ **(today)**
+- [`userscripts`](https://github.com/taciturnaxolotl/userscripts) - _kieran's fancy userscripts_ **(today)**
 - [`kloe`](https://github.com/taciturnaxolotl/kloe) - _llm chat done the right way™_ **(today)**
+- [`crush`](https://github.com/charmbracelet/crush) - _Glamourous agentic coding for all 💘_ **(today)**
 - [`dots`](https://github.com/taciturnaxolotl/dots) - _Kieran's opinionated (and ever expanding) nix config_ **(today)**
-- [`l4`](https://github.com/taciturnaxolotl/l4) - _the l4 cache_ **(today)**
-- [`canvas-mcp`](https://github.com/taciturnaxolotl/canvas-mcp) - _a fancy canvas mcp server!_ **(today)**
+- [`overpass`](https://github.com/taciturnaxolotl/overpass) - _gas tracking without the ads_ **(today)**
 - [`indiko`](https://github.com/taciturnaxolotl/indiko) - _indieauth and oauth 2.0 compatible auth server for my homelab_ **(today)**
-- [`unowheel`](https://github.com/taciturnaxolotl/unowheel) - _onewheel ios app_ **(today)**
+- [`herald`](https://github.com/taciturnaxolotl/herald) - _rss email digests over ssh because you're a cool kid_ **(today)**
 
 #### 📦  My latest projects
 
@@ -30,20 +30,20 @@ When not doing school or working on a random project, I enjoy working on hardwar
 
 ```text
 💾 Languages:
-unknown          37h 22m 35s   ████████████████████░░░░░  76.63%
-Go               3h 28m 37s    ██░░░░░░░░░░░░░░░░░░░░░░░  7.13%
-Markdown         2h 56m 43s    ██░░░░░░░░░░░░░░░░░░░░░░░  6.04%
-Swift            1h 16m 56s    █░░░░░░░░░░░░░░░░░░░░░░░░  2.63%
-TypeScript       46m 53s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.60%
+unknown          39h 22m 14s   ████████████████████░░░░░  76.20%
+Go               3h 45m 42s    ██░░░░░░░░░░░░░░░░░░░░░░░  7.28%
+Markdown         3h 2m 43s     ██░░░░░░░░░░░░░░░░░░░░░░░  5.89%
+Swift            1h 23m 33s    █░░░░░░░░░░░░░░░░░░░░░░░░  2.70%
+TypeScript       1h 2m 23s     █░░░░░░░░░░░░░░░░░░░░░░░░  2.01%
 
 💼 Projects:
-crush            13h 47m 7s    ███████░░░░░░░░░░░░░░░░░░  25.71%
-test             8h 17m 18s    ████░░░░░░░░░░░░░░░░░░░░░  15.46%
-unowheel         5h 51m 11s    ███░░░░░░░░░░░░░░░░░░░░░░  10.92%
-ncl              4h 39m 30s    ███░░░░░░░░░░░░░░░░░░░░░░  8.69%
-CO.A.40_116127   3h 38m 33s    ██░░░░░░░░░░░░░░░░░░░░░░░  6.79%
+crush            15h 0m 48s    ███████░░░░░░░░░░░░░░░░░░  26.65%
+test             8h 17m 18s    ████░░░░░░░░░░░░░░░░░░░░░  14.71%
+unowheel         5h 51m 11s    ███░░░░░░░░░░░░░░░░░░░░░░  10.39%
+ncl              4h 39m 30s    ███░░░░░░░░░░░░░░░░░░░░░░  8.27%
+CO.A.40_116127   3h 38m 33s    ██░░░░░░░░░░░░░░░░░░░░░░░  6.46%
 
-Total: 38 hrs 51 mins
+Total: 40 hrs 51 mins
 ```
 
 #### 📮  Want to say hi?
