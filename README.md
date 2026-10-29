@@ -4,14 +4,14 @@ When not doing school or working on a random project, I enjoy working on hardwar
 
 #### 🏗️  The latest repos I've pushed to
 
-- [`cedarengine`](https://github.com/taciturnaxolotl/cedarengine) - _data_ **(today)**
-- [`userscripts`](https://github.com/taciturnaxolotl/userscripts) - _kieran's fancy userscripts_ **(today)**
-- [`kloe`](https://github.com/taciturnaxolotl/kloe) - _llm chat done the right way™_ **(today)**
-- [`crush`](https://github.com/charmbracelet/crush) - _Glamourous agentic coding for all 💘_ **(today)**
-- [`dots`](https://github.com/taciturnaxolotl/dots) - _Kieran's opinionated (and ever expanding) nix config_ **(today)**
-- [`overpass`](https://github.com/taciturnaxolotl/overpass) - _gas tracking without the ads_ **(today)**
-- [`indiko`](https://github.com/taciturnaxolotl/indiko) - _indieauth and oauth 2.0 compatible auth server for my homelab_ **(today)**
-- [`herald`](https://github.com/taciturnaxolotl/herald) - _rss email digests over ssh because you're a cool kid_ **(today)**
+- [`cedarengine`](https://github.com/taciturnaxolotl/cedarengine) - _data_ **(1 day ago)**
+- [`userscripts`](https://github.com/taciturnaxolotl/userscripts) - _kieran's fancy userscripts_ **(1 day ago)**
+- [`kloe`](https://github.com/taciturnaxolotl/kloe) - _llm chat done the right way™_ **(1 day ago)**
+- [`crush`](https://github.com/charmbracelet/crush) - _Glamourous agentic coding for all 💘_ **(1 day ago)**
+- [`dots`](https://github.com/taciturnaxolotl/dots) - _Kieran's opinionated (and ever expanding) nix config_ **(1 day ago)**
+- [`overpass`](https://github.com/taciturnaxolotl/overpass) - _gas tracking without the ads_ **(1 day ago)**
+- [`indiko`](https://github.com/taciturnaxolotl/indiko) - _indieauth and oauth 2.0 compatible auth server for my homelab_ **(1 day ago)**
+- [`herald`](https://github.com/taciturnaxolotl/herald) - _rss email digests over ssh because you're a cool kid_ **(1 day ago)**
 
 #### 📦  My latest projects
 
@@ -30,20 +30,20 @@ When not doing school or working on a random project, I enjoy working on hardwar
 
 ```text
 💾 Languages:
-unknown          39h 22m 14s   ████████████████████░░░░░  76.20%
-Go               3h 45m 42s    ██░░░░░░░░░░░░░░░░░░░░░░░  7.28%
-Markdown         3h 2m 43s     ██░░░░░░░░░░░░░░░░░░░░░░░  5.89%
-Swift            1h 23m 33s    █░░░░░░░░░░░░░░░░░░░░░░░░  2.70%
-TypeScript       1h 2m 23s     █░░░░░░░░░░░░░░░░░░░░░░░░  2.01%
+unknown          34h 53m 38s   ███████████████████░░░░░░  74.83%
+Go               3h 22m 25s    ██░░░░░░░░░░░░░░░░░░░░░░░  7.23%
+Markdown         2h 50m 33s    ██░░░░░░░░░░░░░░░░░░░░░░░  6.10%
+Swift            1h 23m 33s    █░░░░░░░░░░░░░░░░░░░░░░░░  2.99%
+TypeScript       1h 2m 23s     █░░░░░░░░░░░░░░░░░░░░░░░░  2.23%
 
 💼 Projects:
-crush            15h 0m 48s    ███████░░░░░░░░░░░░░░░░░░  26.65%
-test             8h 17m 18s    ████░░░░░░░░░░░░░░░░░░░░░  14.71%
-unowheel         5h 51m 11s    ███░░░░░░░░░░░░░░░░░░░░░░  10.39%
-ncl              4h 39m 30s    ███░░░░░░░░░░░░░░░░░░░░░░  8.27%
-CO.A.40_116127   3h 38m 33s    ██░░░░░░░░░░░░░░░░░░░░░░░  6.46%
+crush            14h 3m 42s    ███████░░░░░░░░░░░░░░░░░░  27.12%
+unowheel         5h 51m 11s    ███░░░░░░░░░░░░░░░░░░░░░░  11.29%
+test             4h 50m 33s    ███░░░░░░░░░░░░░░░░░░░░░░  9.34%
+ncl              4h 39m 30s    ███░░░░░░░░░░░░░░░░░░░░░░  8.98%
+CO.A.40_116127   3h 38m 33s    ██░░░░░░░░░░░░░░░░░░░░░░░  7.02%
 
-Total: 40 hrs 51 mins
+Total: 36 hrs 22 mins
 ```
 
 #### 📮  Want to say hi?
