@@ -4,14 +4,14 @@ When not doing school or working on a random project, I enjoy working on hardwar
 
 #### 🏗️  The latest repos I've pushed to
 
-- [`dots`](https://github.com/taciturnaxolotl/dots) - _Kieran's opinionated (and ever expanding) nix config_ **(today)**
-- [`cull`](https://github.com/taciturnaxolotl/cull) - _as the title says; culls raw photos_ **(today)**
 - [`herald`](https://github.com/taciturnaxolotl/herald) - _rss email digests over ssh because you're a cool kid_ **(1 day ago)**
-- [`prickly`](https://github.com/taciturnaxolotl/prickly) - _browser use! but slightly less prickly_ **(1 day ago)**
-- [`overpass`](https://github.com/taciturnaxolotl/overpass) - _gas tracking without the ads_ **(1 day ago)**
-- [`pirateship-api`](https://github.com/taciturnaxolotl/pirateship-api) - _the pirateship api - typed_ **(1 day ago)**
-- [`indiko`](https://github.com/taciturnaxolotl/indiko) - _indieauth and oauth 2.0 compatible auth server for my homelab_ **(1 day ago)**
-- [`hn-alerts`](https://github.com/taciturnaxolotl/hn-alerts) - _a bot to track your hackernews posts!_ **(1 day ago)**
+- [`cull`](https://github.com/taciturnaxolotl/cull) - _as the title says; culls raw photos_ **(1 day ago)**
+- [`crush`](https://github.com/charmbracelet/crush) - _Glamourous agentic coding for all 💘_ **(1 day ago)**
+- [`dots`](https://github.com/taciturnaxolotl/dots) - _Kieran's opinionated (and ever expanding) nix config_ **(1 day ago)**
+- [`cachet`](https://github.com/taciturnaxolotl/cachet) - _a cache for slack profile pictures and emojis_ **(2 days ago)**
+- [`kloe`](https://github.com/taciturnaxolotl/kloe) - _llm chat done the right way™_ **(2 days ago)**
+- [`indiko`](https://github.com/taciturnaxolotl/indiko) - _indieauth and oauth 2.0 compatible auth server for my homelab_ **(2 days ago)**
+- [`overpass`](https://github.com/taciturnaxolotl/overpass) - _gas tracking without the ads_ **(2 days ago)**
 
 #### 📦  My latest projects
 
@@ -30,20 +30,20 @@ When not doing school or working on a random project, I enjoy working on hardwar
 
 ```text
 💾 Languages:
-unknown          38h 42m 40s   ███████████████████░░░░░░  74.53%
-Go               3h 45m 33s    ██░░░░░░░░░░░░░░░░░░░░░░░  7.24%
-Markdown         2h 58m 43s    ██░░░░░░░░░░░░░░░░░░░░░░░  5.73%
-Swift            1h 23m 33s    █░░░░░░░░░░░░░░░░░░░░░░░░  2.68%
-TypeScript       1h 2m 23s     █░░░░░░░░░░░░░░░░░░░░░░░░  2.00%
+unknown          40h 20m 59s   ███████████████████░░░░░░  74.97%
+Go               3h 45m 33s    ██░░░░░░░░░░░░░░░░░░░░░░░  6.98%
+Markdown         3h 0m 43s     ██░░░░░░░░░░░░░░░░░░░░░░░  5.60%
+Swift            1h 23m 33s    █░░░░░░░░░░░░░░░░░░░░░░░░  2.59%
+TypeScript       1h 2m 23s     █░░░░░░░░░░░░░░░░░░░░░░░░  1.93%
 
 💼 Projects:
-crush            16h 16m 18s   ████████░░░░░░░░░░░░░░░░░  28.21%
-unowheel         5h 53m 11s    ███░░░░░░░░░░░░░░░░░░░░░░  10.20%
-test             4h 52m 54s    ███░░░░░░░░░░░░░░░░░░░░░░  8.46%
-ncl              4h 39m 30s    ███░░░░░░░░░░░░░░░░░░░░░░  8.08%
-CO.A.40_116127   3h 38m 33s    ██░░░░░░░░░░░░░░░░░░░░░░░  6.31%
+crush            17h 39m 12s   ████████░░░░░░░░░░░░░░░░░  29.49%
+unowheel         5h 53m 11s    ███░░░░░░░░░░░░░░░░░░░░░░  9.83%
+test             5h 8m 24s     ███░░░░░░░░░░░░░░░░░░░░░░  8.59%
+ncl              4h 39m 30s    ██░░░░░░░░░░░░░░░░░░░░░░░  7.78%
+CO.A.40_116127   3h 38m 33s    ██░░░░░░░░░░░░░░░░░░░░░░░  6.09%
 
-Total: 40 hrs 11 mins
+Total: 41 hrs 50 mins
 ```
 
 #### 📮  Want to say hi?
