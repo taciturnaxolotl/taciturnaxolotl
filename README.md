@@ -4,11 +4,11 @@ When not doing school or working on a random project, I enjoy working on hardwar
 
 #### 🏗️  The latest repos I've pushed to
 
+- [`crush`](https://github.com/charmbracelet/crush) - _Glamourous agentic coding for all 💘_ **(today)**
 - [`dots`](https://github.com/taciturnaxolotl/dots) - _Kieran's opinionated (and ever expanding) nix config_ **(today)**
 - [`fantasy`](https://github.com/charmbracelet/fantasy) - _Build AI agents with Go. Multiple providers, multiple models, one API. 🧙_ **(1 day ago)**
 - [`nur`](https://github.com/charmbracelet/nur) - _charm's nix user repo_ **(1 day ago)**
 - [`cull`](https://github.com/taciturnaxolotl/cull) - _as the title says; culls raw photos_ **(2 days ago)**
-- [`crush`](https://github.com/charmbracelet/crush) - _Glamourous agentic coding for all 💘_ **(2 days ago)**
 - [`herald`](https://github.com/taciturnaxolotl/herald) - _rss email digests over ssh because you're a cool kid_ **(2 days ago)**
 - [`indiko`](https://github.com/taciturnaxolotl/indiko) - _indieauth and oauth 2.0 compatible auth server for my homelab_ **(3 days ago)**
 - [`unowheel`](https://github.com/taciturnaxolotl/unowheel) - _onewheel ios app_ **(3 days ago)**
@@ -30,20 +30,20 @@ When not doing school or working on a random project, I enjoy working on hardwar
 
 ```text
 💾 Languages:
-unknown          37h 16m 49s   ███████████████████░░░░░░  73.49%
-Go               3h 44m 48s    ██░░░░░░░░░░░░░░░░░░░░░░░  7.39%
-Markdown         3h 26m 23s    ██░░░░░░░░░░░░░░░░░░░░░░░  6.78%
-TypeScript       55m 12s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.81%
-Swift            53m 47s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.77%
+unknown             40h 55m 55s   ███████████████████░░░░░░  74.23%
+Go                  3h 57m 28s    ██░░░░░░░░░░░░░░░░░░░░░░░  7.18%
+Markdown            3h 45m 28s    ██░░░░░░░░░░░░░░░░░░░░░░░  6.81%
+TypeScript          55m 12s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.67%
+Swift               53m 47s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.63%
 
 💼 Projects:
-crush            17h 18m 34s   ████████░░░░░░░░░░░░░░░░░  30.96%
-test             4h 46m 17s    ███░░░░░░░░░░░░░░░░░░░░░░  8.53%
-ncl              3h 45m 37s    ██░░░░░░░░░░░░░░░░░░░░░░░  6.73%
-CO.A.40_116127   3h 38m 33s    ██░░░░░░░░░░░░░░░░░░░░░░░  6.52%
-unowheel         3h 8m 48s     ██░░░░░░░░░░░░░░░░░░░░░░░  5.63%
+crush               18h 18m 9s    ████████░░░░░░░░░░░░░░░░░  30.11%
+ccdc-midwest-2026   6h 32m 19s    ███░░░░░░░░░░░░░░░░░░░░░░  10.76%
+test                4h 46m 17s    ██░░░░░░░░░░░░░░░░░░░░░░░  7.85%
+ncl                 3h 45m 37s    ██░░░░░░░░░░░░░░░░░░░░░░░  6.19%
+CO.A.40_116127      3h 38m 33s    ██░░░░░░░░░░░░░░░░░░░░░░░  5.99%
 
-Total: 38 hrs 49 mins
+Total: 42 hrs 29 mins
 ```
 
 #### 📮  Want to say hi?
