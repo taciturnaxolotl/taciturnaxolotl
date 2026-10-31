@@ -4,14 +4,14 @@ When not doing school or working on a random project, I enjoy working on hardwar
 
 #### 🏗️  The latest repos I've pushed to
 
+- [`dots`](https://github.com/taciturnaxolotl/dots) - _Kieran's opinionated (and ever expanding) nix config_ **(today)**
 - [`fantasy`](https://github.com/charmbracelet/fantasy) - _Build AI agents with Go. Multiple providers, multiple models, one API. 🧙_ **(1 day ago)**
 - [`nur`](https://github.com/charmbracelet/nur) - _charm's nix user repo_ **(1 day ago)**
-- [`herald`](https://github.com/taciturnaxolotl/herald) - _rss email digests over ssh because you're a cool kid_ **(2 days ago)**
-- [`crush`](https://github.com/charmbracelet/crush) - _Glamourous agentic coding for all 💘_ **(2 days ago)**
 - [`cull`](https://github.com/taciturnaxolotl/cull) - _as the title says; culls raw photos_ **(2 days ago)**
-- [`dots`](https://github.com/taciturnaxolotl/dots) - _Kieran's opinionated (and ever expanding) nix config_ **(2 days ago)**
-- [`control`](https://github.com/taciturnaxolotl/control) - __ **(3 days ago)**
-- [`traverse`](https://github.com/taciturnaxolotl/traverse) - _snatching amp walkthrough for my own purposes mwhahahaha_ **(3 days ago)**
+- [`crush`](https://github.com/charmbracelet/crush) - _Glamourous agentic coding for all 💘_ **(2 days ago)**
+- [`herald`](https://github.com/taciturnaxolotl/herald) - _rss email digests over ssh because you're a cool kid_ **(2 days ago)**
+- [`indiko`](https://github.com/taciturnaxolotl/indiko) - _indieauth and oauth 2.0 compatible auth server for my homelab_ **(3 days ago)**
+- [`unowheel`](https://github.com/taciturnaxolotl/unowheel) - _onewheel ios app_ **(3 days ago)**
 
 #### 📦  My latest projects
 
@@ -30,20 +30,20 @@ When not doing school or working on a random project, I enjoy working on hardwar
 
 ```text
 💾 Languages:
-unknown          34h 1m 56s   ███████████████████░░░░░░  72.72%
-Go               3h 33m 25s   ██░░░░░░░░░░░░░░░░░░░░░░░  7.60%
-Markdown         3h 7m 54s    ██░░░░░░░░░░░░░░░░░░░░░░░  6.69%
-TypeScript       55m 12s      █░░░░░░░░░░░░░░░░░░░░░░░░  1.97%
-Swift            53m 47s      █░░░░░░░░░░░░░░░░░░░░░░░░  1.92%
+unknown          37h 16m 49s   ███████████████████░░░░░░  73.49%
+Go               3h 44m 48s    ██░░░░░░░░░░░░░░░░░░░░░░░  7.39%
+Markdown         3h 26m 23s    ██░░░░░░░░░░░░░░░░░░░░░░░  6.78%
+TypeScript       55m 12s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.81%
+Swift            53m 47s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.77%
 
 💼 Projects:
-crush            16h 38m 8s   █████████░░░░░░░░░░░░░░░░  32.06%
-test             4h 44m 17s   ███░░░░░░░░░░░░░░░░░░░░░░  9.13%
-ncl              3h 45m 37s   ██░░░░░░░░░░░░░░░░░░░░░░░  7.25%
-CO.A.40_116127   3h 38m 33s   ██░░░░░░░░░░░░░░░░░░░░░░░  7.02%
-unowheel         3h 6m 48s    ██░░░░░░░░░░░░░░░░░░░░░░░  6.00%
+crush            17h 18m 34s   ████████░░░░░░░░░░░░░░░░░  30.96%
+test             4h 46m 17s    ███░░░░░░░░░░░░░░░░░░░░░░  8.53%
+ncl              3h 45m 37s    ██░░░░░░░░░░░░░░░░░░░░░░░  6.73%
+CO.A.40_116127   3h 38m 33s    ██░░░░░░░░░░░░░░░░░░░░░░░  6.52%
+unowheel         3h 8m 48s     ██░░░░░░░░░░░░░░░░░░░░░░░  5.63%
 
-Total: 35 hrs 34 mins
+Total: 38 hrs 49 mins
 ```
 
 #### 📮  Want to say hi?
