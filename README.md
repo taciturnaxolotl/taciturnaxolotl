@@ -4,14 +4,14 @@ When not doing school or working on a random project, I enjoy working on hardwar
 
 #### 🏗️  The latest repos I've pushed to
 
-- [`fantasy`](https://github.com/charmbracelet/fantasy) - _Build AI agents with Go. Multiple providers, multiple models, one API. 🧙_ **(today)**
-- [`nur`](https://github.com/charmbracelet/nur) - _charm's nix user repo_ **(today)**
-- [`herald`](https://github.com/taciturnaxolotl/herald) - _rss email digests over ssh because you're a cool kid_ **(1 day ago)**
-- [`crush`](https://github.com/charmbracelet/crush) - _Glamourous agentic coding for all 💘_ **(1 day ago)**
-- [`cull`](https://github.com/taciturnaxolotl/cull) - _as the title says; culls raw photos_ **(1 day ago)**
-- [`dots`](https://github.com/taciturnaxolotl/dots) - _Kieran's opinionated (and ever expanding) nix config_ **(1 day ago)**
-- [`control`](https://github.com/taciturnaxolotl/control) - __ **(2 days ago)**
-- [`traverse`](https://github.com/taciturnaxolotl/traverse) - _snatching amp walkthrough for my own purposes mwhahahaha_ **(2 days ago)**
+- [`fantasy`](https://github.com/charmbracelet/fantasy) - _Build AI agents with Go. Multiple providers, multiple models, one API. 🧙_ **(1 day ago)**
+- [`nur`](https://github.com/charmbracelet/nur) - _charm's nix user repo_ **(1 day ago)**
+- [`herald`](https://github.com/taciturnaxolotl/herald) - _rss email digests over ssh because you're a cool kid_ **(2 days ago)**
+- [`crush`](https://github.com/charmbracelet/crush) - _Glamourous agentic coding for all 💘_ **(2 days ago)**
+- [`cull`](https://github.com/taciturnaxolotl/cull) - _as the title says; culls raw photos_ **(2 days ago)**
+- [`dots`](https://github.com/taciturnaxolotl/dots) - _Kieran's opinionated (and ever expanding) nix config_ **(2 days ago)**
+- [`control`](https://github.com/taciturnaxolotl/control) - __ **(3 days ago)**
+- [`traverse`](https://github.com/taciturnaxolotl/traverse) - _snatching amp walkthrough for my own purposes mwhahahaha_ **(3 days ago)**
 
 #### 📦  My latest projects
 
