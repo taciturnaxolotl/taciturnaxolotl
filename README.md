@@ -4,14 +4,14 @@ When not doing school or working on a random project, I enjoy working on hardwar
 
 #### 🏗️  The latest repos I've pushed to
 
-- [`crush`](https://github.com/charmbracelet/crush) - _Glamourous agentic coding for all 💘_ **(today)**
-- [`dots`](https://github.com/taciturnaxolotl/dots) - _Kieran's opinionated (and ever expanding) nix config_ **(today)**
-- [`fantasy`](https://github.com/charmbracelet/fantasy) - _Build AI agents with Go. Multiple providers, multiple models, one API. 🧙_ **(1 day ago)**
-- [`nur`](https://github.com/charmbracelet/nur) - _charm's nix user repo_ **(1 day ago)**
-- [`cull`](https://github.com/taciturnaxolotl/cull) - _as the title says; culls raw photos_ **(2 days ago)**
-- [`herald`](https://github.com/taciturnaxolotl/herald) - _rss email digests over ssh because you're a cool kid_ **(2 days ago)**
-- [`indiko`](https://github.com/taciturnaxolotl/indiko) - _indieauth and oauth 2.0 compatible auth server for my homelab_ **(3 days ago)**
-- [`unowheel`](https://github.com/taciturnaxolotl/unowheel) - _onewheel ios app_ **(3 days ago)**
+- [`crush`](https://github.com/charmbracelet/crush) - _Glamourous agentic coding for all 💘_ **(1 day ago)**
+- [`dots`](https://github.com/taciturnaxolotl/dots) - _Kieran's opinionated (and ever expanding) nix config_ **(1 day ago)**
+- [`fantasy`](https://github.com/charmbracelet/fantasy) - _Build AI agents with Go. Multiple providers, multiple models, one API. 🧙_ **(2 days ago)**
+- [`nur`](https://github.com/charmbracelet/nur) - _charm's nix user repo_ **(2 days ago)**
+- [`cull`](https://github.com/taciturnaxolotl/cull) - _as the title says; culls raw photos_ **(3 days ago)**
+- [`herald`](https://github.com/taciturnaxolotl/herald) - _rss email digests over ssh because you're a cool kid_ **(3 days ago)**
+- [`indiko`](https://github.com/taciturnaxolotl/indiko) - _indieauth and oauth 2.0 compatible auth server for my homelab_ **(4 days ago)**
+- [`unowheel`](https://github.com/taciturnaxolotl/unowheel) - _onewheel ios app_ **(4 days ago)**
 
 #### 📦  My latest projects
 
@@ -30,20 +30,20 @@ When not doing school or working on a random project, I enjoy working on hardwar
 
 ```text
 💾 Languages:
-unknown             40h 55m 55s   ███████████████████░░░░░░  74.23%
-Go                  3h 57m 28s    ██░░░░░░░░░░░░░░░░░░░░░░░  7.18%
-Markdown            3h 45m 28s    ██░░░░░░░░░░░░░░░░░░░░░░░  6.81%
-TypeScript          55m 12s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.67%
-Swift               53m 47s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.63%
+unknown             42h 47m 40s   ███████████████████░░░░░░  74.18%
+Go                  3h 59m 35s    ██░░░░░░░░░░░░░░░░░░░░░░░  6.92%
+Markdown            3h 47m 28s    ██░░░░░░░░░░░░░░░░░░░░░░░  6.57%
+TypeScript          55m 12s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.59%
+Swift               53m 47s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.55%
 
 💼 Projects:
-crush               18h 18m 9s    ████████░░░░░░░░░░░░░░░░░  30.11%
-ccdc-midwest-2026   6h 32m 19s    ███░░░░░░░░░░░░░░░░░░░░░░  10.76%
-test                4h 46m 17s    ██░░░░░░░░░░░░░░░░░░░░░░░  7.85%
-ncl                 3h 45m 37s    ██░░░░░░░░░░░░░░░░░░░░░░░  6.19%
-CO.A.40_116127      3h 38m 33s    ██░░░░░░░░░░░░░░░░░░░░░░░  5.99%
+crush               18h 36m 7s    ████████░░░░░░░░░░░░░░░░░  29.55%
+ccdc-midwest-2026   7h 25m 56s    ███░░░░░░░░░░░░░░░░░░░░░░  11.81%
+test                4h 46m 17s    ██░░░░░░░░░░░░░░░░░░░░░░░  7.58%
+ncl                 3h 45m 37s    ██░░░░░░░░░░░░░░░░░░░░░░░  5.97%
+CO.A.40_116127      3h 38m 33s    ██░░░░░░░░░░░░░░░░░░░░░░░  5.79%
 
-Total: 42 hrs 29 mins
+Total: 44 hrs 27 mins
 ```
 
 #### 📮  Want to say hi?
