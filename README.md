@@ -4,14 +4,14 @@ When not doing school or working on a random project, I enjoy working on hardwar
 
 #### 🏗️  The latest repos I've pushed to
 
-- [`crush`](https://github.com/charmbracelet/crush) - _Glamourous agentic coding for all 💘_ **(today)**
-- [`cachet`](https://github.com/taciturnaxolotl/cachet) - _a cache for slack profile pictures and emojis_ **(1 day ago)**
-- [`dots`](https://github.com/taciturnaxolotl/dots) - _Kieran's opinionated (and ever expanding) nix config_ **(2 days ago)**
-- [`cedarengine`](https://github.com/taciturnaxolotl/cedarengine) - _data_ **(2 days ago)**
-- [`melty`](https://github.com/taciturnaxolotl/melty) - _mcp server with fts5 full text search over sqlite_ **(2 days ago)**
-- [`fantasy`](https://github.com/charmbracelet/fantasy) - _Build AI agents with Go. Multiple providers, multiple models, one API. 🧙_ **(3 days ago)**
-- [`nur`](https://github.com/charmbracelet/nur) - _charm's nix user repo_ **(3 days ago)**
-- [`cull`](https://github.com/taciturnaxolotl/cull) - _as the title says; culls raw photos_ **(4 days ago)**
+- [`dots`](https://github.com/taciturnaxolotl/dots) - _Kieran's opinionated (and ever expanding) nix config_ **(1 day ago)**
+- [`crush`](https://github.com/charmbracelet/crush) - _Glamourous agentic coding for all 💘_ **(1 day ago)**
+- [`cachet`](https://github.com/taciturnaxolotl/cachet) - _a cache for slack profile pictures and emojis_ **(2 days ago)**
+- [`cedarengine`](https://github.com/taciturnaxolotl/cedarengine) - _data_ **(3 days ago)**
+- [`melty`](https://github.com/taciturnaxolotl/melty) - _mcp server with fts5 full text search over sqlite_ **(3 days ago)**
+- [`fantasy`](https://github.com/charmbracelet/fantasy) - _Build AI agents with Go. Multiple providers, multiple models, one API. 🧙_ **(4 days ago)**
+- [`nur`](https://github.com/charmbracelet/nur) - _charm's nix user repo_ **(4 days ago)**
+- [`herald`](https://github.com/taciturnaxolotl/herald) - _rss email digests over ssh because you're a cool kid_ **(5 days ago)**
 
 #### 📦  My latest projects
 
@@ -30,20 +30,20 @@ When not doing school or working on a random project, I enjoy working on hardwar
 
 ```text
 💾 Languages:
-unknown             37h 25m 47s   ███████████████████░░░░░░  75.23%
-Go                  3h 52m 3s     ██░░░░░░░░░░░░░░░░░░░░░░░  7.77%
-Markdown            2h 21m 57s    ██░░░░░░░░░░░░░░░░░░░░░░░  4.76%
-TypeScript          1h 12m 16s    █░░░░░░░░░░░░░░░░░░░░░░░░  2.42%
-Nix                 44m 2s        █░░░░░░░░░░░░░░░░░░░░░░░░  1.48%
+unknown             39h 6m 21s   ███████████████████░░░░░░  75.24%
+Go                  4h 0m 16s    ██░░░░░░░░░░░░░░░░░░░░░░░  7.70%
+Markdown            2h 33m 44s   ██░░░░░░░░░░░░░░░░░░░░░░░  4.93%
+TypeScript          1h 12m 16s   █░░░░░░░░░░░░░░░░░░░░░░░░  2.32%
+Nix                 48m 16s      █░░░░░░░░░░░░░░░░░░░░░░░░  1.55%
 
 💼 Projects:
-crush               18h 54m 49s   ██████████░░░░░░░░░░░░░░░  36.01%
-ccdc-midwest-2026   9h 39m 42s    █████░░░░░░░░░░░░░░░░░░░░  18.40%
-test                4h 39m 23s    ███░░░░░░░░░░░░░░░░░░░░░░  8.87%
-dots                3h 57m 10s    ██░░░░░░░░░░░░░░░░░░░░░░░  7.53%
-cedarengine         3h 29m 7s     ██░░░░░░░░░░░░░░░░░░░░░░░  6.64%
+crush               19h 16m 5s   █████████░░░░░░░░░░░░░░░░  35.26%
+ccdc-midwest-2026   9h 41m 42s   █████░░░░░░░░░░░░░░░░░░░░  17.74%
+test                6h 4m 16s    ███░░░░░░░░░░░░░░░░░░░░░░  11.11%
+dots                4h 13m 5s    ██░░░░░░░░░░░░░░░░░░░░░░░  7.72%
+cedarengine         3h 29m 7s    ██░░░░░░░░░░░░░░░░░░░░░░░  6.38%
 
-Total: 37 hrs 49 mins
+Total: 39 hrs 32 mins
 ```
 
 #### 📮  Want to say hi?
