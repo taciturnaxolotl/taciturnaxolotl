@@ -4,14 +4,14 @@ When not doing school or working on a random project, I enjoy working on hardwar
 
 #### 🏗️  The latest repos I've pushed to
 
-- [`holy-guacamole`](https://github.com/taciturnaxolotl/holy-guacamole) - _meltybrain avacado 🥑_ **(1 day ago)**
+- [`holy-guacamole`](https://github.com/taciturnaxolotl/holy-guacamole) - _meltybrain avacado 🥑_ **(today)**
 - [`userscripts`](https://github.com/taciturnaxolotl/userscripts) - _kieran's fancy userscripts_ **(1 day ago)**
 - [`crush`](https://github.com/charmbracelet/crush) - _Glamourous agentic coding for all 💘_ **(2 days ago)**
 - [`dots`](https://github.com/taciturnaxolotl/dots) - _Kieran's opinionated (and ever expanding) nix config_ **(2 days ago)**
 - [`cachet`](https://github.com/taciturnaxolotl/cachet) - _a cache for slack profile pictures and emojis_ **(3 days ago)**
-- [`cedarengine`](https://github.com/taciturnaxolotl/cedarengine) - _data_ **(4 days ago)**
 - [`melty`](https://github.com/taciturnaxolotl/melty) - _mcp server with fts5 full text search over sqlite_ **(4 days ago)**
-- [`fantasy`](https://github.com/charmbracelet/fantasy) - _Build AI agents with Go. Multiple providers, multiple models, one API. 🧙_ **(5 days ago)**
+- [`cedarengine`](https://github.com/taciturnaxolotl/cedarengine) - _data_ **(4 days ago)**
+- [`nur`](https://github.com/charmbracelet/nur) - _charm's nix user repo_ **(5 days ago)**
 
 #### 📦  My latest projects
 
@@ -30,20 +30,20 @@ When not doing school or working on a random project, I enjoy working on hardwar
 
 ```text
 💾 Languages:
-unknown             37h 38m 41s   ████████████████████░░░░░  78.80%
-Go                  2h 54m 3s     ██░░░░░░░░░░░░░░░░░░░░░░░  6.07%
-Markdown            2h 25m 29s    ██░░░░░░░░░░░░░░░░░░░░░░░  5.08%
-Nix                 48m 16s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.68%
-TypeScript          45m 33s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.59%
+unknown             35h 18m 36s   ████████████████████░░░░░  78.39%
+Markdown            2h 21m 27s    ██░░░░░░░░░░░░░░░░░░░░░░░  5.23%
+Go                  2h 16m 27s    ██░░░░░░░░░░░░░░░░░░░░░░░  5.05%
+Swift               56m 37s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.09%
+Nix                 48m 16s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.79%
 
 💼 Projects:
-crush               16h 54m 3s    █████████░░░░░░░░░░░░░░░░  32.30%
-ccdc-midwest-2026   9h 41m 42s    █████░░░░░░░░░░░░░░░░░░░░  18.53%
-test                7h 0m 38s     ████░░░░░░░░░░░░░░░░░░░░░  13.40%
-dots                4h 8m 44s     ██░░░░░░░░░░░░░░░░░░░░░░░  7.92%
-cedarengine         1h 53m 45s    █░░░░░░░░░░░░░░░░░░░░░░░░  3.62%
+crush               13h 40m 7s    ███████░░░░░░░░░░░░░░░░░░  27.90%
+ccdc-midwest-2026   9h 41m 42s    █████░░░░░░░░░░░░░░░░░░░░  19.79%
+unowheel            4h 10m 53s    ███░░░░░░░░░░░░░░░░░░░░░░  8.53%
+dots                4h 1m 59s     ███░░░░░░░░░░░░░░░░░░░░░░  8.23%
+test                3h 40m 39s    ██░░░░░░░░░░░░░░░░░░░░░░░  7.51%
 
-Total: 37 hrs 58 mins
+Total: 35 hrs 35 mins
 ```
 
 #### 📮  Want to say hi?
