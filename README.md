@@ -4,14 +4,14 @@ When not doing school or working on a random project, I enjoy working on hardwar
 
 #### 🏗️  The latest repos I've pushed to
 
-- [`holy-guacamole`](https://github.com/taciturnaxolotl/holy-guacamole) - _meltybrain avacado 🥑_ **(1 day ago)**
+- [`cachet`](https://github.com/taciturnaxolotl/cachet) - _a cache for slack profile pictures and emojis_ **(today)**
 - [`crush`](https://github.com/charmbracelet/crush) - _Glamourous agentic coding for all 💘_ **(1 day ago)**
-- [`unowheel`](https://github.com/taciturnaxolotl/unowheel) - _onewheel ios app_ **(1 day ago)**
 - [`group-me-not`](https://github.com/taciturnaxolotl/group-me-not) - _OSS GroupMe app_ **(1 day ago)**
 - [`dots`](https://github.com/taciturnaxolotl/dots) - _Kieran's opinionated (and ever expanding) nix config_ **(1 day ago)**
+- [`unowheel`](https://github.com/taciturnaxolotl/unowheel) - _onewheel ios app_ **(1 day ago)**
+- [`holy-guacamole`](https://github.com/taciturnaxolotl/holy-guacamole) - _meltybrain avacado 🥑_ **(1 day ago)**
 - [`userscripts`](https://github.com/taciturnaxolotl/userscripts) - _kieran's fancy userscripts_ **(2 days ago)**
-- [`cachet`](https://github.com/taciturnaxolotl/cachet) - _a cache for slack profile pictures and emojis_ **(4 days ago)**
-- [`melty`](https://github.com/taciturnaxolotl/melty) - _mcp server with fts5 full text search over sqlite_ **(5 days ago)**
+- [`cedarengine`](https://github.com/taciturnaxolotl/cedarengine) - _data_ **(5 days ago)**
 
 #### 📦  My latest projects
 
@@ -30,20 +30,20 @@ When not doing school or working on a random project, I enjoy working on hardwar
 
 ```text
 💾 Languages:
-unknown             34h 38m 29s   █████████████████████░░░░  81.03%
-Markdown            2h 13m 43s    ██░░░░░░░░░░░░░░░░░░░░░░░  5.21%
-Go                  1h 41m 40s    █░░░░░░░░░░░░░░░░░░░░░░░░  3.96%
-Swift               48m 32s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.89%
-Nix                 48m 24s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.89%
+unknown             36h 48m 23s   █████████████████████░░░░  81.23%
+Markdown            2h 15m 43s    ██░░░░░░░░░░░░░░░░░░░░░░░  4.99%
+Go                  1h 43m 42s    █░░░░░░░░░░░░░░░░░░░░░░░░  3.81%
+Nix                 56m 46s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.09%
+Swift               48m 32s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.79%
 
 💼 Projects:
-crush               11h 26m 29s   ███████░░░░░░░░░░░░░░░░░░  24.83%
-ccdc-midwest-2026   9h 41m 42s    ██████░░░░░░░░░░░░░░░░░░░  21.04%
-unowheel            4h 24m 13s    ███░░░░░░░░░░░░░░░░░░░░░░  9.56%
-dots                3h 54m 28s    ███░░░░░░░░░░░░░░░░░░░░░░  8.48%
-test                3h 45m 41s    ███░░░░░░░░░░░░░░░░░░░░░░  8.16%
+crush               11h 47m 11s   ███████░░░░░░░░░░░░░░░░░░  24.02%
+ccdc-midwest-2026   9h 41m 42s    █████░░░░░░░░░░░░░░░░░░░░  19.76%
+dots                4h 59m 53s    ███░░░░░░░░░░░░░░░░░░░░░░  10.18%
+unowheel            4h 24m 13s    ███░░░░░░░░░░░░░░░░░░░░░░  8.97%
+holy-guacamole      4h 15m 35s    ███░░░░░░░░░░░░░░░░░░░░░░  8.68%
 
-Total: 34 hrs 56 mins
+Total: 37 hrs 6 mins
 ```
 
 #### 📮  Want to say hi?
