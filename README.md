@@ -4,21 +4,21 @@ When not doing school or working on a random project, I enjoy working on hardwar
 
 #### 🏗️  The latest repos I've pushed to
 
-- [`cachet`](https://github.com/taciturnaxolotl/cachet) - _a cache for slack profile pictures and emojis_ **(today)**
-- [`crush`](https://github.com/charmbracelet/crush) - _Glamourous agentic coding for all 💘_ **(1 day ago)**
-- [`group-me-not`](https://github.com/taciturnaxolotl/group-me-not) - _OSS GroupMe app_ **(1 day ago)**
 - [`dots`](https://github.com/taciturnaxolotl/dots) - _Kieran's opinionated (and ever expanding) nix config_ **(1 day ago)**
-- [`unowheel`](https://github.com/taciturnaxolotl/unowheel) - _onewheel ios app_ **(1 day ago)**
+- [`crush`](https://github.com/charmbracelet/crush) - _Glamourous agentic coding for all 💘_ **(1 day ago)**
+- [`cachet`](https://github.com/taciturnaxolotl/cachet) - _a cache for slack profile pictures and emojis_ **(1 day ago)**
 - [`holy-guacamole`](https://github.com/taciturnaxolotl/holy-guacamole) - _meltybrain avacado 🥑_ **(1 day ago)**
-- [`userscripts`](https://github.com/taciturnaxolotl/userscripts) - _kieran's fancy userscripts_ **(2 days ago)**
-- [`cedarengine`](https://github.com/taciturnaxolotl/cedarengine) - _data_ **(5 days ago)**
+- [`cedarengine`](https://github.com/taciturnaxolotl/cedarengine) - _data_ **(1 day ago)**
+- [`unowheel`](https://github.com/taciturnaxolotl/unowheel) - _onewheel ios app_ **(2 days ago)**
+- [`group-me-not`](https://github.com/taciturnaxolotl/group-me-not) - _OSS GroupMe app_ **(2 days ago)**
+- [`userscripts`](https://github.com/taciturnaxolotl/userscripts) - _kieran's fancy userscripts_ **(3 days ago)**
 
 #### 📦  My latest projects
 
+- [`slackline`](https://github.com/taciturnaxolotl/slackline) - _slack api for gleam_
+- [`crushling`](https://github.com/taciturnaxolotl/crushling) - _so cuuuuute 💖_
 - [`userscripts`](https://github.com/taciturnaxolotl/userscripts) - _kieran's fancy userscripts_
 - [`civil-war`](https://github.com/taciturnaxolotl/civil-war) - _civil warrrrr_
-- [`unowheel`](https://github.com/taciturnaxolotl/unowheel) - _onewheel ios app_
-- [`prickly`](https://github.com/taciturnaxolotl/prickly) - _browser use! but slightly less prickly_
 
 #### 🪧  The latest posts from [`dunkirk.sh`](https://dunkirk.sh)
 
@@ -30,20 +30,20 @@ When not doing school or working on a random project, I enjoy working on hardwar
 
 ```text
 💾 Languages:
-unknown             36h 48m 23s   █████████████████████░░░░  81.23%
-Markdown            2h 15m 43s    ██░░░░░░░░░░░░░░░░░░░░░░░  4.99%
-Go                  1h 43m 42s    █░░░░░░░░░░░░░░░░░░░░░░░░  3.81%
-Nix                 56m 46s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.09%
-Swift               48m 32s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.79%
+unknown             39h 39m 1s   █████████████████████░░░░  80.51%
+Markdown            2h 36m 4s    ██░░░░░░░░░░░░░░░░░░░░░░░  5.28%
+Go                  2h 6m 38s    ██░░░░░░░░░░░░░░░░░░░░░░░  4.29%
+Nix                 56m 46s      █░░░░░░░░░░░░░░░░░░░░░░░░  1.92%
+Swift               50m 32s      █░░░░░░░░░░░░░░░░░░░░░░░░  1.71%
 
 💼 Projects:
-crush               11h 47m 11s   ███████░░░░░░░░░░░░░░░░░░  24.02%
-ccdc-midwest-2026   9h 41m 42s    █████░░░░░░░░░░░░░░░░░░░░  19.76%
-dots                4h 59m 53s    ███░░░░░░░░░░░░░░░░░░░░░░  10.18%
-unowheel            4h 24m 13s    ███░░░░░░░░░░░░░░░░░░░░░░  8.97%
-holy-guacamole      4h 15m 35s    ███░░░░░░░░░░░░░░░░░░░░░░  8.68%
+crush               12h 56m 1s   ███████░░░░░░░░░░░░░░░░░░  24.27%
+ccdc-midwest-2026   9h 41m 42s   █████░░░░░░░░░░░░░░░░░░░░  18.20%
+dots                5h 21m 5s    ███░░░░░░░░░░░░░░░░░░░░░░  10.04%
+holy-guacamole      4h 46m 44s   ███░░░░░░░░░░░░░░░░░░░░░░  8.97%
+unowheel            4h 24m 13s   ███░░░░░░░░░░░░░░░░░░░░░░  8.26%
 
-Total: 37 hrs 6 mins
+Total: 39 hrs 58 mins
 ```
 
 #### 📮  Want to say hi?
