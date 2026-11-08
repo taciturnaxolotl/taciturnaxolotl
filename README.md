@@ -4,10 +4,10 @@ When not doing school or working on a random project, I enjoy working on hardwar
 
 #### 🏗️  The latest repos I've pushed to
 
-- [`crushling`](https://github.com/taciturnaxolotl/crushling) - _so cuuuuute 💖_ **(1 day ago)**
-- [`crush`](https://github.com/charmbracelet/crush) - _Glamourous agentic coding for all 💘_ **(1 day ago)**
-- [`dots`](https://github.com/taciturnaxolotl/dots) - _Kieran's opinionated (and ever expanding) nix config_ **(1 day ago)**
+- [`crushling`](https://github.com/taciturnaxolotl/crushling) - _so cuuuuute 💖_ **(today)**
+- [`dots`](https://github.com/taciturnaxolotl/dots) - _Kieran's opinionated (and ever expanding) nix config_ **(today)**
 - [`slackline`](https://github.com/taciturnaxolotl/slackline) - _slack api for gleam_ **(1 day ago)**
+- [`crush`](https://github.com/charmbracelet/crush) - _Glamourous agentic coding for all 💘_ **(1 day ago)**
 - [`cull`](https://github.com/taciturnaxolotl/cull) - _as the title says; culls raw photos_ **(1 day ago)**
 - [`fantasy`](https://github.com/charmbracelet/fantasy) - _Build AI agents with Go. Multiple providers, multiple models, one API. 🧙_ **(2 days ago)**
 - [`userscripts`](https://github.com/taciturnaxolotl/userscripts) - _kieran's fancy userscripts_ **(2 days ago)**
@@ -30,20 +30,20 @@ When not doing school or working on a random project, I enjoy working on hardwar
 
 ```text
 💾 Languages:
-unknown             46h 59m 38s   █████████████████████░░░░  81.37%
-Markdown            2h 54m 1s     ██░░░░░░░░░░░░░░░░░░░░░░░  5.02%
-Go                  1h 44m 31s    █░░░░░░░░░░░░░░░░░░░░░░░░  3.02%
-Python              1h 3m 8s      █░░░░░░░░░░░░░░░░░░░░░░░░  1.82%
-Gleam               58m 6s        █░░░░░░░░░░░░░░░░░░░░░░░░  1.68%
+unknown          37h 56m 48s   █████████████████████░░░░  83.04%
+Markdown         1h 58m 24s    ██░░░░░░░░░░░░░░░░░░░░░░░  4.32%
+Go               1h 18m 20s    █░░░░░░░░░░░░░░░░░░░░░░░░  2.86%
+Gleam            1h 1m 32s     █░░░░░░░░░░░░░░░░░░░░░░░░  2.24%
+Swift            55m 30s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.02%
 
 💼 Projects:
-crush               10h 18m 40s   ████░░░░░░░░░░░░░░░░░░░░░  15.84%
-ccdc-midwest-2026   9h 41m 42s    ████░░░░░░░░░░░░░░░░░░░░░  14.90%
-crushling           6h 39m 42s    ███░░░░░░░░░░░░░░░░░░░░░░  10.24%
-dots                5h 8m 38s     ██░░░░░░░░░░░░░░░░░░░░░░░  7.90%
-slackline           4h 52m 51s    ██░░░░░░░░░░░░░░░░░░░░░░░  7.50%
+crushling        8h 17m 25s    ████░░░░░░░░░░░░░░░░░░░░░  15.75%
+crush            7h 34m 20s    ████░░░░░░░░░░░░░░░░░░░░░  14.38%
+slackline        4h 52m 51s    ███░░░░░░░░░░░░░░░░░░░░░░  9.27%
+holy-guacamole   4h 52m 44s    ███░░░░░░░░░░░░░░░░░░░░░░  9.27%
+dots             4h 34m 4s     ███░░░░░░░░░░░░░░░░░░░░░░  8.68%
 
-Total: 47 hrs 18 mins
+Total: 38 hrs 2 mins
 ```
 
 #### 📮  Want to say hi?
