@@ -4,14 +4,14 @@ When not doing school or working on a random project, I enjoy working on hardwar
 
 #### 🏗️  The latest repos I've pushed to
 
-- [`dots`](https://github.com/taciturnaxolotl/dots) - _Kieran's opinionated (and ever expanding) nix config_ **(today)**
-- [`crushling`](https://github.com/taciturnaxolotl/crushling) - _so cuuuuute 💖_ **(today)**
-- [`cull`](https://github.com/taciturnaxolotl/cull) - _as the title says; culls raw photos_ **(1 day ago)**
-- [`slackline`](https://github.com/taciturnaxolotl/slackline) - _slack api for gleam_ **(1 day ago)**
-- [`crush`](https://github.com/charmbracelet/crush) - _Glamourous agentic coding for all 💘_ **(1 day ago)**
-- [`userscripts`](https://github.com/taciturnaxolotl/userscripts) - _kieran's fancy userscripts_ **(2 days ago)**
-- [`fantasy`](https://github.com/charmbracelet/fantasy) - _Build AI agents with Go. Multiple providers, multiple models, one API. 🧙_ **(2 days ago)**
-- [`cedarengine`](https://github.com/taciturnaxolotl/cedarengine) - _data_ **(3 days ago)**
+- [`dots`](https://github.com/taciturnaxolotl/dots) - _Kieran's opinionated (and ever expanding) nix config_ **(1 day ago)**
+- [`crushling`](https://github.com/taciturnaxolotl/crushling) - _so cuuuuute 💖_ **(1 day ago)**
+- [`cull`](https://github.com/taciturnaxolotl/cull) - _as the title says; culls raw photos_ **(2 days ago)**
+- [`slackline`](https://github.com/taciturnaxolotl/slackline) - _slack api for gleam_ **(2 days ago)**
+- [`crush`](https://github.com/charmbracelet/crush) - _Glamourous agentic coding for all 💘_ **(2 days ago)**
+- [`userscripts`](https://github.com/taciturnaxolotl/userscripts) - _kieran's fancy userscripts_ **(3 days ago)**
+- [`fantasy`](https://github.com/charmbracelet/fantasy) - _Build AI agents with Go. Multiple providers, multiple models, one API. 🧙_ **(3 days ago)**
+- [`cedarengine`](https://github.com/taciturnaxolotl/cedarengine) - _data_ **(4 days ago)**
 
 #### 📦  My latest projects
 
