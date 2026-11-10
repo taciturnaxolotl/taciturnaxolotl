@@ -4,14 +4,14 @@ When not doing school or working on a random project, I enjoy working on hardwar
 
 #### 🏗️  The latest repos I've pushed to
 
-- [`crushling`](https://github.com/taciturnaxolotl/crushling) - _so cuuuuute 💖_ **(1 day ago)**
-- [`dots`](https://github.com/taciturnaxolotl/dots) - _Kieran's opinionated (and ever expanding) nix config_ **(1 day ago)**
-- [`crush`](https://github.com/charmbracelet/crush) - _Glamourous agentic coding for all 💘_ **(2 days ago)**
-- [`cull`](https://github.com/taciturnaxolotl/cull) - _as the title says; culls raw photos_ **(2 days ago)**
-- [`slackline`](https://github.com/taciturnaxolotl/slackline) - _slack api for gleam_ **(2 days ago)**
-- [`fantasy`](https://github.com/charmbracelet/fantasy) - _Build AI agents with Go. Multiple providers, multiple models, one API. 🧙_ **(3 days ago)**
-- [`userscripts`](https://github.com/taciturnaxolotl/userscripts) - _kieran's fancy userscripts_ **(3 days ago)**
-- [`cachet`](https://github.com/taciturnaxolotl/cachet) - _a cache for slack profile pictures and emojis_ **(4 days ago)**
+- [`tetricide`](https://github.com/taciturnaxolotl/tetricide) - _tetris on the DE2 via Quartus II_ **(1 day ago)**
+- [`cedarengine`](https://github.com/taciturnaxolotl/cedarengine) - _data_ **(1 day ago)**
+- [`crushling`](https://github.com/taciturnaxolotl/crushling) - _so cuuuuute 💖_ **(2 days ago)**
+- [`dots`](https://github.com/taciturnaxolotl/dots) - _Kieran's opinionated (and ever expanding) nix config_ **(2 days ago)**
+- [`crush`](https://github.com/charmbracelet/crush) - _Glamourous agentic coding for all 💘_ **(3 days ago)**
+- [`cull`](https://github.com/taciturnaxolotl/cull) - _as the title says; culls raw photos_ **(3 days ago)**
+- [`slackline`](https://github.com/taciturnaxolotl/slackline) - _slack api for gleam_ **(3 days ago)**
+- [`userscripts`](https://github.com/taciturnaxolotl/userscripts) - _kieran's fancy userscripts_ **(4 days ago)**
 
 #### 📦  My latest projects
 
@@ -30,20 +30,20 @@ When not doing school or working on a random project, I enjoy working on hardwar
 
 ```text
 💾 Languages:
-unknown          36h 15m 15s   █████████████████████░░░░  82.62%
-Markdown         1h 58m 24s    ██░░░░░░░░░░░░░░░░░░░░░░░  4.50%
-Go               1h 14m 13s    █░░░░░░░░░░░░░░░░░░░░░░░░  2.82%
-Gleam            1h 1m 32s     █░░░░░░░░░░░░░░░░░░░░░░░░  2.34%
-Swift            55m 30s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.11%
+unknown          37h 40m 22s   █████████████████████░░░░  82.84%
+Markdown         1h 58m 24s    ██░░░░░░░░░░░░░░░░░░░░░░░  4.34%
+Go               1h 14m 13s    █░░░░░░░░░░░░░░░░░░░░░░░░  2.72%
+Swift            1h 1m 39s     █░░░░░░░░░░░░░░░░░░░░░░░░  2.26%
+Gleam            1h 1m 32s     █░░░░░░░░░░░░░░░░░░░░░░░░  2.26%
 
 💼 Projects:
-crushling        8h 36m 12s    █████░░░░░░░░░░░░░░░░░░░░  17.32%
-crush            6h 30m 9s     ████░░░░░░░░░░░░░░░░░░░░░  13.09%
-slackline        4h 52m 51s    ███░░░░░░░░░░░░░░░░░░░░░░  9.83%
-holy-guacamole   4h 52m 44s    ███░░░░░░░░░░░░░░░░░░░░░░  9.82%
-test             4h 25m 35s    ███░░░░░░░░░░░░░░░░░░░░░░  8.91%
+crushling        8h 44m 12s    █████░░░░░░░░░░░░░░░░░░░░  16.90%
+crush            6h 30m 9s     ████░░░░░░░░░░░░░░░░░░░░░  12.58%
+slackline        4h 52m 51s    ███░░░░░░░░░░░░░░░░░░░░░░  9.44%
+holy-guacamole   4h 52m 44s    ███░░░░░░░░░░░░░░░░░░░░░░  9.44%
+test             4h 31m 25s    ███░░░░░░░░░░░░░░░░░░░░░░  8.75%
 
-Total: 36 hrs 20 mins
+Total: 37 hrs 46 mins
 ```
 
 #### 📮  Want to say hi?
