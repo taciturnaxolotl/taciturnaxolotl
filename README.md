@@ -6,19 +6,19 @@ When not doing school or working on a random project, I enjoy working on hardwar
 
 - [`tetricide`](https://github.com/taciturnaxolotl/tetricide) - _tetris on the DE2 via Quartus II_ **(1 day ago)**
 - [`cedarengine`](https://github.com/taciturnaxolotl/cedarengine) - _data_ **(1 day ago)**
-- [`crushling`](https://github.com/taciturnaxolotl/crushling) - _so cuuuuute 💖_ **(2 days ago)**
 - [`dots`](https://github.com/taciturnaxolotl/dots) - _Kieran's opinionated (and ever expanding) nix config_ **(2 days ago)**
+- [`crushling`](https://github.com/taciturnaxolotl/crushling) - _so cuuuuute 💖_ **(2 days ago)**
 - [`crush`](https://github.com/charmbracelet/crush) - _Glamourous agentic coding for all 💘_ **(3 days ago)**
 - [`cull`](https://github.com/taciturnaxolotl/cull) - _as the title says; culls raw photos_ **(3 days ago)**
 - [`slackline`](https://github.com/taciturnaxolotl/slackline) - _slack api for gleam_ **(3 days ago)**
-- [`userscripts`](https://github.com/taciturnaxolotl/userscripts) - _kieran's fancy userscripts_ **(4 days ago)**
+- [`fantasy`](https://github.com/charmbracelet/fantasy) - _Build AI agents with Go. Multiple providers, multiple models, one API. 🧙_ **(4 days ago)**
 
 #### 📦  My latest projects
 
+- [`doomacracy`](https://github.com/taciturnaxolotl/doomacracy) - _doom on an fpga_
 - [`tetricide`](https://github.com/taciturnaxolotl/tetricide) - _tetris on the DE2 via Quartus II_
 - [`slackline`](https://github.com/taciturnaxolotl/slackline) - _slack api for gleam_
 - [`crushling`](https://github.com/taciturnaxolotl/crushling) - _so cuuuuute 💖_
-- [`userscripts`](https://github.com/taciturnaxolotl/userscripts) - _kieran's fancy userscripts_
 
 #### 🪧  The latest posts from [`dunkirk.sh`](https://dunkirk.sh)
 
@@ -30,20 +30,20 @@ When not doing school or working on a random project, I enjoy working on hardwar
 
 ```text
 💾 Languages:
-unknown          37h 40m 22s   █████████████████████░░░░  82.84%
-Markdown         1h 58m 24s    ██░░░░░░░░░░░░░░░░░░░░░░░  4.34%
-Go               1h 14m 13s    █░░░░░░░░░░░░░░░░░░░░░░░░  2.72%
-Swift            1h 1m 39s     █░░░░░░░░░░░░░░░░░░░░░░░░  2.26%
-Gleam            1h 1m 32s     █░░░░░░░░░░░░░░░░░░░░░░░░  2.26%
+unknown          35h 55m 18s   █████████████████████░░░░  82.20%
+Markdown         1h 52m 8s     ██░░░░░░░░░░░░░░░░░░░░░░░  4.28%
+Go               1h 6m 0s      █░░░░░░░░░░░░░░░░░░░░░░░░  2.52%
+Swift            1h 1m 39s     █░░░░░░░░░░░░░░░░░░░░░░░░  2.35%
+Gleam            1h 1m 32s     █░░░░░░░░░░░░░░░░░░░░░░░░  2.35%
 
 💼 Projects:
-crushling        8h 44m 12s    █████░░░░░░░░░░░░░░░░░░░░  16.90%
-crush            6h 30m 9s     ████░░░░░░░░░░░░░░░░░░░░░  12.58%
-slackline        4h 52m 51s    ███░░░░░░░░░░░░░░░░░░░░░░  9.44%
-holy-guacamole   4h 52m 44s    ███░░░░░░░░░░░░░░░░░░░░░░  9.44%
-test             4h 31m 25s    ███░░░░░░░░░░░░░░░░░░░░░░  8.75%
+crushling        8h 46m 12s    █████░░░░░░░░░░░░░░░░░░░░  17.72%
+crush            5h 52m 10s    ███░░░░░░░░░░░░░░░░░░░░░░  11.86%
+holy-guacamole   5h 40m 55s    ███░░░░░░░░░░░░░░░░░░░░░░  11.48%
+slackline        4h 52m 51s    ███░░░░░░░░░░░░░░░░░░░░░░  9.86%
+unowheel         4h 16m 13s    ███░░░░░░░░░░░░░░░░░░░░░░  8.63%
 
-Total: 37 hrs 46 mins
+Total: 36 hrs 0 mins
 ```
 
 #### 📮  Want to say hi?
