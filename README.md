@@ -4,13 +4,13 @@ When not doing school or working on a random project, I enjoy working on hardwar
 
 #### 🏗️  The latest repos I've pushed to
 
-- [`holy-guacamole`](https://github.com/taciturnaxolotl/holy-guacamole) - _meltybrain avacado 🥑_ **(1 day ago)**
+- [`cedarengine`](https://github.com/taciturnaxolotl/cedarengine) - _data_ **(today)**
+- [`holy-guacamole`](https://github.com/taciturnaxolotl/holy-guacamole) - _meltybrain avacado 🥑_ **(today)**
 - [`doomacracy`](https://github.com/taciturnaxolotl/doomacracy) - _doom on an fpga_ **(1 day ago)**
 - [`tetricide`](https://github.com/taciturnaxolotl/tetricide) - _tetris on the DE2 via Quartus II_ **(3 days ago)**
-- [`cedarengine`](https://github.com/taciturnaxolotl/cedarengine) - _data_ **(3 days ago)**
 - [`crushling`](https://github.com/taciturnaxolotl/crushling) - _so cuuuuute 💖_ **(4 days ago)**
 - [`dots`](https://github.com/taciturnaxolotl/dots) - _Kieran's opinionated (and ever expanding) nix config_ **(4 days ago)**
-- [`slackline`](https://github.com/taciturnaxolotl/slackline) - _slack api for gleam_ **(5 days ago)**
+- [`crush`](https://github.com/charmbracelet/crush) - _Glamourous agentic coding for all 💘_ **(5 days ago)**
 - [`cull`](https://github.com/taciturnaxolotl/cull) - _as the title says; culls raw photos_ **(5 days ago)**
 
 #### 📦  My latest projects
@@ -30,20 +30,20 @@ When not doing school or working on a random project, I enjoy working on hardwar
 
 ```text
 💾 Languages:
-unknown          39h 41m 57s   █████████████████████░░░░  83.08%
-Markdown         2h 2m 53s     ██░░░░░░░░░░░░░░░░░░░░░░░  4.29%
-Go               1h 6m 0s      █░░░░░░░░░░░░░░░░░░░░░░░░  2.30%
-Python           1h 4m 44s     █░░░░░░░░░░░░░░░░░░░░░░░░  2.26%
-Gleam            1h 1m 32s     █░░░░░░░░░░░░░░░░░░░░░░░░  2.15%
+unknown          33h 3m 45s   █████████████████████░░░░  81.77%
+Markdown         1h 54m 37s   ██░░░░░░░░░░░░░░░░░░░░░░░  4.72%
+Python           1h 4m 44s    █░░░░░░░░░░░░░░░░░░░░░░░░  2.67%
+Gleam            1h 1m 32s    █░░░░░░░░░░░░░░░░░░░░░░░░  2.54%
+Go               50m 40s      █░░░░░░░░░░░░░░░░░░░░░░░░  2.09%
 
 💼 Projects:
-holy-guacamole   9h 12m 12s    █████░░░░░░░░░░░░░░░░░░░░  17.06%
-crushling        8h 46m 12s    █████░░░░░░░░░░░░░░░░░░░░  16.26%
-crush            5h 50m 10s    ███░░░░░░░░░░░░░░░░░░░░░░  10.82%
-slackline        4h 52m 51s    ███░░░░░░░░░░░░░░░░░░░░░░  9.05%
-team             4h 15m 55s    ██░░░░░░░░░░░░░░░░░░░░░░░  7.91%
+crushling        8h 48m 12s   █████░░░░░░░░░░░░░░░░░░░░  19.30%
+holy-guacamole   6h 50m 33s   ████░░░░░░░░░░░░░░░░░░░░░  15.00%
+slackline        4h 52m 51s   ███░░░░░░░░░░░░░░░░░░░░░░  10.70%
+crush            4h 35m 58s   ███░░░░░░░░░░░░░░░░░░░░░░  10.09%
+team             4h 15m 55s   ███░░░░░░░░░░░░░░░░░░░░░░  9.35%
 
-Total: 39 hrs 46 mins
+Total: 33 hrs 7 mins
 ```
 
 #### 📮  Want to say hi?
