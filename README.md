@@ -6,11 +6,11 @@ When not doing school or working on a random project, I enjoy working on hardwar
 
 - [`cedarengine`](https://github.com/taciturnaxolotl/cedarengine) - _data_ **(today)**
 - [`holy-guacamole`](https://github.com/taciturnaxolotl/holy-guacamole) - _meltybrain avacado 🥑_ **(today)**
-- [`doomacracy`](https://github.com/taciturnaxolotl/doomacracy) - _doom on an fpga_ **(1 day ago)**
+- [`doomacracy`](https://github.com/taciturnaxolotl/doomacracy) - _doom on an fpga_ **(today)**
 - [`tetricide`](https://github.com/taciturnaxolotl/tetricide) - _tetris on the DE2 via Quartus II_ **(3 days ago)**
 - [`crushling`](https://github.com/taciturnaxolotl/crushling) - _so cuuuuute 💖_ **(4 days ago)**
 - [`dots`](https://github.com/taciturnaxolotl/dots) - _Kieran's opinionated (and ever expanding) nix config_ **(4 days ago)**
-- [`crush`](https://github.com/charmbracelet/crush) - _Glamourous agentic coding for all 💘_ **(5 days ago)**
+- [`slackline`](https://github.com/taciturnaxolotl/slackline) - _slack api for gleam_ **(5 days ago)**
 - [`cull`](https://github.com/taciturnaxolotl/cull) - _as the title says; culls raw photos_ **(5 days ago)**
 
 #### 📦  My latest projects
@@ -30,20 +30,20 @@ When not doing school or working on a random project, I enjoy working on hardwar
 
 ```text
 💾 Languages:
-unknown          33h 3m 45s   █████████████████████░░░░  81.77%
-Markdown         1h 54m 37s   ██░░░░░░░░░░░░░░░░░░░░░░░  4.72%
-Python           1h 4m 44s    █░░░░░░░░░░░░░░░░░░░░░░░░  2.67%
-Gleam            1h 1m 32s    █░░░░░░░░░░░░░░░░░░░░░░░░  2.54%
-Go               50m 40s      █░░░░░░░░░░░░░░░░░░░░░░░░  2.09%
+unknown          33h 56m 47s   █████████████████████░░░░  82.15%
+Markdown         1h 54m 37s    ██░░░░░░░░░░░░░░░░░░░░░░░  4.62%
+Python           1h 4m 44s     █░░░░░░░░░░░░░░░░░░░░░░░░  2.61%
+Gleam            1h 1m 32s     █░░░░░░░░░░░░░░░░░░░░░░░░  2.48%
+Go               50m 40s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.04%
 
 💼 Projects:
-crushling        8h 48m 12s   █████░░░░░░░░░░░░░░░░░░░░  19.30%
-holy-guacamole   6h 50m 33s   ████░░░░░░░░░░░░░░░░░░░░░  15.00%
-slackline        4h 52m 51s   ███░░░░░░░░░░░░░░░░░░░░░░  10.70%
-crush            4h 35m 58s   ███░░░░░░░░░░░░░░░░░░░░░░  10.09%
-team             4h 15m 55s   ███░░░░░░░░░░░░░░░░░░░░░░  9.35%
+crushling        8h 48m 12s    █████░░░░░░░░░░░░░░░░░░░░  18.92%
+holy-guacamole   6h 52m 33s    ████░░░░░░░░░░░░░░░░░░░░░  14.78%
+slackline        4h 52m 51s    ███░░░░░░░░░░░░░░░░░░░░░░  10.49%
+tetricide        4h 44m 9s     ███░░░░░░░░░░░░░░░░░░░░░░  10.18%
+crush            4h 35m 58s    ███░░░░░░░░░░░░░░░░░░░░░░  9.89%
 
-Total: 33 hrs 7 mins
+Total: 34 hrs 0 mins
 ```
 
 #### 📮  Want to say hi?
