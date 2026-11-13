@@ -10,7 +10,7 @@ When not doing school or working on a random project, I enjoy working on hardwar
 - [`tetricide`](https://github.com/taciturnaxolotl/tetricide) - _tetris on the DE2 via Quartus II_ **(4 days ago)**
 - [`crushling`](https://github.com/taciturnaxolotl/crushling) - _so cuuuuute 💖_ **(5 days ago)**
 - [`dots`](https://github.com/taciturnaxolotl/dots) - _Kieran's opinionated (and ever expanding) nix config_ **(5 days ago)**
-- [`slackline`](https://github.com/taciturnaxolotl/slackline) - _slack api for gleam_ **(6 days ago)**
+- [`crush`](https://github.com/charmbracelet/crush) - _Glamourous agentic coding for all 💘_ **(6 days ago)**
 - [`cull`](https://github.com/taciturnaxolotl/cull) - _as the title says; culls raw photos_ **(6 days ago)**
 
 #### 📦  My latest projects
@@ -30,20 +30,20 @@ When not doing school or working on a random project, I enjoy working on hardwar
 
 ```text
 💾 Languages:
-unknown          28h 53m 11s   █████████████████████░░░░  83.17%
-Markdown         1h 27m 40s    ██░░░░░░░░░░░░░░░░░░░░░░░  4.21%
-Gleam            56m 22s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.70%
-Python           46m 35s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.24%
-VHDL             28m 15s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.36%
+unknown          29h 59m 21s   █████████████████████░░░░  82.93%
+Markdown         1h 29m 40s    ██░░░░░░░░░░░░░░░░░░░░░░░  4.13%
+Gleam            56m 22s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.60%
+Python           46m 35s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.15%
+VHDL             30m 31s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.41%
 
 💼 Projects:
-crushling        7h 36m 18s    █████░░░░░░░░░░░░░░░░░░░░  19.46%
-tetricide        6h 14m 27s    ████░░░░░░░░░░░░░░░░░░░░░  15.97%
-holy-guacamole   5h 25m 34s    ████░░░░░░░░░░░░░░░░░░░░░  13.89%
-team             4h 15m 55s    ███░░░░░░░░░░░░░░░░░░░░░░  10.92%
-crush            3h 11m 51s    ███░░░░░░░░░░░░░░░░░░░░░░  8.18%
+crushling        7h 36m 18s    █████░░░░░░░░░░░░░░░░░░░░  18.74%
+tetricide        6h 17m 24s    ████░░░░░░░░░░░░░░░░░░░░░  15.50%
+holy-guacamole   5h 25m 34s    ████░░░░░░░░░░░░░░░░░░░░░  13.37%
+team             4h 15m 55s    ███░░░░░░░░░░░░░░░░░░░░░░  10.51%
+crush            3h 32m 5s     ███░░░░░░░░░░░░░░░░░░░░░░  8.71%
 
-Total: 28 hrs 57 mins
+Total: 30 hrs 5 mins
 ```
 
 #### 📮  Want to say hi?
