@@ -4,14 +4,14 @@ When not doing school or working on a random project, I enjoy working on hardwar
 
 #### 🏗️  The latest repos I've pushed to
 
-- [`cedarengine`](https://github.com/taciturnaxolotl/cedarengine) - _data_ **(today)**
-- [`holy-guacamole`](https://github.com/taciturnaxolotl/holy-guacamole) - _meltybrain avacado 🥑_ **(today)**
-- [`doomacracy`](https://github.com/taciturnaxolotl/doomacracy) - _doom on an fpga_ **(today)**
-- [`tetricide`](https://github.com/taciturnaxolotl/tetricide) - _tetris on the DE2 via Quartus II_ **(3 days ago)**
-- [`crushling`](https://github.com/taciturnaxolotl/crushling) - _so cuuuuute 💖_ **(4 days ago)**
-- [`dots`](https://github.com/taciturnaxolotl/dots) - _Kieran's opinionated (and ever expanding) nix config_ **(4 days ago)**
-- [`slackline`](https://github.com/taciturnaxolotl/slackline) - _slack api for gleam_ **(5 days ago)**
-- [`cull`](https://github.com/taciturnaxolotl/cull) - _as the title says; culls raw photos_ **(5 days ago)**
+- [`cedarengine`](https://github.com/taciturnaxolotl/cedarengine) - _data_ **(1 day ago)**
+- [`doomacracy`](https://github.com/taciturnaxolotl/doomacracy) - _doom on an fpga_ **(1 day ago)**
+- [`holy-guacamole`](https://github.com/taciturnaxolotl/holy-guacamole) - _meltybrain avacado 🥑_ **(1 day ago)**
+- [`tetricide`](https://github.com/taciturnaxolotl/tetricide) - _tetris on the DE2 via Quartus II_ **(4 days ago)**
+- [`crushling`](https://github.com/taciturnaxolotl/crushling) - _so cuuuuute 💖_ **(5 days ago)**
+- [`dots`](https://github.com/taciturnaxolotl/dots) - _Kieran's opinionated (and ever expanding) nix config_ **(5 days ago)**
+- [`slackline`](https://github.com/taciturnaxolotl/slackline) - _slack api for gleam_ **(6 days ago)**
+- [`cull`](https://github.com/taciturnaxolotl/cull) - _as the title says; culls raw photos_ **(6 days ago)**
 
 #### 📦  My latest projects
 
@@ -22,7 +22,7 @@ When not doing school or working on a random project, I enjoy working on hardwar
 
 #### 🪧  The latest posts from [`dunkirk.sh`](https://dunkirk.sh)
 
-- [`Breaking macOS Screen Time for fun and profit`](https://dunkirk.sh/blog/screentime/) **(1 month ago)**
+- [`Breaking macOS Screen Time for fun and profit`](https://dunkirk.sh/blog/screentime/) **(2 months ago)**
 - [`The Joy of Hardware`](https://dunkirk.sh/blog/joy-of-hardware/) **(3 months ago)**
 - [`LLMs are like handwritten notes`](https://dunkirk.sh/blog/llms/) **(3 months ago)**
 
@@ -30,20 +30,20 @@ When not doing school or working on a random project, I enjoy working on hardwar
 
 ```text
 💾 Languages:
-unknown          33h 56m 47s   █████████████████████░░░░  82.15%
-Markdown         1h 54m 37s    ██░░░░░░░░░░░░░░░░░░░░░░░  4.62%
-Python           1h 4m 44s     █░░░░░░░░░░░░░░░░░░░░░░░░  2.61%
-Gleam            1h 1m 32s     █░░░░░░░░░░░░░░░░░░░░░░░░  2.48%
-Go               50m 40s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.04%
+unknown          35h 0m 12s   █████████████████████░░░░  82.17%
+Markdown         1h 54m 37s   ██░░░░░░░░░░░░░░░░░░░░░░░  4.48%
+Python           1h 4m 44s    █░░░░░░░░░░░░░░░░░░░░░░░░  2.53%
+Gleam            1h 1m 32s    █░░░░░░░░░░░░░░░░░░░░░░░░  2.41%
+Go               50m 40s      █░░░░░░░░░░░░░░░░░░░░░░░░  1.98%
 
 💼 Projects:
-crushling        8h 48m 12s    █████░░░░░░░░░░░░░░░░░░░░  18.92%
-holy-guacamole   6h 52m 33s    ████░░░░░░░░░░░░░░░░░░░░░  14.78%
-slackline        4h 52m 51s    ███░░░░░░░░░░░░░░░░░░░░░░  10.49%
-tetricide        4h 44m 9s     ███░░░░░░░░░░░░░░░░░░░░░░  10.18%
-crush            4h 35m 58s    ███░░░░░░░░░░░░░░░░░░░░░░  9.89%
+crushling        8h 48m 12s   █████░░░░░░░░░░░░░░░░░░░░  18.43%
+holy-guacamole   6h 52m 33s   ████░░░░░░░░░░░░░░░░░░░░░  14.40%
+tetricide        5h 18m 9s    ███░░░░░░░░░░░░░░░░░░░░░░  11.10%
+slackline        4h 52m 51s   ███░░░░░░░░░░░░░░░░░░░░░░  10.22%
+crush            4h 35m 58s   ███░░░░░░░░░░░░░░░░░░░░░░  9.63%
 
-Total: 34 hrs 0 mins
+Total: 35 hrs 3 mins
 ```
 
 #### 📮  Want to say hi?
