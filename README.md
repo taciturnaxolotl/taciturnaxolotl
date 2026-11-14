@@ -4,8 +4,8 @@ When not doing school or working on a random project, I enjoy working on hardwar
 
 #### 🏗️  The latest repos I've pushed to
 
+- [`doomacracy`](https://github.com/taciturnaxolotl/doomacracy) - _doom on an fpga_ **(today)**
 - [`crush`](https://github.com/charmbracelet/crush) - _Glamourous agentic coding for all 💘_ **(1 day ago)**
-- [`doomacracy`](https://github.com/taciturnaxolotl/doomacracy) - _doom on an fpga_ **(1 day ago)**
 - [`cedarengine`](https://github.com/taciturnaxolotl/cedarengine) - _data_ **(2 days ago)**
 - [`holy-guacamole`](https://github.com/taciturnaxolotl/holy-guacamole) - _meltybrain avacado 🥑_ **(2 days ago)**
 - [`tetricide`](https://github.com/taciturnaxolotl/tetricide) - _tetris on the DE2 via Quartus II_ **(5 days ago)**
@@ -30,20 +30,20 @@ When not doing school or working on a random project, I enjoy working on hardwar
 
 ```text
 💾 Languages:
-unknown          31h 12m 37s   █████████████████████░░░░  83.23%
-Markdown         1h 33m 55s    ██░░░░░░░░░░░░░░░░░░░░░░░  4.17%
-Gleam            56m 22s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.51%
-Python           46m 35s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.07%
-VHDL             30m 31s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.36%
+unknown          23h 2m 43s   █████████████████████░░░░  82.93%
+Markdown         1h 13m 40s   ██░░░░░░░░░░░░░░░░░░░░░░░  4.42%
+Go               46m 31s      █░░░░░░░░░░░░░░░░░░░░░░░░  2.79%
+VHDL             30m 31s      █░░░░░░░░░░░░░░░░░░░░░░░░  1.83%
+Python           25m 31s      █░░░░░░░░░░░░░░░░░░░░░░░░  1.53%
 
 💼 Projects:
-crushling        7h 36m 18s    █████░░░░░░░░░░░░░░░░░░░░  18.12%
-tetricide        6h 17m 24s    ████░░░░░░░░░░░░░░░░░░░░░  14.99%
-holy-guacamole   5h 25m 34s    ████░░░░░░░░░░░░░░░░░░░░░  12.93%
-team             4h 15m 55s    ███░░░░░░░░░░░░░░░░░░░░░░  10.16%
-crush            4h 7m 19s     ███░░░░░░░░░░░░░░░░░░░░░░  9.82%
+tetricide        6h 17m 24s   ██████░░░░░░░░░░░░░░░░░░░  21.36%
+holy-guacamole   5h 23m 34s   █████░░░░░░░░░░░░░░░░░░░░  18.32%
+crushling        4h 22m 29s   ████░░░░░░░░░░░░░░░░░░░░░  14.86%
+doomacracy       3h 16m 26s   ███░░░░░░░░░░░░░░░░░░░░░░  11.12%
+crush            3h 13m 27s   ███░░░░░░░░░░░░░░░░░░░░░░  10.95%
 
-Total: 31 hrs 20 mins
+Total: 23 hrs 12 mins
 ```
 
 #### 📮  Want to say hi?
