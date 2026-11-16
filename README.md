@@ -30,20 +30,20 @@ When not doing school or working on a random project, I enjoy working on hardwar
 
 ```text
 💾 Languages:
-unknown          24h 3m 18s   ████████████████████░░░░░  77.80%
-Markdown         1h 34m 16s   ██░░░░░░░░░░░░░░░░░░░░░░░  5.08%
-Go               1h 33m 50s   ██░░░░░░░░░░░░░░░░░░░░░░░  5.06%
-Rust             1h 10m 28s   █░░░░░░░░░░░░░░░░░░░░░░░░  3.80%
+unknown          24h 5m 49s   ████████████████████░░░░░  77.83%
+Markdown         1h 34m 16s   ██░░░░░░░░░░░░░░░░░░░░░░░  5.07%
+Go               1h 33m 50s   ██░░░░░░░░░░░░░░░░░░░░░░░  5.05%
+Rust             1h 10m 28s   █░░░░░░░░░░░░░░░░░░░░░░░░  3.79%
 Swift            33m 3s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.78%
 
 💼 Projects:
-holy-guacamole   6h 1m 39s    █████░░░░░░░░░░░░░░░░░░░░  19.64%
-crush            6h 0m 26s    █████░░░░░░░░░░░░░░░░░░░░  19.58%
-tetricide        5h 40m 31s   █████░░░░░░░░░░░░░░░░░░░░  18.50%
-doomacracy       3h 16m 26s   ███░░░░░░░░░░░░░░░░░░░░░░  10.67%
-zsh-patina       2h 9m 53s    ██░░░░░░░░░░░░░░░░░░░░░░░  7.06%
+holy-guacamole   6h 3m 39s    █████░░░░░░░░░░░░░░░░░░░░  19.71%
+crush            6h 0m 26s    █████░░░░░░░░░░░░░░░░░░░░  19.54%
+tetricide        5h 40m 31s   █████░░░░░░░░░░░░░░░░░░░░  18.46%
+doomacracy       3h 16m 26s   ███░░░░░░░░░░░░░░░░░░░░░░  10.65%
+zsh-patina       2h 9m 53s    ██░░░░░░░░░░░░░░░░░░░░░░░  7.04%
 
-Total: 24 hrs 23 mins
+Total: 24 hrs 26 mins
 ```
 
 #### 📮  Want to say hi?
