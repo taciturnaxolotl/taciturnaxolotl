@@ -4,14 +4,14 @@ When not doing school or working on a random project, I enjoy working on hardwar
 
 #### 🏗️  The latest repos I've pushed to
 
-- [`holy-guacamole`](https://github.com/taciturnaxolotl/holy-guacamole) - _meltybrain avacado 🥑_ **(today)**
-- [`group-me-not`](https://github.com/taciturnaxolotl/group-me-not) - _OSS GroupMe app_ **(today)**
-- [`crush`](https://github.com/charmbracelet/crush) - _Glamourous agentic coding for all 💘_ **(today)**
-- [`dots`](https://github.com/taciturnaxolotl/dots) - _Kieran's opinionated (and ever expanding) nix config_ **(today)**
-- [`hunter`](https://github.com/taciturnaxolotl/hunter) - _hunting_ **(1 day ago)**
-- [`doomacracy`](https://github.com/taciturnaxolotl/doomacracy) - _doom on an fpga_ **(1 day ago)**
-- [`cedarengine`](https://github.com/taciturnaxolotl/cedarengine) - _data_ **(3 days ago)**
-- [`tetricide`](https://github.com/taciturnaxolotl/tetricide) - _tetris on the DE2 via Quartus II_ **(6 days ago)**
+- [`holy-guacamole`](https://github.com/taciturnaxolotl/holy-guacamole) - _meltybrain avacado 🥑_ **(1 day ago)**
+- [`group-me-not`](https://github.com/taciturnaxolotl/group-me-not) - _OSS GroupMe app_ **(1 day ago)**
+- [`crush`](https://github.com/charmbracelet/crush) - _Glamourous agentic coding for all 💘_ **(1 day ago)**
+- [`dots`](https://github.com/taciturnaxolotl/dots) - _Kieran's opinionated (and ever expanding) nix config_ **(1 day ago)**
+- [`hunter`](https://github.com/taciturnaxolotl/hunter) - _hunting_ **(2 days ago)**
+- [`doomacracy`](https://github.com/taciturnaxolotl/doomacracy) - _doom on an fpga_ **(2 days ago)**
+- [`cedarengine`](https://github.com/taciturnaxolotl/cedarengine) - _data_ **(4 days ago)**
+- [`tetricide`](https://github.com/taciturnaxolotl/tetricide) - _tetris on the DE2 via Quartus II_ **(1 week ago)**
 
 #### 📦  My latest projects
 
@@ -30,20 +30,20 @@ When not doing school or working on a random project, I enjoy working on hardwar
 
 ```text
 💾 Languages:
-unknown          24h 14m 40s   █████████████████████░░░░  80.51%
-Go               1h 33m 50s    ██░░░░░░░░░░░░░░░░░░░░░░░  5.19%
-Markdown         1h 25m 3s     ██░░░░░░░░░░░░░░░░░░░░░░░  4.71%
-Swift            33m 3s        █░░░░░░░░░░░░░░░░░░░░░░░░  1.83%
-Rust             26m 22s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.46%
+unknown          25h 15m 5s   ████████████████████░░░░░  79.04%
+Go               1h 33m 50s   ██░░░░░░░░░░░░░░░░░░░░░░░  4.89%
+Markdown         1h 32m 16s   ██░░░░░░░░░░░░░░░░░░░░░░░  4.81%
+Rust             1h 1m 56s    █░░░░░░░░░░░░░░░░░░░░░░░░  3.23%
+Swift            33m 3s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.72%
 
 💼 Projects:
-crush            5h 57m 17s    █████░░░░░░░░░░░░░░░░░░░░  19.26%
-holy-guacamole   5h 56m 50s    █████░░░░░░░░░░░░░░░░░░░░  19.23%
-tetricide        5h 49m 36s    █████░░░░░░░░░░░░░░░░░░░░  18.85%
-doomacracy       3h 16m 26s    ███░░░░░░░░░░░░░░░░░░░░░░  10.59%
-crushling        1h 44m 21s    ██░░░░░░░░░░░░░░░░░░░░░░░  5.62%
+holy-guacamole   6h 1m 39s    █████░░░░░░░░░░░░░░░░░░░░  18.78%
+crush            5h 59m 45s   █████░░░░░░░░░░░░░░░░░░░░  18.68%
+tetricide        5h 49m 36s   █████░░░░░░░░░░░░░░░░░░░░  18.15%
+doomacracy       3h 16m 26s   ███░░░░░░░░░░░░░░░░░░░░░░  10.20%
+zsh-patina       1h 46m 33s   ██░░░░░░░░░░░░░░░░░░░░░░░  5.53%
 
-Total: 24 hrs 25 mins
+Total: 25 hrs 34 mins
 ```
 
 #### 📮  Want to say hi?
