@@ -5,13 +5,13 @@ When not doing school or working on a random project, I enjoy working on hardwar
 #### 🏗️  The latest repos I've pushed to
 
 - [`indiko`](https://github.com/taciturnaxolotl/indiko) - _indieauth and oauth 2.0 compatible auth server for my homelab_ **(today)**
+- [`crush`](https://github.com/charmbracelet/crush) - _Glamourous agentic coding for all 💘_ **(today)**
 - [`dots`](https://github.com/taciturnaxolotl/dots) - _Kieran's opinionated (and ever expanding) nix config_ **(today)**
-- [`crush`](https://github.com/charmbracelet/crush) - _Glamourous agentic coding for all 💘_ **(2 days ago)**
+- [`herald`](https://github.com/taciturnaxolotl/herald) - _rss email digests over ssh because you're a cool kid_ **(today)**
 - [`holy-guacamole`](https://github.com/taciturnaxolotl/holy-guacamole) - _meltybrain avacado 🥑_ **(2 days ago)**
 - [`group-me-not`](https://github.com/taciturnaxolotl/group-me-not) - _OSS GroupMe app_ **(2 days ago)**
 - [`doomacracy`](https://github.com/taciturnaxolotl/doomacracy) - _doom on an fpga_ **(3 days ago)**
 - [`hunter`](https://github.com/taciturnaxolotl/hunter) - _hunting_ **(3 days ago)**
-- [`cedarengine`](https://github.com/taciturnaxolotl/cedarengine) - _data_ **(5 days ago)**
 
 #### 📦  My latest projects
 
@@ -30,20 +30,20 @@ When not doing school or working on a random project, I enjoy working on hardwar
 
 ```text
 💾 Languages:
-unknown          28h 34m 47s   ███████████████████░░░░░░  74.44%
-Markdown         1h 56m 54s    ██░░░░░░░░░░░░░░░░░░░░░░░  5.07%
-Go               1h 45m 10s    ██░░░░░░░░░░░░░░░░░░░░░░░  4.57%
-Swift            1h 32m 58s    ██░░░░░░░░░░░░░░░░░░░░░░░  4.04%
-Rust             1h 10m 28s    █░░░░░░░░░░░░░░░░░░░░░░░░  3.06%
+unknown          29h 46m 9s   ███████████████████░░░░░░  74.26%
+Markdown         2h 7m 22s    ██░░░░░░░░░░░░░░░░░░░░░░░  5.29%
+Go               1h 58m 54s   ██░░░░░░░░░░░░░░░░░░░░░░░  4.94%
+Swift            1h 32m 58s   █░░░░░░░░░░░░░░░░░░░░░░░░  3.86%
+Rust             1h 10m 28s   █░░░░░░░░░░░░░░░░░░░░░░░░  2.93%
 
 💼 Projects:
-crush            6h 59m 0s     █████░░░░░░░░░░░░░░░░░░░░  17.95%
-holy-guacamole   6h 3m 39s     ████░░░░░░░░░░░░░░░░░░░░░  15.58%
-tetricide        4h 42m 35s    ████░░░░░░░░░░░░░░░░░░░░░  12.11%
-lune             4h 42m 26s    ████░░░░░░░░░░░░░░░░░░░░░  12.10%
-doomacracy       3h 16m 26s    ███░░░░░░░░░░░░░░░░░░░░░░  8.42%
+crush            7h 41m 46s   █████░░░░░░░░░░░░░░░░░░░░  18.95%
+holy-guacamole   6h 3m 39s    ████░░░░░░░░░░░░░░░░░░░░░  14.93%
+lune             4h 42m 51s   ███░░░░░░░░░░░░░░░░░░░░░░  11.61%
+tetricide        4h 42m 35s   ███░░░░░░░░░░░░░░░░░░░░░░  11.60%
+doomacracy       3h 16m 26s   ███░░░░░░░░░░░░░░░░░░░░░░  8.06%
 
-Total: 29 hrs 4 mins
+Total: 30 hrs 16 mins
 ```
 
 #### 📮  Want to say hi?
