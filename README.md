@@ -4,21 +4,21 @@ When not doing school or working on a random project, I enjoy working on hardwar
 
 #### 🏗️  The latest repos I've pushed to
 
-- [`holy-guacamole`](https://github.com/taciturnaxolotl/holy-guacamole) - _meltybrain avacado 🥑_ **(1 day ago)**
-- [`crush`](https://github.com/charmbracelet/crush) - _Glamourous agentic coding for all 💘_ **(1 day ago)**
-- [`dots`](https://github.com/taciturnaxolotl/dots) - _Kieran's opinionated (and ever expanding) nix config_ **(1 day ago)**
-- [`group-me-not`](https://github.com/taciturnaxolotl/group-me-not) - _OSS GroupMe app_ **(1 day ago)**
-- [`doomacracy`](https://github.com/taciturnaxolotl/doomacracy) - _doom on an fpga_ **(2 days ago)**
-- [`hunter`](https://github.com/taciturnaxolotl/hunter) - _hunting_ **(2 days ago)**
-- [`cedarengine`](https://github.com/taciturnaxolotl/cedarengine) - _data_ **(4 days ago)**
+- [`dots`](https://github.com/taciturnaxolotl/dots) - _Kieran's opinionated (and ever expanding) nix config_ **(2 days ago)**
+- [`crush`](https://github.com/charmbracelet/crush) - _Glamourous agentic coding for all 💘_ **(2 days ago)**
+- [`holy-guacamole`](https://github.com/taciturnaxolotl/holy-guacamole) - _meltybrain avacado 🥑_ **(2 days ago)**
+- [`group-me-not`](https://github.com/taciturnaxolotl/group-me-not) - _OSS GroupMe app_ **(2 days ago)**
+- [`doomacracy`](https://github.com/taciturnaxolotl/doomacracy) - _doom on an fpga_ **(3 days ago)**
+- [`hunter`](https://github.com/taciturnaxolotl/hunter) - _hunting_ **(3 days ago)**
+- [`cedarengine`](https://github.com/taciturnaxolotl/cedarengine) - _data_ **(5 days ago)**
 - [`tetricide`](https://github.com/taciturnaxolotl/tetricide) - _tetris on the DE2 via Quartus II_ **(1 week ago)**
 
 #### 📦  My latest projects
 
+- [`lune`](https://github.com/taciturnaxolotl/lune) - _a fancy ios browser for me_
 - [`hunter`](https://github.com/taciturnaxolotl/hunter) - _hunting_
 - [`doomacracy`](https://github.com/taciturnaxolotl/doomacracy) - _doom on an fpga_
 - [`tetricide`](https://github.com/taciturnaxolotl/tetricide) - _tetris on the DE2 via Quartus II_
-- [`slackline`](https://github.com/taciturnaxolotl/slackline) - _slack api for gleam_
 
 #### 🪧  The latest posts from [`dunkirk.sh`](https://dunkirk.sh)
 
@@ -30,20 +30,20 @@ When not doing school or working on a random project, I enjoy working on hardwar
 
 ```text
 💾 Languages:
-unknown          24h 5m 49s   ████████████████████░░░░░  77.83%
-Markdown         1h 34m 16s   ██░░░░░░░░░░░░░░░░░░░░░░░  5.07%
-Go               1h 33m 50s   ██░░░░░░░░░░░░░░░░░░░░░░░  5.05%
-Rust             1h 10m 28s   █░░░░░░░░░░░░░░░░░░░░░░░░  3.79%
-Swift            33m 3s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.78%
+unknown          27h 12m 10s   ████████████████████░░░░░  76.75%
+Markdown         1h 42m 49s    ██░░░░░░░░░░░░░░░░░░░░░░░  4.84%
+Go               1h 33m 50s    ██░░░░░░░░░░░░░░░░░░░░░░░  4.41%
+Swift            1h 29m 31s    ██░░░░░░░░░░░░░░░░░░░░░░░  4.21%
+Rust             1h 10m 28s    █░░░░░░░░░░░░░░░░░░░░░░░░  3.31%
 
 💼 Projects:
-holy-guacamole   6h 3m 39s    █████░░░░░░░░░░░░░░░░░░░░  19.71%
-crush            6h 0m 26s    █████░░░░░░░░░░░░░░░░░░░░  19.54%
-tetricide        5h 40m 31s   █████░░░░░░░░░░░░░░░░░░░░  18.46%
-doomacracy       3h 16m 26s   ███░░░░░░░░░░░░░░░░░░░░░░  10.65%
-zsh-patina       2h 9m 53s    ██░░░░░░░░░░░░░░░░░░░░░░░  7.04%
+holy-guacamole   6h 3m 39s     █████░░░░░░░░░░░░░░░░░░░░  17.56%
+crush            6h 0m 26s     █████░░░░░░░░░░░░░░░░░░░░  17.41%
+tetricide        5h 44m 58s    █████░░░░░░░░░░░░░░░░░░░░  16.66%
+doomacracy       3h 16m 26s    ███░░░░░░░░░░░░░░░░░░░░░░  9.49%
+lune             3h 4m 55s     ███░░░░░░░░░░░░░░░░░░░░░░  8.93%
 
-Total: 24 hrs 26 mins
+Total: 27 hrs 43 mins
 ```
 
 #### 📮  Want to say hi?
