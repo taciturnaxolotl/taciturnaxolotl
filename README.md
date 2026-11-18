@@ -4,11 +4,11 @@ When not doing school or working on a random project, I enjoy working on hardwar
 
 #### 🏗️  The latest repos I've pushed to
 
-- [`herald`](https://github.com/taciturnaxolotl/herald) - _rss email digests over ssh because you're a cool kid_ **(1 day ago)**
-- [`crush`](https://github.com/charmbracelet/crush) - _Glamourous agentic coding for all 💘_ **(1 day ago)**
+- [`crush`](https://github.com/charmbracelet/crush) - _Glamourous agentic coding for all 💘_ **(today)**
 - [`cedarengine`](https://github.com/taciturnaxolotl/cedarengine) - _data_ **(1 day ago)**
-- [`dots`](https://github.com/taciturnaxolotl/dots) - _Kieran's opinionated (and ever expanding) nix config_ **(1 day ago)**
 - [`indiko`](https://github.com/taciturnaxolotl/indiko) - _indieauth and oauth 2.0 compatible auth server for my homelab_ **(1 day ago)**
+- [`herald`](https://github.com/taciturnaxolotl/herald) - _rss email digests over ssh because you're a cool kid_ **(1 day ago)**
+- [`dots`](https://github.com/taciturnaxolotl/dots) - _Kieran's opinionated (and ever expanding) nix config_ **(1 day ago)**
 - [`holy-guacamole`](https://github.com/taciturnaxolotl/holy-guacamole) - _meltybrain avacado 🥑_ **(3 days ago)**
 - [`group-me-not`](https://github.com/taciturnaxolotl/group-me-not) - _OSS GroupMe app_ **(3 days ago)**
 - [`doomacracy`](https://github.com/taciturnaxolotl/doomacracy) - _doom on an fpga_ **(4 days ago)**
@@ -30,20 +30,20 @@ When not doing school or working on a random project, I enjoy working on hardwar
 
 ```text
 💾 Languages:
-unknown          30h 29m 49s   ███████████████████░░░░░░  74.46%
-Markdown         2h 9m 22s     ██░░░░░░░░░░░░░░░░░░░░░░░  5.26%
-Go               1h 58m 54s    ██░░░░░░░░░░░░░░░░░░░░░░░  4.84%
-Swift            1h 32m 58s    █░░░░░░░░░░░░░░░░░░░░░░░░  3.78%
-Rust             1h 10m 28s    █░░░░░░░░░░░░░░░░░░░░░░░░  2.87%
+unknown       27h 36m 1s   ███████████████████░░░░░░  72.33%
+Go            2h 28m 54s   ██░░░░░░░░░░░░░░░░░░░░░░░  6.50%
+Markdown      1h 47m 20s   ██░░░░░░░░░░░░░░░░░░░░░░░  4.69%
+Swift         1h 45m 12s   ██░░░░░░░░░░░░░░░░░░░░░░░  4.59%
+Rust          1h 10m 28s   █░░░░░░░░░░░░░░░░░░░░░░░░  3.08%
 
 💼 Projects:
-crush            7h 48m 45s    █████░░░░░░░░░░░░░░░░░░░░  18.67%
-holy-guacamole   6h 3m 39s     ████░░░░░░░░░░░░░░░░░░░░░  14.48%
-lune             4h 49m 11s    ███░░░░░░░░░░░░░░░░░░░░░░  11.52%
-tetricide        4h 42m 35s    ███░░░░░░░░░░░░░░░░░░░░░░  11.25%
-cedarengine      3h 32m 47s    ███░░░░░░░░░░░░░░░░░░░░░░  8.47%
+crush         9h 4m 17s    ██████░░░░░░░░░░░░░░░░░░░  23.48%
+lune          5h 0m 56s    ████░░░░░░░░░░░░░░░░░░░░░  12.98%
+cedarengine   4h 27m 46s   ███░░░░░░░░░░░░░░░░░░░░░░  11.55%
+tetricide     3h 8m 52s    ███░░░░░░░░░░░░░░░░░░░░░░  8.15%
+doomacracy    2h 56m 30s   ██░░░░░░░░░░░░░░░░░░░░░░░  7.61%
 
-Total: 31 hrs 0 mins
+Total: 28 hrs 6 mins
 ```
 
 #### 📮  Want to say hi?
