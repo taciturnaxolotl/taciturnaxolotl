@@ -4,21 +4,21 @@ When not doing school or working on a random project, I enjoy working on hardwar
 
 #### 🏗️  The latest repos I've pushed to
 
-- [`holy-guacamole`](https://github.com/taciturnaxolotl/holy-guacamole) - _meltybrain avacado 🥑_ **(1 day ago)**
-- [`cedarengine`](https://github.com/taciturnaxolotl/cedarengine) - _data_ **(1 day ago)**
 - [`userscripts`](https://github.com/taciturnaxolotl/userscripts) - _kieran's fancy userscripts_ **(1 day ago)**
-- [`crush`](https://github.com/charmbracelet/crush) - _Glamourous agentic coding for all 💘_ **(2 days ago)**
+- [`cedarengine`](https://github.com/taciturnaxolotl/cedarengine) - _data_ **(1 day ago)**
+- [`holy-guacamole`](https://github.com/taciturnaxolotl/holy-guacamole) - _meltybrain avacado 🥑_ **(1 day ago)**
 - [`indiko`](https://github.com/taciturnaxolotl/indiko) - _indieauth and oauth 2.0 compatible auth server for my homelab_ **(2 days ago)**
+- [`crush`](https://github.com/charmbracelet/crush) - _Glamourous agentic coding for all 💘_ **(2 days ago)**
 - [`herald`](https://github.com/taciturnaxolotl/herald) - _rss email digests over ssh because you're a cool kid_ **(3 days ago)**
 - [`dots`](https://github.com/taciturnaxolotl/dots) - _Kieran's opinionated (and ever expanding) nix config_ **(3 days ago)**
 - [`group-me-not`](https://github.com/taciturnaxolotl/group-me-not) - _OSS GroupMe app_ **(5 days ago)**
 
 #### 📦  My latest projects
 
+- [`kibli`](https://github.com/taciturnaxolotl/kibli) - _arkit chess experiments_
 - [`lune`](https://github.com/taciturnaxolotl/lune) - _a fancy ios browser for me_
 - [`hunter`](https://github.com/taciturnaxolotl/hunter) - _hunting_
 - [`doomacracy`](https://github.com/taciturnaxolotl/doomacracy) - _doom on an fpga_
-- [`tetricide`](https://github.com/taciturnaxolotl/tetricide) - _tetris on the DE2 via Quartus II_
 
 #### 🪧  The latest posts from [`dunkirk.sh`](https://dunkirk.sh)
 
@@ -30,20 +30,20 @@ When not doing school or working on a random project, I enjoy working on hardwar
 
 ```text
 💾 Languages:
-unknown       29h 42m 52s   ██████████████████░░░░░░░  71.38%
-Go            3h 20m 57s    ███░░░░░░░░░░░░░░░░░░░░░░  8.05%
-Markdown      1h 47m 7s     ██░░░░░░░░░░░░░░░░░░░░░░░  4.29%
-Swift         1h 45m 12s    ██░░░░░░░░░░░░░░░░░░░░░░░  4.21%
-TypeScript    1h 26m 26s    █░░░░░░░░░░░░░░░░░░░░░░░░  3.46%
+unknown       30h 47m 48s   ███████████████████░░░░░░  72.47%
+Go            3h 27m 7s     ███░░░░░░░░░░░░░░░░░░░░░░  8.12%
+Swift         2h 0m 42s     ██░░░░░░░░░░░░░░░░░░░░░░░  4.73%
+Markdown      1h 49m 7s     ██░░░░░░░░░░░░░░░░░░░░░░░  4.28%
+TypeScript    1h 11m 38s    █░░░░░░░░░░░░░░░░░░░░░░░░  2.81%
 
 💼 Projects:
-crush         11h 23m 19s   ███████░░░░░░░░░░░░░░░░░░  27.66%
-cedarengine   5h 23m 47s    ████░░░░░░░░░░░░░░░░░░░░░  13.11%
-lune          5h 0m 56s     ████░░░░░░░░░░░░░░░░░░░░░  12.18%
-doomacracy    2h 52m 11s    ██░░░░░░░░░░░░░░░░░░░░░░░  6.97%
-tetricide     2h 24m 35s    ██░░░░░░░░░░░░░░░░░░░░░░░  5.85%
+crush         12h 45m 11s   ████████░░░░░░░░░░░░░░░░░  30.19%
+lune          5h 0m 56s     ███░░░░░░░░░░░░░░░░░░░░░░  11.87%
+cedarengine   4h 25m 2s     ███░░░░░░░░░░░░░░░░░░░░░░  10.46%
+doomacracy    2h 38m 6s     ██░░░░░░░░░░░░░░░░░░░░░░░  6.24%
+kibli         2h 12m 41s    ██░░░░░░░░░░░░░░░░░░░░░░░  5.23%
 
-Total: 30 hrs 22 mins
+Total: 31 hrs 28 mins
 ```
 
 #### 📮  Want to say hi?
