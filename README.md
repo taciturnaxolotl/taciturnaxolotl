@@ -4,14 +4,14 @@ When not doing school or working on a random project, I enjoy working on hardwar
 
 #### 🏗️  The latest repos I've pushed to
 
+- [`holy-guacamole`](https://github.com/taciturnaxolotl/holy-guacamole) - _meltybrain avacado 🥑_ **(today)**
 - [`crush`](https://github.com/charmbracelet/crush) - _Glamourous agentic coding for all 💘_ **(today)**
-- [`userscripts`](https://github.com/taciturnaxolotl/userscripts) - _kieran's fancy userscripts_ **(1 day ago)**
+- [`kibli`](https://github.com/taciturnaxolotl/kibli) - _arkit chess experiments_ **(today)**
+- [`indiko`](https://github.com/taciturnaxolotl/indiko) - _indieauth and oauth 2.0 compatible auth server for my homelab_ **(today)**
+- [`zera`](https://github.com/taciturnaxolotl/zera) - _my new site v4?_ **(today)**
+- [`dots`](https://github.com/taciturnaxolotl/dots) - _Kieran's opinionated (and ever expanding) nix config_ **(today)**
 - [`cedarengine`](https://github.com/taciturnaxolotl/cedarengine) - _data_ **(1 day ago)**
-- [`holy-guacamole`](https://github.com/taciturnaxolotl/holy-guacamole) - _meltybrain avacado 🥑_ **(1 day ago)**
-- [`indiko`](https://github.com/taciturnaxolotl/indiko) - _indieauth and oauth 2.0 compatible auth server for my homelab_ **(2 days ago)**
-- [`dots`](https://github.com/taciturnaxolotl/dots) - _Kieran's opinionated (and ever expanding) nix config_ **(3 days ago)**
-- [`herald`](https://github.com/taciturnaxolotl/herald) - _rss email digests over ssh because you're a cool kid_ **(3 days ago)**
-- [`group-me-not`](https://github.com/taciturnaxolotl/group-me-not) - _OSS GroupMe app_ **(5 days ago)**
+- [`userscripts`](https://github.com/taciturnaxolotl/userscripts) - _kieran's fancy userscripts_ **(1 day ago)**
 
 #### 📦  My latest projects
 
@@ -30,20 +30,20 @@ When not doing school or working on a random project, I enjoy working on hardwar
 
 ```text
 💾 Languages:
-unknown       31h 44m 54s   ███████████████████░░░░░░  72.86%
-Go            3h 27m 7s     ██░░░░░░░░░░░░░░░░░░░░░░░  7.92%
-Swift         2h 2m 56s     ██░░░░░░░░░░░░░░░░░░░░░░░  4.70%
-Markdown      1h 49m 7s     ██░░░░░░░░░░░░░░░░░░░░░░░  4.17%
-TypeScript    1h 11m 38s    █░░░░░░░░░░░░░░░░░░░░░░░░  2.74%
+unknown       34h 59m 27s   ███████████████████░░░░░░  73.51%
+Go            3h 49m 52s    ███░░░░░░░░░░░░░░░░░░░░░░  8.05%
+Swift         2h 4m 56s     ██░░░░░░░░░░░░░░░░░░░░░░░  4.37%
+Markdown      1h 59m 47s    ██░░░░░░░░░░░░░░░░░░░░░░░  4.19%
+TypeScript    1h 11m 38s    █░░░░░░░░░░░░░░░░░░░░░░░░  2.51%
 
 💼 Projects:
-crush         12h 53m 52s   ████████░░░░░░░░░░░░░░░░░  29.65%
-lune          5h 0m 56s     ███░░░░░░░░░░░░░░░░░░░░░░  11.53%
-cedarengine   4h 25m 2s     ███░░░░░░░░░░░░░░░░░░░░░░  10.15%
-kibli         3h 4m 5s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.05%
-doomacracy    2h 38m 6s     ██░░░░░░░░░░░░░░░░░░░░░░░  6.06%
+crush         14h 26m 6s    ████████░░░░░░░░░░░░░░░░░  29.89%
+lune          5h 0m 56s     ███░░░░░░░░░░░░░░░░░░░░░░  10.38%
+cedarengine   4h 25m 2s     ███░░░░░░░░░░░░░░░░░░░░░░  9.15%
+kibli         4h 17m 52s    ███░░░░░░░░░░░░░░░░░░░░░░  8.90%
+doomacracy    2h 38m 6s     ██░░░░░░░░░░░░░░░░░░░░░░░  5.46%
 
-Total: 32 hrs 25 mins
+Total: 35 hrs 40 mins
 ```
 
 #### 📮  Want to say hi?
