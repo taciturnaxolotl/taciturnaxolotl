@@ -4,14 +4,14 @@ When not doing school or working on a random project, I enjoy working on hardwar
 
 #### 🏗️  The latest repos I've pushed to
 
-- [`holy-guacamole`](https://github.com/taciturnaxolotl/holy-guacamole) - _meltybrain avacado 🥑_ **(today)**
-- [`cedarengine`](https://github.com/taciturnaxolotl/cedarengine) - _data_ **(today)**
-- [`crush`](https://github.com/charmbracelet/crush) - _Glamourous agentic coding for all 💘_ **(1 day ago)**
-- [`indiko`](https://github.com/taciturnaxolotl/indiko) - _indieauth and oauth 2.0 compatible auth server for my homelab_ **(1 day ago)**
-- [`herald`](https://github.com/taciturnaxolotl/herald) - _rss email digests over ssh because you're a cool kid_ **(2 days ago)**
-- [`dots`](https://github.com/taciturnaxolotl/dots) - _Kieran's opinionated (and ever expanding) nix config_ **(2 days ago)**
-- [`group-me-not`](https://github.com/taciturnaxolotl/group-me-not) - _OSS GroupMe app_ **(4 days ago)**
-- [`hunter`](https://github.com/taciturnaxolotl/hunter) - _hunting_ **(5 days ago)**
+- [`holy-guacamole`](https://github.com/taciturnaxolotl/holy-guacamole) - _meltybrain avacado 🥑_ **(1 day ago)**
+- [`cedarengine`](https://github.com/taciturnaxolotl/cedarengine) - _data_ **(1 day ago)**
+- [`userscripts`](https://github.com/taciturnaxolotl/userscripts) - _kieran's fancy userscripts_ **(1 day ago)**
+- [`crush`](https://github.com/charmbracelet/crush) - _Glamourous agentic coding for all 💘_ **(2 days ago)**
+- [`indiko`](https://github.com/taciturnaxolotl/indiko) - _indieauth and oauth 2.0 compatible auth server for my homelab_ **(2 days ago)**
+- [`herald`](https://github.com/taciturnaxolotl/herald) - _rss email digests over ssh because you're a cool kid_ **(3 days ago)**
+- [`dots`](https://github.com/taciturnaxolotl/dots) - _Kieran's opinionated (and ever expanding) nix config_ **(3 days ago)**
+- [`group-me-not`](https://github.com/taciturnaxolotl/group-me-not) - _OSS GroupMe app_ **(5 days ago)**
 
 #### 📦  My latest projects
 
@@ -30,20 +30,20 @@ When not doing school or working on a random project, I enjoy working on hardwar
 
 ```text
 💾 Languages:
-unknown       28h 13m 50s   ██████████████████░░░░░░░  70.54%
-Go            3h 18m 57s    ███░░░░░░░░░░░░░░░░░░░░░░  8.29%
-Markdown      1h 47m 7s     ██░░░░░░░░░░░░░░░░░░░░░░░  4.46%
-Swift         1h 45m 12s    ██░░░░░░░░░░░░░░░░░░░░░░░  4.38%
-TypeScript    1h 24m 17s    █░░░░░░░░░░░░░░░░░░░░░░░░  3.51%
+unknown       29h 42m 52s   ██████████████████░░░░░░░  71.38%
+Go            3h 20m 57s    ███░░░░░░░░░░░░░░░░░░░░░░  8.05%
+Markdown      1h 47m 7s     ██░░░░░░░░░░░░░░░░░░░░░░░  4.29%
+Swift         1h 45m 12s    ██░░░░░░░░░░░░░░░░░░░░░░░  4.21%
+TypeScript    1h 26m 26s    █░░░░░░░░░░░░░░░░░░░░░░░░  3.46%
 
 💼 Projects:
-crush         10h 37m 59s   ███████░░░░░░░░░░░░░░░░░░  26.88%
-cedarengine   5h 19m 6s     ████░░░░░░░░░░░░░░░░░░░░░  13.44%
-lune          5h 0m 56s     ████░░░░░░░░░░░░░░░░░░░░░  12.68%
-doomacracy    2h 52m 11s    ██░░░░░░░░░░░░░░░░░░░░░░░  7.25%
-tetricide     2h 24m 35s    ██░░░░░░░░░░░░░░░░░░░░░░░  6.09%
+crush         11h 23m 19s   ███████░░░░░░░░░░░░░░░░░░  27.66%
+cedarengine   5h 23m 47s    ████░░░░░░░░░░░░░░░░░░░░░  13.11%
+lune          5h 0m 56s     ████░░░░░░░░░░░░░░░░░░░░░  12.18%
+doomacracy    2h 52m 11s    ██░░░░░░░░░░░░░░░░░░░░░░░  6.97%
+tetricide     2h 24m 35s    ██░░░░░░░░░░░░░░░░░░░░░░░  5.85%
 
-Total: 28 hrs 53 mins
+Total: 30 hrs 22 mins
 ```
 
 #### 📮  Want to say hi?
