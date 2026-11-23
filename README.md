@@ -5,13 +5,13 @@ When not doing school or working on a random project, I enjoy working on hardwar
 #### 🏗️  The latest repos I've pushed to
 
 - [`unowheel`](https://github.com/taciturnaxolotl/unowheel) - _onewheel ios app_ **(1 day ago)**
-- [`slackline`](https://github.com/taciturnaxolotl/slackline) - _slack api for gleam_ **(2 days ago)**
 - [`crush`](https://github.com/charmbracelet/crush) - _Glamourous agentic coding for all 💘_ **(2 days ago)**
 - [`crushling`](https://github.com/taciturnaxolotl/crushling) - _so cuuuuute 💖_ **(2 days ago)**
-- [`zera`](https://github.com/taciturnaxolotl/zera) - _my new site v4?_ **(3 days ago)**
-- [`kibli`](https://github.com/taciturnaxolotl/kibli) - _arkit chess experiments_ **(3 days ago)**
-- [`dots`](https://github.com/taciturnaxolotl/dots) - _Kieran's opinionated (and ever expanding) nix config_ **(3 days ago)**
+- [`slackline`](https://github.com/taciturnaxolotl/slackline) - _slack api for gleam_ **(2 days ago)**
 - [`holy-guacamole`](https://github.com/taciturnaxolotl/holy-guacamole) - _meltybrain avacado 🥑_ **(3 days ago)**
+- [`zera`](https://github.com/taciturnaxolotl/zera) - _my new site v4?_ **(3 days ago)**
+- [`dots`](https://github.com/taciturnaxolotl/dots) - _Kieran's opinionated (and ever expanding) nix config_ **(3 days ago)**
+- [`indiko`](https://github.com/taciturnaxolotl/indiko) - _indieauth and oauth 2.0 compatible auth server for my homelab_ **(3 days ago)**
 
 #### 📦  My latest projects
 
@@ -30,20 +30,20 @@ When not doing school or working on a random project, I enjoy working on hardwar
 
 ```text
 💾 Languages:
-unknown       35h 58m 11s   ███████████████████░░░░░░  74.20%
-Go            3h 6m 46s     ██░░░░░░░░░░░░░░░░░░░░░░░  6.42%
-Markdown      2h 26m 18s    ██░░░░░░░░░░░░░░░░░░░░░░░  5.03%
-Swift         2h 12m 47s    ██░░░░░░░░░░░░░░░░░░░░░░░  4.56%
-TypeScript    1h 11m 38s    █░░░░░░░░░░░░░░░░░░░░░░░░  2.46%
+unknown       31h 21m 51s   ████████████████████░░░░░  76.35%
+Go            2h 27m 11s    ██░░░░░░░░░░░░░░░░░░░░░░░  5.97%
+Markdown      2h 2m 20s     ██░░░░░░░░░░░░░░░░░░░░░░░  4.96%
+Swift         1h 46m 10s    ██░░░░░░░░░░░░░░░░░░░░░░░  4.31%
+TypeScript    1h 11m 38s    █░░░░░░░░░░░░░░░░░░░░░░░░  2.91%
 
 💼 Projects:
-crush         13h 30m 8s    ███████░░░░░░░░░░░░░░░░░░  27.64%
-crushling     5h 11m 26s    ███░░░░░░░░░░░░░░░░░░░░░░  10.62%
-lune          5h 0m 56s     ███░░░░░░░░░░░░░░░░░░░░░░  10.27%
-kibli         4h 25m 58s    ███░░░░░░░░░░░░░░░░░░░░░░  9.07%
-cedarengine   4h 19m 32s    ███░░░░░░░░░░░░░░░░░░░░░░  8.85%
+crush         10h 58m 20s   ███████░░░░░░░░░░░░░░░░░░  25.95%
+crushling     5h 15m 54s    ████░░░░░░░░░░░░░░░░░░░░░  12.45%
+lune          5h 0m 56s     ███░░░░░░░░░░░░░░░░░░░░░░  11.86%
+kibli         4h 25m 58s    ███░░░░░░░░░░░░░░░░░░░░░░  10.49%
+cedarengine   4h 17m 28s    ███░░░░░░░░░░░░░░░░░░░░░░  10.15%
 
-Total: 36 hrs 32 mins
+Total: 31 hrs 46 mins
 ```
 
 #### 📮  Want to say hi?
