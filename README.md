@@ -4,14 +4,14 @@ When not doing school or working on a random project, I enjoy working on hardwar
 
 #### 🏗️  The latest repos I've pushed to
 
-- [`cedarengine`](https://github.com/taciturnaxolotl/cedarengine) - _data_ **(today)**
-- [`unowheel`](https://github.com/taciturnaxolotl/unowheel) - _onewheel ios app_ **(1 day ago)**
-- [`slackline`](https://github.com/taciturnaxolotl/slackline) - _slack api for gleam_ **(2 days ago)**
-- [`crush`](https://github.com/charmbracelet/crush) - _Glamourous agentic coding for all 💘_ **(2 days ago)**
-- [`crushling`](https://github.com/taciturnaxolotl/crushling) - _so cuuuuute 💖_ **(2 days ago)**
-- [`dots`](https://github.com/taciturnaxolotl/dots) - _Kieran's opinionated (and ever expanding) nix config_ **(3 days ago)**
-- [`indiko`](https://github.com/taciturnaxolotl/indiko) - _indieauth and oauth 2.0 compatible auth server for my homelab_ **(3 days ago)**
-- [`kibli`](https://github.com/taciturnaxolotl/kibli) - _arkit chess experiments_ **(3 days ago)**
+- [`crushling`](https://github.com/taciturnaxolotl/crushling) - _so cuuuuute 💖_ **(today)**
+- [`crush`](https://github.com/charmbracelet/crush) - _Glamourous agentic coding for all 💘_ **(1 day ago)**
+- [`fantasy`](https://github.com/charmbracelet/fantasy) - _Build AI agents with Go. Multiple providers, multiple models, one API. 🧙_ **(1 day ago)**
+- [`cedarengine`](https://github.com/taciturnaxolotl/cedarengine) - _data_ **(1 day ago)**
+- [`unowheel`](https://github.com/taciturnaxolotl/unowheel) - _onewheel ios app_ **(2 days ago)**
+- [`slackline`](https://github.com/taciturnaxolotl/slackline) - _slack api for gleam_ **(3 days ago)**
+- [`kibli`](https://github.com/taciturnaxolotl/kibli) - _arkit chess experiments_ **(4 days ago)**
+- [`holy-guacamole`](https://github.com/taciturnaxolotl/holy-guacamole) - _meltybrain avacado 🥑_ **(4 days ago)**
 
 #### 📦  My latest projects
 
@@ -30,20 +30,20 @@ When not doing school or working on a random project, I enjoy working on hardwar
 
 ```text
 💾 Languages:
-unknown       34h 8m 42s    ███████████████████░░░░░░  75.85%
-Go            2h 35m 7s     ██░░░░░░░░░░░░░░░░░░░░░░░  5.74%
-Markdown      2h 18m 48s    ██░░░░░░░░░░░░░░░░░░░░░░░  5.14%
-Swift         1h 46m 10s    █░░░░░░░░░░░░░░░░░░░░░░░░  3.93%
-TypeScript    1h 17m 38s    █░░░░░░░░░░░░░░░░░░░░░░░░  2.87%
+unknown       32h 55m 12s   ████████████████████░░░░░  76.43%
+Go            2h 42m 49s    ██░░░░░░░░░░░░░░░░░░░░░░░  6.30%
+Markdown      2h 6m 31s     ██░░░░░░░░░░░░░░░░░░░░░░░  4.90%
+TypeScript    1h 17m 38s    █░░░░░░░░░░░░░░░░░░░░░░░░  3.00%
+Gleam         1h 7m 57s     █░░░░░░░░░░░░░░░░░░░░░░░░  2.63%
 
 💼 Projects:
-crush         11h 42m 29s   ███████░░░░░░░░░░░░░░░░░░  25.46%
-crushling     6h 19m 49s    ████░░░░░░░░░░░░░░░░░░░░░  13.77%
-lune          5h 0m 56s     ███░░░░░░░░░░░░░░░░░░░░░░  10.91%
-cedarengine   4h 29m 7s     ███░░░░░░░░░░░░░░░░░░░░░░  9.75%
-kibli         4h 25m 58s    ███░░░░░░░░░░░░░░░░░░░░░░  9.64%
+crush         12h 28m 36s   ███████░░░░░░░░░░░░░░░░░░  27.85%
+crushling     9h 13m 56s    ██████░░░░░░░░░░░░░░░░░░░  20.61%
+kibli         4h 25m 58s    ███░░░░░░░░░░░░░░░░░░░░░░  9.89%
+cedarengine   4h 24m 27s    ███░░░░░░░░░░░░░░░░░░░░░░  9.84%
+slackline     1h 58m 8s     ██░░░░░░░░░░░░░░░░░░░░░░░  4.39%
 
-Total: 34 hrs 33 mins
+Total: 33 hrs 7 mins
 ```
 
 #### 📮  Want to say hi?
