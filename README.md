@@ -4,14 +4,14 @@ When not doing school or working on a random project, I enjoy working on hardwar
 
 #### 🏗️  The latest repos I've pushed to
 
+- [`slackline`](https://github.com/taciturnaxolotl/slackline) - _slack api for gleam_ **(today)**
 - [`crushling`](https://github.com/taciturnaxolotl/crushling) - _so cuuuuute 💖_ **(today)**
 - [`crush`](https://github.com/charmbracelet/crush) - _Glamourous agentic coding for all 💘_ **(1 day ago)**
 - [`fantasy`](https://github.com/charmbracelet/fantasy) - _Build AI agents with Go. Multiple providers, multiple models, one API. 🧙_ **(1 day ago)**
 - [`cedarengine`](https://github.com/taciturnaxolotl/cedarengine) - _data_ **(1 day ago)**
 - [`unowheel`](https://github.com/taciturnaxolotl/unowheel) - _onewheel ios app_ **(2 days ago)**
-- [`slackline`](https://github.com/taciturnaxolotl/slackline) - _slack api for gleam_ **(3 days ago)**
-- [`kibli`](https://github.com/taciturnaxolotl/kibli) - _arkit chess experiments_ **(4 days ago)**
 - [`holy-guacamole`](https://github.com/taciturnaxolotl/holy-guacamole) - _meltybrain avacado 🥑_ **(4 days ago)**
+- [`zera`](https://github.com/taciturnaxolotl/zera) - _my new site v4?_ **(4 days ago)**
 
 #### 📦  My latest projects
 
@@ -30,20 +30,20 @@ When not doing school or working on a random project, I enjoy working on hardwar
 
 ```text
 💾 Languages:
-unknown       32h 55m 12s   ████████████████████░░░░░  76.43%
-Go            2h 42m 49s    ██░░░░░░░░░░░░░░░░░░░░░░░  6.30%
-Markdown      2h 6m 31s     ██░░░░░░░░░░░░░░░░░░░░░░░  4.90%
-TypeScript    1h 17m 38s    █░░░░░░░░░░░░░░░░░░░░░░░░  3.00%
-Gleam         1h 7m 57s     █░░░░░░░░░░░░░░░░░░░░░░░░  2.63%
+unknown       34h 3m 34s    ████████████████████░░░░░  76.18%
+Go            2h 42m 49s    ██░░░░░░░░░░░░░░░░░░░░░░░  6.07%
+Markdown      2h 6m 31s     ██░░░░░░░░░░░░░░░░░░░░░░░  4.72%
+Gleam         1h 24m 42s    █░░░░░░░░░░░░░░░░░░░░░░░░  3.16%
+TypeScript    1h 17m 38s    █░░░░░░░░░░░░░░░░░░░░░░░░  2.89%
 
 💼 Projects:
-crush         12h 28m 36s   ███████░░░░░░░░░░░░░░░░░░  27.85%
-crushling     9h 13m 56s    ██████░░░░░░░░░░░░░░░░░░░  20.61%
-kibli         4h 25m 58s    ███░░░░░░░░░░░░░░░░░░░░░░  9.89%
-cedarengine   4h 24m 27s    ███░░░░░░░░░░░░░░░░░░░░░░  9.84%
-slackline     1h 58m 8s     ██░░░░░░░░░░░░░░░░░░░░░░░  4.39%
+crush         12h 36m 27s   ███████░░░░░░░░░░░░░░░░░░  27.18%
+crushling     10h 0m 42s    ██████░░░░░░░░░░░░░░░░░░░  21.59%
+kibli         4h 25m 58s    ███░░░░░░░░░░░░░░░░░░░░░░  9.56%
+cedarengine   4h 24m 27s    ███░░░░░░░░░░░░░░░░░░░░░░  9.50%
+slackline     2h 32m 3s     ██░░░░░░░░░░░░░░░░░░░░░░░  5.46%
 
-Total: 33 hrs 7 mins
+Total: 34 hrs 16 mins
 ```
 
 #### 📮  Want to say hi?
