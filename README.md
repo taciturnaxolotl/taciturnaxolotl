@@ -4,14 +4,14 @@ When not doing school or working on a random project, I enjoy working on hardwar
 
 #### 🏗️  The latest repos I've pushed to
 
-- [`dots`](https://github.com/taciturnaxolotl/dots) - _Kieran's opinionated (and ever expanding) nix config_ **(today)**
-- [`slackline`](https://github.com/taciturnaxolotl/slackline) - _slack api for gleam_ **(today)**
-- [`crushling`](https://github.com/taciturnaxolotl/crushling) - _so cuuuuute 💖_ **(1 day ago)**
-- [`crush`](https://github.com/charmbracelet/crush) - _Glamourous agentic coding for all 💘_ **(2 days ago)**
-- [`fantasy`](https://github.com/charmbracelet/fantasy) - _Build AI agents with Go. Multiple providers, multiple models, one API. 🧙_ **(2 days ago)**
-- [`cedarengine`](https://github.com/taciturnaxolotl/cedarengine) - _data_ **(2 days ago)**
-- [`unowheel`](https://github.com/taciturnaxolotl/unowheel) - _onewheel ios app_ **(3 days ago)**
-- [`zera`](https://github.com/taciturnaxolotl/zera) - _my new site v4?_ **(5 days ago)**
+- [`dots`](https://github.com/taciturnaxolotl/dots) - _Kieran's opinionated (and ever expanding) nix config_ **(1 day ago)**
+- [`slackline`](https://github.com/taciturnaxolotl/slackline) - _slack api for gleam_ **(1 day ago)**
+- [`crushling`](https://github.com/taciturnaxolotl/crushling) - _so cuuuuute 💖_ **(2 days ago)**
+- [`crush`](https://github.com/charmbracelet/crush) - _Glamourous agentic coding for all 💘_ **(3 days ago)**
+- [`fantasy`](https://github.com/charmbracelet/fantasy) - _Build AI agents with Go. Multiple providers, multiple models, one API. 🧙_ **(3 days ago)**
+- [`cedarengine`](https://github.com/taciturnaxolotl/cedarengine) - _data_ **(3 days ago)**
+- [`unowheel`](https://github.com/taciturnaxolotl/unowheel) - _onewheel ios app_ **(4 days ago)**
+- [`zera`](https://github.com/taciturnaxolotl/zera) - _my new site v4?_ **(6 days ago)**
 
 #### 📦  My latest projects
 
@@ -30,20 +30,20 @@ When not doing school or working on a random project, I enjoy working on hardwar
 
 ```text
 💾 Languages:
-unknown      33h 1m 15s    ████████████████████░░░░░  78.70%
-Go           2h 35m 4s     ██░░░░░░░░░░░░░░░░░░░░░░░  6.16%
-Markdown     1h 47m 54s    ██░░░░░░░░░░░░░░░░░░░░░░░  4.29%
-Gleam        1h 26m 58s    █░░░░░░░░░░░░░░░░░░░░░░░░  3.45%
-TypeScript   36m 29s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.45%
+unknown      35h 7m 20s    ████████████████████░░░░░  79.11%
+Go           2h 49m 19s    ██░░░░░░░░░░░░░░░░░░░░░░░  6.36%
+Markdown     1h 51m 54s    ██░░░░░░░░░░░░░░░░░░░░░░░  4.20%
+Gleam        1h 26m 58s    █░░░░░░░░░░░░░░░░░░░░░░░░  3.26%
+TypeScript   36m 29s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.37%
 
 💼 Projects:
-crush        13h 6m 48s    ████████░░░░░░░░░░░░░░░░░  31.42%
-crushling    10h 59m 36s   ███████░░░░░░░░░░░░░░░░░░  26.34%
-kibli        4h 25m 58s    ███░░░░░░░░░░░░░░░░░░░░░░  10.62%
-slackline    2h 47m 39s    ██░░░░░░░░░░░░░░░░░░░░░░░  6.70%
-dots         2h 13m 47s    ██░░░░░░░░░░░░░░░░░░░░░░░  5.34%
+crush        14h 51m 29s   █████████░░░░░░░░░░░░░░░░  33.72%
+crushling    11h 32m 43s   ███████░░░░░░░░░░░░░░░░░░  26.20%
+kibli        4h 25m 58s    ███░░░░░░░░░░░░░░░░░░░░░░  10.06%
+slackline    2h 47m 39s    ██░░░░░░░░░░░░░░░░░░░░░░░  6.34%
+dots         2h 13m 47s    ██░░░░░░░░░░░░░░░░░░░░░░░  5.06%
 
-Total: 33 hrs 14 mins
+Total: 35 hrs 20 mins
 ```
 
 #### 📮  Want to say hi?
