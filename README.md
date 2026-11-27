@@ -4,14 +4,14 @@ When not doing school or working on a random project, I enjoy working on hardwar
 
 #### 🏗️  The latest repos I've pushed to
 
+- [`holy-guacamole`](https://github.com/taciturnaxolotl/holy-guacamole) - _meltybrain avacado 🥑_ **(1 day ago)**
+- [`crush`](https://github.com/charmbracelet/crush) - _Glamourous agentic coding for all 💘_ **(1 day ago)**
 - [`dots`](https://github.com/taciturnaxolotl/dots) - _Kieran's opinionated (and ever expanding) nix config_ **(1 day ago)**
-- [`slackline`](https://github.com/taciturnaxolotl/slackline) - _slack api for gleam_ **(1 day ago)**
-- [`crushling`](https://github.com/taciturnaxolotl/crushling) - _so cuuuuute 💖_ **(2 days ago)**
-- [`crush`](https://github.com/charmbracelet/crush) - _Glamourous agentic coding for all 💘_ **(3 days ago)**
-- [`fantasy`](https://github.com/charmbracelet/fantasy) - _Build AI agents with Go. Multiple providers, multiple models, one API. 🧙_ **(3 days ago)**
-- [`cedarengine`](https://github.com/taciturnaxolotl/cedarengine) - _data_ **(3 days ago)**
-- [`unowheel`](https://github.com/taciturnaxolotl/unowheel) - _onewheel ios app_ **(4 days ago)**
-- [`zera`](https://github.com/taciturnaxolotl/zera) - _my new site v4?_ **(6 days ago)**
+- [`status`](https://github.com/taciturnaxolotl/status) - _my own status page_ **(1 day ago)**
+- [`crushling`](https://github.com/taciturnaxolotl/crushling) - _so cuuuuute 💖_ **(1 day ago)**
+- [`slackline`](https://github.com/taciturnaxolotl/slackline) - _slack api for gleam_ **(2 days ago)**
+- [`fantasy`](https://github.com/charmbracelet/fantasy) - _Build AI agents with Go. Multiple providers, multiple models, one API. 🧙_ **(4 days ago)**
+- [`cedarengine`](https://github.com/taciturnaxolotl/cedarengine) - _data_ **(4 days ago)**
 
 #### 📦  My latest projects
 
@@ -30,20 +30,20 @@ When not doing school or working on a random project, I enjoy working on hardwar
 
 ```text
 💾 Languages:
-unknown     33h 43m 56s   █████████████████████░░░░  80.51%
-Go          2h 16m 34s    ██░░░░░░░░░░░░░░░░░░░░░░░  5.43%
-Markdown    1h 51m 54s    ██░░░░░░░░░░░░░░░░░░░░░░░  4.45%
-Gleam       1h 26m 58s    █░░░░░░░░░░░░░░░░░░░░░░░░  3.46%
-Nix         33m 21s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.33%
+unknown     33h 9m 35s    ████████████████████░░░░░  78.83%
+Go          2h 52m 2s     ██░░░░░░░░░░░░░░░░░░░░░░░  6.82%
+Markdown    1h 59m 34s    ██░░░░░░░░░░░░░░░░░░░░░░░  4.74%
+Gleam       1h 26m 58s    █░░░░░░░░░░░░░░░░░░░░░░░░  3.45%
+Nix         55m 2s        █░░░░░░░░░░░░░░░░░░░░░░░░  2.18%
 
 💼 Projects:
-crush       14h 30m 31s   █████████░░░░░░░░░░░░░░░░  34.02%
-crushling   11h 34m 57s   ███████░░░░░░░░░░░░░░░░░░  27.16%
-kibli       4h 25m 58s    ███░░░░░░░░░░░░░░░░░░░░░░  10.39%
-slackline   2h 49m 39s    ██░░░░░░░░░░░░░░░░░░░░░░░  6.63%
-dots        2h 13m 47s    ██░░░░░░░░░░░░░░░░░░░░░░░  5.23%
+crush       14h 59m 26s   █████████░░░░░░░░░░░░░░░░  34.99%
+crushling   12h 13m 40s   ████████░░░░░░░░░░░░░░░░░  28.54%
+dots        4h 32m 19s    ███░░░░░░░░░░░░░░░░░░░░░░  10.59%
+slackline   2h 54m 2s     ██░░░░░░░░░░░░░░░░░░░░░░░  6.77%
+kibli       2h 34m 20s    ██░░░░░░░░░░░░░░░░░░░░░░░  6.00%
 
-Total: 33 hrs 48 mins
+Total: 33 hrs 12 mins
 ```
 
 #### 📮  Want to say hi?
